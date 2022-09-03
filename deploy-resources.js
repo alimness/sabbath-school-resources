@@ -367,8 +367,9 @@ let deployDocuments = function (resourceType) {
                         const documentInfoFrontMatter = frontMatter(documentInfo)
                         documentData = { ...documentInfoFrontMatter.attributes}
 
-                        let documentDataBlocks = {...documentData, blocks: parseDocument(documentInfoFrontMatter.body)}
+                        let documentDataBlocks = {...documentData, blocks: parseDocument(documentInfoFrontMatter.body, resourcePath)}
 
+                        // Getting thumbnail
                         let image = documentDataBlocks.blocks.find(b => b.type === "image")
                         if (image && image.src) {
                             documentData.image = image.src
@@ -430,7 +431,7 @@ let processReference = function (block) {
     }
 }
 
-let parseBlock = function (block) {
+let parseBlock = function (block, resourcePath) {
     // console.log(JSON.stringify(block, null, 2))
     let blockReturn = {}
     let sspmOptionsRegex = /({\s*"?sspm"?\s*:.*})/g
@@ -495,6 +496,30 @@ let parseBlock = function (block) {
             return { type: block.type, src: block.target, title: block.title, subtitle: block.subtitle, ...blockReturn }
         }
         case "image": {
+            if (!/^http/.test(block.src.trim())) {
+                let prefixes = [
+                    `/${resourcePath.name}/`,
+                    `/${resourcePath.name}/assets/`,
+                    `/${resourcePath.name}/assets/img/`,
+                    `/assets/`,
+                    `/assets/img/`,
+                ]
+
+                let found = false
+
+                for (let prefix of prefixes) {
+                    if (fs.pathExistsSync(`./src/${resourcePath.language}/${resourcePath.type}${prefix}${block.src}`)) {
+                        block.src = `${API_URL}${API_PREFIX}${resourcePath.language}/${resourcePath.type}${prefix}${block.src}`
+                        found = true
+                        break
+                    }
+                }
+
+                if (!found) {
+                    return null
+                }
+            }
+
             return { type: block.type, src: block.src, caption: block.caption, ...blockReturn }
         }
         case "question": {
@@ -607,7 +632,7 @@ let parseBlock = function (block) {
     }
 }
 
-let parseDocument = function (document) {
+let parseDocument = function (document, resourcePath) {
     const blocks = marked.lexer(document);
     // console.log(JSON.stringify(blocks, null, 2))
     let blocksData = []
@@ -615,7 +640,7 @@ let parseDocument = function (document) {
     for (let block of blocks) {
         if (block.type === "space") continue
 
-        let blockData = parseBlock(block)
+        let blockData = parseBlock(block, resourcePath)
 
         if (blockData) {
             blocksData.push(blockData)
