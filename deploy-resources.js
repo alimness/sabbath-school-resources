@@ -20,7 +20,7 @@ const bibleSearchBCV = require('adventech-bible-tools/bible_tools_bcv');
 // consts
 
 const DIST_DIR = "./dist"
-const API_PREFIX = "/api/v2/resources"
+const API_PREFIX = "/api/v2/"
 const API_DIST = `${DIST_DIR}/${API_PREFIX}`
 const API_URL = `https://sabbath-school${argv.e === 'prod' ? '' : '-stage' }.adventech.io`
 
@@ -196,7 +196,7 @@ let deployLanguages = function () {
         }
     }
 
-    fs.outputFileSync(`${API_DIST}/languages/index.json`, JSON.stringify(languagesInfo))
+    fs.outputFileSync(`${API_DIST}/resources/index.json`, JSON.stringify(languagesInfo))
 }
 
 let deployResources = function (resourceType) {
