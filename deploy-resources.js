@@ -173,7 +173,6 @@ let deployAssets = function (resourceType) {
         .sync();
 
     for (let asset of assets) {
-        console.log(asset)
         fs.copySync(`${asset}`, `${asset.replace(/^\.\/src\//g, `${API_DIST}/`)}`)
     }
 }
