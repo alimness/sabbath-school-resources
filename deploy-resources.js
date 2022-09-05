@@ -224,6 +224,7 @@ let deployResources = function (resourceType) {
             resourceInfo.id = resourcePath.name
             resourceInfo.type = "resource"
             resourceInfo.view = resourceInfo.view ?? "splash"
+            resourceInfo.credits = resourceInfo.credits ?? []
 
             // resourceInfo.kind = resourceInfo.kind ?? "book"
             resourceInfo.backgroundColor = resourceInfo.backgroundColor ?? "#7e7e7e"
