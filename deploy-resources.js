@@ -211,23 +211,21 @@ let deployResources = function (resourceType) {
             const resourceInfo = yaml.load(fs.readFileSync(`./src/${resource}`, 'utf8'));
             const resourcePath = parseResourcePath(resource)
 
-            if (!fs.pathExistsSync(`./src/${resourcePath.language}/${resourceType}/${resourcePath.name}/cover.png`)) {
-                continue
-            }
-
             deployResourceAssets(`./src/${resourcePath.language}/${resourceType}/${resourcePath.name}`, `${API_DIST}/${resourcePath.language}/${resourceType}/${resourcePath.name}`)
 
-            resourceInfo.cover = `${API_URL}${API_PREFIX}/${resourcePath.language}/${resourceType}/${resourcePath.name}/assets/img/cover.png`
+            if (fs.pathExistsSync(`./src/${resourcePath.language}/${resourceType}/${resourcePath.name}/cover.png`)) {
+                resourceInfo.cover = `${API_URL}${API_PREFIX}${resourcePath.language}/${resourceType}/${resourcePath.name}/assets/img/cover.png`
+            }
 
             if (fs.pathExistsSync(`./src/${resourcePath.language}/${resourceType}/${resourcePath.name}/splash.png`)) {
-                resourceInfo.splash = `${API_URL}${API_PREFIX}/${resourcePath.language}/${resourceType}/${resourcePath.name}/assets/img/splash.png`
+                resourceInfo.splash = `${API_URL}${API_PREFIX}${resourcePath.language}/${resourceType}/${resourcePath.name}/assets/img/splash.png`
             }
 
             resourceInfo.id = resourcePath.name
             resourceInfo.type = "resource"
             resourceInfo.view = resourceInfo.view ?? "splash"
 
-            resourceInfo.kind = resourceInfo.kind ?? "book"
+            // resourceInfo.kind = resourceInfo.kind ?? "book"
             resourceInfo.backgroundColor = resourceInfo.backgroundColor ?? "#7e7e7e"
             resourceInfo.textColor = resourceInfo.textColor ?? "#ffffff"
 
@@ -267,7 +265,7 @@ let deployResources = function (resourceType) {
                         view: orderItem.view || "splash"}
 
                     if (orderItem.cover && fs.pathExistsSync(`./src/${language}/${resourceType}/${orderItem.cover}`)) {
-                        groupedResources.cover = `${API_URL}${API_PREFIX}/${language}/${resourceType}/${orderItem.cover}`
+                        groupedResources.cover = `${API_URL}${API_PREFIX}${language}/${resourceType}/${orderItem.cover}`
                     }
 
                     for (let groupItem of orderItem.resources) {
@@ -294,7 +292,9 @@ let deployResources = function (resourceType) {
 
 let deployResourceAssets = function (resource, outputPath) {
     try {
-        fs.copySync(`${resource}/cover.png`, `${outputPath}/assets/img/cover.png`)
+        if (fs.pathExistsSync(`${resource}/cover.png`)) {
+            fs.copySync(`${resource}/cover.png`, `${outputPath}/assets/img/cover.png`)
+        }
 
         if (fs.pathExistsSync(`${resource}/splash.png`)) {
             fs.copySync(`${resource}/splash.png`, `${outputPath}/assets/img/splash.png`)
