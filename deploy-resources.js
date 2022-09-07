@@ -227,7 +227,8 @@ let deployResources = function (resourceType) {
             resourceInfo.credits = resourceInfo.credits ?? []
 
             // resourceInfo.kind = resourceInfo.kind ?? "book"
-            resourceInfo.backgroundColor = resourceInfo.backgroundColor ?? "#7e7e7e"
+            resourceInfo.primaryColor = resourceInfo.primaryColor ?? "#d8d8d8"
+            resourceInfo.primaryColorDark = resourceInfo.primaryColorDark ?? "#949494"
             resourceInfo.textColor = resourceInfo.textColor ?? "#ffffff"
 
             if (!allResources[resourcePath.language]) {
@@ -653,6 +654,6 @@ let parseDocument = function (document, resourcePath) {
 deployAssets()
 deployLanguages()
 deployResources("pm")
-deployResources("devo")
+deployResources("study")
 deployDocuments("pm")
-deployDocuments("devo")
+deployDocuments("study")

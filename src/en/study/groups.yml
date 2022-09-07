@@ -1,6 +1,6 @@
 ---
   - group: Revival and Reformation
-    view: list
+    view: splash
     cover: assets/img/rr-cover.png
     resources:
       - bhp-bible-2022
