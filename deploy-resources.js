@@ -16,6 +16,7 @@ const path = require('path')
 const frontMatter = require('front-matter')
 const marked = require('marked')
 const bibleSearchBCV = require('adventech-bible-tools/bible_tools_bcv');
+const jsonSchemaValidate = require('jsonschema').validate;
 
 // consts
 
@@ -101,14 +102,14 @@ const sspmImage = {
     name: 'image',
     level: 'block',
     tokenizer(src, tokens) {
-        const rule = /^!?\[([^\[\]]+)\]\(?([^\[\]\)]+)?\)?/
+        const rule = /^({\s*"?sspmStyle"?\s*:.*})?\s*!\[([^\[\]]+)\]\(?([^\[\]\)]+)?\)?/
         const match = rule.exec(src);
         if (match) {
             return {
                 type: 'image',
                 raw: match[0],
-                src: match[1],
-                caption: match[2] || null,
+                src: match[3] ? match[3] : match[2],
+                caption: match[3] ? match[2]: match[1] || null,
             }
         }
     },
@@ -116,6 +117,17 @@ const sspmImage = {
     renderer(token) {
         // TODO: for web rendering
         return `TODO: image`;
+    }
+}
+const styleSchema = {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+        "rounded": {"type": "boolean"},
+        "expandable": {"type": "boolean"},
+        "position": {"type": "string", "enum": ["start", "center", "end"]},
+        "size": {"type": "string", "enum": ["small", "medium", "large"]},
+        "fullBleed": {"type": "boolean"},
     }
 }
 
@@ -129,6 +141,8 @@ marked.use({
         sspmCommonExtension('video'),
     ]
 });
+
+let languageInfoGlobal = {}
 
 let parseResourcePath = function (resourcePath) {
     if (/^\.\/src\//.test(resourcePath)) {
@@ -190,6 +204,12 @@ let deployLanguages = function () {
     for (let language of languages) {
         try {
             const languageInfo = yaml.load(fs.readFileSync(`./src/${language}`, 'utf8'));
+            languageInfoGlobal[languageInfo.code] = JSON.parse(JSON.stringify(languageInfo))
+
+            languageInfo['pm'] = fs.pathExistsSync(`./src/${languageInfo.code}/pm`)
+            languageInfo['study'] = fs.pathExistsSync(`./src/${languageInfo.code}/study`)
+
+            delete languageInfo.bible
             languagesInfo.push(languageInfo)
         } catch (e) {
             console.error(e);
@@ -217,16 +237,21 @@ let deployResources = function (resourceType) {
                 resourceInfo.cover = `${API_URL}${API_PREFIX}${resourcePath.language}/${resourceType}/${resourcePath.name}/assets/img/cover.png`
             }
 
+            if (fs.pathExistsSync(`./src/${resourcePath.language}/${resourceType}/${resourcePath.name}/tile.png`)) {
+                resourceInfo.tile = `${API_URL}${API_PREFIX}${resourcePath.language}/${resourceType}/${resourcePath.name}/assets/img/tile.png`
+            }
+
             if (fs.pathExistsSync(`./src/${resourcePath.language}/${resourceType}/${resourcePath.name}/splash.png`)) {
                 resourceInfo.splash = `${API_URL}${API_PREFIX}${resourcePath.language}/${resourceType}/${resourcePath.name}/assets/img/splash.png`
             }
 
             resourceInfo.id = resourcePath.name
+            resourceInfo.index = `${resourcePath.language}/${resourceType}/${resourcePath.name}`
             resourceInfo.type = "resource"
-            resourceInfo.view = resourceInfo.view ?? "splash"
+            resourceInfo.view = resourceInfo.view ?? "tile"
             resourceInfo.credits = resourceInfo.credits ?? []
 
-            // resourceInfo.kind = resourceInfo.kind ?? "book"
+            resourceInfo.kind = resourceInfo.kind ?? "book"
             resourceInfo.primaryColor = resourceInfo.primaryColor ?? "#d8d8d8"
             resourceInfo.primaryColorDark = resourceInfo.primaryColorDark ?? "#949494"
             resourceInfo.textColor = resourceInfo.textColor ?? "#ffffff"
@@ -254,7 +279,10 @@ let deployResources = function (resourceType) {
                 if (!orderItem.group) {
                     const r = allResources[language].find(r => r.id === orderItem)
                     if (r) {
-                        resourcesOutput.push(r)
+                        resourcesOutput.push({
+                            type: "resource",
+                            object: r
+                        })
                         allIds.push(r.id)
                     }
                 } else {
@@ -262,28 +290,39 @@ let deployResources = function (resourceType) {
 
                     let groupedResources = {
                         type: "group",
-                        title: orderItem.group,
-                        resources: [],
-                        view: orderItem.view || "splash"}
+                        object: {
+                            title: orderItem.group,
+                            resources: [],
+                            view: orderItem.view || "tile"
+                        }
+                    }
 
                     if (orderItem.cover && fs.pathExistsSync(`./src/${language}/${resourceType}/${orderItem.cover}`)) {
-                        groupedResources.cover = `${API_URL}${API_PREFIX}${language}/${resourceType}/${orderItem.cover}`
+                        groupedResources.object.cover = `${API_URL}${API_PREFIX}${language}/${resourceType}/${orderItem.cover}`
                     }
 
                     for (let groupItem of orderItem.resources) {
                         const r = allResources[language].find(r => r.id === groupItem)
                         if (r) {
-                            groupedResources.resources.push(r)
+                            groupedResources.object.resources.push(r)
                             allIds.push(r.id)
                         }
                     }
-                    if (groupedResources.resources.length) {
+                    if (groupedResources.object.resources.length) {
                         resourcesOutput.push(groupedResources)
                     }
                 }
             }
             let rest = allResources[language].filter(r => !allIds.includes(r.id))
-            resourcesOutput = resourcesOutput.concat(rest)
+
+            for (let resource of rest) {
+                resourcesOutput.push({
+                    type: "resource",
+                    object: resource
+                })
+            }
+
+            // resourcesOutput = resourcesOutput.concat(rest)
         } else {
             resourcesOutput = allResources[language]
         }
@@ -296,6 +335,10 @@ let deployResourceAssets = function (resource, outputPath) {
     try {
         if (fs.pathExistsSync(`${resource}/cover.png`)) {
             fs.copySync(`${resource}/cover.png`, `${outputPath}/assets/img/cover.png`)
+        }
+
+        if (fs.pathExistsSync(`${resource}/tile.png`)) {
+            fs.copySync(`${resource}/tile.png`, `${outputPath}/assets/img/tile.png`)
         }
 
         if (fs.pathExistsSync(`${resource}/splash.png`)) {
@@ -337,14 +380,14 @@ let deployDocuments = function (resourceType) {
                 const sectionPath = parseResourcePath(`${section}`)
 
                 let sectionData = {
-                    "id": sectionPath.section || "root",
+                    "id": sectionPath.section || "00-root",
                     "title": null,
                     "documents": [],
                 }
 
-                if (sectionData.id !== "root") {
+                if (fs.pathExistsSync(`${section}info.yml`, 'utf8')) {
                     try {
-                        const sectionInfo = yaml.load(fs.readFileSync(`${section}/info.yml`, 'utf8'));
+                        const sectionInfo = yaml.load(fs.readFileSync(`${section}info.yml`, 'utf8'));
                         sectionData.title = sectionInfo.title
                     } catch (e) {
                         console.error(e);
@@ -361,21 +404,30 @@ let deployDocuments = function (resourceType) {
                 for (let document of documents) {
                     const documentPath = parseResourcePath(`${section}${document}`)
                     let documentData = {
-                        "id": documentPath.document
+                        "index": `${documentPath.language}/${documentPath.type}/${documentPath.name}/content/${sectionPath.section ? sectionPath.section + "/" : ""}${documentPath.document}`
                     }
 
                     try {
                         const documentInfo = fs.readFileSync(`${section}/${document}`, 'utf8');
                         const documentInfoFrontMatter = frontMatter(documentInfo)
-                        documentData = { ...documentInfoFrontMatter.attributes}
+                        documentData = { ...documentData, ...documentInfoFrontMatter.attributes}
+
+                        if (documentData.image) {
+                            let imageValid = isImageValid(documentData.image, documentPath)
+                            if (!imageValid.valid) {
+                                delete documentData.image
+                            } else {
+                                documentData.image = imageValid.src
+                            }
+                        }
 
                         let documentDataBlocks = {...documentData, blocks: parseDocument(documentInfoFrontMatter.body, resourcePath)}
 
                         // Getting thumbnail
                         let image = documentDataBlocks.blocks.find(b => b.type === "image")
                         if (image && image.src) {
-                            documentData.image = image.src
-                            documentDataBlocks.image = image.src
+                            documentData.thumbnail = image.src
+                            documentDataBlocks.thumbnail = image.src
                         }
 
                         fs.outputFileSync(`${API_DIST}/${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/content/${sectionPath.section ?? ""}/${document.replace(/\.md$/, '')}/index.json`, JSON.stringify(documentDataBlocks))
@@ -384,24 +436,87 @@ let deployDocuments = function (resourceType) {
                         console.error(e);
                     }
 
-                    sectionData.documents.push(documentData)
+                    if (!sectionData.title) {
+                        sectionData = JSON.parse(JSON.stringify({
+                            "id": documentPath.document,
+                            "title": null,
+                            "documents": [],
+                        }))
+
+                        sectionData.documents.push(documentData)
+                        sectionsData.push(sectionData)
+                    } else {
+                        sectionData.documents.push(documentData)
+                    }
                 }
 
-                sectionsData.push(sectionData)
+                if (sectionData.title && sectionData.documents.length) {
+                    sectionsData.push(sectionData)
+                }
             }
 
-            fs.outputFileSync(`${API_DIST}/${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/sections/index.json`, JSON.stringify(sectionsData))
+            if (fs.pathExistsSync(`${API_DIST}/${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/index.json`)) {
+                let resourceJSON = JSON.parse(fs.readFileSync(`${API_DIST}/${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/index.json`, 'utf-8'))
+
+                sectionsData = sectionsData.sort(function(sectionA, sectionB) {
+                    if (sectionA.id < sectionB.id ){
+                        return -1
+                    }
+                    if (sectionA.id > sectionB.id ){
+                        return 1
+                    }
+                    return 0
+                })
+
+                resourceJSON["sections"] = sectionsData
+
+                fs.outputFileSync(`${API_DIST}/${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/sections/index.json`, JSON.stringify(resourceJSON))
+            }
         } catch (e) {
             console.error(e);
         }
     }
 }
 
+let isImageValid = function (inputSrc, resourcePath) {
+    let valid = true
+    let src = inputSrc
+
+    if (!/^http/.test(src.trim())) {
+        valid = false
+        let prefixes = [
+            `/${resourcePath.name}/`,
+            `/${resourcePath.name}/assets/`,
+            `/${resourcePath.name}/assets/img/`,
+            `/assets/`,
+            `/assets/img/`,
+        ]
+        for (let prefix of prefixes) {
+            if (fs.pathExistsSync(`./src/${resourcePath.language}/${resourcePath.type}${prefix}${src}`)) {
+                src = `${API_URL}${API_PREFIX}${resourcePath.language}/${resourcePath.type}${prefix}${src}`
+                valid = true
+                break
+            }
+        }
+    }
+
+    return { valid, src }
+}
+
 let processReference = function (block) {
     let referenceTargetPath = parseResourcePath(block.target)
+
     let reference = { "scope": "resource" }
+
     if (!referenceTargetPath.language || !referenceTargetPath.type || !referenceTargetPath.name) {
         return false
+    }
+
+    if (referenceTargetPath.section && !referenceTargetPath.document) {
+        if (fs.pathExistsSync(`./src/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.name}/content/${referenceTargetPath.section}.md`)) {
+            referenceTargetPath.document = referenceTargetPath.section
+            referenceTargetPath.section = null
+        }
     }
 
     if (referenceTargetPath.document) {
@@ -428,15 +543,15 @@ let processReference = function (block) {
 
         return reference
     } catch (e) {
-        console.log(e)
         return null
     }
 }
 
 let parseBlock = function (block, resourcePath) {
     // console.log(JSON.stringify(block, null, 2))
+
     let blockReturn = {}
-    let sspmOptionsRegex = /({\s*"?sspm"?\s*:.*})/g
+    let sspmOptionsRegex = /({\s*"?sspmStyle"?\s*:.*})/g
     let sspmOptionsMatch = block.raw.match(sspmOptionsRegex)
 
     let sspmSuperscript = /(~|<sup>)(\d*)(~|<\/sup>)/img
@@ -461,8 +576,14 @@ let parseBlock = function (block, resourcePath) {
     if (sspmOptionsMatch && sspmOptionsMatch[0]) {
         try {
             let sspmOptions = JSON.parse(sspmOptionsMatch[0])
-            blockReturn.data = {...sspmOptions.sspm}
-            block.text = block.text.replace(sspmOptionsRegex, '').trim()
+            let validateResult = jsonSchemaValidate(sspmOptions.sspmStyle, styleSchema)
+            if (validateResult.errors.length < 1) {
+                blockReturn.style = {...sspmOptions.sspmStyle}
+
+                let replacer = block.type === "image" ? block.raw : block.text
+
+                block.text = replacer.replace(sspmOptionsRegex, '').trim()
+            }
         } catch (e) {
             console.error(e)
         }
@@ -489,84 +610,98 @@ let parseBlock = function (block, resourcePath) {
                 blockquote.citation = true
             }
 
-            return {...blockquote, items: parseDocument(block.text), ...blockReturn }
+            return { type: block.type, object: { ...blockquote, items: parseDocument(block.text, resourcePath), ...blockReturn } }
         }
         case "audio": {
-            return { type: block.type, src: block.target, title: block.title, subtitle: block.subtitle, ...blockReturn }
+            return { type: block.type, object: { src: block.target, title: block.title, subtitle: block.subtitle, ...blockReturn } }
         }
         case "video": {
-            return { type: block.type, src: block.target, title: block.title, subtitle: block.subtitle, ...blockReturn }
+            return { type: block.type, object: { src: block.target, title: block.title, subtitle: block.subtitle, ...blockReturn } }
         }
         case "image": {
-            if (!/^http/.test(block.src.trim())) {
-                let prefixes = [
-                    `/${resourcePath.name}/`,
-                    `/${resourcePath.name}/assets/`,
-                    `/${resourcePath.name}/assets/img/`,
-                    `/assets/`,
-                    `/assets/img/`,
-                ]
-
-                let found = false
-
-                for (let prefix of prefixes) {
-                    if (fs.pathExistsSync(`./src/${resourcePath.language}/${resourcePath.type}${prefix}${block.src}`)) {
-                        block.src = `${API_URL}${API_PREFIX}${resourcePath.language}/${resourcePath.type}${prefix}${block.src}`
-                        found = true
-                        break
-                    }
-                }
-
-                if (!found) {
-                    return null
-                }
+            let imageValid = isImageValid(block.src, resourcePath)
+            if (imageValid.valid) {
+                block.src = imageValid.src
             }
-
-            return { type: block.type, src: block.src, caption: block.caption, ...blockReturn }
+            return { type: block.type, object: { src: block.src, caption: block.caption, ...blockReturn } }
         }
         case "question": {
-            return { type: block.type, markdown: block.text, ...blockReturn }
+            return { type: block.type, object: { markdown: block.text, ...blockReturn } }
         }
         case "collapse": {
-            return { type: block.type, caption: block.caption, items: parseDocument(block.text), ...blockReturn }
+            return { type: block.type, object: { caption: block.caption, items: parseDocument(block.text, resourcePath), ...blockReturn } }
         }
         case "hr": {
-            return { type: block.type, ...blockReturn }
+            return { type: block.type, object: { ...blockReturn } }
         }
         case "reference": {
             let processedReference = processReference(block)
             if (!processedReference) return null
 
-            return { type: block.type, target: block.target, title: block.title, subtitle: block.subtitle, ...blockReturn, ...processedReference}
+            return { type: block.type, object: { target: block.target, title: block.title, subtitle: block.subtitle, ...blockReturn, ...processedReference} }
         }
         case "paragraph": {
             let text = block.text
-            let bibleSearchResult
-            try {
-                bibleSearchResult = bibleSearchBCV.search("en", "nkjv", text, true)
-                text = bibleSearchResult.output
-            } catch (e) {
-                console.error(e)
-            }
+            let bibleData = []
 
-            return { type: block.type, markdown: text.trim(), ...blockReturn }
+            let bibleVersionsArray = languageInfoGlobal[resourcePath.language] ? languageInfoGlobal[resourcePath.language].bible : null
+
+            for (let bibleVersion of bibleVersionsArray) {
+                let bibleCopyright = null
+                let bibleVersionName = bibleVersion
+
+                if (bibleVersion.name) {
+                    bibleCopyright = bibleVersion.copyright;
+                    bibleVersionName = bibleVersion.name;
+                }
+
+                let bibleSearchResult
+
+                try {
+                    bibleSearchResult = bibleSearchBCV.search(resourcePath.language, bibleVersionName, text, true)
+                    if (!bibleData.length) {
+                        text = bibleSearchResult.output
+                    }
+                } catch (e) {
+                    bibleSearchResult = null
+                }
+
+                if (!bibleSearchResult) continue;
+
+                if (bibleSearchResult.verses.length) {
+                    let newBibleData = {}
+                    newBibleData["name"] = bibleVersionName.toUpperCase()
+                    newBibleData["verses"] = bibleSearchResult.verses.reduce(function (result, item) {
+                        let key = Object.keys(item)[0];
+                        result[key] = item[key];
+                        return result;
+                    }, {});
+                    bibleData.push(newBibleData)
+                }
+
+            }
+            let r =  { type: block.type, object: { markdown: text.trim(), ...blockReturn } }
+            if (bibleData.length) {
+                r["object"]["data"] = { bible: bibleData }
+            }
+            return r
         }
         case "heading": {
-            return { type: block.type, markdown: block.text.trim(), depth: block.depth, ...blockReturn }
+            return { type: block.type, object: { markdown: block.text.trim(), depth: block.depth, ...blockReturn } }
         }
         case "list": {
-            let blockData = { type: block.type, items: [], ordered: block.ordered, start: block.start || 0 }
+            let blockData = { type: block.type, object: { items: [], ordered: block.ordered, start: block.start || 0 } }
 
             for (let listItem of block.items) {
                 for (let token of listItem.tokens) {
                     if (token.type === "text") {
-                        blockData.items.push({
+                        blockData.object.items.push({
                             "type": "list-item",
                             "markdown": token.text.trim()
                         })
                     } else {
-                        blockData.items.push(
-                            parseBlock(token)
+                        blockData.object.items.push(
+                            parseBlock(token, resourcePath)
                         )
                     }
                 }
@@ -574,7 +709,7 @@ let parseBlock = function (block, resourcePath) {
 
             // Appeal
             if (block.items.length === 1 && block.items[0].task) {
-                return blockData = { type: "appeal", markdown: block.items[0].text }
+                return blockData = { type: "appeal", object : { markdown: block.items[0].text } }
             }
 
             // Checklist
@@ -597,7 +732,8 @@ let parseBlock = function (block, resourcePath) {
                     }
                 }
                 if (multiAppeal) {
-                    return blockData = { ...blockData, type: "checklist" }
+                    blockData.type = "checklist"
+                    return blockData
                 }
             }
 
@@ -625,7 +761,9 @@ let parseBlock = function (block, resourcePath) {
                     }
                 }
                 if (multipleChoice && checkedNum === 1) {
-                    return blockData = { ...blockData, answer: answer, type: "multiple-choice" }
+                    blockData.object["answer"] = answer
+                    blockData.type = "multiple-choice"
+                    return blockData
                 }
             }
 
