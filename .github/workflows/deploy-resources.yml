@@ -26,7 +26,7 @@ jobs:
         name: Install Yarn
       - run: yarn install
         name: Installing dependencies
-      - run: aws s3 cp ./src s3://sabbath-school-resources-media.adventech.io/ --acl "public-read" --region us-east-1 --no-progress --recursive --exclude "*" --include "**/assets/cover.png" --include "**/assets/cover-landscape.png" --include "**/assets/cover-square.png" --include "**/assets/splash.png" --dryrun
+      - run: aws s3 cp ./src s3://sabbath-school-resources-media.adventech.io/ --acl "public-read" --region us-east-1 --no-progress --recursive --exclude "*" --include "**/assets/cover.png" --include "**/assets/cover-landscape.png" --include "**/assets/cover-square.png" --include "**/assets/splash.png"
         name: Upload resource image assets
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
