@@ -176,19 +176,19 @@ let validateResources = async function (resourceType) {
         }
 
         try {
-            if (!fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.PORTRAIT}`)) {
+            if (!resourceInfo && !resourceInfo['portrait'] && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.PORTRAIT}`)) {
                 fail(`Portrait cover not found for resource: ${resource}`);
             }
 
-            if (!fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.LANDSCAPE}`)) {
+            if (!resourceInfo && !resourceInfo['landscape'] && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.LANDSCAPE}`)) {
                 fail(`Landscape cover not found for resource: ${resource}`);
             }
 
-            if (!fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.SQUARE}`)) {
+            if (!resourceInfo && !resourceInfo['square'] && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.SQUARE}`)) {
                 fail(`Square cover not found for resource: ${resource}`);
             }
 
-            if (!fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.SPLASH}`)) {
+            if (!resourceInfo && !resourceInfo['splash'] && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.SPLASH}`)) {
                 fail(`Splash cover not found for resource: ${resource}`);
             }
         } catch (e) {
