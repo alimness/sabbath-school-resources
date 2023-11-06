@@ -65,7 +65,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - run: node ops/sync/transfer-document-image-assets.js
         name: Generate transfer commands (seds) to replace locally referenced image assets with the remote URLs
-      - run: test -f transfer_commands.txt && bash transfer_commands.txt || true
+      - run: test -f transfer_commands.txt && bash transfer_commands.txt && rm transfer_commands.txt || true
         name: Running transfer commands to replace uploaded asset references
       - name: Commit & Push changes
         uses: actions-js/push@master
