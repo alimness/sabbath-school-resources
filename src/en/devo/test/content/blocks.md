@@ -6,4 +6,4 @@ cover: https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/f
 {"sspmStyle": {"fullBleed": true}}
 ![Walrus image](https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/fisherman.jpg)
 
-!v[https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] test
+!a[https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] test
