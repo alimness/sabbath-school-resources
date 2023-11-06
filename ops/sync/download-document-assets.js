@@ -6,8 +6,7 @@ import * as path from "path"
 import fs from "fs-extra"
 import { escapeAssetPathForSed, parseResourcePath } from "../helpers/helpers.js"
 import {
-    API_PREFIX,
-    API_URL,
+    MEDIA_URL,
     OPS_SYNC_ASSET_EXTENSIONS,
     OPS_SYNC_DETECTED_LINKS_FILENAME, OPS_SYNC_DOWNLOAD_LOCATION,
     OPS_SYNC_TRANSFER_COMMANDS_FILENAME,
@@ -32,8 +31,8 @@ let processDetectedLinks = async function () {
             const srcPath = parseResourcePath(src)
             const linkHash = crypto.createHash('sha256').update(link).digest('hex')
             const extension = path.extname(link)
-            let remoteURL = `${API_URL()}${API_PREFIX}${srcPath.language}/${srcPath.type}/${srcPath.title}/${RESOURCE_ASSETS_DIRNAME}/${linkHash}`
-            let localURL = `${OPS_SYNC_DOWNLOAD_LOCATION}${API_PREFIX}${srcPath.language}/${srcPath.type}/${srcPath.title}/${RESOURCE_ASSETS_DIRNAME}/${linkHash}`
+            let remoteURL = `${MEDIA_URL}/${srcPath.language}/${srcPath.type}/${srcPath.title}/${RESOURCE_ASSETS_DIRNAME}/${linkHash}`
+            let localURL = `${OPS_SYNC_DOWNLOAD_LOCATION}/${srcPath.language}/${srcPath.type}/${srcPath.title}/${RESOURCE_ASSETS_DIRNAME}/${linkHash}`
 
             if (OPS_SYNC_ASSET_EXTENSIONS.indexOf(extension) >= 0) {
                 remoteURL += extension

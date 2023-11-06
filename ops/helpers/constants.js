@@ -73,6 +73,7 @@ export const DOCUMENT_TYPES = {
 export const API_PREFIX = "/api/v2/"
 export const API_DIST = `${DIST_DIR}/${API_PREFIX}`
 export const API_URL = function () { return `https://sabbath-school${DEPLOY_ENV === "prod" ? "" : "-stage" }.adventech.io` }
+export const MEDIA_URL = `https://sabbath-school-resources-media.adventech.io`
 
 // Misc
 export const DATE_FORMAT = "DD/MM/YYYY"

@@ -5,8 +5,7 @@ import fs from "fs-extra"
 import { fdir } from "fdir"
 import { getResourceTypesGlob, getNegativeCoverImagesGlob, escapeAssetPathForSed, parseResourcePath } from "../helpers/helpers.js"
 import {
-    API_URL,
-    API_PREFIX,
+    MEDIA_URL,
     SOURCE_DIR,
     RESOURCE_ASSETS_DIRNAME,
     OPS_SYNC_TRANSFER_COMMANDS_FILENAME,
@@ -15,12 +14,11 @@ import {
 let transferDocumentImageAssets = async function () {
     let commands = []
 
-    // TODO: expand beyond PNG to add JPG and JPEG
     const documentImageAssets = new fdir()
         .withBasePath()
         .withRelativePaths()
         .withMaxDepth(8) // up to assets/dir1/dir2/dir3/dir4
-        .glob(`**/${getResourceTypesGlob()}/**/assets/${getNegativeCoverImagesGlob()}?(**/*.png)`)
+        .glob(`**/${getResourceTypesGlob()}/**/assets/${getNegativeCoverImagesGlob()}?(**/)(*.{jpg,jpeg,png})`)
         .crawl(SOURCE_DIR)
         .sync();
 
@@ -28,7 +26,7 @@ let transferDocumentImageAssets = async function () {
         let assetResourcePath = parseResourcePath(documentImageAsset)
         let assetDir = `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}`
         let targetImage = documentImageAsset.substring(assetDir.length-5 + RESOURCE_ASSETS_DIRNAME.length + 1)
-        let remoteURL = `${API_URL()}${API_PREFIX}${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_ASSETS_DIRNAME}/${targetImage}`
+        let remoteURL = `${MEDIA_URL}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_ASSETS_DIRNAME}/${targetImage}`
 
         /**
          * This command replaces the locally referenced assets in *.md files within the target resource folder

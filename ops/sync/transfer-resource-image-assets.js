@@ -8,8 +8,7 @@ import { parseResourcePath, getResourceTypesGlob, getPositiveCoverImagesGlob } f
 import { getCategoryInfo } from "../deploy/deploy-categories.js"
 import { getResourceInfo } from "../deploy/deploy-resources.js"
 import {
-    API_URL,
-    API_PREFIX,
+    MEDIA_URL,
     SOURCE_DIR,
     RESOURCE_COVERS,
 
@@ -67,7 +66,7 @@ let transferCategoriesAssets = async function () {
 
             Object.keys(RESOURCE_COVERS).map(k => {
                 if (imageAssetPath.section === RESOURCE_COVERS[k]) {
-                    categoryInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${API_URL()}${API_PREFIX}${categoryPath.language}/${CATEGORIES_DIRNAME}/${categoryPath.title}/${CATEGORY_ASSETS_DIRNAME}/${imageAssetPath.section}`
+                    categoryInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${MEDIA_URL}/${categoryPath.language}/${CATEGORIES_DIRNAME}/${categoryPath.title}/${CATEGORY_ASSETS_DIRNAME}/${imageAssetPath.section}`
                     if (mode === "remote") fs.removeSync(`${SOURCE_DIR}/${categoryImageAsset}`)
                 }
             })
@@ -108,7 +107,7 @@ let transferAuthorsAssets = async function () {
 
             Object.keys(RESOURCE_COVERS).map(k => {
                 if (imageAssetPath.section === RESOURCE_COVERS[k]) {
-                    authorInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${API_URL()}${API_PREFIX}${authorPath.language}/${AUTHORS_DIRNAME}/${authorPath.title}/${AUTHORS_ASSETS_DIRNAME}/${imageAssetPath.section}`
+                    authorInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${MEDIA_URL}/${authorPath.language}/${AUTHORS_DIRNAME}/${authorPath.title}/${AUTHORS_ASSETS_DIRNAME}/${imageAssetPath.section}`
                     if (mode === "remote") fs.removeSync(`${SOURCE_DIR}/${authorImageAsset}`)
                 }
             })
@@ -150,7 +149,7 @@ let transferResourcesAssets = async function () {
 
             Object.keys(RESOURCE_COVERS).map(k => {
                 if (imageAssetPath.section === RESOURCE_COVERS[k]) {
-                    resourceInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${API_URL()}${API_PREFIX}${resourcePath.language}/${resourcePath.type}/${resourcePath.title}/${RESOURCE_ASSETS_DIRNAME}/${imageAssetPath.section}`
+                    resourceInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${MEDIA_URL}/${resourcePath.language}/${resourcePath.type}/${resourcePath.title}/${RESOURCE_ASSETS_DIRNAME}/${imageAssetPath.section}`
                     if (mode === "remote") fs.removeSync(`${SOURCE_DIR}/${resourceImageAsset}`)
                 }
             })

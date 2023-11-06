@@ -26,7 +26,7 @@ jobs:
         name: Install Yarn
       - run: yarn install
         name: Installing dependencies
-      - run: aws s3 cp ./src s3://sabbath-school`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io/api/v2/ --acl "public-read" --region us-east-1 --no-progress --recursive --exclude "*" --include "**/assets/cover.png" --include "**/assets/cover-landscape.png" --include "**/assets/cover-square.png" --include "**/assets/splash.png"
+      - run: aws s3 cp ./src s3://sabbath-school-resources-media.adventech.io/ --acl "public-read" --region us-east-1 --no-progress --recursive --exclude "*" --include "**/assets/cover.png" --include "**/assets/cover-landscape.png" --include "**/assets/cover-square.png" --include "**/assets/splash.png" --dryrun
         name: Upload resource image assets
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
@@ -59,7 +59,7 @@ jobs:
         name: Install Yarn
       - run: yarn install
         name: Installing dependencies
-      - run: aws s3 cp ./src s3://sabbath-school`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io/api/v2/ --acl "public-read" --region us-east-1 --no-progress --recursive --exclude "*" --include "*.png" --exclude "**/assets/cover.png" --exclude "**/assets/cover-landscape.png" --exclude "**/assets/cover-square.png" --exclude "**/assets/splash.png"
+      - run: aws s3 cp ./src s3://sabbath-school-resources-media.adventech.io/ --acl "public-read" --region us-east-1 --no-progress --recursive --exclude "*" --include "*.png" --include "*.jpg" --include "*.jpeg" --exclude "**/assets/cover.png" --exclude "**/assets/cover-landscape.png" --exclude "**/assets/cover-square.png" --exclude "**/assets/splash.png"
         name: Upload document image assets
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
@@ -82,7 +82,7 @@ jobs:
           DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
       - run: test -f download_commands.txt && bash download_commands.txt
         name: Run download commands if exists
-      - run: aws s3 cp ./download s3://sabbath-school`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress --recursive
+      - run: aws s3 cp ./download s3://sabbath-school-resources-media.adventech.io --acl "public-read" --region us-east-1 --no-progress --recursive
         name: Upload all downloaded files
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
