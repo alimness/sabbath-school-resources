@@ -59,7 +59,7 @@ let processDetectedLinks = async function () {
     })
 
     fs.writeFileSync(OPS_SYNC_DOWNLOAD_COMMANDS_FILENAME, `\n${downloadCommands.join("\n")}`)
-    fs.appendFileSync(OPS_SYNC_TRANSFER_COMMANDS_FILENAME, `\n${transferCommands.join("\n")}`)
+    fs.writeFileSync(OPS_SYNC_TRANSFER_COMMANDS_FILENAME, `\n${transferCommands.join("\n")}`)
 }
 
 await processDetectedLinks()
