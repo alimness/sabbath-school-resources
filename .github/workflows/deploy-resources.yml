@@ -32,11 +32,9 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - run: node ops/sync/transfer-resource-image-assets.js
-        name: Creating the transfer commands and deleting the files
+        name: Updating the source files with the remote urls and removing the files
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - run: test -f transfer_commands.txt && bash transfer_commands.txt || true
-        name: Running transfer commands to replace uploaded asset references
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
