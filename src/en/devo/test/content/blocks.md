@@ -5,4 +5,4 @@ cover: lighthouse.png
 ---
 
 {"sspmStyle": {"fullBleed": true}}
-![Dog image](walrus.png)
+![Walrus image](walrus.png)
