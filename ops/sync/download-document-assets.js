@@ -49,6 +49,7 @@ let processDetectedLinks = async function () {
         }
     }
 
+    // TODO: if YouTube link, then generate yt-dlp command
     let downloadCommands = links.map(l => {
         return `curl -C - -L --create-dirs -o "${l.localURL}" "${l.link}"`
     })
