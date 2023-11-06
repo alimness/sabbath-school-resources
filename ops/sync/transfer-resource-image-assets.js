@@ -164,8 +164,8 @@ let transferResourcesAssets = async function () {
 }
 
 let transferResourceImageAssets = async function () {
-    // await transferCategoriesAssets()
-    // await transferAuthorsAssets()
+    await transferCategoriesAssets()
+    await transferAuthorsAssets()
     await transferResourcesAssets()
 }
 
