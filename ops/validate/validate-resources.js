@@ -78,6 +78,7 @@ const sectionSchema = {
     "required": [ "title" ]
 }
 
+// TODO: add feed validation for categories, authors and resource roots
 let validateResources = async function (resourceType) {
     const resources = new fdir()
         .withBasePath()

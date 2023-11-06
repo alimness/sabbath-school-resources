@@ -1,23 +1,19 @@
 name: deploy
 on:
-  push:
-    branches:
-      - prod
-      - stage
-    paths:
-      - '**.js'
-      - 'src/**'
+  workflow_call:
+    inputs:
+      branch:
+        required: true
+        type: string
 jobs:
-  transfer-resource-assets:
+  deploy-resources:
     if: (github.repository == 'Adventech/sabbath-school-resources')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.branch }}
         name: Fetch the repository files
-      - name: Extract branch name
-        shell: bash
-        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
-        id: extract_branch
       - uses: actions/setup-node@v3
         name: Setup Node
         with:
@@ -26,75 +22,19 @@ jobs:
         name: Install Yarn
       - run: yarn install
         name: Installing dependencies
-      - run: aws s3 cp ./src s3://sabbath-school-resources-media.adventech.io/ --acl "public-read" --region us-east-1 --no-progress --recursive --exclude "*" --include "**/assets/cover.png" --include "**/assets/cover-landscape.png" --include "**/assets/cover-square.png" --include "**/assets/splash.png"
-        name: Upload resource assets
+      - run: node ops/deploy/deploy-documents.js
+        name: Deploy documents
+      - run: node ops/deploy/deploy-sections.js
+        name: Deploy categories
+      - run: node ops/deploy/deploy-categories.js
+        name: Deploy categories
+      - run: node ops/deploy/deploy-authors.js
+        name: Deploy authors
+      - run: node ops/deploy/deploy-resources.js
+        name: Deploy resources
+      - run: node ops/deploy/deploy-languages.js
+        name: Deploy languages
+      - run: aws s3 cp dist/ s3://sabbath-school`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress --recursive --dryrun
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-      - run: node ops/sync/transfer-resource-assets.js
-        name: Updating the source files with the remote urls and removing the files
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          branch: ${{ steps.extract_branch.outputs.branch }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-  download-and-transfer-document-assets:
-    if: (github.repository == 'Adventech/sabbath-school-resources')
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        name: Fetch the repository files
-      - name: Extract branch name
-        shell: bash
-        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
-        id: extract_branch
-      - uses: actions/setup-node@v3
-        name: Setup Node
-        with:
-          node-version: '16'
-      - run: npm install --global yarn
-        name: Install Yarn
-      - run: yarn install
-        name: Installing dependencies
-      - run: aws s3 cp ./src s3://sabbath-school-resources-media.adventech.io/ --acl "public-read" --region us-east-1 --no-progress --recursive --exclude "*" --include "*.png" --include "*.jpg" --include "*.jpeg" --include "*.pdf" --exclude "**/assets/cover.png" --exclude "**/assets/cover-landscape.png" --exclude "**/assets/cover-square.png" --exclude "**/assets/splash.png"
-        name: Upload document assets
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-      - run: node ops/sync/transfer-document-assets.js
-        name: Generate transfer commands (seds) to replace locally referenced assets with the remote URLs
-        env:
-          DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
-      - run: test -f transfer_commands.txt && source transfer_commands.txt
-        name: Run transfer commands if exists
-      - run: test -f transfer_commands.txt && rm transfer_commands.txt
-        name: Clean up
-      - run: mkdir download
-        name: Creating download directory
-      - run: grep -Poir "(http|https)://(?!sabbath-school)[a-zA-Z0-9./?=_%:-]*" --include="*.md" ./src > detected_links.txt
-        name: Finding all external links in the markdown files and saving to detected_links.txt
-      - run: node ops/sync/download-document-assets.js
-        name: Running script to generate transfer commands
-        env:
-          DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
-      - run: test -f download_commands.txt && bash download_commands.txt
-        name: Run download commands if exists
-      - run: aws s3 cp ./download s3://sabbath-school-resources-media.adventech.io --acl "public-read" --region us-east-1 --no-progress --recursive
-        name: Upload all downloaded files
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-      - run: test -f transfer_commands.txt && source transfer_commands.txt
-        name: Run transfer commands if exists
-      - run: test -f detected_links.txt && rm detected_links.txt
-      - run: test -f download_commands.txt && rm download_commands.txt
-      - run: test -f transfer_commands.txt && rm transfer_commands.txt
-      - run: rm -rf download
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          branch: ${{ steps.extract_branch.outputs.branch }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
