@@ -32,9 +32,9 @@ let transferDocumentImageAssets = async function () {
 
         /**
          * This command replaces the locally referenced assets in *.md files within the target resource folder
-         * with the final destination after its had been uploaded.
-         * It tries to match the replacements that has one the these preceding characters. In case if any other character
-         * precedes the asset name then it will be replaced. The idea here is to exclude the backslash, which will be the
+         * with the final destination after it had been uploaded.
+         * It tries to match the replacements that has one of these preceding characters. In case if any other character
+         * precedes the asset name then it will be replaced. The idea here is to exclude the forwardslash, which will be the
          * preceding character after the replacement.
          *
          * - space - to target yaml reference
