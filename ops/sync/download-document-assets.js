@@ -72,7 +72,7 @@ let processDetectedLinks = async function () {
     })
 
     let transferCommands = links.map(l => {
-        return `sed -i '' -e 's/${escapeAssetPathForSed(l.link)}/${escapeAssetPathForSed(l.remoteURL)}/g' ${l.src}`
+        return `sed -i -e 's/${escapeAssetPathForSed(l.link)}/${escapeAssetPathForSed(l.remoteURL)}/g' ${l.src}`
     })
 
     fs.writeFileSync(OPS_SYNC_DOWNLOAD_COMMANDS_FILENAME, `\n${downloadCommands.join("\n")}`)
