@@ -102,5 +102,5 @@ jobs:
     uses: ./.github/workflows/deploy-resources.yml
     needs: [transfer-resource-assets, download-and-transfer-document-assets]
     with:
-      branch: ${{ github.ref }}
+      branch: ${{ github.ref_name }}
     secrets: inherit
