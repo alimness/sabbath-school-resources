@@ -1,3 +1,16 @@
----
 name: English
+native: English
 code: en
+kinds:
+  devotional: Devotional
+  plan: Plan
+  book: Book
+  blog: Blog
+  external: Link
+bible:
+  - nasb
+  - nkjv
+  - kjv
+  - name: niv
+    copyright: "<br><br><div><small>HOLY BIBLE, NEW INTERNATIONAL VERSION TM, NIV TM</small><br><small>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.</small><br><small>Used with permission. All rights reserved worldwide.</small></div>"
+  - asv

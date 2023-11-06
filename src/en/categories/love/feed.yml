@@ -1,0 +1,11 @@
+---
+  - group: Featured
+    resources:
+        - en-devo-bhp-ellen-white-2022
+  - group: Devotionals
+    type: resource
+    kind: devotionals
+  - group: Other resources
+    type: resource
+  - group: Found within titles
+    type: document

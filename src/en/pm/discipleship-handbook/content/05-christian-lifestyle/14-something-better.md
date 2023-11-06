@@ -1,0 +1,44 @@
+---
+title: Something Better
+subtitle: Chapter 14
+---
+
+The next several chapters of the Discipleship Handbook will focus on distinctive characteristics of Christian behavior. We will explore what the Bible teaches in the practical areas of Sabbathkeeping, reverence, financial stewardship, health, modesty, entertainment, and family relationships. Before taking up these practical and often sensitive topics, however, we should address some common areas of confusion.
+
+### Behavior Cannot Merit Salvation
+
+First, it is important for every disciple of Christ to understand that our behavior can never earn salvation. Our salvation is based on the merits of Christ’s life and sacrifice. Nothing we do or abstain from doing can gain us favor with God. As the old hymn Rock of Ages says: “Not the labors of my hands Can fulfill Thy law’s demands; Could my zeal no respite know, Could my tears forever flow, All for sin could not atone; Thou must save, and Thou alone.”
+
+Truly the blood of Jesus is our only basis for forgiveness and salvation. Yet when Jesus saves, it is not to offer freedom from having to submit to God’s Word. On the contrary, when by faith we accept the sacrifice of Christ for our forgiveness, love for Jesus springs up in the heart and motivates us to obey Him! The acceptance of Christ as our personal Savior always gives birth to the pursuit of holiness, or Christlikeness. We cannot truly receive Jesus as our Savior without also receiving Him as our Lord and Master.
+
+Still, because we cannot earn salvation by our works, many wonder if external matters are really important to God. Instruction in Christian behavior often prompts people to ask, “Shouldn’t we be focusing on a relationship with God instead of rules? Do such minor things really matter to God? Is this really a salvation issue?” These are important questions, deserving careful answers.
+
+### Rules or Relationship?
+
+We should be careful not to create an imaginary conflict between rules and relationship. Consider the example of marriage. If a husband wants to improve his relationship with his wife, he will naturally seek to make positive changes in his behavior. He will stop doing things that cause conflict in the relationship and do more of what pleases her. By his change in behavior, she is able to see that he loves her. So it is in our relationship with Jesus. When the Holy Spirit reveals areas in which our behavior is separating us from Christ, He is calling us to change our ways for the very purpose of strengthening the relationship. When we respond with repentance, faith, and obedience, we show that we love God. As Jesus said: “If you love Me, keep My commandments” (John 14:15). And: “If you keep My commandments, you will abide in My love” (John 15:10). We maintain a strong relationship with Him (abide in His love) as we submit our behavior to His will (keep His commandments).
+
+There are those who say that a relationship with Christ is all that matters, who speak critically of anyone who places importance on matters of external behavior. The truth, however, is that those who downplay Christian lifestyle and behavior only hinder their relationship with Christ. We simply cannot separate behavioral instruction from our relationship with Jesus without causing untold harm. A focus on behavior without relationship can result in cold formalism, but a focus on relationship without behavior can result in a failure to acknowledge cherished sin.
+
+### Salvation Issues
+
+So how do we answer the oft-asked question “Is this really a salvation issue?” Once again, this question implies an artificial distinction that we should be careful to avoid. While it is true that the Word of God describes some sins as being weightier than others (see Matthew 23:23), we should never conclude that any biblical instruction is small in God’s eyes. “God does not regard all sins as of equal magnitude; there are degrees of guilt in His estimation, as well as in that of man; but however trifling this or that wrong act may seem in the eyes of men, no sin is small in the sight of God. Man’s judgment is partial, imperfect; but God estimates all things as they really are” (Steps to Christ, p. 30). Because our judgment is imperfect, it would be presumptuous for us to claim the ability to discern which areas of God’s Word are important to Him and which are not.
+
+Many wrong actions that received punishment in the Bible would be considered no big deal by many today. Adam and Eve were punished for eating a piece of fruit. Cain was not accepted for one modification to what God asked him to use in worship. Uzzah was punished for reaching out and steadying the ark. Human perception may view these as small transgressions, but the reality was quite different—not because what they did was intrinsically sinful, but because they manifested a lack of trust in God by disobeying His clear commands. We must be careful not to classify certain habits or behaviors as “little things” in an effort to rationalize disobedience. Often these are the very things that have the tightest grip on our lives. Therefore, if our relationship with Christ is to truly grow, we must come face to face with God’s will in the practical areas of our daily lives.
+
+The “salvation issue” question is often another way of asking, “Will this one thing keep me out of heaven?” Perhaps the question itself is looking at our Christian lives from a wrong perspective. Born-again Christians do not ask how little they have to do to be accepted into heaven; they ask how they can please God and more fully conform to His will.
+
+“God’s Word is plain. Its teachings cannot be mistaken. Shall we obey it, just as He has given it to us, or shall we seek to find how far we can digress and yet be saved?” (Evangelism, p. 271). “Those who feel the constraining love of God do not ask how little may be given to meet the requirements of God; they do not ask for the lowest standard, but aim at perfect conformity to the will of their Redeemer. . . . A profession of Christ without this deep love is mere talk, dry formality, and heavy drudgery” (Steps to Christ, p. 45).
+
+### Something Vastly Better
+
+Sometimes, when we learn that our lifestyle is contrary to God’s Word, we are tempted to feel that God is taking away our joy. But the truth is exactly the opposite. Though our sinful natures make the surrender of habits and lifestyle difficult, it is for our good, and not our harm, that we are told to obey. “God does not require us to give up anything that it is for our best interest to retain. In all that He does, He has the well-being of His children in view” (Steps to Christ, p. 46).
+
+God asks us to return tithes and offerings to build our faith and benevolence and to save us from the destructive traits of selfishness and greed. He provides counsels on health to give us clarity of mind and quality of life and to spare us the suffering of disease and addictions. He instructs His people in modesty of dress to develop meekness and humility and to free us from the bondage of pride and insecurity. He encourages healthful recreation and forbids sinful entertainment to protect our minds from moral corruption. “Would that all . . . might realize that He has something vastly better to offer them than they are seeking for themselves” (Steps to Christ, p. 46). Rather than questioning the practical counsels of the Bible, let us view them as they are—merciful blessings from our all-wise Creator.
+
+### Practical Application
+
+If following Jesus in the practical areas of life has been a struggle for you, do not despair or become discouraged. Remember that you have a sympathetic and forgiving Savior. “Jesus loves to have us come to Him just as we are, sinful, helpless, dependent. We may come with all our weakness, our folly, our sinfulness, and fall at His feet in penitence. It is His glory to encircle us in the arms of His love and to bind up our wounds, to cleanse us from all impurity” (Steps to Christ, p. 52).
+
+The purpose of biblical lifestyle instruction is not to condemn us but to help us more fully reflect the life and character of Jesus and to strengthen our relationship with Him. As we follow this instruction, it provides us with essential protection from the dangers and entrapments of the world, from our own sinful natures, and from the enemy of souls.
+
+Before reading the following chapters, ask God to give you a humble spirit and an honest desire to follow the truth. As you trust the biblical instruction found in these chapters, the Lord will bless you abundantly. “And all these blessings shall come upon you and overtake you, because you obey the voice of the Lord your God” (Deuteronomy 28:2).

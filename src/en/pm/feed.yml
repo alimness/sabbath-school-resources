@@ -1,0 +1,6 @@
+---
+- group: Personal Ministries
+  resources:
+    - en-pm-discipleship-handbook
+- group: Other resources
+  type: resource

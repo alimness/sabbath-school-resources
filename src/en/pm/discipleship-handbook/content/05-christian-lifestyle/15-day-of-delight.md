@@ -1,0 +1,77 @@
+---
+title: Day of Delight
+subtitle: Chapter 15
+---
+
+The Sabbath was made to be a blessing to humanity. It is not a day of drudgery, but a day of delight and rejoicing in the Lord. Jesus affirmed the blessing of the Sabbath when He said, “The Sabbath was made for man, and not man for the Sabbath” (Mark 2:27). The Sabbath does come with commands for its proper observance, but these are given to protect and strengthen our relationship with Jesus. For the one who desires to be right with God, to seek first His kingdom, and to prepare for eternity, the Sabbath is a wonderful gift from heaven.
+
+### Keep It Holy
+
+Perhaps the best summary of proper Sabbath observance is found in the biblical command to “keep it holy” (Exodus 20:8). In Genesis 2:3 the Bible says that God “blessed the seventh day and sanctified it.” The seventh day is the only day of the week in all of Scripture that God sanctified or made holy. This is one reason that only the seventh day can be the true Sabbath. We can keep a day holy only if God has already made it holy.
+
+When God appeared to Moses in a burning bush, the Lord commanded him, “Take your sandals off your feet, for the place where you stand is holy ground” (Exodus 3:5). The ground was not previously holy, but the presence of God had made it that way. Similarly, the Sabbath is holy because the presence of God is to be experienced in a special way on that day. And we can keep the seventh day holy only when we actively invite the presence of the Holy Spirit into our lives. We can be in the right place doing the right things on the right day and still fall short of keeping the Sabbath if our hearts are far from God. We must have Jesus dwelling in our hearts by faith (see Ephesians 3:17) if we would find joy in the spiritual emphasis of the Sabbath and be brought into harmony with the command to “keep it holy.”
+
+### Evening to Evening
+
+In order to keep the seventh day holy, it is important to know when it begins and ends. According to Genesis 1, each day of Creation consisted of “the evening and the morning.” The evening was listed as the beginning of the 24-hour day. Other passages of Scripture confirm this understanding. Nehemiah commanded the gates of Jerusalem to be shut “as it began to be dark before the Sabbath” (Nehemiah 13:19). The implication is that once it was dark, the Sabbath would begin. In Leviticus 23:32, when God described the observance of an annual sabbath associated with the Day of Atonement, He instructed the Israelites, “From evening to evening, you shall celebrate your sabbath.”
+
+The Bible consistently teaches that the Sabbath begins when it becomes dark, or at sundown, on Friday evening, and ends at sundown on Saturday evening. The beauty of this plan is that we can welcome the Sabbath hours while we are still awake rather than having it begin while we are asleep. This provides a wonderful opportunity for families or groups of fellow believers to usher in and also close the Sabbath with prayer, singing, and reading God’s Word. “Vespers,” a term that means an evening religious service, is often used in the Seventh-day Adventist Church to describe these enjoyable family or church worship services that open or close the Sabbath.
+
+### A Day of Rest
+
+Without a command to rest, many would allow the busyness of life to prevent them from spending ample time with God. But the fourth commandment unambiguously states: “Six days you shall labor and do all your work, but the seventh day is the Sabbath of the Lord your God. In it you shall do no work: you, nor your son, nor your daughter, nor your male servant, nor your female servant, nor your cattle, nor your stranger who is within your gates” (Exodus 20:9, 10). This prohibition applies to any common labor performed on the seventh day, that is, between sundown Friday and sundown Saturday.
+
+Some occupations, such as certain physicians and nurses, may require caring on Sabbath for those who are suffering. This kind of labor is in harmony with the statement of Jesus in Matthew 12:12: “It is lawful to do good on the Sabbath.” Inasmuch as this labor is to meet the urgent needs of humanity rather than to earn income, it is recommended that wages earned for this Sabbath labor be donated as a freewill offering.
+
+In addition to our own abstinence from work, the commandment also forbids labor by anyone within our sphere of influence. The reference to male and female servants could apply today to hired labor, such as housecleaners, babysitters, plumbers, landscapers, or builders. If we employ someone to work on home improvements, we should stipulate that no work is to be performed between Friday sundown and Saturday sundown. Or, if we run a business with workers whose hours we control, we are not innocent if we refrain from work on the Sabbath but still require it of our employees.
+
+An associated application of the Sabbath command to refrain from labor pertains to common commerce or business transactions. According to Scripture, buying and selling on the Sabbath is also a violation of the sacredness of the day. When Nehemiah discovered the children of Judah selling goods on the Sabbath, he “warned them about the day on which they were selling provisions” (Nehemiah 13:15). He also found them buying from merchants who brought their goods into Jerusalem on the Sabbath day. Nehemiah then “contended with the nobles of Judah,” saying, “What evil thing is this that you do, by which you profane the Sabbath day?” (Nehemiah 13:17). He further stated that their practice of buying and selling on the Sabbath was bringing “added wrath on Israel” (Nehemiah 13:18). These verses indicate that engaging in ordinary commerce on the Sabbath, such as dining at a restaurant or shopping at a grocery store, is out of harmony with God’s will.
+
+Because God asks us to carefully limit the Sabbath to spiritual activities, we must plan ahead with regard to those things that are better suited for another day. This is why God said, “Remember the Sabbath day” (Exodus 20:8). We are to keep the Sabbath in view throughout the week, so that we are not unprepared when it arrives.
+
+The Bible refers to the day before the Sabbath as the Preparation Day. This name implies that practical labor, commerce, and other preparations are especially suited for the day before the Sabbath. We should buy fuel for our car, prepare meals ahead of time to the extent that we can, clean and straighten our homes, or perform other practical preparations ahead of the Sabbath. By so doing, we will be free to focus on Jesus when the Sabbath arrives.
+
+### A Day to Worship the Creator
+
+It is not uncommon to hear of someone endeavoring to keep the Sabbath by simply resting alone at home and refraining from work. While this is a good start, it falls short of the fullness of what Sabbathkeeping means. Leviticus 23:3 refers to the Sabbath as “a holy convocation,” or a sacred assembly. This phrase reveals that part of the beauty of the Sabbath is in worshipping corporately with other believers.
+
+Jesus Himself incorporated this important aspect of Sabbathkeeping into His own life. “And as His custom was, He went into the synagogue on the Sabbath day” (Luke 4:16). Jesus did not remain alone, but habitually attended corporate worship on the Sabbath. In the book of Hebrews we find that this need for fellowship becomes increasingly important as we approach the second coming of Christ: “And let us consider one another in order to stir up love and good works, not forsaking the assembling of ourselves together, as is the manner of some, but exhorting one another, and so much the more as you see the Day approaching” (Hebrews 10:24, 25). Even in the “new heavens and the new earth,” we discover that “from one Sabbath to another, all flesh shall come to worship” (Isaiah 66:22, 23) before God. Throughout eternity the Sabbath will be a day for God’s people to join together in the worship of their Creator.
+
+“You are worthy, O Lord, to receive glory and honor and power; for You created all things, and by Your will they exist and were created” (Revelation 4:11). The primary reason that God is worthy of our worship is His claim upon us as our Creator. The Sabbath is a weekly reminder of this important relationship. The fourth commandment concludes with the following reason for our obedience: “For in six days the Lord made the heavens and the earth, the sea, and all that is in them, and rested the seventh day. Therefore the Lord blessed the Sabbath day and hallowed it” (Exodus 20:11). The Sabbath, as a memorial of Creation, is therefore a wonderful day to spend time in nature. Walking in the woods, looking out on the ocean, listening to the birds, or smelling the flowers can point us to the One who in infinite love created it all for our happiness.
+
+### His Day
+
+“If you turn away your foot from the Sabbath, from doing your pleasure on My holy day, and call the Sabbath a delight, the holy day of the Lord honorable, and shall honor Him, not doing your own ways, nor finding your own pleasure, nor speaking your own words, then you shall delight yourself in the Lord” (Isaiah 58:13, 14).
+
+Isaiah 58 gives an excellent description of how to truly keep the Sabbath, providing principles that can guide us in any situation. The prohibitions against doing our own ways, finding our own pleasure, or speaking our own words are not given in order to take the joy out of the Sabbath. They invite us to find joy in His presence rather than by engaging in common thoughts, conversation, and activities that are not spiritual in nature. The Sabbath is not a day for our sports or hobbies, for keeping up on world news, or going to secular events. Rather, it is an opportunity to deepen our relationship with God, to spend valuable time with our children and families, and to fellowship with like-minded believers.
+
+One important way to draw close to God is to minister to the physical and spiritual needs of humanity on the Sabbath. In this, the example of Christ is highly instructive. “Every working of Christ in miracles was essential, and was to reveal to the world that there was a great work to be done on the Sabbath day for the relief of suffering humanity, but the common work was not to be done” (Selected Messages, book 3, p. 258).
+
+The beginning portions of Isaiah 58, while they reference fasting, may also apply to the observance of the Sabbath mentioned at the end of the chapter. Isaiah writes of the need to “loose the bonds of wickedness, to undo the heavy burdens, to let the oppressed go free, and that you break every yoke” (Isaiah 58:6). He appeals further: “If you extend your soul to the hungry and satisfy the afflicted soul, then your light shall dawn in the darkness, and your darkness shall be as the noonday” (Isaiah 58:10).
+
+The Sabbath, as Jesus exemplified in His life, is a great time to minister to others. Practical ways to do this may include:
+
+- Offering encouraging words and prayers for those going through difficulty at your church.
+- Visiting those who are shut-in, sick, elderly, or hospitalized.
+- Visiting those who desire Bible study or spiritual guidance.
+- Going on organized church outreach activities.
+
+### Practical Application
+
+We need not make a list of rules for the Sabbath, but God has given us principles to guide us in our efforts to keep the day holy. Now let us apply these principles to some challenging Sabbath-day scenarios:
+
+_Helping a neighbor build a fence_. While Jesus did say, “It is lawful to do good on the Sabbath” (Matthew 12:12), the context was an emergency situation of a sheep falling into a pit. Good deeds that require manual or common labor, and that are not in response to suffering or to an emergency situation, are not the lawful ones of which Jesus spoke.
+
+_Mandatory late Friday work only once a year_. It may seem harmless to work on the Sabbath only once or twice a year, but every time we knowingly disobey God’s law, we weaken our character and make it easier to sin in the future. Even occasional disobedience will only prepare us for failure when greater tests come. It is much better to be open with your employer and take a stand. God will honor those who honor Him.
+
+_Watching or participating in secular activities. _These could include work or school events, recreational hobbies, sports, or other entertainment. The Lord instructs, “Turn away your foot from the Sabbath, from doing your pleasure on My holy day” (Isaiah 58:13). Others may not understand why secular activities are inappropriate on the Sabbath, yet we should still maintain our reverence for God’s holy day. This will not lessen, but potentially increase, our spiritual influence when others see our love and loyalty to God.
+
+_Staying in a hotel over a weekend_. Travel that keeps us away from home on Sabbath is sometimes unavoidable. In such cases, we can prepare meals ahead of time, handle hotel payment arrangements before the Sabbath, and decline maid service during Sabbath hours. Leaving a Sabbath tract or a personal note sharing your Sabbath beliefs, along with a generous tip, is a good way to witness while traveling.
+
+_Attending a friend’s wedding_. While weddings are to be spiritual occasions, they can also consist of many nonspiritual activities. Consider attending the spiritual portion of the service, greeting the bride and groom, giving a card and gift, but leaving before the atmosphere becomes decidedly unspiritual.
+
+_Spouse who does not keep the Sabbath_. One of the most common and yet challenging Sabbath scenarios is a spouse who insists on watching secular television, playing worldly music, or otherwise being unmindful of the sacredness of the Sabbath. Sometimes different arrangements may be negotiated, but we should be careful not to demand an entire change in the lifestyle of those in our home simply to accommodate our beliefs. We must give time and opportunity for our loved ones to see and respond to the truth for themselves. Sometimes, spending time with fellow Sabbathkeepers during the Sabbath hours can be a fruitful way to enjoy the Sabbath while not interfering with the plans of those in your home.
+
+As you consider how to strengthen your own Sabbath observance, here is a helpful series of questions you might ask: Am I keeping up my spiritual interest with regular devotional time during the week so that I look forward eagerly to the spiritual blessings of the Sabbath? Am I opening and closing the sacred hours of the Sabbath with family or church worship? Have I been clear with my employer about my intention never to work during Sabbath hours? Does my Sabbath observance include regular attendance at Sabbath school and divine worship? Am I preparing weekly for the Sabbath so that I do not need to do unnecessary work or to buy or sell on the Sabbath? Am I incorporating activities that minister to the physical or spiritual needs of others on the Sabbath? And most important, am I seeking to build my personal relationship with God on the Sabbath?
+
+As you carefully guard the sacredness of God’s holy day, remember that the reason for its proper observance is that we might know God more fully and delight ourselves in Him. “To know God is to love Him” (The Desire of Ages, p. 22). As you turn your eyes upon Jesus each Sabbath, the things of this earth will grow strangely dim. Your love for God will grow, and heaven will draw near.

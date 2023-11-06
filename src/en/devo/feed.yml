@@ -1,0 +1,5 @@
+---
+  - group: Devotionals
+    kind: devotional
+  - group: Other resources
+    type: resource

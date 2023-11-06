@@ -1,0 +1,13 @@
+---
+title: Introduction
+---
+
+There is no higher calling than to be a disciple of Jesus Christ. Nothing compares to knowing and following the Savior of the world. To know Him is to love Him, and to follow Him is a wonderful adventure. Still, the discipleship journey is full of pitfalls and snares that threaten to lead us away from the narrow path that leads to heaven. If the devil had his way, every Christian would be lulled to spiritual slumber or led into forbidden paths that would steal the heart away from God. Therefore, even after we are baptized, it is imperative that we continue to grow into active and mature disciples of Christ.
+
+The Discipleship Handbook will benefit anyone seeking such an experience with Jesus. It may be used for personal study or in Sabbath schools, prayer meetings, small groups, or one-on-one settings. It is more than a book about discipleship. Rather, it contains everything needed for a six-month, Bible-based discipleship plan for Seventh-day Adventist churches and their members. The Discipleship Handbook was developed to ensure that the most essential areas of discipleship are covered. The devotional life, personal witnessing, church life, Christian lifestyle, and evangelism each receive special emphasis.
+
+For newer members, the 26 chapters of the Discipleship Handbook serve as the heart of 26 weekly meetings with a more experienced mentor. Appendix A, “The Discipleship Plan,” outlines a simple process to help local churches start using the Discipleship Handbook to disciple every newly baptized church member. It includes weekly meeting outlines with simple, step-by-step instructions to guide mentors as they help newer members become more grounded in their faith and better integrated into the Seventh-day Adventist Church.
+
+No matter how long one has been a Seventh-day Adventist, the Discipleship Handbook can help in forming indispensable spiritual habits in the areas of prayer, Bible study, fellowship, and ministry. Without these vital components of the Christian life, we are in danger of having a form of godliness without the power (see 2 Timothy 3:5). When approached with a sincere heart, the Discipleship Handbook will lead its readers closer to Christ, His Word, and His church. It will bring revival and reformation to local churches and their members. It will help experienced members and those new to the faith keep their hearts burning with love for Christ and their lives active in ministry to others. That this might be the experience of everyone who reads this book is our sincere hope and prayer.
+
+— The General Conference Sabbath School and Personal Ministries Department
