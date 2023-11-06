@@ -40,3 +40,32 @@ jobs:
         with:
           branch: ${{ steps.extract_branch.outputs.branch }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
+  transfer-document-image-assets:
+    if: (github.repository == 'Adventech/sabbath-school-resources')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        name: Fetch the repository files
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+      - uses: actions/setup-node@v3
+        name: Setup Node
+        with:
+          node-version: '16'
+      - run: npm install --global yarn
+        name: Install Yarn
+      - run: yarn install
+        name: Installing dependencies
+      - run: aws s3 cp ./src s3://sabbath-school`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io/api/v2/ --acl "public-read" --region us-east-1 --no-progress --recursive --exclude "*" --include "*.png" --exclude "**/assets/cover.png" --exclude "**/assets/cover-landscape.png" --exclude "**/assets/cover-square.png" --exclude "**/assets/splash.png"
+        name: Upload document image assets
+      - run: node ops/sync/transfer-document-image-assets.js
+        name: Generate transfer commands (seds) to replace locally referenced image assets with the remote URLs
+      - run: test -f transfer_commands.txt && bash transfer_commands.txt || true
+        name: Running transfer commands to replace uploaded asset references
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          branch: ${{ steps.extract_branch.outputs.branch }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
