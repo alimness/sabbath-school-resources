@@ -25,11 +25,7 @@ import {
     RESOURCE_ASSETS_DIRNAME,
 } from "../helpers/constants.js"
 
-
 let mode = "local"
-
-// AWS command to run prior
-// aws s3 cp ./src s3://sabbath-school.adventech.io/api/v2/ --acl "public-read" --region us-east-1 --no-progress --recursive --dryrun --exclude "*" --include "**/assets/cover.png" --include "**/assets/cover-landscape.png" --include "**/assets/cover-square.png" --include "**/assets/splash.png"
 
 if (process && process.env && process.env.GITHUB_TOKEN) {
     mode = "remote"
