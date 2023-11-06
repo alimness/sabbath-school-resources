@@ -74,7 +74,7 @@ jobs:
         name: Clean up
       - run: mkdir download
         name: Creating download directory
-      - run: grep -Poir "(http|https)://(?!sabbath-school)[a-zA-Z0-9./?=_%:-]*" --include="*.md" ./src > detected_links.txt
+      - run: grep -Poir "(http|https)://(?!sabbath-school)[a-zA-Z0-9./?=_%:-]*" --include="*.md" ./src > detected_links.txt || true
         name: Finding all external links in the markdown files and saving to detected_links.txt
       - run: node ops/sync/download-document-assets.js
         name: Running script to generate transfer commands
