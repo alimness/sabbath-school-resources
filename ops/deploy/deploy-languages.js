@@ -1,0 +1,47 @@
+#!/usr/bin/env node
+"use strict"
+
+import fs from "fs-extra"
+import yaml from "js-yaml"
+import { fdir } from "fdir"
+import { API_DIST, LANGUAGE_INFO_FILENAME, RESOURCE_TYPE, SOURCE_DIR } from "../helpers/constants.js"
+import { isMainModule } from "../helpers/helpers.js"
+
+let getLanguageInfo = async function (language) {
+    return yaml.load(fs.readFileSync(`${SOURCE_DIR}/${language}/${LANGUAGE_INFO_FILENAME}`, 'utf8'))
+}
+
+let getLanguages = async function () {
+    return new fdir()
+        .filter(d => d !== `${SOURCE_DIR}/`)
+        .withMaxDepth(1)
+        .onlyDirs()
+        .crawl(SOURCE_DIR)
+        .sync().map(l => l.replace(`${SOURCE_DIR}/`, '').replace(/\/$/, ''));
+}
+
+let processLanguages = async function () {
+    const languages = await getLanguages()
+    const languagesInfo = []
+    for (let language of languages) {
+        const languageInfo = await getLanguageInfo(language)
+        const languageInfoDist = {
+            name: languageInfo.name,
+            code: languageInfo.code,
+        }
+
+        for (let resourceType of Object.keys(RESOURCE_TYPE)) {
+            languageInfoDist[RESOURCE_TYPE[resourceType]] = fs.pathExistsSync(`${SOURCE_DIR}/${language}/${RESOURCE_TYPE[resourceType]}`)
+        }
+        languagesInfo.push(languageInfoDist)
+    }
+    fs.outputFileSync(`${API_DIST}/resources/index.json`, JSON.stringify(languagesInfo))
+}
+
+if (isMainModule(import.meta)) {
+    await processLanguages()
+}
+
+export {
+    getLanguages
+}
