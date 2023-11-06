@@ -15,8 +15,9 @@ import {
     RESOURCE_KIND,
     RESOURCE_INFO_FILENAME,
     RESOURCE_FEED_FILENAME,
-    RESOURCE_FEED_RESOURCE_TYPE
+    RESOURCE_FEED_RESOURCE_TYPE, RESOURCE_CONTENT_DIRNAME
 } from "../helpers/constants.js"
+import {getDocumentInfo} from "./deploy-documents.js";
 
 let getResourceInfo = async function (resource, depth = 0) {
     const resourceInfo = yaml.load(fs.readFileSync(resource, 'utf8'));
@@ -39,7 +40,23 @@ let getResourceInfo = async function (resource, depth = 0) {
         }
     }
 
-    // TODO: check * of MDs and if only 1 set documentId
+    const documents = new fdir()
+        .withBasePath()
+        .withRelativePaths()
+        .withMaxDepth(5)
+        .glob(`${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_CONTENT_DIRNAME}/**/*.md`)
+        .crawl(`${SOURCE_DIR}/`)
+        .sync();
+
+    if (documents.length === 1) {
+        let document = documents[0]
+        let documentInfo = await getDocumentInfo(`${SOURCE_DIR}/${document}`)
+        resourceInfo.documentId = documentInfo.id
+    }
+
+    if (resourceInfo.externalURL) {
+        resourceInfo.kind = RESOURCE_KIND.EXTERNAL
+    }
 
     return resourceInfo
 }

@@ -62,7 +62,9 @@ const resourceSchema = {
                 "square": { type: "string" },
                 "splash": { type: "string" },
             }
-        }
+        },
+        "documentId": { type: String },
+        "externalURL": { type: String },
     },
     "required": [ "id", "index", "kind", "title", "primaryColor", "primaryColorDark" ]
 }
@@ -155,7 +157,7 @@ let validateResources = async function (resourceType) {
         }
 
         if (resourceInfo.kind === RESOURCE_KIND.EXTERNAL
-            && !resourceInfo.externalUrl) {
+            && !resourceInfo.externalURL) {
             fail(`Critical error. External resource found without the external URL value: ${resource}`);
             continue
         }
