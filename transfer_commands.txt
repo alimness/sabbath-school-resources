@@ -1,3 +1,5 @@
 
 sed -i '' -e 's/\([ [(:]\)lighthouse.png/\1https:\/\/sabbath-school-stage.adventech.io\/api\/v2\/en\/devo\/test\/assets\/lighthouse.png/g' ./src/en/devo/test/**/*.md
 sed -i '' -e 's/\([ [(:]\)walrus.png/\1https:\/\/sabbath-school-stage.adventech.io\/api\/v2\/en\/devo\/test\/assets\/walrus.png/g' ./src/en/devo/test/**/*.md
+sed -i '' -e 's/\([ [(:]\)lighthouse.png/\1https:\/\/sabbath-school-stage.adventech.io\/api\/v2\/en\/devo\/test\/assets\/lighthouse.png/g' ./src/en/devo/test/**/*.md && rm ./src/en/devo/test/assets/lighthouse.png
+sed -i '' -e 's/\([ [(:]\)walrus.png/\1https:\/\/sabbath-school-stage.adventech.io\/api\/v2\/en\/devo\/test\/assets\/walrus.png/g' ./src/en/devo/test/**/*.md && rm ./src/en/devo/test/assets/walrus.png
