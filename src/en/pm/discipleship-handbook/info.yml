@@ -1,18 +1,33 @@
----
-  title: Discipleship Handbook
-  subtitle: A Resource for Seventh-day Adventist Church Members. The Discipleship Handbook is part of the GROW Your Church series of Personal Ministries resources.
-  kind: book
-  primaryColor: "#7A0119"
-  primaryColorDark: "#000000"
-  author: sspm
-  credits:
-    - name: Copyright
-      value: Copyright © 2018 by the General Conference Corporation of Seventh-day Adventists®
-    - name: Principal Contributor
-      value: Jim Howard
-    - name: Other contributors
-      value: Kameron DeVasher, Mark Howard, Justin Ringstaff, and Staci Schefka
-    - name: Layout and cover design
-      value: Kenton Rogers
-    - name: ISBN
-      value: 978-0-8280-2834-9
+title: Discipleship Handbook
+subtitle: >-
+  A Resource for Seventh-day Adventist Church Members. The Discipleship Handbook
+  is part of the GROW Your Church series of Personal Ministries resources.
+kind: book
+primaryColor: '#7A0119'
+primaryColorDark: '#000000'
+author: sspm
+credits:
+  - name: Copyright
+    value: >-
+      Copyright © 2018 by the General Conference Corporation of Seventh-day
+      Adventists®
+  - name: Principal Contributor
+    value: Jim Howard
+  - name: Other contributors
+    value: Kameron DeVasher, Mark Howard, Justin Ringstaff, and Staci Schefka
+  - name: Layout and cover design
+    value: Kenton Rogers
+  - name: ISBN
+    value: 978-0-8280-2834-9
+id: en-pm-discipleship-handbook
+index: en/pm/discipleship-handbook
+features: []
+covers:
+  landscape: >-
+    https://sabbath-school-stage.adventech.io/api/v2/en/pm/discipleship-handbook/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-stage.adventech.io/api/v2/en/pm/discipleship-handbook/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-stage.adventech.io/api/v2/en/pm/discipleship-handbook/assets/cover.png
+  splash: >-
+    https://sabbath-school-stage.adventech.io/api/v2/en/pm/discipleship-handbook/assets/splash.png
