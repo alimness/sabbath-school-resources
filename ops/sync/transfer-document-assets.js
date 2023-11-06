@@ -11,14 +11,14 @@ import {
     OPS_SYNC_TRANSFER_COMMANDS_FILENAME,
 } from "../helpers/constants.js"
 
-let transferDocumentImageAssets = async function () {
+let transferDocumentAssets = async function () {
     let commands = []
 
     const documentImageAssets = new fdir()
         .withBasePath()
         .withRelativePaths()
         .withMaxDepth(8) // up to assets/dir1/dir2/dir3/dir4
-        .glob(`**/${getResourceTypesGlob()}/**/assets/${getNegativeCoverImagesGlob()}?(**/)(*.{jpg,jpeg,png})`)
+        .glob(`**/${getResourceTypesGlob()}/**/assets/${getNegativeCoverImagesGlob()}?(**/)(*.{jpg,jpeg,png,pdf})`)
         .crawl(SOURCE_DIR)
         .sync();
 
@@ -65,4 +65,4 @@ let transferDocumentImageAssets = async function () {
     fs.writeFileSync(OPS_SYNC_TRANSFER_COMMANDS_FILENAME, `\n${commands.join("\n")}`)
 }
 
-await transferDocumentImageAssets()
+await transferDocumentAssets()

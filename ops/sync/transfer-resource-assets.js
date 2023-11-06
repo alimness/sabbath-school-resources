@@ -158,10 +158,10 @@ let transferResourcesAssets = async function () {
     }
 }
 
-let transferResourceImageAssets = async function () {
+let transferResourceAssets = async function () {
     await transferCategoriesAssets()
     await transferAuthorsAssets()
     await transferResourcesAssets()
 }
 
-await transferResourceImageAssets()
+await transferResourceAssets()
