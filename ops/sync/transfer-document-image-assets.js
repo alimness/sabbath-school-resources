@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 "use strict"
-import process from 'node:process'
+
 import fs from "fs-extra"
 import { fdir } from "fdir"
 import { getResourceTypesGlob, getNegativeCoverImagesGlob, escapeAssetPathForSed, parseResourcePath } from "../helpers/helpers.js"
@@ -8,24 +8,14 @@ import {
     API_URL,
     API_PREFIX,
     SOURCE_DIR,
-    RESOURCE_COVERS,
-    RESOURCE_ASSETS_DIRNAME, OPS_SYNC_TRANSFER_COMMANDS_FILENAME,
+    RESOURCE_ASSETS_DIRNAME,
+    OPS_SYNC_TRANSFER_COMMANDS_FILENAME,
 } from "../helpers/constants.js"
-
-// AWS command to run prior
-// aws s3 cp ./src s3://sabbath-school.adventech.io/api/v2/ --acl "public-read" --region us-east-1 --no-progress --recursive --dryrun --exclude "*" --include "*.png" --exclude "**/assets/cover.png" --exclude "**/assets/cover-landscape.png" --exclude "**/assets/cover-square.png" --exclude "**/assets/splash.png"
-
-// ggrep -Poir "(http|https)://(?!sabbath)[a-zA-Z0-9./?=_%:-]*" --include="*.md" ./src
-
-let mode = "local"
-
-if (process && process.env && process.env.GITHUB_TOKEN) {
-    mode = "remote"
-}
 
 let transferDocumentImageAssets = async function () {
     let commands = []
 
+    // TODO: expand beyond PNG to add JPG and JPEG
     const documentImageAssets = new fdir()
         .withBasePath()
         .withRelativePaths()
