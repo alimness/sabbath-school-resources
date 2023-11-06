@@ -60,6 +60,9 @@ jobs:
         name: Installing dependencies
       - run: aws s3 cp ./src s3://sabbath-school`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io/api/v2/ --acl "public-read" --region us-east-1 --no-progress --recursive --exclude "*" --include "*.png" --exclude "**/assets/cover.png" --exclude "**/assets/cover-landscape.png" --exclude "**/assets/cover-square.png" --exclude "**/assets/splash.png"
         name: Upload document image assets
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - run: node ops/sync/transfer-document-image-assets.js
         name: Generate transfer commands (seds) to replace locally referenced image assets with the remote URLs
       - run: test -f transfer_commands.txt && bash transfer_commands.txt || true
