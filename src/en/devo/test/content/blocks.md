@@ -5,6 +5,6 @@ cover: https://sabbath-school-stage.adventech.io/api/v2/en/devo/test/assets/ligh
 ---
 
 {"sspmStyle": {"fullBleed": true}}
-![Walrus image](lakegiraffe.png)
+![Walrus image](https://sabbath-school-stage.adventech.io/api/v2/en/devo/test/assets/lakegiraffe.png)
 
-!a[https://file-examples.com/storage/fed001dfc36547d0292f8e5/2017/04/file_example_MP4_480_1_5MG.mp4] test
+!a[https://sabbath-school-stage.adventech.io/api/v2/en/devo/test/assets/ce9ec0b7a61e4e911d8de6ca04b619917fb4a2c6dc738b85a46dcddf473842e4.mp4] test
