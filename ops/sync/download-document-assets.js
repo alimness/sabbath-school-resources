@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 "use strict"
 
-import process from "node:process"
 import crypto from "crypto"
 import * as path from "path"
 import fs from "fs-extra"
@@ -14,24 +13,7 @@ import {
     OPS_SYNC_TRANSFER_COMMANDS_FILENAME,
     OPS_SYNC_DOWNLOAD_COMMANDS_FILENAME,
     RESOURCE_ASSETS_DIRNAME,
-    SOURCE_DIR,
 } from "../helpers/constants.js"
-
-let mode = "local"
-
-
-// workflow
-// run mkdir download
-// run grep .... command    ggrep -Poir "(http|https)://(?!sabbath-school)[a-zA-Z0-9./?=_%:-]*" --include="*.md" ./src
-// run node download-document-assets.js
-// run bash download commands.txt
-// run aws s3 upload download folder aws s3 cp ./download s3://sabbath-school-stage.adventech.io --acl "public-read" --region us-east-1 --no-progress --recursive --dryrun
-// run aws s3 upload from transfer
-// run bash transfer commands
-
-if (process && process.env && process.env.GITHUB_TOKEN) {
-    mode = "remote"
-}
 
 let processDetectedLinks = async function () {
     if (!fs.pathExistsSync(OPS_SYNC_DETECTED_LINKS_FILENAME)) {
@@ -68,7 +50,7 @@ let processDetectedLinks = async function () {
     }
 
     let downloadCommands = links.map(l => {
-        return `curl -C - -L --create-dirs -o "${l.localURL}" ${l.link}`
+        return `curl -C - -L --create-dirs -o "${l.localURL}" "${l.link}"`
     })
 
     let transferCommands = links.map(l => {
@@ -76,7 +58,7 @@ let processDetectedLinks = async function () {
     })
 
     fs.writeFileSync(OPS_SYNC_DOWNLOAD_COMMANDS_FILENAME, `\n${downloadCommands.join("\n")}`)
-    fs.appendFileSync(OPS_SYNC_TRANSFER_COMMANDS_FILENAME, `\n${transferCommands.join("\n")}`)
+    fs.writeFileSync(OPS_SYNC_TRANSFER_COMMANDS_FILENAME, `\n${transferCommands.join("\n")}`)
 }
 
 await processDetectedLinks()
