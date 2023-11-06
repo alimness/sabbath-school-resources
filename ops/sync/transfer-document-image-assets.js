@@ -60,7 +60,8 @@ let transferDocumentImageAssets = async function () {
          * All of the above might require substantial amount of coding and slow performance, at least as it seems right
          * now.
          */
-        commands.push(`sed -i '' -e 's/\\([ [(:]\\)${escapeAssetPathForSed(targetImage)}/\\1${escapeAssetPathForSed(remoteURL)}/g' ${assetDir}/**/*.md`)
+
+        commands.push(`sed -i '' -e 's/\\([ [(:]\\)${escapeAssetPathForSed(targetImage)}/\\1${escapeAssetPathForSed(remoteURL)}/g' ${assetDir}/**/*.md && rm ${SOURCE_DIR}/${documentImageAsset}`)
     }
 
     fs.appendFileSync(OPS_SYNC_TRANSFER_COMMANDS_FILENAME, `\n${commands.join("\n")}`)
