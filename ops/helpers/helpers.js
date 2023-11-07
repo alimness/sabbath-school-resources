@@ -1,8 +1,7 @@
-import fs from "fs-extra"
 import process from "process"
 import { fileURLToPath } from "url"
 import { createRequire } from 'module'
-import {SOURCE_DIR, API_PREFIX, API_URL, RESOURCE_TYPE, RESOURCE_COVERS} from "./constants.js"
+import { SOURCE_DIR, RESOURCE_TYPE, RESOURCE_COVERS, CATEGORY_DEFAULT_NAME } from "./constants.js"
 
 let slug = function (input) {
     return input.replace(/\s/g, '-').replace(/([^A-Za-z0-9\-])|(-$)/g, "").toLowerCase()
@@ -15,15 +14,7 @@ let pad = function(num, size) {
 }
 
 let escapeAssetPathForSed = function (assetPath) {
-    let targetChars = ["[", "]", "(", ")", "\\", "/", "*"]
-
-    // targetChars.map(c => {
-    //
-    // })
-
-    assetPath = assetPath.replace(/([\[\]()\\\/*&])/g, `\\$1`)
-
-    return assetPath
+    return assetPath.replace(/([\[\]()\\\/*&])/g, `\\$1`)
 }
 
 let getResourceTypesGlob = function () {
@@ -50,7 +41,7 @@ let parseResourcePath = function (resourcePath) {
         info.language = matches[1] || null;
         info.type = matches[2] || null;
         info.title = matches[3] || null;
-        info.section = (matches[4] && matches[5] && !/\.md$/.test(matches[5])) ? matches[5] : null;
+        info.section = (matches[4] && matches[5] && !/\.md$/.test(matches[5])) ? matches[5] : CATEGORY_DEFAULT_NAME;
         info.document = matches[6] ? matches[6] : (matches[5] && /\.md$/.test(matches[5])) ? matches[5] : null;
         if (info.document) { info.document = info.document.replace(".md", "") }
     } catch (e) {
@@ -71,36 +62,9 @@ let isMainModule = function (meta) {
     return modulePath === scriptPath
 }
 
-// TODO: Deprecate
-let isImageValid = function (inputSrc, resourcePath) {
-    let valid = true
-    let src = inputSrc
-
-    if (!/^http/.test(src.trim())) {
-        valid = false
-        let prefixes = [
-            `/${resourcePath.name}/`,
-            `/${resourcePath.name}/assets/`,
-            `/${resourcePath.name}/assets/img/`,
-            `/assets/`,
-            `/assets/img/`,
-        ]
-        for (let prefix of prefixes) {
-            if (fs.pathExistsSync(`${SOURCE_DIR}/${resourcePath.language}/${resourcePath.type}${prefix}${src}`)) {
-                src = `${API_URL()}${API_PREFIX}${resourcePath.language}/${resourcePath.type}${prefix}${src}`
-                valid = true
-                break
-            }
-        }
-    }
-
-    return { valid, src }
-}
-
 export {
     parseResourcePath,
     isMainModule,
-    isImageValid,
     slug,
     pad,
     getResourceTypesGlob,

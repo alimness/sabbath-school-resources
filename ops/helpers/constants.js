@@ -50,6 +50,7 @@ export const CATEGORIES_DIRNAME = "categories"
 export const CATEGORY_INFO_FILENAME = "info.yml"
 export const CATEGORY_FEED_FILENAME = "feed.yml"
 export const CATEGORY_ASSETS_DIRNAME = "assets"
+export const CATEGORY_DEFAULT_NAME = "root"
 export const CATEGORY_FEED_RESOURCE_TYPE = "resource"
 export const CATEGORY_FEED_DOCUMENT_TYPE = "document"
 export const CATEGORY_FEED_DEFAULT_TYPE = CATEGORY_FEED_RESOURCE_TYPE

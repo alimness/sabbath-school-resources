@@ -10,7 +10,7 @@ import { parseDocument } from '../helpers/blocks.js'
 import {
     SOURCE_DIR,
     API_DIST,
-    RESOURCE_TYPE, DOCUMENT_CONTENT_DIRNAME, DOCUMENT_TYPES
+    RESOURCE_TYPE, DOCUMENT_CONTENT_DIRNAME, DOCUMENT_TYPES, CATEGORY_DEFAULT_NAME
 } from "../helpers/constants.js"
 
 let getDocumentInfo = async function (document, processBlocks = false) {
@@ -29,8 +29,8 @@ let getDocumentInfo = async function (document, processBlocks = false) {
         documentInfo.type = DOCUMENT_TYPES.BLOCK
     }
 
-    documentInfo.id = `${documentPathInfo.language}-${documentPathInfo.type}-${documentPathInfo.title}-${DOCUMENT_CONTENT_DIRNAME}-${documentPathInfo.section || 'root'}-${documentPathInfo.document}`
-    documentInfo.index = `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section || 'root'}/${documentPathInfo.document}`
+    documentInfo.id = `${documentPathInfo.language}-${documentPathInfo.type}-${documentPathInfo.title}-${DOCUMENT_CONTENT_DIRNAME}-${documentPathInfo.section || CATEGORY_DEFAULT_NAME}-${documentPathInfo.document}`
+    documentInfo.index = `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section || CATEGORY_DEFAULT_NAME}/${documentPathInfo.document}`
 
     return documentInfo
 }
@@ -49,7 +49,7 @@ let processDocuments = async function (resourceType) {
     for (let document of documents) {
         let documentInfo = await getDocumentInfo(`${SOURCE_DIR}/${document}`, true)
         let documentPathInfo = parseResourcePath(document)
-        fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${resourceType}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section ? `${documentPathInfo.section}/` : ''}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
+        fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${resourceType}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section ? `${documentPathInfo.section}/` : 'root/'}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
     }
 }
 

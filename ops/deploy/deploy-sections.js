@@ -13,7 +13,7 @@ import {
     RESOURCE_TYPE,
     RESOURCE_CONTENT_DIRNAME,
     RESOURCE_INFO_FILENAME,
-    SECTION_INFO_FILENAME, RESOURCE_ORDER
+    SECTION_INFO_FILENAME, RESOURCE_ORDER, CATEGORY_DEFAULT_NAME
 } from "../helpers/constants.js"
 
 let getSectionInfo = async function (section) {
@@ -43,8 +43,8 @@ let processSections = async function (resourceType) {
             .sync()
 
         const resourceSectionData = {
-            'root': {
-                id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-root`,
+            CATEGORY_DEFAULT_NAME: {
+                id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${CATEGORY_DEFAULT_NAME}`,
                 title: '',
                 isRoot: true,
                 documents: []
@@ -73,7 +73,7 @@ let processSections = async function (resourceType) {
         }
 
         for (let document of documents) {
-            const documentSectionName = document.substring(0, document.lastIndexOf("/")) || 'root'
+            const documentSectionName = document.substring(0, document.lastIndexOf("/")) || CATEGORY_DEFAULT_NAME
             const documentInfo = await getDocumentInfo(`${resourceContentPath}/${document}`)
             resourceSectionData[documentSectionName].documents.push(documentInfo)
         }

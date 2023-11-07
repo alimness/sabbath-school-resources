@@ -11,6 +11,10 @@ let getLanguageInfo = async function (language) {
     return yaml.load(fs.readFileSync(`${SOURCE_DIR}/${language}/${LANGUAGE_INFO_FILENAME}`, 'utf8'))
 }
 
+let getLanguageInfoSync = function (language) {
+    return yaml.load(fs.readFileSync(`${SOURCE_DIR}/${language}/${LANGUAGE_INFO_FILENAME}`, 'utf8'))
+}
+
 let getLanguages = async function () {
     return new fdir()
         .filter(d => d !== `${SOURCE_DIR}/`)
@@ -43,5 +47,7 @@ if (isMainModule(import.meta)) {
 }
 
 export {
-    getLanguages
+    getLanguages,
+    getLanguageInfo,
+    getLanguageInfoSync
 }
