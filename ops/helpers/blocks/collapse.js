@@ -2,17 +2,17 @@ import { parseDocument } from "../blocks.js"
 
 export const collapse = {
     extension: {
-        name: 'collapse',
-        level: 'block',
+        name: "collapse",
+        level: "block",
         tokenizer(src, tokens) {
-            const rule = /^ {0,3}(`{3,}(?=[^`\n]*\n)|~{3,})=([^\n]+)\n(?:|([\s\S]*?)\n)(?: {0,3}\1[~`]* *(?=\n|$)|$)/
+            const rule = /^ {0,3}(`{3,}(?=[^`\n]*\n))=([^\n]+)\n(?:|([\s\S]*?)\n)(?: {0,3}\1`* *(?=\n|$)|$)/
             const match = rule.exec(src);
             if (match) {
                 return {
-                    type: 'collapse',
+                    type: "collapse",
                     raw: match[0],
                     caption: match[2],
-                    text: match[0].replace(/(^```=[^\n]+|```$)/g, '').trim()
+                    text: match[0].replace(/(^```=[^\n]+|```$)/g, "").trim()
                 }
             }
         },

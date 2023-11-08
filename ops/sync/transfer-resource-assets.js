@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 "use strict"
-import process from 'node:process'
+import process from "node:process"
 import fs from "fs-extra"
 import yaml from "js-yaml"
 import { fdir } from "fdir"

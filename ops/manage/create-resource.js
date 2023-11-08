@@ -100,13 +100,13 @@ let createResource = async function () {
     }
 
     if (fs.pathExistsSync(`${resourcePath}`)) {
-        console.error('Specified resource already exists. Exiting', resourcePath)
+        console.error("Specified resource already exists. Exiting", resourcePath)
         return
     }
 
     if (!fs.pathExistsSync(`./src/${lang}`)) {
-        console.log('Specified language does not exist. Creating...', lang)
-        const languageInfo = yaml.load(fs.readFileSync(OPS_DIR_MANAGE_LANGUAGE_INFO, 'utf8'))
+        console.log("Specified language does not exist. Creating...", lang)
+        const languageInfo = yaml.load(fs.readFileSync(OPS_DIR_MANAGE_LANGUAGE_INFO, "utf8"))
         languageInfo.code = lang
         languageInfo.name = "Language name in English"
         languageInfo.native = "Language name in language"
@@ -118,7 +118,7 @@ let createResource = async function () {
                 .withBasePath()
                 .withRelativePaths()
                 .withMaxDepth(1)
-                .glob('**/info.js')
+                .glob("**/info.js")
                 .crawl(`${BIBLES_LOCATION}/${lang}`)
                 .sync()
             for (let bible of bibles) {

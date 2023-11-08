@@ -1,6 +1,6 @@
 import crypto from "crypto"
 import { marked } from "marked"
-import { carousel, slide, image, collapse, audio, video, reference, question, blockquote, hr, heading, list, paragraph, style, superscript } from "./blocks/index.js"
+import { carousel, slide, image, collapse, audio, video, reference, question, blockquote, hr, heading, list, paragraph, poll, style, superscript } from "./blocks/index.js"
 
 marked.use({
     extensions: [
@@ -12,6 +12,7 @@ marked.use({
         audio.extension,
         video.extension,
         reference.extension,
+        poll.extension
     ]
 });
 
@@ -23,9 +24,9 @@ let parseBlock = function (block, resourcePath, index, parentId) {
 
     let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/content/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}`
 
-    block.id = crypto.createHash('sha256').update(
+    block.id = crypto.createHash("sha256").update(
         `${documentIndex}-${parentId}-${block.type}-${index}`
-    ).digest('hex')
+    ).digest("hex")
 
     const supportedBlockTypes = {
         blockquote,
@@ -40,7 +41,8 @@ let parseBlock = function (block, resourcePath, index, parentId) {
         reference,
         paragraph,
         heading,
-        list
+        list,
+        poll
     }
 
     if (supportedBlockTypes[block.type]) {
@@ -58,12 +60,12 @@ let parseBlock = function (block, resourcePath, index, parentId) {
 }
 
 let parseDocument = function (document, resourcePath, parentId) {
-    const blocks = marked.lexer(document).filter(b => b.type !== 'space')
+    const blocks = marked.lexer(document).filter(b => b.type !== "space")
     let blocksData = []
 
     for (let [index, block] of blocks.entries()) {
         let indexHash = blocks.filter(b => b.type === block.type).findIndex(b => b === block)
-        let blockData = parseBlock(block, resourcePath, indexHash >= 0 ? indexHash : index, parentId ?? 'root')
+        let blockData = parseBlock(block, resourcePath, indexHash >= 0 ? indexHash : index, parentId ?? "root")
 
         if (blockData) {
             blocksData.push(blockData)

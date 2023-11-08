@@ -1,10 +1,10 @@
 import process from "process"
 import { fileURLToPath } from "url"
-import { createRequire } from 'module'
+import { createRequire } from "module"
 import { SOURCE_DIR, RESOURCE_TYPE, RESOURCE_COVERS, CATEGORY_DEFAULT_NAME } from "./constants.js"
 
 let slug = function (input) {
-    return input.replace(/\s/g, '-').replace(/([^A-Za-z0-9\-])|(-$)/g, "").toLowerCase()
+    return input.replace(/\s/g, "-").replace(/([^A-Za-z0-9\-])|(-$)/g, "").toLowerCase()
 }
 
 let pad = function(num, size) {
@@ -31,7 +31,7 @@ let getNegativeCoverImagesGlob = function () {
 
 let parseResourcePath = function (resourcePath) {
     if (/^\.\/src\//.test(resourcePath)) {
-        resourcePath = resourcePath.replace(`${SOURCE_DIR}/`, '')
+        resourcePath = resourcePath.replace(`${SOURCE_DIR}/`, "")
     }
     let pathRegExp = /^([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?/mg,
         matches = pathRegExp.exec(resourcePath),

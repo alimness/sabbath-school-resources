@@ -8,11 +8,11 @@ import { API_DIST, LANGUAGE_INFO_FILENAME, RESOURCE_TYPE, SOURCE_DIR } from "../
 import { isMainModule } from "../helpers/helpers.js"
 
 let getLanguageInfo = async function (language) {
-    return yaml.load(fs.readFileSync(`${SOURCE_DIR}/${language}/${LANGUAGE_INFO_FILENAME}`, 'utf8'))
+    return yaml.load(fs.readFileSync(`${SOURCE_DIR}/${language}/${LANGUAGE_INFO_FILENAME}`, "utf8"))
 }
 
 let getLanguageInfoSync = function (language) {
-    return yaml.load(fs.readFileSync(`${SOURCE_DIR}/${language}/${LANGUAGE_INFO_FILENAME}`, 'utf8'))
+    return yaml.load(fs.readFileSync(`${SOURCE_DIR}/${language}/${LANGUAGE_INFO_FILENAME}`, "utf8"))
 }
 
 let getLanguages = async function () {
@@ -21,7 +21,7 @@ let getLanguages = async function () {
         .withMaxDepth(1)
         .onlyDirs()
         .crawl(SOURCE_DIR)
-        .sync().map(l => l.replace(`${SOURCE_DIR}/`, '').replace(/\/$/, ''));
+        .sync().map(l => l.replace(`${SOURCE_DIR}/`, "").replace(/\/$/, ""));
 }
 
 let processLanguages = async function () {

@@ -10,6 +10,7 @@ import { hr } from "./hr.js"
 import { heading } from "./heading.js"
 import { list } from "./list.js"
 import { paragraph } from "./paragraph.js"
+import { poll } from "./poll.js"
 
 import { style } from "./style.js"
 import { superscript } from "./superscript.js"
@@ -29,5 +30,6 @@ export {
     list,
     paragraph,
     style,
-    superscript
+    superscript,
+    poll
 }

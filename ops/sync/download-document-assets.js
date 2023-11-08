@@ -19,7 +19,7 @@ let processDetectedLinks = async function () {
         console.log(`No file with the detected links found. Exiting...`)
         return
     }
-    const detectedLinks = fs.readFileSync(OPS_SYNC_DETECTED_LINKS_FILENAME, 'utf8').trim().split("\n")
+    const detectedLinks = fs.readFileSync(OPS_SYNC_DETECTED_LINKS_FILENAME, "utf8").trim().split("\n")
 
     let links = []
 
@@ -29,7 +29,7 @@ let processDetectedLinks = async function () {
         if (src && link && link.length === 2) {
             link = link.join(":")
             const srcPath = parseResourcePath(src)
-            const linkHash = crypto.createHash('sha256').update(link).digest('hex')
+            const linkHash = crypto.createHash("sha256").update(link).digest("hex")
             const extension = path.extname(link)
             let remoteURL = `${MEDIA_URL}/${srcPath.language}/${srcPath.type}/${srcPath.title}/${RESOURCE_ASSETS_DIRNAME}/${linkHash}`
             let localURL = `${OPS_SYNC_DOWNLOAD_LOCATION}/${srcPath.language}/${srcPath.type}/${srcPath.title}/${RESOURCE_ASSETS_DIRNAME}/${linkHash}`

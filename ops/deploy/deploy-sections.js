@@ -17,7 +17,7 @@ import {
 } from "../helpers/constants.js"
 
 let getSectionInfo = async function (section) {
-    return yaml.load(fs.readFileSync(section, 'utf8'))
+    return yaml.load(fs.readFileSync(section, "utf8"))
 }
 
 let processSections = async function (resourceType) {
@@ -45,7 +45,7 @@ let processSections = async function (resourceType) {
         const resourceSectionData = {
             CATEGORY_DEFAULT_NAME: {
                 id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${CATEGORY_DEFAULT_NAME}`,
-                title: '',
+                title: "",
                 isRoot: true,
                 documents: []
             }
@@ -53,8 +53,8 @@ let processSections = async function (resourceType) {
 
         for (let section of sections) {
             let sectionInfo = await getSectionInfo(`${resourceContentPath}/${section}`)
-            resourceSectionData[`${section.replace(`/${SECTION_INFO_FILENAME}`, '')}`] = {
-                id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${section.replace(`/${SECTION_INFO_FILENAME}`, '')}`,
+            resourceSectionData[`${section.replace(`/${SECTION_INFO_FILENAME}`, "")}`] = {
+                id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${section.replace(`/${SECTION_INFO_FILENAME}`, "")}`,
                 documents: [],
                 ...sectionInfo
             }

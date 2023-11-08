@@ -1,8 +1,8 @@
 let superscriptReplacement = function (str) {
-    const unicodeMap = ['⁰', '¹', '²', '³', '⁴', '⁵', '⁶', '⁷', '⁸', '⁹']
+    const unicodeMap = ["⁰", "¹", "²", "³", "⁴", "⁵", "⁶", "⁷", "⁸", "⁹"]
     let ret = str
     for (let i = 0; i <= 9; i++) {
-        ret = ret.replace(new RegExp(`${i}`, 'gm'), unicodeMap[i])
+        ret = ret.replace(new RegExp(`${i}`, "gm"), unicodeMap[i])
     }
     return ret
 }

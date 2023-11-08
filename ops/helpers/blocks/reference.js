@@ -24,11 +24,11 @@ let processReference = function (block) {
         const resource = getResourceInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_INFO_FILENAME}`)
 
         if (reference.scope === RESOURCE_FEED_DOCUMENT_TYPE) {
-            const documentInfo = getDocumentInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/content/${referenceTargetPath.section && referenceTargetPath.section !== CATEGORY_DEFAULT_NAME ? `${referenceTargetPath.section}/` : ''}${referenceTargetPath.document}.md`)
+            const documentInfo = getDocumentInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/content/${referenceTargetPath.section && referenceTargetPath.section !== CATEGORY_DEFAULT_NAME ? `${referenceTargetPath.section}/` : ""}${referenceTargetPath.document}.md`)
 
             reference.title = documentInfo.title
             reference.subtitle = resource.title
-            reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/content/${referenceTargetPath.section}/${referenceTargetPath.document.replace(/\*.md$/, '')}`
+            reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/content/${referenceTargetPath.section}/${referenceTargetPath.document.replace(/\*.md$/, "")}`
         } else {
             reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}`
             reference.title = resource.title

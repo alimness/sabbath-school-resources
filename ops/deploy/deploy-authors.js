@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 "use strict"
 
-import { isMainModule, parseResourcePath } from '../helpers/helpers.js'
+import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import { fdir } from "fdir"
 import yaml from "js-yaml"
 import fs from "fs-extra"
@@ -18,12 +18,12 @@ import {
 import { getResourceInfo } from "./deploy-resources.js"
 
 let getAuthorInfo = async function (author) {
-    const authorInfo = yaml.load(fs.readFileSync(author, 'utf8'))
+    const authorInfo = yaml.load(fs.readFileSync(author, "utf8"))
     return authorInfo
 }
 
 let getAuthorFeed = async function (author) {
-    let authorFeed = yaml.load(fs.readFileSync(author, 'utf8'))
+    let authorFeed = yaml.load(fs.readFileSync(author, "utf8"))
     return authorFeed
 }
 
@@ -37,14 +37,14 @@ let getAllTaggedResources = async function () {
         .sync();
 
     let allTaggedResources = {
-        'resources': []
+        resources: []
     }
 
     for (let resource of resources) {
         try {
             let resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${resource}`)
             if (resourceInfo.author) {
-                allTaggedResources['resources'].push(resourceInfo)
+                allTaggedResources["resources"].push(resourceInfo)
             }
         } catch (e) {
             console.error(e);

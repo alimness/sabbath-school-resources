@@ -8,7 +8,7 @@ export const blockquote = {
         const memoryVerseRegex = /<p>([^<>]+)<\/p>/g
         let memoryVerse = memoryVerseRegex.exec(block.text)
         if (memoryVerse) {
-            block.text = block.text.replace(memoryVerseRegex, '').trim()
+            block.text = block.text.replace(memoryVerseRegex, "").trim()
             blockquote.memoryVerse = true
             blockquote.caption = memoryVerse[1]
         }
@@ -17,7 +17,7 @@ export const blockquote = {
         const citationRegex = /<cite>([^<>]+)<\/cite>/g
         let citation = citationRegex.exec(block.text)
         if (citation) {
-            block.text = block.text.replace(citationRegex, '').trim()
+            block.text = block.text.replace(citationRegex, "").trim()
             blockquote.caption = citation[1]
             blockquote.citation = true
         }

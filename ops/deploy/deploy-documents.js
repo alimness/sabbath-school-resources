@@ -4,8 +4,8 @@
 import fs from "fs-extra"
 import frontMatter from "front-matter"
 import { fdir } from "fdir"
-import { isMainModule, parseResourcePath } from '../helpers/helpers.js'
-import { parseDocument } from '../helpers/blocks.js'
+import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
+import { parseDocument } from "../helpers/blocks.js"
 
 import {
     SOURCE_DIR,
@@ -14,7 +14,7 @@ import {
 } from "../helpers/constants.js"
 
 let getDocumentInfo = async function (document, processBlocks = false) {
-    const documentFile = fs.readFileSync(document, 'utf8');
+    const documentFile = fs.readFileSync(document, "utf8");
     const documentInfoFrontMatter = frontMatter(documentFile)
     const documentPathInfo = parseResourcePath(document)
 
@@ -24,7 +24,7 @@ let getDocumentInfo = async function (document, processBlocks = false) {
 
     if (!documentInfo.type) {
         if (processBlocks) {
-            documentInfo.blocks = parseDocument(documentInfoFrontMatter.body, documentPathInfo, 'root')
+            documentInfo.blocks = parseDocument(documentInfoFrontMatter.body, documentPathInfo, "root")
         }
         documentInfo.type = DOCUMENT_TYPES.BLOCK
     }
@@ -49,13 +49,13 @@ let processDocuments = async function (resourceType) {
     for (let document of documents) {
         let documentInfo = await getDocumentInfo(`${SOURCE_DIR}/${document}`, true)
         let documentPathInfo = parseResourcePath(document)
-        fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${resourceType}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section ? `${documentPathInfo.section}/` : 'root/'}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
+        fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${resourceType}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section ? `${documentPathInfo.section}/` : "root/"}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
     }
 }
 
 if (isMainModule(import.meta)) {
     await processDocuments(RESOURCE_TYPE.DEVO)
-    await processDocuments(RESOURCE_TYPE.PM)
+    // await processDocuments(RESOURCE_TYPE.PM)
 }
 
 export {

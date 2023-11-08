@@ -24,7 +24,7 @@ export const style = function (block) {
             if (validateResult.errors.length < 1) {
                 blockStyle.style = {...sspmOptions.style}
                 let replacer = block.type === "image" ? block.raw : block.text
-                block.text = replacer.replace(sspmOptionsRegex, '').trim()
+                block.text = replacer.replace(sspmOptionsRegex, "").trim()
             }
         } catch (e) {}
     }

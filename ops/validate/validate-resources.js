@@ -94,7 +94,7 @@ let validateResources = async function (resourceType) {
         try {
             resourcePathInfo = parseResourcePath(resource)
         } catch (e) {
-            e = e.toString().replace(/\n/g, '<br>');
+            e = e.toString().replace(/\n/g, "<br>");
             fail(`Critical error. Can not parse the resource path: ${resource}. Error: \`${e}\``);
             continue
         }
@@ -102,7 +102,7 @@ let validateResources = async function (resourceType) {
         try {
             resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${resource}`)
         } catch (e) {
-            e = e.toString().replace(/\n/g, '<br>');
+            e = e.toString().replace(/\n/g, "<br>");
             fail(`Critical error. Can not parse the resource info: ${resource}. Error: \`${e}\``);
             continue
         }
@@ -131,7 +131,7 @@ let validateResources = async function (resourceType) {
                 }
             }
         } catch (e) {
-            e = e.toString().replace(/\n/g, '<br>');
+            e = e.toString().replace(/\n/g, "<br>");
             fail(`Critical error. Error checking sections of ${resource}. Error: \`${e}\``);
             continue
         }
@@ -152,7 +152,7 @@ let validateResources = async function (resourceType) {
                 }
             }
         } catch (e) {
-            e = e.toString().replace(/\n/g, '<br>');
+            e = e.toString().replace(/\n/g, "<br>");
             fail(`Critical error. Can not determine documents for ${resource}. Error: \`${e}\``);
             continue
         }
@@ -179,19 +179,19 @@ let validateResources = async function (resourceType) {
         }
 
         try {
-            if (!resourceInfo && !resourceInfo['portrait'] && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.PORTRAIT}`)) {
+            if (!resourceInfo && !resourceInfo.portrait && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.PORTRAIT}`)) {
                 fail(`Portrait cover not found for resource: ${resource}`);
             }
 
-            if (!resourceInfo && !resourceInfo['landscape'] && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.LANDSCAPE}`)) {
+            if (!resourceInfo && !resourceInfo.landscape && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.LANDSCAPE}`)) {
                 fail(`Landscape cover not found for resource: ${resource}`);
             }
 
-            if (!resourceInfo && !resourceInfo['square'] && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.SQUARE}`)) {
+            if (!resourceInfo && !resourceInfo.square && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.SQUARE}`)) {
                 fail(`Square cover not found for resource: ${resource}`);
             }
 
-            if (!resourceInfo && !resourceInfo['splash'] && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.SPLASH}`)) {
+            if (!resourceInfo && !resourceInfo.splash && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.SPLASH}`)) {
                 fail(`Splash cover not found for resource: ${resource}`);
             }
         } catch (e) {

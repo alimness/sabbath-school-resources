@@ -3,7 +3,7 @@
 
 import yaml from "js-yaml"
 import fs from "fs-extra"
-import { isMainModule, parseResourcePath } from '../helpers/helpers.js'
+import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import { fdir } from "fdir"
 import { getLanguages } from "./deploy-languages.js"
 import {
@@ -20,7 +20,7 @@ import {
 import {getDocumentInfo} from "./deploy-documents.js";
 
 let getResourceInfo = async function (resource, depth = 0) {
-    const resourceInfo = yaml.load(fs.readFileSync(resource, 'utf8'));
+    const resourceInfo = yaml.load(fs.readFileSync(resource, "utf8"));
     const resourcePathInfo = parseResourcePath(resource)
 
     resourceInfo.id = `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}`
@@ -62,7 +62,7 @@ let getResourceInfo = async function (resource, depth = 0) {
 }
 
 let getResourceFeed = async function (resource) {
-    let resourceFeed = yaml.load(fs.readFileSync(resource, 'utf8'))
+    let resourceFeed = yaml.load(fs.readFileSync(resource, "utf8"))
     return resourceFeed
 }
 

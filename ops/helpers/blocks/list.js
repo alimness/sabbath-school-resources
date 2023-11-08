@@ -1,5 +1,13 @@
 import { parseBlock } from "../blocks.js"
 
+/**
+ * List
+ * Checklist
+ * Multiple-choice
+ * Appeal
+ * List inside POLL is a list of poll options
+ */
+
 export const list = {
     extension: {},
     process: function (block, resourcePath) {
@@ -22,7 +30,7 @@ export const list = {
 
         // Appeal
         if (block.items.length === 1 && block.items[0].task) {
-            return blockData = { id: block.id, type: "appeal", markdown: block.items[0].text }
+            return { id: block.id, type: "appeal", markdown: block.items[0].text }
         }
 
         // Checklist
@@ -45,7 +53,7 @@ export const list = {
                 }
             }
             if (multiAppeal) {
-                return blockData = { ...blockData, type: "checklist" }
+                return { ...blockData, type: "checklist" }
             }
         }
 
@@ -73,7 +81,7 @@ export const list = {
                 }
             }
             if (multipleChoice && checkedNum === 1) {
-                return blockData = { ...blockData, answer: answer, type: "multiple-choice" }
+                return { ...blockData, answer: answer, type: "multiple-choice" }
             }
         }
 

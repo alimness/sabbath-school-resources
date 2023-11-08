@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 "use strict"
 
-import { isMainModule, parseResourcePath } from '../helpers/helpers.js'
+import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import { fdir } from "fdir"
 import yaml from "js-yaml"
 import fs from "fs-extra"
@@ -16,12 +16,12 @@ import { getResourceInfo } from "./deploy-resources.js"
 import { getDocumentInfo } from "./deploy-documents.js"
 
 let getCategoryInfo = async function (category) {
-    const categoryInfo = yaml.load(fs.readFileSync(category, 'utf8'))
+    const categoryInfo = yaml.load(fs.readFileSync(category, "utf8"))
     return categoryInfo
 }
 
 let getCategoryFeed = async function (category) {
-    let categoryFeed = yaml.load(fs.readFileSync(category, 'utf8'))
+    let categoryFeed = yaml.load(fs.readFileSync(category, "utf8"))
     return categoryFeed
 }
 
@@ -44,15 +44,15 @@ let getAllTaggedResources = async function () {
         .sync();
 
     let allTaggedResources = {
-        'resources': [],
-        'documents': [],
+        resources: [],
+        documents: [],
     }
 
     for (let resource of resources) {
         try {
             let resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${resource}`)
             if (resourceInfo.categories) {
-                allTaggedResources['resources'].push(resourceInfo)
+                allTaggedResources.resources.push(resourceInfo)
             }
         } catch (e) {
             console.error(e);
@@ -63,7 +63,7 @@ let getAllTaggedResources = async function () {
         try {
             let documentInfo = await getDocumentInfo(`${SOURCE_DIR}/${document}`)
             if (documentInfo.categories) {
-                allTaggedResources['documents'].push(documentInfo)
+                allTaggedResources.documents.push(documentInfo)
             }
         } catch (e) {
             console.error(e);
