@@ -21,7 +21,7 @@ export const poll = {
             return `TODO: poll`;
         }
     },
-    process: function (block, resourcePath) {
+    process: async function (block, resourcePath) {
         let list = parseDocument(block.text, resourcePath, block.id)
 
         if (list.length === 1 && list[0].type === "list") {

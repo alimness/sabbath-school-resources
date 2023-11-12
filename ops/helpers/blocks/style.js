@@ -1,4 +1,4 @@
-import {validate as jsonSchemaValidate} from "jsonschema";
+import { validate as jsonSchemaValidate } from "jsonschema"
 
 const styleSchema = {
     "type": "object",
@@ -9,6 +9,7 @@ const styleSchema = {
         "position": {"type": "string", "enum": ["start", "center", "end"]},
         "size": {"type": "string", "enum": ["small", "medium", "large"]},
         "fullBleed": {"type": "boolean"},
+        "aspectRatio": { "type": "number" }
     }
 }
 

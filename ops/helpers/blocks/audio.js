@@ -20,7 +20,7 @@ export const audio = {
             return `TODO: reference`;
         }
     },
-    process: function (block) {
+    process: async function (block) {
         return { id: block.id, type: block.type, src: block.target, title: block.title, subtitle: block.subtitle }
     },
 }

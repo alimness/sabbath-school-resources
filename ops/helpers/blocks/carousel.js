@@ -46,7 +46,7 @@ export const slide = {
             return `TODO: collapse`;
         }
     },
-    process: function (block, resourcePath) {
+    process: async function (block, resourcePath) {
         return { id: block.id, type: block.type, items: parseDocument(block.text, resourcePath, block.id) }
     },
 

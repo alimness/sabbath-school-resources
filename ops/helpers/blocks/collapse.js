@@ -22,7 +22,7 @@ export const collapse = {
             return `TODO: collapse`;
         }
     },
-    process: function (block, resourcePath) {
+    process: async function (block, resourcePath) {
         return { id: block.id, type: block.type, caption: block.caption, items: parseDocument(block.text, resourcePath, block.id) }
     },
 }

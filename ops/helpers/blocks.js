@@ -16,7 +16,7 @@ marked.use({
     ]
 });
 
-let parseBlock = function (block, resourcePath, index, parentId) {
+let parseBlock = async function (block, resourcePath, index, parentId) {
     let blockStyleReturn = style(block)
     let blockStyle = blockStyleReturn.blockStyle
 
@@ -46,7 +46,7 @@ let parseBlock = function (block, resourcePath, index, parentId) {
     }
 
     if (supportedBlockTypes[block.type]) {
-        let processedBlock = supportedBlockTypes[block.type].process(block, resourcePath)
+        let processedBlock = await supportedBlockTypes[block.type].process(block, resourcePath)
 
         // In certain cases we might decide that we should skip this block, i.e image is referencing local file that
         // does not exist. In this case we will skip it
@@ -59,13 +59,13 @@ let parseBlock = function (block, resourcePath, index, parentId) {
     return null
 }
 
-let parseDocument = function (document, resourcePath, parentId) {
-    const blocks = marked.lexer(document).filter(b => b.type !== "space")
+let parseDocument = async function (document, resourcePath, parentId, filter = (b) => b.type !== "space") {
+    const blocks = marked.lexer(document).filter(filter)
     let blocksData = []
 
     for (let [index, block] of blocks.entries()) {
         let indexHash = blocks.filter(b => b.type === block.type).findIndex(b => b === block)
-        let blockData = parseBlock(block, resourcePath, indexHash >= 0 ? indexHash : index, parentId ?? "root")
+        let blockData = await parseBlock(block, resourcePath, indexHash >= 0 ? indexHash : index, parentId ?? "root")
 
         if (blockData) {
             blocksData.push(blockData)

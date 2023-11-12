@@ -9,8 +9,11 @@ if (process && process.env && process.env.DEPLOY_ENV && process.env.DEPLOY_ENV =
 // Directories
 export const DIST_DIR = "./dist"
 export const SOURCE_DIR = "./src"
+
+// Languages
 export const LANGUAGE_INFO_FILENAME = "info.yml"
 
+// Resources
 export const RESOURCE_TYPE = {
     DEVO: "devo",
     PM: "pm",
@@ -39,11 +42,10 @@ export const RESOURCE_INFO_FILENAME = "info.yml"
 export const RESOURCE_FEED_FILENAME = "feed.yml"
 export const RESOURCE_ASSETS_DIRNAME = "assets"
 export const RESOURCE_CONTENT_DIRNAME = "content"
-export const RESOURCE_FEED_RESOURCE_TYPE = "resource"
-export const RESOURCE_FEED_DOCUMENT_TYPE = "document"
 
 // Sections
 export const SECTION_INFO_FILENAME = "info.yml"
+export const SECTION_DIRNAME = "sections"
 
 // Categories
 export const CATEGORIES_DIRNAME = "categories"
@@ -51,14 +53,10 @@ export const CATEGORY_INFO_FILENAME = "info.yml"
 export const CATEGORY_FEED_FILENAME = "feed.yml"
 export const CATEGORY_ASSETS_DIRNAME = "assets"
 export const CATEGORY_DEFAULT_NAME = "root"
-export const CATEGORY_FEED_RESOURCE_TYPE = "resource"
-export const CATEGORY_FEED_DOCUMENT_TYPE = "document"
-export const CATEGORY_FEED_DEFAULT_TYPE = CATEGORY_FEED_RESOURCE_TYPE
 
 // Authors
 export const AUTHORS_DIRNAME = "authors"
 export const AUTHORS_FEED_FILENAME = "feed.yml"
-export const AUTHORS_FEED_RESOURCE_TYPE = "resource"
 export const AUTHORS_INFO_FILENAME = "info.yml"
 export const AUTHORS_ASSETS_DIRNAME = "assets"
 
@@ -68,6 +66,30 @@ export const DOCUMENT_TYPES = {
     BLOCK: "block",
     PDF: "pdf",
     VIDEO: "video",
+}
+
+// TODO: FEED_GROUP_LIMIT
+
+// Feed
+export const FEED_VIEWS = {
+    TILE: "tile",
+    BANNER: "banner",
+    SQUARE: "square",
+    SQUARE_STACK: "square-stack", // TODO: check if can be variable depending on the direction
+    FOLIO: "folio",
+    FOLIO_STACK: "folio-stack", // TODO: check if can be variable depending on the direction
+}
+
+export const FEED_DIRECTION = {
+    HORIZONTAL: 'horizontal',
+    VERTICAL: 'vertical',
+}
+
+export const FEED_SCOPES = {
+    RESOURCE: "resource",
+    DOCUMENT: "document",
+    CATEGORY: "category",
+    AUTHOR: "author",
 }
 
 // API related

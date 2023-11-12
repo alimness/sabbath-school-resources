@@ -19,7 +19,7 @@ export const question = {
             return `TODO: reference`;
         }
     },
-    process: function (block, resourcePath) {
+    process: async function (block, resourcePath) {
         return { id: block.id, type: block.type, markdown: block.text }
     },
 }

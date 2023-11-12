@@ -15,7 +15,9 @@ import {
     RESOURCE_KIND,
     RESOURCE_INFO_FILENAME,
     RESOURCE_FEED_FILENAME,
-    RESOURCE_FEED_RESOURCE_TYPE, RESOURCE_CONTENT_DIRNAME
+    RESOURCE_CONTENT_DIRNAME,
+    FEED_SCOPES,
+    FEED_VIEWS, FEED_DIRECTION,
 } from "../helpers/constants.js"
 import {getDocumentInfo} from "./deploy-documents.js";
 
@@ -52,6 +54,7 @@ let getResourceInfo = async function (resource, depth = 0) {
         let document = documents[0]
         let documentInfo = await getDocumentInfo(`${SOURCE_DIR}/${document}`)
         resourceInfo.documentId = documentInfo.id
+        resourceInfo.documentIndex = documentInfo.index
     }
 
     if (resourceInfo.externalURL) {
@@ -86,9 +89,11 @@ let processResources = async function (resourceType) {
                 ...g,
                 title: g.group,
                 author: g.author || null,
-                type: g.type || null,
+                scope: g.scope || null,
                 resources: [],
                 resourceIds: g.resources || [],
+                view: g.view || FEED_VIEWS.TILE,
+                direction: g.direction || FEED_DIRECTION.HORIZONTAL,
             })
         })
 
@@ -97,10 +102,12 @@ let processResources = async function (resourceType) {
                 const resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${resource}`)
                 const resourcePathInfo = parseResourcePath(resource)
 
-                let groupByName = resourceFeed.find(g => g.resourceIds.indexOf(resourceInfo.id) >= 0)
+                let groupByName = resourceFeed.find(g => g.resourceIds.includes(resourceInfo.id))
                 let groupByAuthor = resourceFeed.find(g => g.author === resourceInfo.author)
                 let groupByKind = resourceFeed.find(g => g.kind === resourceInfo.kind)
-                let groupByType = resourceFeed.find(g => g.type === RESOURCE_FEED_RESOURCE_TYPE)
+                let groupByType = resourceFeed.find(g => g.scope === FEED_SCOPES.RESOURCE)
+
+                console.log(resourceInfo.id)
 
                 if (groupByName) {
                     groupByName.resources.push(resourceInfo)
@@ -124,8 +131,8 @@ let processResources = async function (resourceType) {
             delete g.documentIds
             delete g.author
             delete g.group
-            if (!g.type && g.resources.length) {
-                g.type = RESOURCE_FEED_RESOURCE_TYPE
+            if (!g.scope && g.resources.length) {
+                g.scope = FEED_SCOPES.RESOURCE
             }
             return g
         })

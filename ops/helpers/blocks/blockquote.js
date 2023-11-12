@@ -2,7 +2,7 @@ import { parseDocument } from "../blocks.js"
 
 export const blockquote = {
     extension: {},
-    process: function (block, resourcePath) {
+    process: async function (block, resourcePath) {
         let blockquote = { id: block.id, type: block.type }
         // memory-verse
         const memoryVerseRegex = /<p>([^<>]+)<\/p>/g

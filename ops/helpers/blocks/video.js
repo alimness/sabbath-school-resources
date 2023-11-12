@@ -20,7 +20,7 @@ export const video = {
             return `TODO: reference`;
         }
     },
-    process: function (block, resourcePath) {
+    process: async function (block, resourcePath) {
         return { id: block.id, type: block.type, src: block.target, title: block.title, subtitle: block.subtitle }
     },
 }

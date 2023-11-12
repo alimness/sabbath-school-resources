@@ -1,7 +1,39 @@
 import process from "process"
+import https from "https"
 import { fileURLToPath } from "url"
 import { createRequire } from "module"
 import { SOURCE_DIR, RESOURCE_TYPE, RESOURCE_COVERS, CATEGORY_DEFAULT_NAME } from "./constants.js"
+import { imageSize } from "image-size"
+
+async function getBufferFromUrl(url) {
+    return new Promise((resolve) => {
+        https.get(url, (response) => {
+            const body = []
+            response
+                .on('data', (chunk) => {
+                    body.push(chunk)
+                })
+                .on('end', () => {
+                    resolve(Buffer.concat(body))
+                })
+        })
+    })
+}
+
+let getImageRatio = async function (src) {
+    const DEFAULT_IMAGE_RATIO = 16/9
+    const DECIMAL_POINTS = 3
+    try {
+        const dimensions = await imageSize(src)
+        return (dimensions.width / dimensions.height).toFixed(DECIMAL_POINTS)
+    } catch (e) {
+        return DEFAULT_IMAGE_RATIO.toFixed(DECIMAL_POINTS)
+    }
+}
+
+let isURL = function (src) {
+    return /^http/.test(src.trim())
+}
 
 let slug = function (input) {
     return input.replace(/\s/g, "-").replace(/([^A-Za-z0-9\-])|(-$)/g, "").toLowerCase()
@@ -70,5 +102,8 @@ export {
     getResourceTypesGlob,
     getPositiveCoverImagesGlob,
     getNegativeCoverImagesGlob,
-    escapeAssetPathForSed
+    escapeAssetPathForSed,
+    getImageRatio,
+    isURL,
+    getBufferFromUrl
 }

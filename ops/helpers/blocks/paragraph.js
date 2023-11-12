@@ -5,7 +5,7 @@ let languageInfoGlobal = {}
 
 export const paragraph = {
     extension: {},
-    process: function (block, resourcePath) {
+    process: async function (block, resourcePath) {
         let text = block.text
         let bibleData = []
 

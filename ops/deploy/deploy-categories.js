@@ -9,8 +9,12 @@ import {
     API_DIST,
     SOURCE_DIR,
     CATEGORIES_DIRNAME,
-    CATEGORY_INFO_FILENAME, RESOURCE_INFO_FILENAME,
-    RESOURCE_TYPE, CATEGORY_FEED_FILENAME, CATEGORY_FEED_RESOURCE_TYPE, CATEGORY_FEED_DOCUMENT_TYPE
+    CATEGORY_INFO_FILENAME,
+    RESOURCE_INFO_FILENAME,
+    RESOURCE_TYPE,
+    CATEGORY_FEED_FILENAME,
+    FEED_VIEWS,
+    FEED_SCOPES, FEED_DIRECTION,
 } from "../helpers/constants.js"
 import { getResourceInfo } from "./deploy-resources.js"
 import { getDocumentInfo } from "./deploy-documents.js"
@@ -106,15 +110,13 @@ let processCategories = async function () {
                     author: g.author || null,
                     resourceIds: g.resources || [],
                     documentIds: [],
-                    type: g.type || null
+                    scope: g.scope || null,
+                    view: g.view || FEED_VIEWS.TILE,
+                    direction: g.direction || FEED_DIRECTION.HORIZONTAL,
                 })
             })
 
-
-            // console.log(allTaggedResources)
-
             for (let categoryResource of categoryResources) {
-                // name
                 let groupByName = categoryInfoDetail.feed.find(g => g.resourceIds.indexOf(categoryResource.id) >= 0)
                 if (groupByName) {
                     groupByName.resources.push(categoryResource)
@@ -133,16 +135,16 @@ let processCategories = async function () {
                     continue
                 }
 
-                let groupByType = categoryInfoDetail.feed.find(g => g.type === CATEGORY_FEED_RESOURCE_TYPE)
-                if (groupByType) {
-                    groupByType.resources.push(categoryResource)
+                let groupByScope = categoryInfoDetail.feed.find(g => g.scope === FEED_SCOPES.RESOURCE)
+                if (groupByScope) {
+                    groupByScope.resources.push(categoryResource)
                 }
             }
 
             for (let categoryDocument of categoryDocuments) {
-                let groupByType = categoryInfoDetail.feed.find(g => g.type === CATEGORY_FEED_DOCUMENT_TYPE)
-                if (groupByType) {
-                    groupByType.documents.push(categoryDocument)
+                let groupByScope = categoryInfoDetail.feed.find(g => g.scope === FEED_SCOPES.DOCUMENT)
+                if (groupByScope) {
+                    groupByScope.documents.push(categoryDocument)
                 }
             }
 
@@ -156,11 +158,14 @@ let processCategories = async function () {
                 delete g.documentIds
                 delete g.author
                 delete g.group
-                if (!g.type && g.resources.length) {
-                    g.type = CATEGORY_FEED_RESOURCE_TYPE
+                if (!g.scope && g.resources.length) {
+                    g.scope = FEED_SCOPES.RESOURCE
                 }
-                if (!g.type && g.document.length) {
-                    g.type = CATEGORY_FEED_DOCUMENT_TYPE
+
+                // If scope is document, force "square" view
+                if ((!g.scope && g.document.length) || (g.scope === FEED_SCOPES.DOCUMENT)-0) {
+                    g.scope = FEED_SCOPES.DOCUMENT
+                    g.view = FEED_VIEWS.SQUARE
                 }
                 return g
             })

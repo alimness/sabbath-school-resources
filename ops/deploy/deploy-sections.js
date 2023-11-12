@@ -13,7 +13,7 @@ import {
     RESOURCE_TYPE,
     RESOURCE_CONTENT_DIRNAME,
     RESOURCE_INFO_FILENAME,
-    SECTION_INFO_FILENAME, RESOURCE_ORDER, CATEGORY_DEFAULT_NAME
+    SECTION_INFO_FILENAME, RESOURCE_ORDER, CATEGORY_DEFAULT_NAME, SECTION_DIRNAME
 } from "../helpers/constants.js"
 
 let getSectionInfo = async function (section) {
@@ -43,7 +43,7 @@ let processSections = async function (resourceType) {
             .sync()
 
         const resourceSectionData = {
-            CATEGORY_DEFAULT_NAME: {
+            [CATEGORY_DEFAULT_NAME]: {
                 id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${CATEGORY_DEFAULT_NAME}`,
                 title: "",
                 isRoot: true,
@@ -79,7 +79,7 @@ let processSections = async function (resourceType) {
         }
 
         resourceInfo.sections = Object.values(resourceSectionData)
-        fs.outputFileSync(`${API_DIST}/${resourcePathInfo.language}/${resourceType}/${resourcePathInfo.title}/sections/index.json`, JSON.stringify(resourceInfo))
+        fs.outputFileSync(`${API_DIST}/${resourcePathInfo.language}/${resourceType}/${resourcePathInfo.title}/${SECTION_DIRNAME}/index.json`, JSON.stringify(resourceInfo))
     }
 }
 

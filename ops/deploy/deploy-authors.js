@@ -12,8 +12,9 @@ import {
     RESOURCE_TYPE,
     AUTHORS_DIRNAME,
     AUTHORS_FEED_FILENAME,
-    AUTHORS_FEED_RESOURCE_TYPE,
-    AUTHORS_INFO_FILENAME
+    AUTHORS_INFO_FILENAME,
+    FEED_VIEWS,
+    FEED_SCOPES,
 } from "../helpers/constants.js"
 import { getResourceInfo } from "./deploy-resources.js"
 
@@ -84,12 +85,10 @@ let processAuthors = async function () {
                     resources: [],
                     author: g.author || null,
                     resourceIds: g.resources || [],
-                    type: g.type || null
+                    scope: g.scope || null,
+                    view: g.view || FEED_VIEWS.TILE,
                 })
             })
-
-
-            // console.log(allTaggedResources)
 
             for (let authorResource of authorResources) {
                 // name
@@ -111,9 +110,9 @@ let processAuthors = async function () {
                     continue
                 }
 
-                let groupByType = authorInfoDetail.feed.find(g => g.type === AUTHORS_FEED_RESOURCE_TYPE)
-                if (groupByType) {
-                    groupByType.resources.push(authorResource)
+                let groupByScope = authorInfoDetail.feed.find(g => g.scope === FEED_SCOPES.RESOURCE)
+                if (groupByScope) {
+                    groupByScope.resources.push(authorResource)
                 }
             }
 
@@ -128,8 +127,8 @@ let processAuthors = async function () {
                 delete g.documentIds
                 delete g.author
                 delete g.group
-                if (!g.type && g.resources.length) {
-                    g.type = AUTHORS_FEED_RESOURCE_TYPE
+                if (!g.scope && g.resources.length) {
+                    g.scope = FEED_SCOPES.RESOURCE
                 }
                 return g
             })

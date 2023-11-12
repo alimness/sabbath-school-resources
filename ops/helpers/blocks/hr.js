@@ -1,6 +1,6 @@
 export const hr = {
     extension: {},
-    process: function (block, resourcePath) {
+    process: async function (block, resourcePath) {
         return { id: block.id, type: block.type }
     },
 }

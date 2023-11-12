@@ -1,19 +1,19 @@
 import { parseResourcePath } from "../helpers.js"
-import { CATEGORY_DEFAULT_NAME, RESOURCE_INFO_FILENAME, SOURCE_DIR, RESOURCE_FEED_DOCUMENT_TYPE } from "../constants.js"
+import { CATEGORY_DEFAULT_NAME, RESOURCE_INFO_FILENAME, SOURCE_DIR, FEED_SCOPES, RESOURCE_CONTENT_DIRNAME } from "../constants.js"
 import { getResourceInfo } from "../../deploy/deploy-resources.js"
 import { getDocumentInfo } from "../../deploy/deploy-documents.js"
 
 let processReference = function (block) {
     let referenceTargetPath = parseResourcePath(block.target)
 
-    let reference = { "scope": "resource" }
+    let reference = { "scope": FEED_SCOPES.RESOURCE }
 
     if (!referenceTargetPath.language || !referenceTargetPath.type || !referenceTargetPath.title) {
         return false
     }
 
     if (referenceTargetPath.document) {
-        reference.scope = "document"
+        reference.scope = FEED_SCOPES.DOCUMENT
     }
 
     if (block.title) {
@@ -23,12 +23,12 @@ let processReference = function (block) {
     try {
         const resource = getResourceInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_INFO_FILENAME}`)
 
-        if (reference.scope === RESOURCE_FEED_DOCUMENT_TYPE) {
-            const documentInfo = getDocumentInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/content/${referenceTargetPath.section && referenceTargetPath.section !== CATEGORY_DEFAULT_NAME ? `${referenceTargetPath.section}/` : ""}${referenceTargetPath.document}.md`)
+        if (reference.scope === FEED_SCOPES.DOCUMENT) {
+            const documentInfo = getDocumentInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_CONTENT_DIRNAME}/${referenceTargetPath.section && referenceTargetPath.section !== CATEGORY_DEFAULT_NAME ? `${referenceTargetPath.section}/` : ""}${referenceTargetPath.document}.md`)
 
             reference.title = documentInfo.title
             reference.subtitle = resource.title
-            reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/content/${referenceTargetPath.section}/${referenceTargetPath.document.replace(/\*.md$/, "")}`
+            reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_CONTENT_DIRNAME}/${referenceTargetPath.section}/${referenceTargetPath.document.replace(/\*.md$/, "")}`
         } else {
             reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}`
             reference.title = resource.title
@@ -63,7 +63,7 @@ export const reference = {
             return `TODO: reference`;
         }
     },
-    process: function (block) {
+    process: async function (block) {
         let processedReference = processReference(block)
         if (!processedReference) return null
 

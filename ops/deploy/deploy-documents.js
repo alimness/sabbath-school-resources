@@ -24,7 +24,7 @@ let getDocumentInfo = async function (document, processBlocks = false) {
 
     if (!documentInfo.type) {
         if (processBlocks) {
-            documentInfo.blocks = parseDocument(documentInfoFrontMatter.body, documentPathInfo, "root")
+            documentInfo.blocks = await parseDocument(documentInfoFrontMatter.body, documentPathInfo, "root")
         }
         documentInfo.type = DOCUMENT_TYPES.BLOCK
     }

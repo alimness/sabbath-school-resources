@@ -10,7 +10,7 @@ import { parseBlock } from "../blocks.js"
 
 export const list = {
     extension: {},
-    process: function (block, resourcePath) {
+    process: async function (block, resourcePath) {
         let blockData = { id: block.id, type: block.type, items: [], ordered: block.ordered, start: block.start || 0 }
 
         for (let [index, listItem] of block.items.entries()) {
@@ -22,7 +22,7 @@ export const list = {
                     })
                 } else {
                     blockData.items.push(
-                        parseBlock(token, resourcePath, index, block.id)
+                        await parseBlock(token, resourcePath, index, block.id)
                     )
                 }
             }
