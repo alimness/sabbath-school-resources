@@ -73,9 +73,10 @@ let setImageAspectRatios = async function (resourceType) {
             replace.map(r => {
                 documentRaw = documentRaw.replace(r[0], r[1])
             })
+            fs.outputFileSync(`${SOURCE_DIR}/${document}`, documentRaw)
         }
 
-        fs.outputFileSync(`${SOURCE_DIR}/${document}`, documentRaw)
+
     }
 }
 
