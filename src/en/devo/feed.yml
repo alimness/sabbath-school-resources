@@ -1,5 +1,17 @@
 ---
+  - group: Featured
+    view: square
+    resources:
+      - en-devo-test-2
+      - en-devo-test-single-2
+  - group: Other
+    view: book
+    resources:
+      - en-devo-test-external
   - group: Devotionals
-    kind: devotional
+    view: banner
+    resources:
+      - en-devo-test
   - group: Other resources
-    type: resource
+    scope: resource
+    direction: vertical

@@ -3,9 +3,9 @@
     resources:
         - en-devo-bhp-ellen-white-2022
   - group: Devotionals
-    type: resource
+    scope: resource
     kind: devotionals
   - group: Other resources
-    type: resource
+    scope: resource
   - group: Found within titles
-    type: document
+    scope: document

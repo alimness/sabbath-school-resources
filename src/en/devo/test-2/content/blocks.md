@@ -5,8 +5,6 @@ categories:
     - love
 ---
 
-![test](60aec3c8b8186d6fc8c0e04c.jpg)
-
 <sup>1</sup> In the beginning God created the heavens and the earth.
 
 1. First
@@ -33,7 +31,7 @@ _test_
 
 {#[en/pm/discipleship-handbook/content/01-discipleship/01-to-be-like-jesus.md]}
 
-{"style":{"fullBleed": true}}
+{"style": {"fullBleed": true}}
 ![Walrus image](https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/fisherman.jpg)
 
 ![penguin image](https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/fisherman.jpg)

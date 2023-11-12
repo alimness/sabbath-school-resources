@@ -1,4 +1,4 @@
-title: Test Resource
+title: Test Single Resource
 subtitle: Showcasing all the blocks
 author: Adventech
 primaryColor: '#333333'
@@ -8,8 +8,6 @@ index: en/devo/test
 credits: []
 features: []
 kind: book
-categories:
-  - love
 covers:
   landscape: >-
     https://sabbath-school-stage.adventech.io/api/v2/en/devo/test/assets/cover-landscape.png
