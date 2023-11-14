@@ -1,10 +1,12 @@
 #!/usr/bin/env node
 "use strict"
 
-import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
-import { fdir } from "fdir"
-import yaml from "js-yaml"
 import fs from "fs-extra"
+import yaml from "js-yaml"
+import { fdir } from "fdir"
+import { getResourceInfo } from "./deploy-resources.js"
+import { getDocumentInfo } from "./deploy-documents.js"
+import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import {
     API_DIST,
     SOURCE_DIR,
@@ -16,8 +18,6 @@ import {
     FEED_VIEWS,
     FEED_SCOPES, FEED_DIRECTION,
 } from "../helpers/constants.js"
-import { getResourceInfo } from "./deploy-resources.js"
-import { getDocumentInfo } from "./deploy-documents.js"
 
 let getCategoryInfo = async function (category) {
     const categoryInfo = yaml.load(fs.readFileSync(category, "utf8"))
@@ -59,7 +59,7 @@ let getAllTaggedResources = async function () {
                 allTaggedResources.resources.push(resourceInfo)
             }
         } catch (e) {
-            console.error(e);
+            console.error(`Error processing tagged resource: ${e}`);
         }
     }
 
@@ -70,7 +70,7 @@ let getAllTaggedResources = async function () {
                 allTaggedResources.documents.push(documentInfo)
             }
         } catch (e) {
-            console.error(e);
+            console.error(`Error processing tagged document: ${e}`);
         }
     }
 
@@ -178,7 +178,7 @@ let processCategories = async function () {
 
             fs.outputFileSync(`${API_DIST}/${categoryPathInfo.language}/${categoryPathInfo.type}/${categoryPathInfo.title}/index.json`, JSON.stringify(categoryInfoDetail))
         } catch (e) {
-            console.error(e);
+            console.error(`Error processing categories: ${e}`);
         }
     }
 

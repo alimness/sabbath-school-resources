@@ -21,8 +21,8 @@ export const carousel = {
             return `TODO: collapse`;
         }
     },
-    process: function (block, resourcePath) {
-        return { id: block.id, type: block.type, items: parseDocument(block.text, resourcePath, block.id)}
+    process: async function (block, resourcePath) {
+        return { id: block.id, type: block.type, items: await parseDocument(block.text, resourcePath, block.id)}
     },
 }
 export const slide = {
@@ -47,7 +47,7 @@ export const slide = {
         }
     },
     process: async function (block, resourcePath) {
-        return { id: block.id, type: block.type, items: parseDocument(block.text, resourcePath, block.id) }
+        return { id: block.id, type: block.type, items: await parseDocument(block.text, resourcePath, block.id) }
     },
 
 }

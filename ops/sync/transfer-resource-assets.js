@@ -5,22 +5,19 @@ import fs from "fs-extra"
 import yaml from "js-yaml"
 import ttfMeta from "ttfmeta"
 import { fdir } from "fdir"
-import { parseResourcePath, getResourceTypesGlob, getPositiveCoverImagesGlob, getFontsGlob, determineFontWeight } from "../helpers/helpers.js"
 import { getCategoryInfo } from "../deploy/deploy-categories.js"
 import { getResourceInfo } from "../deploy/deploy-resources.js"
+import { parseResourcePath, getResourceTypesGlob, getPositiveCoverImagesGlob, getFontsGlob, determineFontWeight } from "../helpers/helpers.js"
 import {
     MEDIA_URL,
     SOURCE_DIR,
     RESOURCE_COVERS,
-
     CATEGORIES_DIRNAME,
     CATEGORY_INFO_FILENAME,
     CATEGORY_ASSETS_DIRNAME,
-
     AUTHORS_DIRNAME,
     AUTHORS_INFO_FILENAME,
     AUTHORS_ASSETS_DIRNAME,
-
     RESOURCE_INFO_FILENAME,
     RESOURCE_ASSETS_DIRNAME,
 } from "../helpers/constants.js"

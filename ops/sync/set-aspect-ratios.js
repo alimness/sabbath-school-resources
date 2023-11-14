@@ -1,16 +1,15 @@
 import fs from "fs-extra"
 import frontMatter from "front-matter"
 import { fdir } from "fdir"
+import { parseDocument } from "../helpers/blocks.js"
+import { isURL, getBufferFromUrl, getImageRatio, parseResourcePath} from "../helpers/helpers.js"
 import {
-    API_DIST,
     RESOURCE_ASSETS_DIRNAME,
     CATEGORY_DEFAULT_NAME,
     DOCUMENT_CONTENT_DIRNAME,
     DOCUMENT_TYPES, RESOURCE_TYPE,
     SOURCE_DIR
 } from "../helpers/constants.js"
-import { parseDocument } from "../helpers/blocks.js"
-import { isURL, getBufferFromUrl, getImageRatio, parseResourcePath} from "../helpers/helpers.js"
 
 
 let getDocumentWithImageBlocksOnly = async function (document) {
@@ -70,15 +69,15 @@ let setImageAspectRatios = async function (resourceType) {
                     ])
                 }
             }
-            replace.map(r => {
-                documentRaw = documentRaw.replace(r[0], r[1])
-            })
-            fs.outputFileSync(`${SOURCE_DIR}/${document}`, documentRaw)
+            if (replace.length) {
+                replace.map(r => {
+                    documentRaw = documentRaw.replace(r[0], r[1])
+                })
+                fs.outputFileSync(`${SOURCE_DIR}/${document}`, documentRaw)
+            }
         }
-
-
     }
 }
 
 await setImageAspectRatios(RESOURCE_TYPE.DEVO)
-// await setImageAspectRatios(RESOURCE_TYPE.PM)
+await setImageAspectRatios(RESOURCE_TYPE.PM)

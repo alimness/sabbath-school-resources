@@ -2,11 +2,11 @@
 "use strict"
 
 import fs from "fs-extra"
-import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import { fdir } from "fdir"
+import { Validator } from "jsonschema"
 import { getResourceInfo } from "../deploy/deploy-resources.js"
 import { getSectionInfo } from "../deploy/deploy-sections.js"
-import { validate } from "jsonschema"
+import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 
 import {
     SOURCE_DIR,
@@ -63,11 +63,30 @@ const resourceSchema = {
                 "splash": { type: "string" },
             }
         },
-        "documentId": { type: String },
-        "externalURL": { type: String },
+        "fonts": {
+            "$ref": "/schemas/fonts",
+        },
+        "documentId": { type: "string" },
+        "documentIndex": { type: "string" },
+        "externalURL": { type: "string" },
     },
     "required": [ "id", "index", "kind", "title", "primaryColor", "primaryColorDark" ]
 }
+
+const fontsSchema = {
+    "$id": "/schemas/fonts",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "name": { "type": "string" },
+          "src": { "type": "string" },
+          "weight": { "type": "number" },
+        },
+    },
+}
+
 const sectionSchema = {
     "$id": "/schemas/section",
     "type": "object",
@@ -77,6 +96,9 @@ const sectionSchema = {
     },
     "required": [ "title" ]
 }
+
+const validator = new Validator()
+validator.addSchema(fontsSchema, "/schemas/fonts")
 
 // TODO: add feed validation for categories, authors and resource roots
 let validateResources = async function (resourceType) {
@@ -121,7 +143,7 @@ let validateResources = async function (resourceType) {
             for (let section of sections) {
                 const sectionInfo = await getSectionInfo(`${section}/${SECTION_INFO_FILENAME}`)
 
-                let validateResult = validate(sectionInfo, sectionSchema)
+                let validateResult = validator.validate(sectionInfo, sectionSchema)
                 if (validateResult.errors.length) {
                     let errors = ""
                     validateResult.errors.map(e => {
@@ -164,7 +186,7 @@ let validateResources = async function (resourceType) {
         }
 
         try {
-            let validateResult = validate(resourceInfo, resourceSchema)
+            let validateResult = validator.validate(resourceInfo, resourceSchema)
             if (validateResult.errors.length) {
                 let errors = ""
                 validateResult.errors.map(e => {

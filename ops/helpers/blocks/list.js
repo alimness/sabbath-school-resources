@@ -14,11 +14,12 @@ export const list = {
         let blockData = { id: block.id, type: block.type, items: [], ordered: block.ordered, start: block.start || 0 }
 
         for (let [index, listItem] of block.items.entries()) {
+            // TODO: set id for each item in the list
             for (let token of listItem.tokens) {
                 if (token.type === "text") {
                     blockData.items.push({
                         "type": "list-item",
-                        "markdown": token.text.trim()
+                        "markdown": token.text.trim(),
                     })
                 } else {
                     blockData.items.push(

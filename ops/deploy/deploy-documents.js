@@ -6,11 +6,16 @@ import frontMatter from "front-matter"
 import { fdir } from "fdir"
 import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import { parseDocument } from "../helpers/blocks.js"
-
+import { database } from "../helpers/firebase.js"
 import {
     SOURCE_DIR,
     API_DIST,
-    RESOURCE_TYPE, DOCUMENT_CONTENT_DIRNAME, DOCUMENT_TYPES, CATEGORY_DEFAULT_NAME
+    RESOURCE_TYPE,
+    DOCUMENT_CONTENT_DIRNAME,
+    DOCUMENT_TYPES,
+    CATEGORY_DEFAULT_NAME,
+    FIREBASE_DATABASE_BLOCKS,
+    FIREBASE_DATABASE_DOCUMENTS
 } from "../helpers/constants.js"
 
 let getDocumentInfo = async function (document, processBlocks = false) {
@@ -49,13 +54,32 @@ let processDocuments = async function (resourceType) {
     for (let document of documents) {
         let documentInfo = await getDocumentInfo(`${SOURCE_DIR}/${document}`, true)
         let documentPathInfo = parseResourcePath(document)
+
+        let setBlockInDatabase = async function (block) {
+            if (block.items && block.items.length) {
+                for (let itemBlock of block.items) {
+                    if (itemBlock.id) {
+                        await setBlockInDatabase(itemBlock)
+                    }
+                }
+            }
+            await database.collection(FIREBASE_DATABASE_BLOCKS).doc(block.id).set(block);
+        }
+
+        if (documentInfo.blocks) {
+            for (let block of documentInfo.blocks) {
+                await setBlockInDatabase(block)
+            }
+        }
+
+        await database.collection(FIREBASE_DATABASE_DOCUMENTS).doc(documentInfo.id).set(documentInfo);
         fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${resourceType}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section ? `${documentPathInfo.section}/` : "root/"}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
     }
 }
 
 if (isMainModule(import.meta)) {
     await processDocuments(RESOURCE_TYPE.DEVO)
-    // await processDocuments(RESOURCE_TYPE.PM)
+    await processDocuments(RESOURCE_TYPE.PM)
 }
 
 export {

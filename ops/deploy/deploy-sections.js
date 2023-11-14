@@ -4,9 +4,9 @@
 import fs from "fs-extra"
 import yaml from "js-yaml"
 import { fdir } from "fdir"
-import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import { getResourceInfo } from "./deploy-resources.js"
 import { getDocumentInfo } from "./deploy-documents.js"
+import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import {
     SOURCE_DIR,
     API_DIST,

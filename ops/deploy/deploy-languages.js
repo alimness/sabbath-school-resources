@@ -4,8 +4,8 @@
 import fs from "fs-extra"
 import yaml from "js-yaml"
 import { fdir } from "fdir"
-import { API_DIST, LANGUAGE_INFO_FILENAME, RESOURCE_TYPE, SOURCE_DIR } from "../helpers/constants.js"
 import { isMainModule } from "../helpers/helpers.js"
+import { API_DIST, LANGUAGE_INFO_FILENAME, RESOURCE_TYPE, SOURCE_DIR } from "../helpers/constants.js"
 
 let getLanguageInfo = async function (language) {
     return yaml.load(fs.readFileSync(`${SOURCE_DIR}/${language}/${LANGUAGE_INFO_FILENAME}`, "utf8"))

@@ -1,9 +1,9 @@
 import process from "process"
 import https from "https"
+import { imageSize } from "image-size"
 import { fileURLToPath } from "url"
 import { createRequire } from "module"
-import { SOURCE_DIR, RESOURCE_TYPE, RESOURCE_COVERS, CATEGORY_DEFAULT_NAME } from "./constants.js"
-import { imageSize } from "image-size"
+import { SOURCE_DIR, RESOURCE_TYPE, RESOURCE_COVERS, CATEGORY_DEFAULT_NAME, RESOURCE_FONTS_DIRNAME } from "./constants.js"
 
 async function getBufferFromUrl(url) {
     return new Promise((resolve) => {
@@ -20,14 +20,34 @@ async function getBufferFromUrl(url) {
     })
 }
 
+let determineFontWeight = async function (fontStr) {
+    const weights = {
+        100: /Thin|Hairline/i,
+        200: /(Extra|Ultra)([- _])?Light/i,
+        300: /Light/i,
+        400: /Normal|Regular/i,
+        500: /Medium/i,
+        600: /(Semi|Demi)([- _])?Bold/i,
+        700: /Bold/i,
+        800: /(Extra|Ultra)([- _])?Bold/i,
+        900: /Black|Heavy/i,
+    }
+    for (let weight of Object.keys(weights)) {
+        if (weights[weight].test(fontStr)) {
+            return weight
+        }
+    }
+    return null
+}
+
 let getImageRatio = async function (src) {
     const DEFAULT_IMAGE_RATIO = 16/9
     const DECIMAL_POINTS = 3
     try {
         const dimensions = await imageSize(src)
-        return (dimensions.width / dimensions.height).toFixed(DECIMAL_POINTS)
+        return parseFloat((dimensions.width / dimensions.height).toFixed(DECIMAL_POINTS))
     } catch (e) {
-        return DEFAULT_IMAGE_RATIO.toFixed(DECIMAL_POINTS)
+        return parseFloat(DEFAULT_IMAGE_RATIO.toFixed(DECIMAL_POINTS))
     }
 }
 
@@ -57,6 +77,10 @@ let getPositiveCoverImagesGlob = function () {
     return `+(${Object.values(RESOURCE_COVERS).join("|")})`
 }
 
+let getFontsGlob = function () {
+    return `${RESOURCE_FONTS_DIRNAME}/*.ttf`
+}
+
 let getNegativeCoverImagesGlob = function () {
     return `!(${Object.values(RESOURCE_COVERS).join("|")})`
 }
@@ -77,7 +101,7 @@ let parseResourcePath = function (resourcePath) {
         info.document = matches[6] ? matches[6] : (matches[5] && /\.md$/.test(matches[5])) ? matches[5] : null;
         if (info.document) { info.document = info.document.replace(".md", "") }
     } catch (e) {
-        console.error(e)
+        console.error(`Error parsing resource path: ${e}`);
     }
 
     return info;
@@ -102,8 +126,10 @@ export {
     getResourceTypesGlob,
     getPositiveCoverImagesGlob,
     getNegativeCoverImagesGlob,
+    getFontsGlob,
     escapeAssetPathForSed,
     getImageRatio,
     isURL,
-    getBufferFromUrl
+    getBufferFromUrl,
+    determineFontWeight
 }

@@ -1,10 +1,11 @@
 #!/usr/bin/env node
 "use strict"
 
-import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
-import { fdir } from "fdir"
 import yaml from "js-yaml"
 import fs from "fs-extra"
+import { fdir } from "fdir"
+import { getResourceInfo } from "./deploy-resources.js"
+import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import {
     API_DIST,
     SOURCE_DIR,
@@ -16,7 +17,6 @@ import {
     FEED_VIEWS,
     FEED_SCOPES,
 } from "../helpers/constants.js"
-import { getResourceInfo } from "./deploy-resources.js"
 
 let getAuthorInfo = async function (author) {
     const authorInfo = yaml.load(fs.readFileSync(author, "utf8"))
@@ -48,7 +48,7 @@ let getAllTaggedResources = async function () {
                 allTaggedResources["resources"].push(resourceInfo)
             }
         } catch (e) {
-            console.error(e);
+            console.error(`Error processing tagged resource: ${e}`);
         }
     }
 
@@ -141,7 +141,7 @@ let processAuthors = async function () {
 
             fs.outputFileSync(`${API_DIST}/${authorPathInfo.language}/${authorPathInfo.type}/${authorPathInfo.title}/index.json`, JSON.stringify(authorInfoDetail))
         } catch (e) {
-            console.error(e);
+            console.error(`Error processing authors: ${e}`);
         }
     }
 

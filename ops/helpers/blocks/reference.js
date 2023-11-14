@@ -1,9 +1,9 @@
 import { parseResourcePath } from "../helpers.js"
-import { CATEGORY_DEFAULT_NAME, RESOURCE_INFO_FILENAME, SOURCE_DIR, FEED_SCOPES, RESOURCE_CONTENT_DIRNAME } from "../constants.js"
 import { getResourceInfo } from "../../deploy/deploy-resources.js"
 import { getDocumentInfo } from "../../deploy/deploy-documents.js"
+import { CATEGORY_DEFAULT_NAME, RESOURCE_INFO_FILENAME, SOURCE_DIR, FEED_SCOPES, RESOURCE_CONTENT_DIRNAME } from "../constants.js"
 
-let processReference = function (block) {
+let processReference = async function (block) {
     let referenceTargetPath = parseResourcePath(block.target)
 
     let reference = { "scope": FEED_SCOPES.RESOURCE }
@@ -21,10 +21,10 @@ let processReference = function (block) {
     }
 
     try {
-        const resource = getResourceInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_INFO_FILENAME}`)
+        const resource = await getResourceInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_INFO_FILENAME}`)
 
         if (reference.scope === FEED_SCOPES.DOCUMENT) {
-            const documentInfo = getDocumentInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_CONTENT_DIRNAME}/${referenceTargetPath.section && referenceTargetPath.section !== CATEGORY_DEFAULT_NAME ? `${referenceTargetPath.section}/` : ""}${referenceTargetPath.document}.md`)
+            const documentInfo = await getDocumentInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_CONTENT_DIRNAME}/${referenceTargetPath.section && referenceTargetPath.section !== CATEGORY_DEFAULT_NAME ? `${referenceTargetPath.section}/` : ""}${referenceTargetPath.document}.md`)
 
             reference.title = documentInfo.title
             reference.subtitle = resource.title
@@ -36,6 +36,7 @@ let processReference = function (block) {
 
         return reference
     } catch (e) {
+        console.error(`Error processing reference: ${e}`)
         return null
     }
 }
@@ -64,7 +65,7 @@ export const reference = {
         }
     },
     process: async function (block) {
-        let processedReference = processReference(block)
+        let processedReference = await processReference(block)
         if (!processedReference) return null
 
         return { id: block.id, type: block.type, target: block.target, title: block.title, subtitle: block.subtitle, ...processedReference}

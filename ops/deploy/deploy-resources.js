@@ -3,8 +3,10 @@
 
 import yaml from "js-yaml"
 import fs from "fs-extra"
-import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import { fdir } from "fdir"
+import { database } from "../helpers/firebase.js"
+import { getDocumentInfo } from "./deploy-documents.js"
+import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import { getLanguages } from "./deploy-languages.js"
 import {
     SOURCE_DIR,
@@ -18,8 +20,9 @@ import {
     RESOURCE_CONTENT_DIRNAME,
     FEED_SCOPES,
     FEED_VIEWS, FEED_DIRECTION,
+    FIREBASE_DATABASE_RESOURCES
 } from "../helpers/constants.js"
-import {getDocumentInfo} from "./deploy-documents.js";
+
 
 let getResourceInfo = async function (resource, depth = 0) {
     const resourceInfo = yaml.load(fs.readFileSync(resource, "utf8"));
@@ -107,8 +110,6 @@ let processResources = async function (resourceType) {
                 let groupByKind = resourceFeed.find(g => g.kind === resourceInfo.kind)
                 let groupByType = resourceFeed.find(g => g.scope === FEED_SCOPES.RESOURCE)
 
-                console.log(resourceInfo.id)
-
                 if (groupByName) {
                     groupByName.resources.push(resourceInfo)
                 } else if (groupByAuthor) {
@@ -119,9 +120,11 @@ let processResources = async function (resourceType) {
                     groupByType.resources.push(resourceInfo)
                 }
 
+                await database.collection(FIREBASE_DATABASE_RESOURCES).doc(resourceInfo.id).set(resourceInfo);
+
                 fs.outputFileSync(`${API_DIST}/${resourcePathInfo.language}/${resourceType}/${resourcePathInfo.title}/index.json`, JSON.stringify(resourceInfo))
             } catch (e) {
-                console.error(e);
+                console.error(`Error processing resources: ${e}`);
             }
         }
 
@@ -136,6 +139,14 @@ let processResources = async function (resourceType) {
             }
             return g
         })
+
+        // TODO: limit per composite feed
+        // iterate over resource feed
+        // if item resources more than X
+        // Save as separate endpoint all feed group data
+        // truncate the resourceFeed to X
+        // generate resource group ID
+        // repeat for categories & authors
 
         fs.outputFileSync(`${API_DIST}/${language}/${resourceType}/index.json`, JSON.stringify(resourceFeed))
     }

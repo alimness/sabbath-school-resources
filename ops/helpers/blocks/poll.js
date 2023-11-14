@@ -22,7 +22,7 @@ export const poll = {
         }
     },
     process: async function (block, resourcePath) {
-        let list = parseDocument(block.text, resourcePath, block.id)
+        let list = await parseDocument(block.text, resourcePath, block.id)
 
         if (list.length === 1 && list[0].type === "list") {
             list = list[0].items

@@ -22,6 +22,15 @@ export const blockquote = {
             blockquote.citation = true
         }
 
-        return {...blockquote, items: parseDocument(block.text, resourcePath, block.id) }
+        // callout
+        const calloutRegex = /<callout>([^<>]+)<\/callout>/g
+        let callout = calloutRegex.exec(block.text)
+        if (callout) {
+            block.text = block.text.replace(calloutRegex, "").trim()
+            blockquote.caption = callout[1]
+            blockquote.callout = true
+        }
+
+        return {...blockquote, items: await parseDocument(block.text, resourcePath, block.id) }
     }
 }

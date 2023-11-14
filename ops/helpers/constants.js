@@ -1,6 +1,6 @@
 import process from "process"
 
-let DEPLOY_ENV = "stage"
+export let DEPLOY_ENV = "stage"
 
 if (process && process.env && process.env.DEPLOY_ENV && process.env.DEPLOY_ENV === "prod") {
     DEPLOY_ENV = "prod"
@@ -42,6 +42,7 @@ export const RESOURCE_INFO_FILENAME = "info.yml"
 export const RESOURCE_FEED_FILENAME = "feed.yml"
 export const RESOURCE_ASSETS_DIRNAME = "assets"
 export const RESOURCE_CONTENT_DIRNAME = "content"
+export const RESOURCE_FONTS_DIRNAME = "fonts"
 
 // Sections
 export const SECTION_INFO_FILENAME = "info.yml"
@@ -75,9 +76,7 @@ export const FEED_VIEWS = {
     TILE: "tile",
     BANNER: "banner",
     SQUARE: "square",
-    SQUARE_STACK: "square-stack", // TODO: check if can be variable depending on the direction
     FOLIO: "folio",
-    FOLIO_STACK: "folio-stack", // TODO: check if can be variable depending on the direction
 }
 
 export const FEED_DIRECTION = {
@@ -97,6 +96,10 @@ export const API_PREFIX = "/api/v2/"
 export const API_DIST = `${DIST_DIR}/${API_PREFIX}`
 export const API_URL = function () { return `https://sabbath-school${DEPLOY_ENV === "prod" ? "" : "-stage" }.adventech.io` }
 export const MEDIA_URL = `https://sabbath-school-resources-media.adventech.io`
+export const FIREBASE_DATABASE_NAME = (DEPLOY_ENV === "prod") ? "https://blistering-inferno-8720.firebaseio.com" : "https://sabbath-school-stage.firebaseio.com"
+export const FIREBASE_DATABASE_RESOURCES = "resources"
+export const FIREBASE_DATABASE_BLOCKS = "blocks"
+export const FIREBASE_DATABASE_DOCUMENTS = "documents"
 
 // Misc
 export const DATE_FORMAT = "DD/MM/YYYY"

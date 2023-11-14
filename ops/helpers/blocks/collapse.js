@@ -23,6 +23,6 @@ export const collapse = {
         }
     },
     process: async function (block, resourcePath) {
-        return { id: block.id, type: block.type, caption: block.caption, items: parseDocument(block.text, resourcePath, block.id) }
+        return { id: block.id, type: block.type, caption: block.caption, items: await parseDocument(block.text, resourcePath, block.id) }
     },
 }

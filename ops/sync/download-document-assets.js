@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 "use strict"
 
+import fs from "fs-extra"
 import crypto from "crypto"
 import * as path from "path"
-import fs from "fs-extra"
 import { escapeAssetPathForSed, parseResourcePath } from "../helpers/helpers.js"
 import {
     MEDIA_URL,
