@@ -3,8 +3,9 @@
 import process from "node:process"
 import fs from "fs-extra"
 import yaml from "js-yaml"
+import ttfMeta from "ttfmeta"
 import { fdir } from "fdir"
-import { parseResourcePath, getResourceTypesGlob, getPositiveCoverImagesGlob } from "../helpers/helpers.js"
+import { parseResourcePath, getResourceTypesGlob, getPositiveCoverImagesGlob, getFontsGlob, determineFontWeight } from "../helpers/helpers.js"
 import { getCategoryInfo } from "../deploy/deploy-categories.js"
 import { getResourceInfo } from "../deploy/deploy-resources.js"
 import {
@@ -24,7 +25,7 @@ import {
     RESOURCE_ASSETS_DIRNAME,
 } from "../helpers/constants.js"
 
-let mode = "local"
+let mode = "remote"
 
 if (process && process.env && process.env.GITHUB_TOKEN) {
     mode = "remote"
@@ -32,6 +33,16 @@ if (process && process.env && process.env.GITHUB_TOKEN) {
 
 let getCoverKey = function (cover) {
     return Object.keys(RESOURCE_COVERS).find(k => RESOURCE_COVERS[k] === cover).toLowerCase()
+}
+
+let groupResourceAssetsByResourceName = async function (resourceAssets) {
+    return resourceAssets.reduce((resource, assetPath) => {
+        const resourcePath = parseResourcePath(assetPath)
+        const resourceKey = `${resourcePath.language}/${resourcePath.type}/${resourcePath.title}`
+        resource[resourceKey] = resource[resourceKey] || []
+        resource[resourceKey].push(assetPath)
+        return resource
+    }, {})
 }
 
 let transferCategoriesAssets = async function () {
@@ -126,14 +137,7 @@ let transferResourcesAssets = async function () {
         .crawl(SOURCE_DIR)
         .sync();
 
-    const resources = resourceImageAssets.reduce((resource, assetPath) => {
-        const resourcePath = parseResourcePath(assetPath)
-        const resourceKey = `${resourcePath.language}/${resourcePath.type}/${resourcePath.title}`
-        resource[resourceKey] = resource[resourceKey] || []
-        resource[resourceKey].push(assetPath)
-        return resource
-    }, {})
-
+    const resources = groupResourceAssetsByResourceName(resourceImageAssets)
 
     for (let resource of Object.keys(resources)) {
         const resourcePath = parseResourcePath(resource)
@@ -158,10 +162,62 @@ let transferResourcesAssets = async function () {
     }
 }
 
+let transferResourcesFonts = async function () {
+    const resourceFontAssets = new fdir()
+        .withBasePath()
+        .withRelativePaths()
+        .withMaxDepth(6)
+        .glob(`**/${getResourceTypesGlob()}/**/${RESOURCE_ASSETS_DIRNAME}/${getFontsGlob()}`)
+        .crawl(SOURCE_DIR)
+        .sync();
+
+    const resources = await groupResourceAssetsByResourceName(resourceFontAssets)
+
+    for (let resource of Object.keys(resources)) {
+        const resourcePath = parseResourcePath(resource)
+        const resourceInfoFile = `${SOURCE_DIR}/${resourcePath.language}/${resourcePath.type}/${resourcePath.title}/${RESOURCE_INFO_FILENAME}`
+        const resourceInfo = await getResourceInfo(resourceInfoFile)
+
+        if (!resourceInfo.fonts) {
+            resourceInfo.fonts = []
+        }
+
+        for (let resourceFontAsset of resources[resource]) {
+            const remoteURL = `${MEDIA_URL}/${resourceFontAsset}`
+
+            if (!resourceInfo.fonts.find(f => f.src === remoteURL)) {
+                try {
+                    let fontInfo = await ttfMeta.promise(`${SOURCE_DIR}/${resourceFontAsset}`)
+                    let postScriptName = fontInfo.meta.property.find(p => p.name === 'postscript-name')
+                    if (postScriptName) {
+                        postScriptName = postScriptName.text.replaceAll('\x00', '')
+                        let weight = await determineFontWeight(postScriptName)
+
+                        if (weight) {
+                            // weird bug of the ttfInfo library, replacing \x00 with nothing
+                            resourceInfo.fonts.push({
+                                name: postScriptName,
+                                weight: parseInt(weight),
+                                src: remoteURL,
+                            })
+                            if (mode === "remote") fs.removeSync(`${SOURCE_DIR}/${resourceFontAsset}`)
+                        }
+                    }
+                } catch (e) {
+                    console.error(`Skipping adding font`, e)
+                }
+            }
+        }
+
+        if (mode === "remote") fs.outputFileSync(resourceInfoFile, yaml.dump(resourceInfo))
+    }
+}
+
 let transferResourceAssets = async function () {
     await transferCategoriesAssets()
     await transferAuthorsAssets()
     await transferResourcesAssets()
+    await transferResourcesFonts()
 }
 
 await transferResourceAssets()
