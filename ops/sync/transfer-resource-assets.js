@@ -22,7 +22,7 @@ import {
     RESOURCE_ASSETS_DIRNAME,
 } from "../helpers/constants.js"
 
-let mode = "remote"
+let mode = "local"
 
 if (process && process.env && process.env.GITHUB_TOKEN) {
     mode = "remote"
