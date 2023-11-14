@@ -6,6 +6,16 @@ const require = createRequire(import.meta.url);
 
 let deployCreds = require(DEPLOY_ENV === "prod" ? "../deploy/creds/deploy-creds.json" : "../deploy/creds/deploy-creds-stage.json")
 
+// Mock firestore for local purposes
+const localFirestore = function () {
+    return {
+        collection: function () { return localFirestore() },
+        doc: function () { return localFirestore() },
+        set: function () { return localFirestore() },
+        get: function () { return localFirestore() },
+    }
+}
+
 firebase.initializeApp({
     databaseURL: FIREBASE_DATABASE_NAME,
     credential: firebase.credential.cert(deployCreds),
@@ -14,5 +24,4 @@ firebase.initializeApp({
     }
 });
 
-export const app = firebase.app()
-export const database = getFirestore()
+export const database = DEPLOY_ENV === "local" ? localFirestore() : getFirestore()

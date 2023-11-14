@@ -1,9 +1,13 @@
 import process from "process"
 
-export let DEPLOY_ENV = "stage"
+export let DEPLOY_ENV = "local"
 
-if (process && process.env && process.env.DEPLOY_ENV && process.env.DEPLOY_ENV === "prod") {
-    DEPLOY_ENV = "prod"
+if (process && process.env && process.env.DEPLOY_ENV) {
+    const ENVS = {
+        "prod": "prod",
+        "stage": "stage"
+    }
+    DEPLOY_ENV = ENVS[process.env.DEPLOY_ENV] || "stage"
 }
 
 // Directories
