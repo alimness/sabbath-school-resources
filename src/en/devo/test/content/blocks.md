@@ -1,5 +1,5 @@
 ---
-title: Test document
+title: Test document!
 cover: https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/faee4f59de8091519214a429d2b979b4215305ba147dce3a4c2828d201ee6393.png
 categories:
     - love
