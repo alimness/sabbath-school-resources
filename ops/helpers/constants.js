@@ -84,8 +84,8 @@ export const FEED_VIEWS = {
 }
 
 export const FEED_DIRECTION = {
-    HORIZONTAL: 'horizontal',
-    VERTICAL: 'vertical',
+    HORIZONTAL: "horizontal",
+    VERTICAL: "vertical",
 }
 
 export const FEED_SCOPES = {

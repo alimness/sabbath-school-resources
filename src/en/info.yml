@@ -7,6 +7,7 @@ kinds:
   book: Book
   blog: Blog
   external: Link
+  magazine: Magazine
 bible:
   - nasb
   - nkjv

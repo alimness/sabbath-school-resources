@@ -185,9 +185,9 @@ let transferResourcesFonts = async function () {
             if (!resourceInfo.fonts.find(f => f.src === remoteURL)) {
                 try {
                     let fontInfo = await ttfMeta.promise(`${SOURCE_DIR}/${resourceFontAsset}`)
-                    let postScriptName = fontInfo.meta.property.find(p => p.name === 'postscript-name')
+                    let postScriptName = fontInfo.meta.property.find(p => p.name === "postscript-name")
                     if (postScriptName) {
-                        postScriptName = postScriptName.text.replaceAll('\x00', '')
+                        postScriptName = postScriptName.text.replaceAll("\x00", "")
                         let weight = await determineFontWeight(postScriptName)
 
                         if (weight) {

@@ -67,6 +67,9 @@ let getAllTaggedResources = async function () {
         try {
             let documentInfo = await getDocumentInfo(`${SOURCE_DIR}/${document}`)
             if (documentInfo.categories) {
+                const documentPathInfo = parseResourcePath(`${SOURCE_DIR}/${document}`)
+                const parentResource = await getResourceInfo(`${SOURCE_DIR}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${RESOURCE_INFO_FILENAME}`)
+                documentInfo.parentResource = parentResource
                 allTaggedResources.documents.push(documentInfo)
             }
         } catch (e) {

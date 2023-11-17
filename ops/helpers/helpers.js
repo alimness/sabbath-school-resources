@@ -10,10 +10,10 @@ async function getBufferFromUrl(url) {
         https.get(url, (response) => {
             const body = []
             response
-                .on('data', (chunk) => {
+                .on("data", (chunk) => {
                     body.push(chunk)
                 })
-                .on('end', () => {
+                .on("end", () => {
                     resolve(Buffer.concat(body))
                 })
         })

@@ -5,7 +5,6 @@ import { CATEGORY_DEFAULT_NAME, RESOURCE_INFO_FILENAME, SOURCE_DIR, FEED_SCOPES,
 
 let processReference = async function (block) {
     let referenceTargetPath = parseResourcePath(block.target)
-
     let reference = { "scope": FEED_SCOPES.RESOURCE }
 
     if (!referenceTargetPath.language || !referenceTargetPath.type || !referenceTargetPath.title) {
@@ -16,23 +15,23 @@ let processReference = async function (block) {
         reference.scope = FEED_SCOPES.DOCUMENT
     }
 
-    if (block.title) {
-        return reference
-    }
-
     try {
-        const resource = await getResourceInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_INFO_FILENAME}`)
+        const resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_INFO_FILENAME}`)
 
         if (reference.scope === FEED_SCOPES.DOCUMENT) {
-            const documentInfo = await getDocumentInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_CONTENT_DIRNAME}/${referenceTargetPath.section && referenceTargetPath.section !== CATEGORY_DEFAULT_NAME ? `${referenceTargetPath.section}/` : ""}${referenceTargetPath.document}.md`)
+            const documentInfo = await getDocumentInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_CONTENT_DIRNAME}/${(referenceTargetPath.section && referenceTargetPath.section !== CATEGORY_DEFAULT_NAME) ? `${referenceTargetPath.section}/` : ""}${referenceTargetPath.document}.md`)
 
-            reference.title = documentInfo.title
-            reference.subtitle = resource.title
+            reference.title = block.title || documentInfo.title
+            reference.subtitle = block.subtitle || documentInfo.subtitle
             reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_CONTENT_DIRNAME}/${referenceTargetPath.section}/${referenceTargetPath.document.replace(/\*.md$/, "")}`
+            reference.document = documentInfo
         } else {
             reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}`
-            reference.title = resource.title
+            reference.title = block.title || resourceInfo.title
+            reference.subtitle = block.subtitle || resourceInfo.subtitle
         }
+
+        reference.resource = resourceInfo
 
         return reference
     } catch (e) {
@@ -65,9 +64,10 @@ export const reference = {
         }
     },
     process: async function (block) {
+        // console.log(block)
         let processedReference = await processReference(block)
         if (!processedReference) return null
 
-        return { id: block.id, type: block.type, target: block.target, title: block.title, subtitle: block.subtitle, ...processedReference}
+        return { id: block.id, type: block.type, target: block.target, ...processedReference}
     },
 }

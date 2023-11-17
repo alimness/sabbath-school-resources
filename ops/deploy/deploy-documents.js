@@ -35,7 +35,9 @@ let getDocumentInfo = async function (document, processBlocks = false) {
     }
 
     documentInfo.id = `${documentPathInfo.language}-${documentPathInfo.type}-${documentPathInfo.title}-${DOCUMENT_CONTENT_DIRNAME}-${documentPathInfo.section || CATEGORY_DEFAULT_NAME}-${documentPathInfo.document}`
+    documentInfo.resourceId = `${documentPathInfo.language}-${documentPathInfo.type}-${documentPathInfo.title}`
     documentInfo.index = `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section || CATEGORY_DEFAULT_NAME}/${documentPathInfo.document}`
+    documentInfo.name = `${documentPathInfo.document}`
 
     return documentInfo
 }
@@ -46,8 +48,8 @@ let processDocuments = async function (resourceType) {
     const documents = new fdir()
         .withBasePath()
         .withRelativePaths()
-        .withMaxDepth(5)
-        .glob(`**/${resourceType}/**/*.md`)
+        .withMaxDepth(6)
+        .glob(`**/${resourceType}/**/content/**/*.md`)
         .crawl(SOURCE_DIR)
         .sync();
 
@@ -58,7 +60,7 @@ let processDocuments = async function (resourceType) {
         let setBlockInDatabase = async function (block) {
             if (block.items && block.items.length) {
                 for (let itemBlock of block.items) {
-                    if (itemBlock.id) {
+                    if (itemBlock && itemBlock.id) {
                         await setBlockInDatabase(itemBlock)
                     }
                 }

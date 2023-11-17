@@ -30,6 +30,8 @@ const resourceSchema = {
     "additionalProperties": false,
     "properties": {
         "id": { type: "string", },
+        "name": { type: "string", },
+        "type": { type: "string", },
         "index": { type: "string", },
         "title": { type: "string", },
         "subtitle": { type: "string", },
@@ -70,7 +72,18 @@ const resourceSchema = {
         "documentIndex": { type: "string" },
         "externalURL": { type: "string" },
     },
-    "required": [ "id", "index", "kind", "title", "primaryColor", "primaryColorDark" ]
+    "required": [ "id", "name", "type", "index", "kind", "title", "primaryColor", "primaryColorDark" ],
+    "if": {
+        "not": {
+            "properties": {
+                "kind": { "const": "external" }
+            },
+
+        }
+    },
+    "then": {
+        "required": ["description"]
+    }
 }
 
 const fontsSchema = {
@@ -93,8 +106,9 @@ const sectionSchema = {
     "additionalProperties": false,
     "properties": {
         "title": { type: "string", },
+        "name": { type: "string", },
     },
-    "required": [ "title" ]
+    "required": [ "title", "name" ]
 }
 
 const validator = new Validator()

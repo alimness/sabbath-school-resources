@@ -6,6 +6,7 @@ import fs from "fs-extra"
 import { fdir } from "fdir"
 import { database } from "../helpers/firebase.js"
 import { getDocumentInfo } from "./deploy-documents.js"
+import { getLanguageInfo } from "./deploy-languages.js"
 import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import { getLanguages } from "./deploy-languages.js"
 import {
@@ -19,7 +20,8 @@ import {
     RESOURCE_FEED_FILENAME,
     RESOURCE_CONTENT_DIRNAME,
     FEED_SCOPES,
-    FEED_VIEWS, FEED_DIRECTION,
+    FEED_VIEWS,
+    FEED_DIRECTION,
     FIREBASE_DATABASE_RESOURCES
 } from "../helpers/constants.js"
 
@@ -27,9 +29,12 @@ import {
 let getResourceInfo = async function (resource, depth = 0) {
     const resourceInfo = yaml.load(fs.readFileSync(resource, "utf8"));
     const resourcePathInfo = parseResourcePath(resource)
+    const languageInfo = await getLanguageInfo(resourcePathInfo.language)
 
     resourceInfo.id = `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}`
     resourceInfo.index = `${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}`
+    resourceInfo.name = `${resourcePathInfo.title}`
+    resourceInfo.type = `${resourcePathInfo.type}`
 
     // Setting up defaults if not present in the info.yml
     resourceInfo.credits = resourceInfo.credits ?? []
@@ -38,7 +43,11 @@ let getResourceInfo = async function (resource, depth = 0) {
     resourceInfo.primaryColor = resourceInfo.primaryColor ?? RESOURCE_COLOR_PRIMARY
     resourceInfo.primaryColorDark = resourceInfo.primaryColorDark ?? RESOURCE_COLOR_PRIMARY_DARK
 
-    if (!depth && resourceInfo.referenceResource) {
+    if (!resourceInfo.subtitle || resourceInfo.subtitle.indexOf(languageInfo.kinds[resourceInfo.kind]) < 0) {
+        resourceInfo.subtitle = [languageInfo.kinds[resourceInfo.kind], resourceInfo.subtitle || undefined, ].filter(e => e !== undefined).join(" · ")
+    }
+
+    if (!depth && resourceInfo.referenceResource && typeof resourceInfo.referenceResource !== "string") {
         const referenceResourcePath = `${SOURCE_DIR}/${resourceInfo.referenceResource}/${RESOURCE_INFO_FILENAME}`
         if (fs.pathExistsSync(referenceResourcePath)) {
             resourceInfo.referenceResource = await getResourceInfo(referenceResourcePath, depth++)

@@ -5,7 +5,7 @@
       - en-devo-test-2
       - en-devo-test-single-2
   - group: Other
-    view: book
+    view: folio
     resources:
       - en-devo-test-external
   - group: Devotionals

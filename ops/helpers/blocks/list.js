@@ -20,6 +20,7 @@ export const list = {
                     blockData.items.push({
                         "type": "list-item",
                         "markdown": token.text.trim(),
+                        "index": index,
                     })
                 } else {
                     blockData.items.push(
@@ -54,6 +55,11 @@ export const list = {
                 }
             }
             if (multiAppeal) {
+                for (let i = 0; i < blockData.items.length; i++) {
+                    if (blockData.items[i].type === 'list-item') {
+                        blockData.items[i].type = 'list-item-checklist'
+                    }
+                }
                 return { ...blockData, type: "checklist" }
             }
         }
@@ -82,6 +88,11 @@ export const list = {
                 }
             }
             if (multipleChoice && checkedNum === 1) {
+                for (let i = 0; i < blockData.items.length; i++) {
+                    if (blockData.items[i].type === 'list-item') {
+                        blockData.items[i].type = 'list-item-choice'
+                    }
+                }
                 return { ...blockData, answer: answer, type: "multiple-choice" }
             }
         }

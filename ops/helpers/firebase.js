@@ -1,5 +1,5 @@
 import firebase from "firebase-admin"
-import { getFirestore } from 'firebase-admin/firestore'
+import { getFirestore } from "firebase-admin/firestore"
 import { createRequire } from "module"
 import { FIREBASE_DATABASE_NAME, DEPLOY_ENV } from "./constants.js"
 const require = createRequire(import.meta.url);
