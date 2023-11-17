@@ -104,7 +104,7 @@ Split this one
 `Question please?`
 
 {"style":{"aspectRatio":1.778}}
-![test](60aec3c8b8186d6fc8c0e04c.jpg)
+![test](https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/60aec3c8b8186d6fc8c0e04c.jpg)
 
 <sup>1</sup> In the beginning God created the heavens and the earth.
 
