@@ -65,6 +65,12 @@ jobs:
         name: Install Yarn
       - run: yarn install
         name: Installing dependencies
+      - run: gpg --quiet --batch --yes --decrypt --passphrase="$CREDS_PASSPHRASE" --output deploy-creds.tar deploy-creds.tar.gpg
+        env:
+          CREDS_PASSPHRASE: ${{ secrets.CREDS_PASSPHRASE }}
+        working-directory: ops/deploy/creds
+      - run: tar xvf deploy-creds.tar
+        working-directory: ops/deploy/creds
       - run: node ops/sync/set-aspect-ratios.js
         name: Set aspect ratios of images
       - run: aws s3 cp ./src s3://sabbath-school-resources-media.adventech.io/ --acl "public-read" --region us-east-1 --no-progress --recursive --exclude "*" --include "*.png" --include "*.jpg" --include "*.jpeg" --include "*.pdf" --exclude "**/assets/cover.png" --exclude "**/assets/cover-landscape.png" --exclude "**/assets/cover-square.png" --exclude "**/assets/splash.png"
