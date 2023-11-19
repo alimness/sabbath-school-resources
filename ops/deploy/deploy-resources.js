@@ -141,6 +141,7 @@ let processResources = async function (resourceType) {
         const recentFeedGroup = resourceFeed.find(g => g.recent)
 
         if (recentFeedGroup && recentFeedGroup.group) {
+
             const recentFeedGroupAPI = {
                 title: recentFeedGroup.group,
                 view: recentFeedGroup.view || FEED_VIEWS.SQUARE,
@@ -148,6 +149,7 @@ let processResources = async function (resourceType) {
                 resources: [],
                 direction: recentFeedGroup.direction || FEED_DIRECTION.HORIZONTAL,
             }
+            console.log(`deploying recent feed group`, recentFeedGroupAPI)
             await database.collection(FIREBASE_DATABASE_LANGUAGES).doc(language).collection(resourceType).doc("recentFeedGroup").set(recentFeedGroupAPI);
         }
 
