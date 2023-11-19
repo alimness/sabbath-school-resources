@@ -21,6 +21,9 @@ _test_
 
 _test_
 
+{"style": {"text": {"align": "center"},"block":{"margin": {"start": "xl"}}}}
+this is normal font but ^[this is not]({"style":{"text":{"color": "blue"}}})
+
 _test_
 
 _test_
@@ -38,8 +41,10 @@ Slide 2
 - [ ] B
 - [ ] C
 
-{"style":{"typeface":"RobotoSlab-Black"}}
-nest
+nest _italic_ **bold**
+
+{"style": {"block":{"margin": {"start": "xl"}}}}
+this is normal font but ^[this is not]({"style":{"text":{"color": "red"}}})
 
 - [x] Appeal
 
@@ -103,10 +108,12 @@ Split this one
 
 `Question please?`
 
-{"style":{"aspectRatio":1.778}}
+{"style":{"image":{"aspectRatio":1.778}}}
 ![test](60aec3c8b8186d6fc8c0e04c.jpg)
 
-<sup>1</sup> In the beginning God created the heavens and the earth.
+Hello <sup>1</sup> In the beginning God created the heavens and the earth.
+
+Hello 2 <sub>1</sub> In the beginning God created the heavens and the earth.
 
 1. First
 2. Second
@@ -135,10 +142,10 @@ _test_
 
 {#[en/pm/discipleship-handbook/content/01-discipleship/01-to-be-like-jesus.md]}
 
-{"style":{"aspectRatio":1.514}}
+{"style":{"image":{"aspectRatio":1.514}}}
 ![Walrus image](https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/fisherman.jpg)
 
-{"style":{"aspectRatio":1.514}}
+{"style":{"image":{"aspectRatio":1.514}}}
 ![penguin image](https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/fisherman.jpg)
 
 !a[https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] with caption
@@ -146,4 +153,12 @@ _test_
 !a[https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] f
 
 !v[https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] test
+
+Happy Sabbath!
+
+???=Mac vs Windows?
+- Mac
+- Windows
+- None
+???
 
