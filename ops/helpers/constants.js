@@ -101,6 +101,7 @@ export const API_DIST = `${DIST_DIR}/${API_PREFIX}`
 export const API_URL = function () { return `https://sabbath-school${DEPLOY_ENV === "prod" ? "" : "-stage" }.adventech.io` }
 export const MEDIA_URL = `https://sabbath-school-resources-media.adventech.io`
 export const FIREBASE_DATABASE_NAME = (DEPLOY_ENV === "prod") ? "https://blistering-inferno-8720.firebaseio.com" : "https://sabbath-school-stage.firebaseio.com"
+export const FIREBASE_DATABASE_LANGUAGES = "languages"
 export const FIREBASE_DATABASE_RESOURCES = "resources"
 export const FIREBASE_DATABASE_BLOCKS = "blocks"
 export const FIREBASE_DATABASE_DOCUMENTS = "documents"

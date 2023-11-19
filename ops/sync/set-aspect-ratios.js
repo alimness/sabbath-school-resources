@@ -55,13 +55,16 @@ let setImageAspectRatios = async function (resourceType) {
                 let style = imageBlock.style || {}
                 let aspectRatio
 
-                if (!style.aspectRatio) {
+                if (!style.image || !style.image.aspectRatio) {
                     if (isURL(imageBlock.src)) {
                         aspectRatio = await getImageRatio(await getBufferFromUrl(imageBlock.src))
                     } else {
                         aspectRatio = await getImageRatio(`${SOURCE_DIR}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${imageBlock.src}`)
                     }
-                    style.aspectRatio = aspectRatio
+                    if (!style["image"]) {
+                        style["image"] = {}
+                    }
+                    style["image"].aspectRatio = aspectRatio
 
                     replace.push([
                         new RegExp(`(^\{"style".*\n)?!\\[${imageBlock.caption}\\]\\(${imageBlock.src}\\)`, "gm"),

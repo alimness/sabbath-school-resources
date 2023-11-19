@@ -189,7 +189,6 @@ let transferResourcesFonts = async function () {
                     if (postScriptName) {
                         postScriptName = postScriptName.text.replaceAll("\x00", "")
                         let weight = await determineFontWeight(postScriptName)
-
                         if (weight) {
                             // weird bug of the ttfInfo library, replacing \x00 with nothing
                             resourceInfo.fonts.push({
@@ -206,7 +205,8 @@ let transferResourcesFonts = async function () {
             }
         }
 
-        if (mode === "remote") fs.outputFileSync(resourceInfoFile, yaml.dump(resourceInfo))
+        // if (mode === "remote")
+        fs.outputFileSync(resourceInfoFile, yaml.dump(resourceInfo))
     }
 }
 

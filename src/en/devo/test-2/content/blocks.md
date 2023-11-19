@@ -33,10 +33,10 @@ _test_
 
 {#[en/pm/discipleship-handbook/content/01-discipleship/01-to-be-like-jesus.md]}
 
-{"style":{"aspectRatio":1.514}}
+{"style":{"image":{"aspectRatio":1.514}}}
 ![Walrus image](https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/fisherman.jpg)
 
-{"style":{"aspectRatio":1.514}}
+{"style":{"image":{"aspectRatio":1.514}}}
 ![penguin image](https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/fisherman.jpg)
 
 !a[https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] with caption

@@ -29,15 +29,15 @@ let determineFontWeight = async function (fontStr) {
         500: /Medium/i,
         600: /(Semi|Demi)([- _])?Bold/i,
         700: /Bold/i,
-        800: /(Extra|Ultra)([- _])?Bold/i,
-        900: /Black|Heavy/i,
+        800: /((Extra|Ultra)([- _])?Bold)|Heavy/i,
+        900: /Black/i,
     }
     for (let weight of Object.keys(weights)) {
         if (weights[weight].test(fontStr)) {
             return weight
         }
     }
-    return null
+    return 400
 }
 
 let getImageRatio = async function (src) {

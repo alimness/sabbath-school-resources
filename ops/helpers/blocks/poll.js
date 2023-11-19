@@ -5,7 +5,7 @@ export const poll = {
         name: "poll",
         level: "block",
         tokenizer(src, tokens) {
-            const rule = /^ {0,3}(\?{3,}(?=[^?\n]*\n))=([^\n]+)\n(?:|([\s\S]*?)\n)(?: {0,3}\1[?]* *(?=\n|$)|$)/
+            const rule = /^^(\?{3,}(?=[^\n]*\n))=([^\n]+)\n(?:|([\s\S]*?)\n)(?:\1[?]* *(?=\n|$)|$)/
             const match = rule.exec(src);
             if (match) {
                 return {
