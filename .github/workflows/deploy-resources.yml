@@ -9,6 +9,8 @@ jobs:
   deploy-resources:
     if: (github.repository == 'Adventech/sabbath-school-resources')
     runs-on: ubuntu-latest
+    environment:
+      DEPLOY_ENV: ${{ inputs.branch }}
     steps:
       - uses: actions/checkout@v4
         with:
