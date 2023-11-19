@@ -113,7 +113,7 @@ Split this one
 
 Hello <sup>1</sup> In the beginning God created the heavens and the earth.
 
-Hello <sub>1</sub> In the beginning God created the heavens and the earth.
+Hello 2 <sub>1</sub> In the beginning God created the heavens and the earth.
 
 1. First
 2. Second

@@ -65,7 +65,9 @@ let processDocuments = async function (resourceType) {
                     }
                 }
             }
-            await database.collection(FIREBASE_DATABASE_BLOCKS).doc(block.id).set(block);
+            if (block && block.id) {
+                await database.collection(FIREBASE_DATABASE_BLOCKS).doc(block.id).set(block);
+            }
         }
 
         if (documentInfo.blocks) {
