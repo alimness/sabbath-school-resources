@@ -22,13 +22,13 @@ let processReference = async function (block) {
             const documentInfo = await getDocumentInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_CONTENT_DIRNAME}/${(referenceTargetPath.section && referenceTargetPath.section !== CATEGORY_DEFAULT_NAME) ? `${referenceTargetPath.section}/` : ""}${referenceTargetPath.document}.md`)
 
             reference.title = block.title || documentInfo.title
-            reference.subtitle = block.subtitle || documentInfo.subtitle
+            reference.subtitle = block.subtitle || documentInfo.subtitle || null
             reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_CONTENT_DIRNAME}/${referenceTargetPath.section}/${referenceTargetPath.document.replace(/\*.md$/, "")}`
             reference.document = documentInfo
         } else {
             reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}`
             reference.title = block.title || resourceInfo.title
-            reference.subtitle = block.subtitle || resourceInfo.subtitle
+            reference.subtitle = block.subtitle || resourceInfo.subtitle || null
         }
 
         reference.resource = resourceInfo
