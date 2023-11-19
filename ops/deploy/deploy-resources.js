@@ -22,7 +22,7 @@ import {
     FEED_SCOPES,
     FEED_VIEWS,
     FEED_DIRECTION,
-    FIREBASE_DATABASE_RESOURCES
+    FIREBASE_DATABASE_RESOURCES, FIREBASE_DATABASE_LANGUAGES
 } from "../helpers/constants.js"
 
 
@@ -105,6 +105,7 @@ let processResources = async function (resourceType) {
                 resources: [],
                 resourceIds: g.resources || [],
                 view: g.view || FEED_VIEWS.TILE,
+                recent: g.recent || null,
                 direction: g.direction || FEED_DIRECTION.HORIZONTAL,
             })
         })
@@ -137,6 +138,19 @@ let processResources = async function (resourceType) {
             }
         }
 
+        const recentFeedGroup = resourceFeed.find(g => g.recent)
+
+        if (recentFeedGroup && recentFeedGroup.group) {
+            const recentFeedGroupAPI = {
+                title: recentFeedGroup.group,
+                view: recentFeedGroup.view || FEED_VIEWS.SQUARE,
+                scope: recentFeedGroup.scope || FEED_SCOPES.RESOURCE,
+                resources: [],
+                direction: recentFeedGroup.direction || FEED_DIRECTION.HORIZONTAL,
+            }
+            await database.collection(FIREBASE_DATABASE_LANGUAGES).doc(language).collection(resourceType).doc("recentFeedGroup").set(recentFeedGroupAPI);
+        }
+
         resourceFeed = resourceFeed.filter(g => g.resources.length).map(g => {
             delete g.kind
             delete g.resourceIds
@@ -146,6 +160,7 @@ let processResources = async function (resourceType) {
             if (!g.scope && g.resources.length) {
                 g.scope = FEED_SCOPES.RESOURCE
             }
+            delete g.recent
             return g
         })
 
