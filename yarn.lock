@@ -365,9 +365,9 @@ acorn@^8.9.0:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.11.2.tgz#ca0d78b51895be5390a5903c5b3bdcdaf78ae40b"
   integrity sha512-nc0Axzp/0FILLEVsm4fNwLCwMttvhEI263QtVPQcbpfZZ3ts0hLsZGOpE6czNlid7CJ9MlyH8reXkpsf3YUY4w==
 
-"adventech-bible-tools@https://github.com/Adventech/bible-tools/tarball/master":
+"adventech-bible-tools@https://github.com/Adventech/bible-tools":
   version "1.0.2"
-  resolved "https://github.com/Adventech/bible-tools/tarball/master#7fa89ce31dda0b5f0c195a461d7d8a83fe12d2b5"
+  resolved "https://github.com/Adventech/bible-tools#d276fffbf1015fd3732d9ed1598e663c0ba9ebb6"
   dependencies:
     fast-xml-parser "^4.0.9"
 

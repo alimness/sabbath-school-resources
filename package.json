@@ -7,7 +7,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "adventech-bible-tools": "https://github.com/Adventech/bible-tools/tarball/master",
+    "adventech-bible-tools": "https://github.com/Adventech/bible-tools",
     "fdir": "^5.3.0",
     "firebase-admin": "^11.11.0",
     "front-matter": "^4.0.2",
