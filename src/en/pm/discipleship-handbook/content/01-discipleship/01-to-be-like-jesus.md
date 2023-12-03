@@ -1,7 +1,6 @@
 ---
 title: To Be Like Jesus
 subtitle: Chapter 1
-cover: img/[0-1]\&*cover.png
 ---
 
 A disciple is not above his teacher, but everyone who is perfectly trained will be like his teacher” (Luke 6:40). This one short statement outlines the object of the Christian life. The goal of every true disciple is to be like Jesus.
