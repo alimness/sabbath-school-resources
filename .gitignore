@@ -3,3 +3,4 @@ node_modules
 .idea
 archive
 deploy-creds*.json
+.DS_Store
