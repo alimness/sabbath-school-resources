@@ -4,3 +4,4 @@ node_modules
 archive
 deploy-creds*.json
 .DS_Store
+parsing
