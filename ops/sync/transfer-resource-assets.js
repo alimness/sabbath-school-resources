@@ -134,7 +134,7 @@ let transferResourcesAssets = async function () {
         .crawl(SOURCE_DIR)
         .sync();
 
-    const resources = groupResourceAssetsByResourceName(resourceImageAssets)
+    const resources = await groupResourceAssetsByResourceName(resourceImageAssets)
 
     for (let resource of Object.keys(resources)) {
         const resourcePath = parseResourcePath(resource)
