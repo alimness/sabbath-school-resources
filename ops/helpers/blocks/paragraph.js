@@ -1,6 +1,6 @@
 import bibleSearchBCV from "adventech-bible-tools/bible_tools_bcv.js"
 import { getLanguageInfoSync } from "../../deploy/deploy-languages.js"
-
+import { superscript } from "./superscript.js"
 let languageInfoGlobal = {}
 
 export const paragraph = {
@@ -44,13 +44,13 @@ export const paragraph = {
                 let newBibleData = {}
                 newBibleData["name"] = bibleVersionName.toUpperCase()
                 newBibleData["verses"] = bibleSearchResult.verses.reduce(function (result, item) {
-                    let key = Object.keys(item)[0];
-                    result[key] = item[key];
+                    let key = Object.keys(item)[0]
+                    const verse = item[key]
+                    result[key] = superscript({raw: verse, text: verse}).text
                     return result;
                 }, {});
                 bibleData.push(newBibleData)
             }
-
         }
         let r =  { id: block.id, type: block.type, markdown: text.trim() }
         if (bibleData.length) {

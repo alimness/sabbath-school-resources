@@ -1,6 +1,6 @@
 import crypto from "crypto"
 import { marked } from "marked"
-import { carousel, slide, image, collapse, audio, video, reference, question, blockquote, hr, heading, list, paragraph, poll, style, superscript } from "./blocks/index.js"
+import { carousel, slide, image, collapse, audio, video, reference, question, blockquote, hr, heading, list, paragraph, poll, style, superscript, excerpt } from "./blocks/index.js"
 
 marked.use({
     extensions: [
@@ -12,7 +12,8 @@ marked.use({
         audio.extension,
         video.extension,
         reference.extension,
-        poll.extension
+        poll.extension,
+        excerpt.extension
     ]
 });
 
@@ -42,7 +43,8 @@ let parseBlock = async function (block, resourcePath, index, parentId) {
         paragraph,
         heading,
         list,
-        poll
+        poll,
+        excerpt,
     }
 
     if (supportedBlockTypes[block.type]) {

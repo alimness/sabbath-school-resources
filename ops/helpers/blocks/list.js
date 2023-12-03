@@ -1,3 +1,4 @@
+import crypto from "crypto"
 import { parseBlock } from "../blocks.js"
 
 /**
@@ -14,13 +15,18 @@ export const list = {
         let blockData = { id: block.id, type: block.type, items: [], ordered: block.ordered, start: block.start || 0 }
 
         for (let [index, listItem] of block.items.entries()) {
-            // TODO: set id for each item in the list
+            let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/content/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}`
+
             for (let token of listItem.tokens) {
                 if (token.type === "text") {
+                    let listItemId = crypto.createHash("sha256").update(
+                        `${documentIndex}-${block.id}-${token.type}-${index}`
+                    ).digest("hex")
                     blockData.items.push({
                         "type": "list-item",
                         "markdown": token.text.trim(),
                         "index": index,
+                        "id": listItemId,
                     })
                 } else {
                     blockData.items.push(

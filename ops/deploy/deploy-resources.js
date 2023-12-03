@@ -149,7 +149,6 @@ let processResources = async function (resourceType) {
                 resources: [],
                 direction: recentFeedGroup.direction || FEED_DIRECTION.HORIZONTAL,
             }
-            console.log(`deploying recent feed group`, recentFeedGroupAPI)
             await database.collection(FIREBASE_DATABASE_LANGUAGES).doc(language).collection("feed").doc("recent").set(recentFeedGroupAPI);
         }
 

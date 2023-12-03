@@ -13,7 +13,12 @@ import {
     RESOURCE_TYPE,
     RESOURCE_CONTENT_DIRNAME,
     RESOURCE_INFO_FILENAME,
-    SECTION_INFO_FILENAME, RESOURCE_ORDER, CATEGORY_DEFAULT_NAME, SECTION_DIRNAME
+    SECTION_INFO_FILENAME,
+    RESOURCE_ORDER,
+    CATEGORY_DEFAULT_NAME,
+    SECTION_DIRNAME,
+    SECTION_TYPES_BY_RESOURCE_KIND,
+    SECTION_TYPE_DEFAULT
 } from "../helpers/constants.js"
 
 let getSectionInfo = async function (section) {
@@ -49,6 +54,7 @@ let processSections = async function (resourceType) {
             [CATEGORY_DEFAULT_NAME]: {
                 id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${CATEGORY_DEFAULT_NAME}`,
                 title: CATEGORY_DEFAULT_NAME,
+                type: SECTION_TYPES_BY_RESOURCE_KIND[resourceInfo.kind] || SECTION_TYPE_DEFAULT,
                 name: CATEGORY_DEFAULT_NAME,
                 isRoot: true,
                 documents: []
@@ -59,6 +65,7 @@ let processSections = async function (resourceType) {
             let sectionInfo = await getSectionInfo(`${resourceContentPath}/${section}`)
             resourceSectionData[`${section.replace(`/${SECTION_INFO_FILENAME}`, "")}`] = {
                 id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${section.replace(`/${SECTION_INFO_FILENAME}`, "")}`,
+                type: sectionInfo.type || SECTION_TYPES_BY_RESOURCE_KIND[resourceInfo.kind] || SECTION_TYPE_DEFAULT,
                 documents: [],
                 ...sectionInfo
             }

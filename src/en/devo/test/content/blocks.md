@@ -93,7 +93,8 @@ Split this one
 ###### Heading 6
 
 > <p>Memory verse</p>
-> This is a memory verse This is a memory verseThis is a memory verseThis is a memory verseThis is a memory verseThis is a memory verseThis is a memory verseThis is a memory verse
+> **This is a memory** verse This is a memory verse. This
+> This is a memory verseThis is a memory verseThis is a memory verseThis is a memory verseThis is a memory verseThis is a memory verse
 > This is a memory verseThis is a memory verseThis is a memory verse
 
 
@@ -143,7 +144,7 @@ _test_
 {#[en/pm/discipleship-handbook/content/01-discipleship/01-to-be-like-jesus.md]}
 
 {"style":{"image":{"aspectRatio":1.514}}}
-![Walrus image](https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/fisherman.jpg)
+![Learn more at https://grow.adventist.org. The top icon represents the fi rst step of preparing the soil of the heart. Continuing clockwise, the second icon represents planting the seed of truth, the third icon represents cultivating spiritual interest, the fourth icon represents harvesting decisions for Christ, and the fi fth icon represents preserving the harvest with ongoing discipleship. The continuous circle represents the cyclical and multiplying nature of discipleship.](https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/fisherman.jpg)
 
 {"style":{"image":{"aspectRatio":1.514}}}
 ![penguin image](https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/fisherman.jpg)
@@ -162,3 +163,7 @@ Happy Sabbath!
 - None
 ???
 
+{"style":{"text":{"size":"xl"}}}
+Hello world!
+
+[[Genesis 1, Genesis 2]]

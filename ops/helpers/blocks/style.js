@@ -62,7 +62,6 @@ const styleSchema = {
                 "offset": { "type": "string", "enum": [ "sup", "sub", ] },
             },
         },
-
     }
 }
 

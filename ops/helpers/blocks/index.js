@@ -11,6 +11,7 @@ import { heading } from "./heading.js"
 import { list } from "./list.js"
 import { paragraph } from "./paragraph.js"
 import { poll } from "./poll.js"
+import { excerpt } from "./excerpt.js"
 
 import { style } from "./style.js"
 import { superscript } from "./superscript.js"
@@ -31,5 +32,6 @@ export {
     paragraph,
     style,
     superscript,
-    poll
+    poll,
+    excerpt
 }
