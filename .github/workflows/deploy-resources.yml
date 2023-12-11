@@ -22,6 +22,8 @@ jobs:
         name: Setup Node
         with:
           node-version: '16'
+      - name: Add token for private packages
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
       - run: npm install --global yarn
         name: Install Yarn
       - run: yarn install

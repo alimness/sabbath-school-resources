@@ -56,7 +56,7 @@ let isURL = function (src) {
 }
 
 let slug = function (input) {
-    return input.replace(/\s/g, "-").replace(/([^A-Za-z0-9\-])|(-$)/g, "").toLowerCase()
+    return input.replace(/\s|—/g, "-").replace(/([^A-Za-z0-9\-])|(-$)/g, "").toLowerCase()
 }
 
 let pad = function(num, size) {

@@ -44,6 +44,10 @@ export const excerpt = {
 
                 item.items = await parseDocument(markdown, resourcePath, item.id)
 
+                if (item.items.length && item.items[0].type === "heading") {
+                    item.items.shift()
+                }
+
                 r.items.push(item)
             }
         }

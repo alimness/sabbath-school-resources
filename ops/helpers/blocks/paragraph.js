@@ -1,61 +1,28 @@
-import bibleSearchBCV from "adventech-bible-tools/bible_tools_bcv.js"
-import { getLanguageInfoSync } from "../../deploy/deploy-languages.js"
-import { superscript } from "./superscript.js"
-let languageInfoGlobal = {}
+import { getBibleData } from "../bible.js"
+import { getEGWData } from "../egw.js"
 
 export const paragraph = {
     extension: {},
     process: async function (block, resourcePath) {
-        let text = block.text
-        let bibleData = []
+        let text = block.text.trim()
 
-        let bibleVersionsArray = []
-        if (languageInfoGlobal[resourcePath.language]) {
-            bibleVersionsArray = bibleVersionsArray.concat(languageInfoGlobal[resourcePath.language].bible ?? [])
-        } else {
-            const languageInfo = getLanguageInfoSync(resourcePath.language)
-            languageInfoGlobal[languageInfo.code] = languageInfo
-            bibleVersionsArray = bibleVersionsArray.concat(languageInfo.bible ?? [])
+        const bibleData = getBibleData(resourcePath, text)
+
+        let r =  { id: block.id, type: block.type, markdown: text }
+        if (bibleData.bibleData.length) {
+            r["data"] = { bible: bibleData.bibleData }
+            r["markdown"] = bibleData.text
         }
 
-        for (let bibleVersion of bibleVersionsArray) {
-            let bibleCopyright = null
-            let bibleVersionName = bibleVersion
+        const egwData = await getEGWData(resourcePath, r.markdown)
 
-            if (bibleVersion.name) {
-                bibleCopyright = bibleVersion.copyright;
-                bibleVersionName = bibleVersion.name;
-            }
+        if (Object.keys(egwData.data.egw).length) {
+            if (!r["data"]) { r["data"] = {}}
 
-            let bibleSearchResult
-
-            try {
-                bibleSearchResult = bibleSearchBCV.search(resourcePath.language, bibleVersionName, text, true)
-                if (!bibleData.length) {
-                    text = bibleSearchResult.output
-                }
-            } catch (e) {
-                bibleSearchResult = null
-            }
-
-            if (!bibleSearchResult) continue;
-
-            if (bibleSearchResult.verses.length) {
-                let newBibleData = {}
-                newBibleData["name"] = bibleVersionName.toUpperCase()
-                newBibleData["verses"] = bibleSearchResult.verses.reduce(function (result, item) {
-                    let key = Object.keys(item)[0]
-                    const verse = item[key]
-                    result[key] = superscript({raw: verse, text: verse}).text
-                    return result;
-                }, {});
-                bibleData.push(newBibleData)
-            }
+            r["data"]["egw"] = egwData.data.egw
+            r["markdown"] = egwData.output
         }
-        let r =  { id: block.id, type: block.type, markdown: text.trim() }
-        if (bibleData.length) {
-            r["data"] = { bible: bibleData }
-        }
+
         return r
     },
 }
