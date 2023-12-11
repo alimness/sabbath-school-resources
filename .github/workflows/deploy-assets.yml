@@ -44,12 +44,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
+      - name: Reset .npmrc
+        run: git restore .npmrc
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           branch: ${{ steps.extract_branch.outputs.branch }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
   download-and-transfer-document-assets:
+    needs: [transfer-resource-assets]
     if: (github.repository == 'Adventech/sabbath-school-resources')
     runs-on: ubuntu-latest
     steps:
@@ -111,6 +114,8 @@ jobs:
       - run: test -f download_commands.txt && rm download_commands.txt
       - run: test -f transfer_commands.txt && rm transfer_commands.txt
       - run: rm -rf download
+      - name: Reset .npmrc
+        run: git restore .npmrc
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
