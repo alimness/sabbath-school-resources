@@ -1,5 +1,5 @@
 ---
-title: Test document
+title: Test document2
 ---
 
 ![fisherman](fisherman.jpg)
