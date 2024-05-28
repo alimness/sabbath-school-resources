@@ -125,5 +125,5 @@ export const OPS_SYNC_ASSET_EXTENSIONS = [
     ".mp4", ".mp3", ".pdf", ".png", ".jpg", ".jpeg"
 ]
 
-export const BIBLES_LOCATION = `./node_modules/adventech-bible-tools/bibles`
+export const BIBLES_LOCATION = `./node_modules/@Adventech/bible-tools/bibles`
 

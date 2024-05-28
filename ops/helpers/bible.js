@@ -1,4 +1,4 @@
-import bibleSearchBCV from "adventech-bible-tools/bible_tools_bcv.js"
+import bibleSearchBCV from "@Adventech/bible-tools/bible_tools_bcv.js"
 import { superscript } from "./blocks/index.js"
 import { getLanguageInfoSync } from "../deploy/deploy-languages.js"
 
