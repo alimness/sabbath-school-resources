@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@Adventech/bible-tools@^1.0.6":
+  version "1.0.6"
+  resolved "https://npm.pkg.github.com/download/@Adventech/bible-tools/1.0.6/3f8ee5b7492c72d6d724aed95cc4d15aaa35b01a#3f8ee5b7492c72d6d724aed95cc4d15aaa35b01a"
+  integrity sha512-E0MpuCavk6UbGgqMZmN4b2YKgU8Cxw55n9fSB2j+b0pxt8lrz6Xg4gRpI0mPZg702K63Ikuu48t5hkw5zlZLQw==
+
 "@Adventech/egw-tools@^1.0.6":
   version "1.0.6"
   resolved "https://npm.pkg.github.com/download/@Adventech/egw-tools/1.0.6/a75ded28537652199b61140bbb83f89fce762b2f#a75ded28537652199b61140bbb83f89fce762b2f"
@@ -376,12 +381,6 @@ acorn@^8.9.0:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.11.2.tgz#ca0d78b51895be5390a5903c5b3bdcdaf78ae40b"
   integrity sha512-nc0Axzp/0FILLEVsm4fNwLCwMttvhEI263QtVPQcbpfZZ3ts0hLsZGOpE6czNlid7CJ9MlyH8reXkpsf3YUY4w==
 
-"adventech-bible-tools@https://github.com/Adventech/bible-tools":
-  version "1.0.2"
-  resolved "https://github.com/Adventech/bible-tools#43c208f865908303d447022e308b92ab19340ad4"
-  dependencies:
-    fast-xml-parser "^4.0.9"
-
 agent-base@6:
   version "6.0.2"
   resolved "https://registry.yarnpkg.com/agent-base/-/agent-base-6.0.2.tgz#49fff58577cfee3f37176feab4c22e00f86d7f77"
@@ -736,7 +735,7 @@ fast-text-encoding@^1.0.0, fast-text-encoding@^1.0.3:
   resolved "https://registry.yarnpkg.com/fast-text-encoding/-/fast-text-encoding-1.0.6.tgz#0aa25f7f638222e3396d72bf936afcf1d42d6867"
   integrity sha512-VhXlQgj9ioXCqGstD37E/HBeqEGV/qOD/kmbVG8h5xKBYvM1L3lR1Zn4555cQ8GkYbJa8aJSipLPndE1k6zK2w==
 
-fast-xml-parser@^4.0.9, fast-xml-parser@^4.2.2:
+fast-xml-parser@^4.2.2:
   version "4.3.2"
   resolved "https://registry.yarnpkg.com/fast-xml-parser/-/fast-xml-parser-4.3.2.tgz#761e641260706d6e13251c4ef8e3f5694d4b0d79"
   integrity sha512-rmrXUXwbJedoXkStenj1kkljNF7ugn5ZjR9FJcwmCfcCbtOMDghPajbc+Tck6vE6F5XsDmx+Pr2le9fw8+pXBg==
