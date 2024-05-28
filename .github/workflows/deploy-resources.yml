@@ -22,7 +22,7 @@ jobs:
         name: Setup Node
         with:
           node-version: '16'
-      - name: Add token for private packages
+      - name: Add token for private packages to access EGW & Bible tools
         run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
       - run: npm install --global yarn
         name: Install Yarn
