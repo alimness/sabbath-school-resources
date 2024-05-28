@@ -59,7 +59,7 @@ let transferDocumentAssets = async function () {
          * now.
          */
 
-        commands.push(`sed -i -e 's/\\([ [(:]\\)${escapeAssetPathForSed(targetImage)}/\\1${escapeAssetPathForSed(remoteURL)}/g' ${assetDir}/**/*.md && rm ${SOURCE_DIR}/${documentImageAsset}`)
+        commands.push(`sed -i -e 's/\\([ [(:]\\)${escapeAssetPathForSed(targetImage)}/\\1${escapeAssetPathForSed(remoteURL)}/g' ${assetDir}/content/**/*.md && rm ${SOURCE_DIR}/${documentImageAsset}`)
     }
 
     fs.writeFileSync(OPS_SYNC_TRANSFER_COMMANDS_FILENAME, `\n${commands.join("\n")}`)
