@@ -25,7 +25,8 @@ Yet both the law and the prophets would eventually be restored. In answer to the
 
 After many centuries the truth of the Sabbath was being restored. And what twin witness would God restore along with the Sabbath truth? The gift of prophecy! As God was bringing His people back to the truth of His law that was cast down, He also restored the gift of prophecy by giving Ellen White her first prophetic vision in December of 1844. The law and the prophets were again working together.
 
-Ellen White writes, “The law of God and the Spirit of Prophecy go hand in hand to guide and counsel the church, and whenever the church has recognized this by obeying His law, the spirit of prophecy has been sent to guide her in the way of truth. . . . As the third angel’s message arose in the world, which is to reveal the law of God to the church in its fullness and power, the prophetic gift was also immediately restored. This gift has acted a very prominent part in the development and carrying forward of this message” (Loma Linda Messages, p. 33).
+> Ellen White writes, “The law of God and the Spirit of Prophecy go hand in hand to guide and counsel the church, and whenever the church has recognized this by obeying His law, the spirit of prophecy has been sent to guide her in the way of truth. . . . As the third angel’s message arose in the world, which is to reveal the law of God to the church in its fullness and power, the prophetic gift was also immediately restored. This gift has acted a very prominent part in the development and carrying forward of this message”
+> <cite>Loma Linda Messages, p. 33.</cite>
 
 ### Tests of a Prophet
 
@@ -53,6 +54,8 @@ It is a sad reality that God’s people have been notorious for claiming to foll
 
 ### Spiritual Discernment for Perilous Times
 
+!v[https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] This is an example of the embedded video
+
 The apostle Paul describes the period immediately preceding the second coming of Christ as “perilous times” (2 Timothy 3:1). Of these times, Jesus warned that “even the elect” (Matthew 24:24) could be deceived, as Satan works “with all power, signs, and lying wonders” (2 Thessalonians 2:9). “All the depths of satanic skill and subtlety acquired . . . will be brought to bear against God’s people in the final conflict” (The Great Controversy, p. x). In order to meet this crisis, God has given us a special manifestation of the gift of prophecy in the ministry of Ellen G. White.
 
 We must remember that without the ministry of the Holy Spirit, we can never arrive at a right understanding of truth (see 1 Corinthians 2:14). It is the Holy Spirit who Jesus promised would guide us into all truth (see John 16:13). One of the primary ways He does this is through the gift of prophecy. To be guided by the Spirit, we must be willing to heed the counsel of the prophets whom the Spirit inspires.
@@ -61,8 +64,25 @@ At a time when Satan’s deceptions are at their height, when every wind of doct
 
 ### Practical Application
 
+???=Are you sure ready for Jesus' Second Coming?
+- Yes
+- No
+- Maybe
+???
+
+Poll 2
+
+???=Are you sure ready for Jesus' Second Coming?
+- Yes
+- No
+- Maybe
+???
+
 As mentioned in the previous chapter, there are many inspirational books that we can read with benefit. But we should not be content to read only inspirational books when we could be reading inspired books. Seventh-day Adventists recognize Ellen White’s writings as an end-time manifestation of the biblical “spirit of prophecy.” These writings are a product of divine inspiration. God has given them specially to His church in these last days to help prepare us for the second coming of Christ. They expose the enemy’s deceptive snares and establish the reader in the truths of Scripture. Yet “many are going directly contrary to the light which God has given to His people, because they do not read the books which contain the light and knowledge in cautions, reproofs, and warnings” (Testimonies for the Church, vol. 5, p. 681).
+
+{#[en/pm/discipleship-handbook/content/02-devotional-life/02-spirit-and-life/02-spirit-and-life.md]}
 
 Recommit to spending at least 30 minutes a day in prayer and study, using the Bible and Spirit of Prophecy reading plan in the back of this handbook. Read the writings of Ellen G. White alongside your Bible, and discover for yourself how they illuminate your understanding of the Bible, establish you in the truth, and deepen your walk with God.
 
-“Believe in the Lord your God, and you shall be established; believe His prophets, and you shall prosper” (2 Chronicles 20:20).
+> “Believe in the Lord your God, and you shall be established; believe His prophets, and you shall prosper”
+> <cite>2 Chronicles 20:20</cite>

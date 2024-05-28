@@ -61,8 +61,8 @@ let parseBlock = async function (block, resourcePath, index, parentId) {
     return null
 }
 
-let parseDocument = async function (document, resourcePath, parentId, filter = (b) => b.type !== "space") {
-    const blocks = marked.lexer(document).filter(filter)
+let parseSegment = async function (segment, resourcePath, parentId, filter = (b) => b.type !== "space") {
+    const blocks = marked.lexer(segment).filter(filter)
     let blocksData = []
 
     for (let [index, block] of blocks.entries()) {
@@ -79,6 +79,6 @@ let parseDocument = async function (document, resourcePath, parentId, filter = (
 
 export {
     marked,
-    parseDocument,
+    parseSegment,
     parseBlock
 }

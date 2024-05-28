@@ -1,4 +1,4 @@
-import { parseDocument } from "../blocks.js"
+import { parseSegment } from "../blocks.js"
 
 export const collapse = {
     extension: {
@@ -23,6 +23,6 @@ export const collapse = {
         }
     },
     process: async function (block, resourcePath) {
-        return { id: block.id, type: block.type, caption: block.caption, items: await parseDocument(block.text, resourcePath, block.id) }
+        return { id: block.id, type: block.type, caption: block.caption, items: await parseSegment(block.text, resourcePath, block.id) }
     },
 }

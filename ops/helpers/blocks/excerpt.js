@@ -1,6 +1,6 @@
 import { getBibleData } from "../bible.js"
 import crypto from "crypto"
-import { parseDocument } from "../blocks.js"
+import { parseSegment } from "../blocks.js"
 
 export const excerpt = {
     extension: {
@@ -42,7 +42,7 @@ export const excerpt = {
                 }
                 markdown = markdown.replace(/\n\n$/mg, '')
 
-                item.items = await parseDocument(markdown, resourcePath, item.id)
+                item.items = await parseSegment(markdown, resourcePath, item.id)
 
                 if (item.items.length && item.items[0].type === "heading") {
                     item.items.shift()

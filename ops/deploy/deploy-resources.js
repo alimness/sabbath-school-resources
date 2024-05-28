@@ -5,7 +5,7 @@ import yaml from "js-yaml"
 import fs from "fs-extra"
 import { fdir } from "fdir"
 import { database } from "../helpers/firebase.js"
-import { getDocumentInfo } from "./deploy-documents.js"
+import { getDocumentInfoYml } from "./deploy-documents.js"
 import { getLanguageInfo } from "./deploy-languages.js"
 import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import { getLanguages } from "./deploy-languages.js"
@@ -54,17 +54,30 @@ let getResourceInfo = async function (resource, depth = 0) {
         }
     }
 
+    // TODO: make seamless for local testing
+    if (!resourceInfo.covers) {
+        resourceInfo.covers = {
+            landscape: `http://localhost:3002/api/v2/en/devo/${resourceInfo.name}/assets/cover-landscape.png`,
+            square: `http://localhost:3002/api/v2/en/devo/${resourceInfo.name}/assets/cover-square.png`,
+            portrait: `http://localhost:3002/api/v2/en/devo/${resourceInfo.name}/assets/cover.png`,
+            splash: `http://localhost:3002/api/v2/en/devo/${resourceInfo.name}/assets/splash.png`,
+        }
+    }
+
     const documents = new fdir()
         .withBasePath()
         .withRelativePaths()
         .withMaxDepth(5)
-        .glob(`${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_CONTENT_DIRNAME}/**/*.md`)
+        .glob(`${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_CONTENT_DIRNAME}/**/info.yml`)
         .crawl(`${SOURCE_DIR}/`)
         .sync();
 
+    // If resource only contains one document, add documentId and documentIndex to resource level
+    // to launch document without individual view screen
+
     if (documents.length === 1) {
         let document = documents[0]
-        let documentInfo = await getDocumentInfo(`${SOURCE_DIR}/${document}`)
+        let documentInfo = await getDocumentInfoYml(`${SOURCE_DIR}/${document}`)
         resourceInfo.documentId = documentInfo.id
         resourceInfo.documentIndex = documentInfo.index
     }

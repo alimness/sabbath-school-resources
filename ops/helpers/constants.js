@@ -49,20 +49,12 @@ export const RESOURCE_CONTENT_DIRNAME = "content"
 export const RESOURCE_FONTS_DIRNAME = "fonts"
 
 // Sections
-export const SECTION_INFO_FILENAME = "info.yml"
+export const SECTION_DEFAULT_NAME = "root"
+export const SECTION_INFO_FILENAME = "section.yml"
 export const SECTION_DIRNAME = "sections"
-export const SECTION_TYPES = {
-    CHAPTER: "chapter",
-    SEGMENT: "segment",
-}
-export const SECTION_TYPE_DEFAULT = SECTION_TYPES.CHAPTER
-export const SECTION_TYPES_BY_RESOURCE_KIND = {
-    [RESOURCE_KIND.DEVOTIONAL]: SECTION_TYPES.SEGMENT,
-    [RESOURCE_KIND.PLAN]: SECTION_TYPES.SEGMENT,
-    [RESOURCE_KIND.BOOK]: SECTION_TYPES.CHAPTER,
-    [RESOURCE_KIND.EXTERNAL]: SECTION_TYPES.CHAPTER,
-    [RESOURCE_KIND.BLOG]: SECTION_TYPES.CHAPTER,
-    [RESOURCE_KIND.MAGAZINE]: SECTION_TYPES.CHAPTER,
+export const SECTION_VIEWS = {
+    NORMAL: "normal",
+    DROPDOWN: "dropdown"
 }
 
 // Categories
@@ -70,7 +62,6 @@ export const CATEGORIES_DIRNAME = "categories"
 export const CATEGORY_INFO_FILENAME = "info.yml"
 export const CATEGORY_FEED_FILENAME = "feed.yml"
 export const CATEGORY_ASSETS_DIRNAME = "assets"
-export const CATEGORY_DEFAULT_NAME = "root"
 
 // Authors
 export const AUTHORS_DIRNAME = "authors"
@@ -80,7 +71,7 @@ export const AUTHORS_ASSETS_DIRNAME = "assets"
 
 // Documents
 export const DOCUMENT_CONTENT_DIRNAME = "content"
-export const DOCUMENT_TYPES = {
+export const SEGMENT_TYPES = {
     BLOCK: "block",
     PDF: "pdf",
     VIDEO: "video",
@@ -112,12 +103,13 @@ export const FEED_SCOPES = {
 export const API_PREFIX = "/api/v2/"
 export const API_DIST = `${DIST_DIR}/${API_PREFIX}`
 export const API_URL = function () { return `https://sabbath-school${DEPLOY_ENV === "prod" ? "" : "-stage" }.adventech.io` }
-export const MEDIA_URL = `https://sabbath-school-resources-media.adventech.io`
+export const MEDIA_URL = (DEPLOY_ENV === "local") ? "http://localhost:3002" : `https://sabbath-school-resources-media.adventech.io`
 export const FIREBASE_DATABASE_NAME = (DEPLOY_ENV === "prod") ? "https://blistering-inferno-8720.firebaseio.com" : "https://sabbath-school-stage.firebaseio.com"
 export const FIREBASE_DATABASE_LANGUAGES = "languages"
 export const FIREBASE_DATABASE_RESOURCES = "resources"
 export const FIREBASE_DATABASE_BLOCKS = "blocks"
 export const FIREBASE_DATABASE_DOCUMENTS = "documents"
+export const FIREBASE_DATABASE_SEGMENTS = "segments"
 
 // Misc
 export const DATE_FORMAT = "DD/MM/YYYY"

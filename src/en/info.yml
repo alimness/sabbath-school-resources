@@ -15,3 +15,5 @@ bible:
   - name: niv
     copyright: "\n\n^[HOLY BIBLE, NEW INTERNATIONAL VERSION TM, NIV TM. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission. All rights reserved worldwide.]({\"style\": {\"text\": {\"size\": \"xs\"}}})"
   - asv
+sections:
+  default: Main

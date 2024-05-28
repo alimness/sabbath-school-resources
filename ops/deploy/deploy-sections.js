@@ -5,7 +5,7 @@ import fs from "fs-extra"
 import yaml from "js-yaml"
 import { fdir } from "fdir"
 import { getResourceInfo } from "./deploy-resources.js"
-import { getDocumentInfo } from "./deploy-documents.js"
+import { getDocumentInfoYml } from "./deploy-documents.js"
 import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import {
     SOURCE_DIR,
@@ -15,20 +15,44 @@ import {
     RESOURCE_INFO_FILENAME,
     SECTION_INFO_FILENAME,
     RESOURCE_ORDER,
-    CATEGORY_DEFAULT_NAME,
-    SECTION_DIRNAME,
-    SECTION_TYPES_BY_RESOURCE_KIND,
-    SECTION_TYPE_DEFAULT
+    SECTION_DEFAULT_NAME,
+    SECTION_DIRNAME, SECTION_VIEWS,
 } from "../helpers/constants.js"
+import { getLanguageInfo } from "./deploy-languages.js"
 
 let getSectionInfo = async function (section) {
     const sectionInfo = yaml.load(fs.readFileSync(section, "utf8"))
     const sectionPathInfo = parseResourcePath(section)
-    sectionInfo.name = sectionPathInfo.section || CATEGORY_DEFAULT_NAME
+    sectionInfo.name = sectionPathInfo.section || SECTION_DEFAULT_NAME
     return sectionInfo
 }
 
+let processSection = async function (resourceInfo, section) {
+    let documents = new fdir()
+        .withBasePath()
+        .withRelativePaths()
+        .withMaxDepth(1)
+        .glob("**/info.yml")
+        .crawl(section)
+        .sync()
+
+    if (resourceInfo.order && resourceInfo.order === RESOURCE_ORDER.DESC) {
+        documents = documents.reverse()
+    }
+
+    let sectionDocuments = []
+
+    for (let document of documents) {
+        const documentInfo = await getDocumentInfoYml(`${section}/${document}`)
+        sectionDocuments.push(documentInfo)
+    }
+
+    return sectionDocuments
+}
+
 let processSections = async function (resourceType) {
+    let totalDocuments = 0
+
     const resources = new fdir()
         .withBasePath()
         .withRelativePaths()
@@ -41,55 +65,49 @@ let processSections = async function (resourceType) {
         const resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${resource}`)
         const resourcePathInfo = parseResourcePath(`${SOURCE_DIR}/${resource}`)
         const resourceContentPath = `${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_CONTENT_DIRNAME}`
+        const languageInfo = await getLanguageInfo(resourcePathInfo.language)
 
         const sections = new fdir()
             .withBasePath()
             .withRelativePaths()
             .withMaxDepth(1)
-            .glob("**/info.yml")
+            .glob("**/section.yml")
             .crawl(resourceContentPath)
             .sync()
 
-        const resourceSectionData = {
-            [CATEGORY_DEFAULT_NAME]: {
-                id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${CATEGORY_DEFAULT_NAME}`,
-                title: CATEGORY_DEFAULT_NAME,
-                type: SECTION_TYPES_BY_RESOURCE_KIND[resourceInfo.kind] || SECTION_TYPE_DEFAULT,
-                name: CATEGORY_DEFAULT_NAME,
+        // TODO: use language default name
+        let sectionDocuments = await processSection(resourceInfo, `${resourceContentPath}`)
+        const resourceSectionData = {}
+
+        if (sectionDocuments.length) {
+            totalDocuments += sectionDocuments.length
+            resourceSectionData[SECTION_DEFAULT_NAME] = {
+                id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${SECTION_DEFAULT_NAME}`,
+                title: SECTION_DEFAULT_NAME,
+                name: languageInfo.sections?.default || SECTION_DEFAULT_NAME,
                 isRoot: true,
-                documents: []
+                documents: await processSection(resourceInfo, `${resourceContentPath}`)
             }
         }
 
         for (let section of sections) {
             let sectionInfo = await getSectionInfo(`${resourceContentPath}/${section}`)
-            resourceSectionData[`${section.replace(`/${SECTION_INFO_FILENAME}`, "")}`] = {
-                id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${section.replace(`/${SECTION_INFO_FILENAME}`, "")}`,
-                type: sectionInfo.type || SECTION_TYPES_BY_RESOURCE_KIND[resourceInfo.kind] || SECTION_TYPE_DEFAULT,
-                documents: [],
-                ...sectionInfo
+
+            let documents = await processSection(resourceInfo, `${resourceContentPath}/${sectionInfo.name}`)
+            totalDocuments += documents.length
+
+            if (documents.length) {
+                resourceSectionData[`${section.replace(`/${SECTION_INFO_FILENAME}`, "")}`] = {
+                    id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${section.replace(`/${SECTION_INFO_FILENAME}`, "")}`,
+                    documents,
+                    ...sectionInfo
+                }
             }
         }
 
-        let documents = new fdir()
-            .withBasePath()
-            .withRelativePaths()
-            .withMaxDepth(1)
-            .glob("**/*.md")
-            .crawl(resourceContentPath)
-            .sync()
-
-        if (resourceInfo.order && resourceInfo.order === RESOURCE_ORDER.DESC) {
-            documents = documents.reverse()
-        }
-
-        for (let document of documents) {
-            const documentSectionName = document.substring(0, document.lastIndexOf("/")) || CATEGORY_DEFAULT_NAME
-            const documentInfo = await getDocumentInfo(`${resourceContentPath}/${document}`)
-            resourceSectionData[documentSectionName].documents.push(documentInfo)
-        }
-
         resourceInfo.sections = Object.values(resourceSectionData)
+        resourceInfo.sectionView = totalDocuments < 100 ? SECTION_VIEWS.NORMAL : SECTION_VIEWS.DROPDOWN
+
         fs.outputFileSync(`${API_DIST}/${resourcePathInfo.language}/${resourceType}/${resourcePathInfo.title}/${SECTION_DIRNAME}/index.json`, JSON.stringify(resourceInfo))
     }
 }

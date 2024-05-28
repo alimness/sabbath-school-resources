@@ -19,10 +19,10 @@ import {
     AUTHORS_INFO_FILENAME,
     AUTHORS_ASSETS_DIRNAME,
     RESOURCE_INFO_FILENAME,
-    RESOURCE_ASSETS_DIRNAME,
+    RESOURCE_ASSETS_DIRNAME, DIST_DIR, API_DIST,
 } from "../helpers/constants.js"
 
-let mode = "local"
+let mode = "remote"
 
 if (process && process.env && process.env.GITHUB_TOKEN) {
     mode = "remote"
@@ -149,9 +149,13 @@ let transferResourcesAssets = async function () {
             const imageAssetPath = parseResourcePath(resourceImageAsset)
 
             Object.keys(RESOURCE_COVERS).map(k => {
-                if (imageAssetPath.section === RESOURCE_COVERS[k]) {
-                    resourceInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${MEDIA_URL}/${resourcePath.language}/${resourcePath.type}/${resourcePath.title}/${RESOURCE_ASSETS_DIRNAME}/${imageAssetPath.section}`
+                if (imageAssetPath.document === RESOURCE_COVERS[k]) {
+                    resourceInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${MEDIA_URL}/${resourcePath.language}/${resourcePath.type}/${resourcePath.title}/${RESOURCE_ASSETS_DIRNAME}/${imageAssetPath.document}`
                     if (mode === "remote") fs.removeSync(`${SOURCE_DIR}/${resourceImageAsset}`)
+                    if (mode === "local") {
+                        fs.copySync(`${SOURCE_DIR}/${resourceImageAsset}`,
+                                    `${API_DIST}/${resourceImageAsset}`)
+                    }
                 }
             })
         }

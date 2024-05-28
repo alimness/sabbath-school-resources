@@ -3,7 +3,14 @@ import https from "https"
 import { imageSize } from "image-size"
 import { fileURLToPath } from "url"
 import { createRequire } from "module"
-import { SOURCE_DIR, RESOURCE_TYPE, RESOURCE_COVERS, CATEGORY_DEFAULT_NAME, RESOURCE_FONTS_DIRNAME } from "./constants.js"
+import {
+    SOURCE_DIR,
+    RESOURCE_TYPE,
+    RESOURCE_COVERS,
+    SECTION_DEFAULT_NAME,
+    RESOURCE_FONTS_DIRNAME,
+    RESOURCE_ASSETS_DIRNAME
+} from "./constants.js"
 
 async function getBufferFromUrl(url) {
     return new Promise((resolve) => {
@@ -89,17 +96,69 @@ let parseResourcePath = function (resourcePath) {
     if (/^\.\/src\//.test(resourcePath)) {
         resourcePath = resourcePath.replace(`${SOURCE_DIR}/`, "")
     }
-    let pathRegExp = /^([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?/mg,
+    let pathRegExp = /^([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?/mg,
         matches = pathRegExp.exec(resourcePath),
         info = {};
 
     try {
-        info.language = matches[1] || null;
-        info.type = matches[2] || null;
-        info.title = matches[3] || null;
-        info.section = (matches[4] && matches[5] && !/\.md$/.test(matches[5])) ? matches[5] : CATEGORY_DEFAULT_NAME;
-        info.document = matches[6] ? matches[6] : (matches[5] && /\.md$/.test(matches[5])) ? matches[5] : null;
-        if (info.document) { info.document = info.document.replace(".md", "") }
+        info.language = matches[1] || null
+        info.type = matches[2] || null
+        info.title = matches[3] || null
+        info.section = null
+        info.document = null
+        info.segment = null
+
+
+
+        if (matches[4] && matches[5] && matches[4] === RESOURCE_ASSETS_DIRNAME && /\.png$/.test(matches[5])){
+            info.section = matches[4]
+            info.document = matches[5]
+        }
+
+        if (matches[4] && matches[5] && matches[6]) {
+            // Only section info
+            // ex: en/devo/resource/content/section-name/section.yml
+            if (/section\.yml$/.test(matches[6])) {
+                info.section = matches[5]
+            }
+
+            // Root level document
+            // ex: en/devo/resource/content/document-name/info.yml
+            if (/info\.yml$/.test(matches[6])) {
+                info.section = SECTION_DEFAULT_NAME
+                info.document = matches[5]
+            }
+
+            // Root level document segment
+            // ex: en/devo/resource/content/document-name/segment.yml
+            if (/\.md$/.test(matches[6])) {
+                info.section = SECTION_DEFAULT_NAME
+                info.document = matches[5]
+                info.segment = matches[6]
+            }
+
+            if (matches[7]) {
+                // Document info
+                // ex: en/devo/resource/content/section-name/document-name/info.yml
+                if (/info\.yml$/.test(matches[7])) {
+                    info.section = matches[5]
+                    info.document = matches[6]
+                }
+
+                // Document Segment
+                // ex: en/devo/resource/content/section-name/document-name/segment.md
+                if (/\.md$/.test(matches[7])) {
+                    info.section = matches[5]
+                    info.document = matches[6]
+                    info.segment = matches[7]
+                }
+            }
+        }
+
+        if (info.section) { info.section = info.section.replace("section.yml", "") }
+        if (info.document) { info.document = info.document.replace(".yml", "") }
+        if (info.segment) { info.segment = info.segment.replace(".md", "") }
+
     } catch (e) {
         console.error(`Error parsing resource path: ${e}`);
     }

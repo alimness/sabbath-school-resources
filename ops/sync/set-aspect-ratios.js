@@ -1,13 +1,14 @@
 import fs from "fs-extra"
 import frontMatter from "front-matter"
 import { fdir } from "fdir"
-import { parseDocument } from "../helpers/blocks.js"
+import { parseSegment } from "../helpers/blocks.js"
 import { isURL, getBufferFromUrl, getImageRatio, parseResourcePath} from "../helpers/helpers.js"
 import {
     RESOURCE_ASSETS_DIRNAME,
-    CATEGORY_DEFAULT_NAME,
+    SECTION_DEFAULT_NAME,
     DOCUMENT_CONTENT_DIRNAME,
-    DOCUMENT_TYPES, RESOURCE_TYPE,
+    SEGMENT_TYPES,
+    RESOURCE_TYPE,
     SOURCE_DIR
 } from "../helpers/constants.js"
 
@@ -21,16 +22,16 @@ let getDocumentWithImageBlocksOnly = async function (document) {
         ...documentInfoFrontMatter.attributes,
     }
 
-    if (!documentInfo.type || documentInfo.type === DOCUMENT_TYPES.BLOCK) {
-        documentInfo.blocks = await parseDocument(documentInfoFrontMatter.body, documentPathInfo, "root",
+    if (!documentInfo.type || documentInfo.type === SEGMENT_TYPES.BLOCK) {
+        documentInfo.blocks = await parseSegment(documentInfoFrontMatter.body, documentPathInfo, "root",
             (b) => {
                 return b.type === "image"
             })
-        documentInfo.type = DOCUMENT_TYPES.BLOCK
+        documentInfo.type = SEGMENT_TYPES.BLOCK
     }
 
-    documentInfo.id = `${documentPathInfo.language}-${documentPathInfo.type}-${documentPathInfo.title}-${DOCUMENT_CONTENT_DIRNAME}-${documentPathInfo.section || CATEGORY_DEFAULT_NAME}-${documentPathInfo.document}`
-    documentInfo.index = `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section || CATEGORY_DEFAULT_NAME}/${documentPathInfo.document}`
+    documentInfo.id = `${documentPathInfo.language}-${documentPathInfo.type}-${documentPathInfo.title}-${DOCUMENT_CONTENT_DIRNAME}-${documentPathInfo.section || SECTION_DEFAULT_NAME}-${documentPathInfo.document}`
+    documentInfo.index = `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section || SECTION_DEFAULT_NAME}/${documentPathInfo.document}`
 
     return documentInfo
 }

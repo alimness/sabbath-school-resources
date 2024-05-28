@@ -1,4 +1,4 @@
-import { parseDocument } from "../blocks.js"
+import { parseSegment } from "../blocks.js"
 
 export const blockquote = {
     extension: {},
@@ -31,6 +31,6 @@ export const blockquote = {
             blockquote.callout = true
         }
 
-        return {...blockquote, items: await parseDocument(block.text, resourcePath, block.id) }
+        return {...blockquote, items: await parseSegment(block.text, resourcePath, block.id) }
     }
 }

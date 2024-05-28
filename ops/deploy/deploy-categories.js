@@ -5,7 +5,7 @@ import fs from "fs-extra"
 import yaml from "js-yaml"
 import { fdir } from "fdir"
 import { getResourceInfo } from "./deploy-resources.js"
-import { getDocumentInfo } from "./deploy-documents.js"
+import { getDocumentInfoYml } from "./deploy-documents.js"
 import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import {
     API_DIST,
@@ -43,7 +43,7 @@ let getAllTaggedResources = async function () {
         .withBasePath()
         .withRelativePaths()
         .withMaxDepth(5)
-        .glob(`**/+(${RESOURCE_TYPE.DEVO}|${RESOURCE_TYPE.PM})/**/*.md`)
+        .glob(`**/+(${RESOURCE_TYPE.DEVO}|${RESOURCE_TYPE.PM})/**/content/**/info.yml`)
         .crawl(SOURCE_DIR)
         .sync();
 
@@ -65,7 +65,7 @@ let getAllTaggedResources = async function () {
 
     for (let document of documents) {
         try {
-            let documentInfo = await getDocumentInfo(`${SOURCE_DIR}/${document}`)
+            let documentInfo = await getDocumentInfoYml(`${SOURCE_DIR}/${document}`)
             if (documentInfo.categories) {
                 const documentPathInfo = parseResourcePath(`${SOURCE_DIR}/${document}`)
                 const parentResource = await getResourceInfo(`${SOURCE_DIR}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${RESOURCE_INFO_FILENAME}`)
