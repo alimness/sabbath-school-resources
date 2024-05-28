@@ -52,3 +52,12 @@ fonts:
     weight: 100
     src: >-
       https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/fonts/RobotoSlab-Thin.ttf
+covers:
+  landscape: >-
+    https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/cover.png
+  splash: >-
+    https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/splash.png
