@@ -51,8 +51,6 @@ let processSection = async function (resourceInfo, section) {
 }
 
 let processSections = async function (resourceType) {
-    let totalDocuments = 0
-
     const resources = new fdir()
         .withBasePath()
         .withRelativePaths()
@@ -62,6 +60,7 @@ let processSections = async function (resourceType) {
         .sync();
 
     for (let resource of resources) {
+        let totalDocuments = 0
         const resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${resource}`)
         const resourcePathInfo = parseResourcePath(`${SOURCE_DIR}/${resource}`)
         const resourceContentPath = `${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_CONTENT_DIRNAME}`
@@ -83,8 +82,8 @@ let processSections = async function (resourceType) {
             totalDocuments += sectionDocuments.length
             resourceSectionData[SECTION_DEFAULT_NAME] = {
                 id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${SECTION_DEFAULT_NAME}`,
-                title: SECTION_DEFAULT_NAME,
-                name: languageInfo.sections?.default || SECTION_DEFAULT_NAME,
+                name: SECTION_DEFAULT_NAME,
+                title: languageInfo.sections?.default || SECTION_DEFAULT_NAME,
                 isRoot: true,
                 documents: await processSection(resourceInfo, `${resourceContentPath}`)
             }
