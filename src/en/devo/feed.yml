@@ -1,4 +1,6 @@
 ---
+  title: Devotionals
+  groups:
   - group: Recent
     view: square
     recent: true

@@ -1,7 +1,9 @@
 ---
-- group: Personal Ministries
-  view: folio
-  resources:
-    - en-pm-discipleship-handbook
-- group: Other resources
-  scope: resource
+  title: Personal Ministries
+  groups:
+  - group: Personal Ministries
+    view: folio
+    resources:
+      - en-pm-discipleship-handbook
+  - group: Other resources
+    scope: resource

@@ -109,7 +109,7 @@ let processResources = async function (resourceType) {
         const resourceFeedConfig = await getResourceFeed(`${SOURCE_DIR}/${language}/${resourceType}/${RESOURCE_FEED_FILENAME}`)
 
         let resourceFeed = {
-            name: resourceFeedConfig.name,
+            title: resourceFeedConfig.title,
             groups: []
         }
 
