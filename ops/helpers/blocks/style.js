@@ -9,6 +9,16 @@ const styleSchema = {
             "additionalProperties": false,
             "properties": {
                 "backgroundColor": { "type": "string" },
+                "backgroundImage": { "type": "string" },
+                "backgroundPosition": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "properties": {
+                        "x": { "type": "string", "enum": ["left", "right", "center"] },
+                        "y": { "type": "string", "enum": ["top", "left", "center"] },
+                    },
+                    "required": ["x", "y"]
+                },
                 "padding": {
                     "type": "object",
                     "additionalProperties": false,
@@ -17,11 +27,12 @@ const styleSchema = {
                         "bottom": { "type": "string", "enum": [ "none", "xs", "sm", "base", "lg", "xl", ] },
                         "start": { "type": "string", "enum": [ "none", "xs", "sm", "base", "lg", "xl", ] },
                         "end": { "type": "string", "enum": [ "none", "xs", "sm", "base", "lg", "xl", ] },
-                    },"anyOf": [
+                    },
+                    "anyOf": [
                         { "required": ["top"], },
                         { "required": ["bottom"], },
                         { "required": ["start"], },
-                        { "required": ["send"], },
+                        { "required": ["end"], },
                     ]
                 },
                 "margin": {
@@ -37,10 +48,28 @@ const styleSchema = {
                         { "required": ["top"], },
                         { "required": ["bottom"], },
                         { "required": ["start"], },
-                        { "required": ["send"], },
+                        { "required": ["end"], },
                     ]
                 },
             }
+        },
+
+        "wrapper": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "rounded": { "type": "boolean" },
+                "backgroundColor": { "type": "string" },
+                "backgroundPosition": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "properties": {
+                        "x": { "type": "string", "enum": ["left", "right", "center"] },
+                        "y": { "type": "string", "enum": ["top", "left", "center"] },
+                    },
+                    "required": ["x", "y"]
+                },
+            },
         },
 
         // special block-level styles
@@ -49,8 +78,11 @@ const styleSchema = {
             "additionalProperties": false,
             "properties": {
                 "aspectRatio": { "type": "number" },
+                "rounded": { "type": "boolean" },
+                "expandable": { "type": "boolean" },
             }
         },
+
         "text": {
             "type": "object",
             "additionalProperties": false,
