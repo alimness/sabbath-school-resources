@@ -107,10 +107,14 @@ let processResources = async function (resourceType) {
             .sync();
 
         const resourceFeedConfig = await getResourceFeed(`${SOURCE_DIR}/${language}/${resourceType}/${RESOURCE_FEED_FILENAME}`)
-        let resourceFeed = []
 
-        resourceFeedConfig.map(g => {
-            resourceFeed.push({
+        let resourceFeed = {
+            name: resourceFeedConfig.name,
+            groups: []
+        }
+
+        resourceFeedConfig.groups.map(g => {
+            resourceFeed.groups.push({
                 ...g,
                 title: g.group,
                 author: g.author || null,
@@ -128,10 +132,10 @@ let processResources = async function (resourceType) {
                 const resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${resource}`)
                 const resourcePathInfo = parseResourcePath(resource)
 
-                let groupByName = resourceFeed.find(g => g.resourceIds.includes(resourceInfo.id))
-                let groupByAuthor = resourceFeed.find(g => g.author === resourceInfo.author)
-                let groupByKind = resourceFeed.find(g => g.kind === resourceInfo.kind)
-                let groupByType = resourceFeed.find(g => g.scope === FEED_SCOPES.RESOURCE)
+                let groupByName = resourceFeed.groups.find(g => g.resourceIds.includes(resourceInfo.id))
+                let groupByAuthor = resourceFeed.groups.find(g => g.author === resourceInfo.author)
+                let groupByKind = resourceFeed.groups.find(g => g.kind === resourceInfo.kind)
+                let groupByType = resourceFeed.groups.find(g => g.scope === FEED_SCOPES.RESOURCE)
 
                 if (groupByName) {
                     groupByName.resources.push(resourceInfo)
@@ -151,7 +155,7 @@ let processResources = async function (resourceType) {
             }
         }
 
-        const recentFeedGroup = resourceFeed.find(g => g.recent)
+        const recentFeedGroup = resourceFeed.groups.find(g => g.recent)
 
         if (recentFeedGroup && recentFeedGroup.group) {
 
@@ -165,7 +169,7 @@ let processResources = async function (resourceType) {
             await database.collection(FIREBASE_DATABASE_LANGUAGES).doc(language).collection("feed").doc("recent").set(recentFeedGroupAPI);
         }
 
-        resourceFeed = resourceFeed.filter(g => g.resources.length).map(g => {
+        resourceFeed.groups = resourceFeed.groups.filter(g => g.resources.length).map(g => {
             delete g.kind
             delete g.resourceIds
             delete g.documentIds
