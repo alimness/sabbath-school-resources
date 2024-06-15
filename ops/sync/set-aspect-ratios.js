@@ -24,6 +24,7 @@ let getDocumentWithImageBlocksOnly = async function (document) {
 
     if (!documentInfo.type || documentInfo.type === SEGMENT_TYPES.BLOCK) {
         documentInfo.blocks = await parseSegment(documentInfoFrontMatter.body, documentPathInfo, "root",
+            1,
             (b) => {
                 return b.type === "image"
             })

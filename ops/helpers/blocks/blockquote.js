@@ -4,13 +4,14 @@ export const blockquote = {
     extension: {},
     process: async function (block, resourcePath) {
         let blockquote = { id: block.id, type: block.type }
+
         // memory-verse
         const memoryVerseRegex = /<p>([^<>]+)<\/p>/g
         let memoryVerse = memoryVerseRegex.exec(block.text)
         if (memoryVerse) {
             block.text = block.text.replace(memoryVerseRegex, "").trim()
+            block.text = `**${memoryVerse[1]}**\n\n${block.text}`
             blockquote.memoryVerse = true
-            blockquote.caption = memoryVerse[1]
         }
 
         // citation
@@ -18,7 +19,7 @@ export const blockquote = {
         let citation = citationRegex.exec(block.text)
         if (citation) {
             block.text = block.text.replace(citationRegex, "").trim()
-            blockquote.caption = citation[1]
+            block.text = `${block.text}\n\n_${citation[1]}_`
             blockquote.citation = true
         }
 
@@ -27,10 +28,25 @@ export const blockquote = {
         let callout = calloutRegex.exec(block.text)
         if (callout) {
             block.text = block.text.replace(calloutRegex, "").trim()
-            blockquote.caption = callout[1]
+            block.text = `${block.text}\n\n_${callout[1]}_`
             blockquote.callout = true
         }
 
-        return {...blockquote, items: await parseSegment(block.text, resourcePath, block.id) }
+        let items = await parseSegment(block.text, resourcePath, block.id)
+
+        if (blockquote.callout) {
+            items.map((item, i) => {
+                if (item.type === "paragraph") {
+                    item.style = item.style || {}
+                    item.style.text = item.style.text || {}
+                    item.style.text.align = "center"
+                    if (i < items.length-1) {
+                        item.style.text.size = "xl"
+                    }
+                }
+            })
+        }
+
+        return {...blockquote, items }
     }
 }

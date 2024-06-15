@@ -75,6 +75,7 @@ export const SEGMENT_TYPES = {
     BLOCK: "block",
     PDF: "pdf",
     VIDEO: "video",
+    STORY: "story",
 }
 
 // TODO: FEED_GROUP_LIMIT

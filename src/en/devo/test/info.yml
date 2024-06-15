@@ -1,20 +1,14 @@
 title: Test Resource
-subtitle: Devotional · Showcasing all the blocks
+subtitle: Showcasing all the blocks
 description: This is a description
 author: Adventech
 primaryColor: '#333333'
 primaryColorDark: '#000000'
-id: en-devo-test
-index: en/devo/test
-credits: []
-features: []
 kind: devotional
 categories:
   - love
-documentId: en-devo-test-content-root-blocks
-documentIndex: en/devo/test/content/root/blocks
-name: test
-type: devo
+featuredResources:
+  - en/pm/discipleship-handbook
 fonts:
   - name: RobotoSlab-Black
     weight: 900
@@ -53,11 +47,7 @@ fonts:
     src: >-
       https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/fonts/RobotoSlab-Thin.ttf
 covers:
-  landscape: >-
-    https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/cover-landscape.png
-  square: >-
-    https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/cover-square.png
-  portrait: >-
-    https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/cover.png
-  splash: >-
-    https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/splash.png
+  landscape: https://sabbath-school-stage.adventech.io/api/v2/en/devo/test/assets/cover-landscape.png
+  square: https://sabbath-school-stage.adventech.io/api/v2/en/devo/test/assets/cover-square.png
+  portrait: https://sabbath-school-stage.adventech.io/api/v2/en/devo/test/assets/cover.png
+  splash: https://sabbath-school-stage.adventech.io/api/v2/en/devo/test/assets/splash.png

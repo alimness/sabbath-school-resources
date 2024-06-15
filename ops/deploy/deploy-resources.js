@@ -7,7 +7,7 @@ import { fdir } from "fdir"
 import { database } from "../helpers/firebase.js"
 import { getDocumentInfoYml } from "./deploy-documents.js"
 import { getLanguageInfo } from "./deploy-languages.js"
-import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
+import { isMainModule, parseResourcePath, slug } from "../helpers/helpers.js"
 import { getLanguages } from "./deploy-languages.js"
 import {
     SOURCE_DIR,
@@ -22,8 +22,9 @@ import {
     FEED_SCOPES,
     FEED_VIEWS,
     FEED_DIRECTION,
-    FIREBASE_DATABASE_RESOURCES, FIREBASE_DATABASE_LANGUAGES
+    FIREBASE_DATABASE_RESOURCES, FIREBASE_DATABASE_LANGUAGES, API_URL, API_PREFIX
 } from "../helpers/constants.js"
+import crypto from "crypto"
 
 
 let getResourceInfo = async function (resource, depth = 0) {
@@ -47,12 +48,27 @@ let getResourceInfo = async function (resource, depth = 0) {
         resourceInfo.subtitle = [languageInfo.kinds[resourceInfo.kind], resourceInfo.subtitle || undefined, ].filter(e => e !== undefined).join(" · ")
     }
 
-    if (!depth && resourceInfo.referenceResource && typeof resourceInfo.referenceResource !== "string") {
-        const referenceResourcePath = `${SOURCE_DIR}/${resourceInfo.referenceResource}/${RESOURCE_INFO_FILENAME}`
-        if (fs.pathExistsSync(referenceResourcePath)) {
-            resourceInfo.referenceResource = await getResourceInfo(referenceResourcePath, depth++)
-        }
+    if (depth && resourceInfo.featuredResources) {
+        let featuredResources = await Promise.all(resourceInfo.featuredResources.map(async featuredResource => {
+            const featuredResourcePath = `${SOURCE_DIR}/${featuredResource}/${RESOURCE_INFO_FILENAME}`
+            if (fs.pathExistsSync(featuredResourcePath)) {
+                return await getResourceInfo(featuredResourcePath)
+            }
+        }))
+        resourceInfo.feeds = [{
+            name: "featured",
+            id: crypto.createHash("sha256").update(
+                `${resource}-featured`
+            ).digest("hex"),
+            direction: featuredResources.length > 1 ? FEED_DIRECTION.HORIZONTAL : FEED_DIRECTION.VERTICAL,
+            scope: FEED_SCOPES.RESOURCE,
+            view: FEED_VIEWS.TILE,
+            title: languageInfo.featuredResources.title,
+            resources: featuredResources
+        }]
     }
+
+    delete resourceInfo.featuredResources
 
     // TODO: make seamless for local testing
     if (!resourceInfo.covers) {
@@ -67,7 +83,7 @@ let getResourceInfo = async function (resource, depth = 0) {
     const documents = new fdir()
         .withBasePath()
         .withRelativePaths()
-        .withMaxDepth(5)
+        .withMaxDepth(6)
         .glob(`${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_CONTENT_DIRNAME}/**/info.yml`)
         .crawl(`${SOURCE_DIR}/`)
         .sync();
@@ -84,6 +100,85 @@ let getResourceInfo = async function (resource, depth = 0) {
 
     if (resourceInfo.externalURL) {
         resourceInfo.kind = RESOURCE_KIND.EXTERNAL
+    }
+
+    if (languageInfo.features) {
+        let features = { ...languageInfo.features }
+        let resourceFeatures = []
+
+        for (let key of Object.keys(features)) {
+            features[key].image = `${API_URL()}${API_PREFIX}${features[key].image}`
+        }
+
+        if (resourceInfo.features && resourceInfo.features.length) {
+            for (let feature of resourceInfo.features) {
+                if (feature && features[feature]) {
+                    resourceFeatures.push(features[feature])
+                }
+            }
+        }
+
+        let inside_stories = new fdir()
+            .withRelativePaths()
+            .withMaxDepth(5)
+            .glob(`${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_CONTENT_DIRNAME}/+(0|1|2|3|4|5|6|7|8|9)/inside-story.md`)
+            .crawl(`${SOURCE_DIR}/`)
+            .sync()
+
+        if (inside_stories.length && features['inside-story']) {
+            resourceFeatures.push(features['inside-story'])
+        }
+
+        let teacher_comments = new fdir()
+            .withRelativePaths()
+            .withMaxDepth(5)
+            .glob(`${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_CONTENT_DIRNAME}/+(0|1|2|3|4|5|6|7|8|9)/teacher-comments.md`)
+            .crawl(`${SOURCE_DIR}/`)
+            .sync()
+
+        if (teacher_comments.length && features['teacher-comments']) {
+            resourceFeatures.push(features['teacher-comments'])
+        }
+
+        let audio = new fdir()
+            .withRelativePaths()
+            .withMaxDepth(5)
+            .glob(`${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/audio.yml`)
+            .crawl(`${SOURCE_DIR}/`)
+            .sync()
+
+        if (audio.length && features['audio']) {
+            resourceFeatures.push(features['audio'])
+        }
+
+        let video = new fdir()
+            .withRelativePaths()
+            .withMaxDepth(5)
+            .glob(`${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/video.yml`)
+            .crawl(`${SOURCE_DIR}/`)
+            .sync()
+
+        if (video.length && features['video']) {
+            resourceFeatures.push(features['video'])
+        }
+
+        let pdf = new fdir()
+            .withRelativePaths()
+            .withMaxDepth(5)
+            .glob(`${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/pdf.yml`)
+            .crawl(`${SOURCE_DIR}/`)
+            .sync()
+
+        if (pdf.length && features['original_layout']) {
+            resourceFeatures.push(features['original_layout'])
+        }
+
+        resourceInfo.features = resourceFeatures.filter((thing, index) => {
+            const _thing = JSON.stringify(thing)
+            return index === resourceFeatures.findIndex(obj => {
+                return JSON.stringify(obj) === _thing
+            })
+        })
     }
 
     return resourceInfo
@@ -117,13 +212,18 @@ let processResources = async function (resourceType) {
             resourceFeed.groups.push({
                 ...g,
                 title: g.group,
+                name: slug(g.group),
                 author: g.author || null,
                 scope: g.scope || null,
                 resources: [],
                 resourceIds: g.resources || [],
                 view: g.view || FEED_VIEWS.TILE,
                 recent: g.recent || null,
+                type: resourceType,
                 direction: g.direction || FEED_DIRECTION.HORIZONTAL,
+                id: crypto.createHash("sha256").update(
+                    `${language}-${resourceType}-${g.group}`
+                ).digest("hex")
             })
         })
 
@@ -158,13 +258,17 @@ let processResources = async function (resourceType) {
         const recentFeedGroup = resourceFeed.groups.find(g => g.recent)
 
         if (recentFeedGroup && recentFeedGroup.group) {
-
             const recentFeedGroupAPI = {
                 title: recentFeedGroup.group,
+                name: slug(recentFeedGroup.group),
                 view: recentFeedGroup.view || FEED_VIEWS.SQUARE,
                 scope: recentFeedGroup.scope || FEED_SCOPES.RESOURCE,
                 resources: [],
+                type: resourceType,
                 direction: recentFeedGroup.direction || FEED_DIRECTION.HORIZONTAL,
+                id: crypto.createHash("sha256").update(
+                    `${language}-${resourceType}-recent`
+                ).digest("hex")
             }
             await database.collection(FIREBASE_DATABASE_LANGUAGES).doc(language).collection("feed").doc("recent").set(recentFeedGroupAPI);
         }
@@ -181,6 +285,13 @@ let processResources = async function (resourceType) {
             delete g.recent
             return g
         })
+
+        for (let feedGroup of resourceFeed.groups) {
+            let feedGroupAll = { ...feedGroup }
+            feedGroupAll.direction = FEED_DIRECTION.VERTICAL
+            delete feedGroupAll.backgroundColor
+            fs.outputFileSync(`${API_DIST}/${language}/${resourceType}/feeds/${feedGroup.name}/index.json`, JSON.stringify(feedGroupAll))
+        }
 
         // TODO: limit per composite feed
         // iterate over resource feed

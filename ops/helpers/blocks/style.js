@@ -14,11 +14,12 @@ const styleSchema = {
                     "type": "object",
                     "additionalProperties": false,
                     "properties": {
-                        "x": { "type": "string", "enum": ["left", "right", "center"] },
-                        "y": { "type": "string", "enum": ["top", "left", "center"] },
+                        "x": { "type": "string", "enum": ["start", "end", "center"] },
+                        "y": { "type": "string", "enum": ["top", "bottom", "center"] },
                     },
                     "required": ["x", "y"]
                 },
+                "rounded": { "type": "boolean" },
                 "padding": {
                     "type": "object",
                     "additionalProperties": false,
@@ -60,11 +61,12 @@ const styleSchema = {
             "properties": {
                 "rounded": { "type": "boolean" },
                 "backgroundColor": { "type": "string" },
+                "backgroundImage": { "type": "string" },
                 "backgroundPosition": {
                     "type": "object",
                     "additionalProperties": false,
                     "properties": {
-                        "x": { "type": "string", "enum": ["left", "right", "center"] },
+                        "x": { "type": "string", "enum": ["start", "end", "center"] },
                         "y": { "type": "string", "enum": ["top", "left", "center"] },
                     },
                     "required": ["x", "y"]
@@ -78,7 +80,6 @@ const styleSchema = {
             "additionalProperties": false,
             "properties": {
                 "aspectRatio": { "type": "number" },
-                "rounded": { "type": "boolean" },
                 "expandable": { "type": "boolean" },
             }
         },

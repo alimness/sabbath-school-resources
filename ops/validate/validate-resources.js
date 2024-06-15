@@ -54,7 +54,7 @@ const resourceSchema = {
         "endDate": { type: "string", },
         "author": { type: "string", },
         "categories": { type: "array", },
-        "referenceResource": { "$ref": "/schemas/resource" },
+        "featuredResources": { type: "array", items: {"$ref": "/schemas/resource" }},
         "covers": {
             "type": "object",
             "additionalProperties": false,
@@ -72,7 +72,7 @@ const resourceSchema = {
         "documentIndex": { type: "string" },
         "externalURL": { type: "string" },
     },
-    "required": [ "id", "name", "type", "index", "kind", "title", "primaryColor", "primaryColorDark" ],
+    "required": [ "id", "name", "type", "index", "kind", "title", "primaryColor", "primaryColorDark", "description" ],
     "if": {
         "not": {
             "properties": {
@@ -148,14 +148,13 @@ let validateResources = async function (resourceType) {
             const sections = new fdir()
                 .withBasePath()
                 .withRelativePaths()
-                .withMaxDepth(1)
-                .onlyDirs()
-                .filter(d => d !== `${resourceContentPath}/`)
-                .crawl(resourceContentPath)
+                .withMaxDepth(15)
+                .glob(`${resourceContentPath}/**/${SECTION_INFO_FILENAME}`)
+                .crawl(".")
                 .sync();
 
             for (let section of sections) {
-                const sectionInfo = await getSectionInfo(`${section}/${SECTION_INFO_FILENAME}`)
+                const sectionInfo = await getSectionInfo(`${section}`)
 
                 let validateResult = validator.validate(sectionInfo, sectionSchema)
                 if (validateResult.errors.length) {
@@ -176,8 +175,8 @@ let validateResources = async function (resourceType) {
             const documents = new fdir()
                 .withBasePath()
                 .withRelativePaths()
-                .withMaxDepth(2)
-                .glob(`**/*.md`)
+                .withMaxDepth(4)
+                .glob(`**/info.yml`)
                 .crawl(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}`)
                 .sync();
 

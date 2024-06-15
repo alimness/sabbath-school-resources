@@ -6,7 +6,6 @@ import yaml from "js-yaml"
 import ttfMeta from "ttfmeta"
 import { fdir } from "fdir"
 import { getCategoryInfo } from "../deploy/deploy-categories.js"
-import { getResourceInfo } from "../deploy/deploy-resources.js"
 import { parseResourcePath, getResourceTypesGlob, getPositiveCoverImagesGlob, getFontsGlob, determineFontWeight } from "../helpers/helpers.js"
 import {
     MEDIA_URL,
@@ -139,7 +138,7 @@ let transferResourcesAssets = async function () {
     for (let resource of Object.keys(resources)) {
         const resourcePath = parseResourcePath(resource)
         const resourceInfoFile = `${SOURCE_DIR}/${resourcePath.language}/${resourcePath.type}/${resourcePath.title}/${RESOURCE_INFO_FILENAME}`
-        const resourceInfo = await getResourceInfo(resourceInfoFile)
+        const resourceInfo = yaml.load(fs.readFileSync(resourceInfoFile, "utf8"));
 
         if (!resourceInfo.covers) {
             resourceInfo.covers = {}
@@ -177,7 +176,7 @@ let transferResourcesFonts = async function () {
     for (let resource of Object.keys(resources)) {
         const resourcePath = parseResourcePath(resource)
         const resourceInfoFile = `${SOURCE_DIR}/${resourcePath.language}/${resourcePath.type}/${resourcePath.title}/${RESOURCE_INFO_FILENAME}`
-        const resourceInfo = await getResourceInfo(resourceInfoFile)
+        const resourceInfo = yaml.load(fs.readFileSync(resourceInfoFile, "utf8"));
 
         if (!resourceInfo.fonts) {
             resourceInfo.fonts = []

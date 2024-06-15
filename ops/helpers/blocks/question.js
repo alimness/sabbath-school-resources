@@ -20,6 +20,6 @@ export const question = {
         }
     },
     process: async function (block, resourcePath) {
-        return { id: block.id, type: block.type, markdown: block.text }
+        return { id: block.id, type: block.type, markdown: `**${block.text}**` }
     },
 }

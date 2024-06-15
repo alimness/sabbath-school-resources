@@ -42,7 +42,7 @@ export const excerpt = {
                 }
                 markdown = markdown.replace(/\n\n$/mg, '')
 
-                item.items = await parseSegment(markdown, resourcePath, item.id)
+                item.items = await parseSegment(markdown, resourcePath, item.id, "no-bible")
 
                 if (item.items.length && item.items[0].type === "heading") {
                     item.items.shift()

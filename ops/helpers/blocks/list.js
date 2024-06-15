@@ -11,7 +11,7 @@ import { parseBlock } from "../blocks.js"
 
 export const list = {
     extension: {},
-    process: async function (block, resourcePath) {
+    process: async function (block, resourcePath, depth) {
         let blockData = { id: block.id, type: block.type, items: [], ordered: block.ordered, start: block.start || 0 }
 
         for (let [index, listItem] of block.items.entries()) {
@@ -30,7 +30,7 @@ export const list = {
                     })
                 } else {
                     blockData.items.push(
-                        await parseBlock(token, resourcePath, index, block.id)
+                        await parseBlock(token, resourcePath, index, block.id, depth+1)
                     )
                 }
             }
@@ -103,6 +103,6 @@ export const list = {
             }
         }
 
-        return blockData
+        return { ...blockData, depth }
     },
 }

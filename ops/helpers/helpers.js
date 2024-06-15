@@ -93,12 +93,15 @@ let getNegativeCoverImagesGlob = function () {
 }
 
 let parseResourcePath = function (resourcePath) {
+
     if (/^\.\/src\//.test(resourcePath)) {
         resourcePath = resourcePath.replace(`${SOURCE_DIR}/`, "")
     }
     let pathRegExp = /^([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?/mg,
         matches = pathRegExp.exec(resourcePath),
         info = {};
+
+
 
     try {
         info.language = matches[1] || null
@@ -108,10 +111,13 @@ let parseResourcePath = function (resourcePath) {
         info.document = null
         info.segment = null
 
-
-
         if (matches[4] && matches[5] && matches[4] === RESOURCE_ASSETS_DIRNAME && /\.png$/.test(matches[5])){
             info.section = matches[4]
+            info.document = matches[5]
+        }
+
+        if (matches[4] && matches[5] && !matches[6] && !/(info\.yml|\.md)$/.test(matches[5])) {
+            info.section = SECTION_DEFAULT_NAME
             info.document = matches[5]
         }
 
@@ -130,7 +136,7 @@ let parseResourcePath = function (resourcePath) {
             }
 
             // Root level document segment
-            // ex: en/devo/resource/content/document-name/segment.yml
+            // ex: en/devo/resource/content/document-name/segment.md
             if (/\.md$/.test(matches[6])) {
                 info.section = SECTION_DEFAULT_NAME
                 info.document = matches[5]
@@ -152,6 +158,9 @@ let parseResourcePath = function (resourcePath) {
                     info.document = matches[6]
                     info.segment = matches[7]
                 }
+            } else if (!/(info\.yml|\.md)$/.test(matches[6])) {
+                info.section = matches[5]
+                info.document = matches[6]
             }
         }
 

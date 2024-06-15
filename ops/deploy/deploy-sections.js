@@ -61,7 +61,7 @@ let processSections = async function (resourceType) {
 
     for (let resource of resources) {
         let totalDocuments = 0
-        const resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${resource}`)
+        const resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${resource}`, 1)
         const resourcePathInfo = parseResourcePath(`${SOURCE_DIR}/${resource}`)
         const resourceContentPath = `${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_CONTENT_DIRNAME}`
         const languageInfo = await getLanguageInfo(resourcePathInfo.language)
@@ -105,6 +105,7 @@ let processSections = async function (resourceType) {
         }
 
         resourceInfo.sections = Object.values(resourceSectionData)
+        // TODO: consider number of sections and type of resource to determine the section view
         resourceInfo.sectionView = totalDocuments < 100 ? SECTION_VIEWS.NORMAL : SECTION_VIEWS.DROPDOWN
 
         fs.outputFileSync(`${API_DIST}/${resourcePathInfo.language}/${resourceType}/${resourcePathInfo.title}/${SECTION_DIRNAME}/index.json`, JSON.stringify(resourceInfo))

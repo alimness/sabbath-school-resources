@@ -18,6 +18,7 @@ import {
     FIREBASE_DATABASE_BLOCKS,
     FIREBASE_DATABASE_SEGMENTS
 } from "../helpers/constants.js"
+import { SEGMENT_DEFAULT_BLOCK_STYLES } from "../helpers/styles.js"
 
 
 let getDocumentInfoYml = async function (document) {
@@ -26,6 +27,7 @@ let getDocumentInfoYml = async function (document) {
 
     documentInfo.id = `${documentPathInfo.language}-${documentPathInfo.type}-${documentPathInfo.title}-${DOCUMENT_CONTENT_DIRNAME}-${documentPathInfo.section || SECTION_DEFAULT_NAME}-${documentPathInfo.document}`
     documentInfo.resourceId = `${documentPathInfo.language}-${documentPathInfo.type}-${documentPathInfo.title}`
+    documentInfo.resourceIndex = `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}`
     documentInfo.index = `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section || SECTION_DEFAULT_NAME}/${documentPathInfo.document}`
     documentInfo.name = `${documentPathInfo.document}`
 
@@ -43,7 +45,7 @@ let getSegmentInfo = async function (segment, processBlocks = false) {
 
     if (!segmentInfo.type) {
         if (processBlocks) {
-            segmentInfo.blocks = await parseSegment(segmentInfoFrontMatter.body, segmentPathInfo, "root")
+            segmentInfo.blocks = await parseSegment(segmentInfoFrontMatter.body, segmentPathInfo, "root", 1)
         }
         segmentInfo.type = SEGMENT_TYPES.BLOCK
     }
@@ -52,6 +54,7 @@ let getSegmentInfo = async function (segment, processBlocks = false) {
     segmentInfo.resourceId = `${segmentPathInfo.language}-${segmentPathInfo.type}-${segmentPathInfo.title}`
     segmentInfo.index = `${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${segmentPathInfo.section || SECTION_DEFAULT_NAME}/${segmentPathInfo.document}/segments/${segmentPathInfo.segment}`
     segmentInfo.name = `${segmentPathInfo.segment}`
+    segmentInfo.defaultStyles = SEGMENT_DEFAULT_BLOCK_STYLES
 
     return segmentInfo
 }
