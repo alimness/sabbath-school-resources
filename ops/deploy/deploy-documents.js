@@ -125,8 +125,8 @@ let processDocuments = async function (resourceType) {
 
 if (isMainModule(import.meta)) {
     await processDocuments(RESOURCE_TYPE.DEVO)
-    // await processDocuments(RESOURCE_TYPE.PM)
-    // await processDocuments(RESOURCE_TYPE.AIJ)
+    await processDocuments(RESOURCE_TYPE.PM)
+    await processDocuments(RESOURCE_TYPE.AIJ)
 }
 
 export {
