@@ -62,7 +62,8 @@ jobs:
         id: extract_branch
       - uses: actions/checkout@v4
         name: Fetch the repository files
-        ref: ${{ steps.extract_branch.outputs.branch }}
+        with:
+          ref: ${{ steps.extract_branch.outputs.branch }}
       - uses: actions/setup-node@v3
         name: Setup Node
         with:
