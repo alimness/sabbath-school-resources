@@ -7,10 +7,10 @@
   resolved "https://npm.pkg.github.com/download/@Adventech/bible-tools/1.0.6/3f8ee5b7492c72d6d724aed95cc4d15aaa35b01a#3f8ee5b7492c72d6d724aed95cc4d15aaa35b01a"
   integrity sha512-E0MpuCavk6UbGgqMZmN4b2YKgU8Cxw55n9fSB2j+b0pxt8lrz6Xg4gRpI0mPZg702K63Ikuu48t5hkw5zlZLQw==
 
-"@Adventech/egw-tools@^1.0.6":
-  version "1.0.6"
-  resolved "https://npm.pkg.github.com/download/@Adventech/egw-tools/1.0.6/a75ded28537652199b61140bbb83f89fce762b2f#a75ded28537652199b61140bbb83f89fce762b2f"
-  integrity sha512-TR9F27X70a1rHRi8Hn5mXGFNuqR0pUgclR6NZq47sdNnkIM+xpGqWCHu/DOTydX/z/D4uKkpZteCJtiTf7p7dQ==
+"@Adventech/egw-tools@>=1.0.8":
+  version "1.0.8"
+  resolved "https://npm.pkg.github.com/download/@Adventech/egw-tools/1.0.8/41e46dc3e65a7b3ba23fbc3a6a3bba0099f964e9#41e46dc3e65a7b3ba23fbc3a6a3bba0099f964e9"
+  integrity sha512-+HcsQcpw5kosw2zzfoD/16NxctOH40NPKPi6ZdlVnxZGIN57WXztT1OUHlbrCMnXj+fHgcB0ni9lFSNUb1yFOA==
   dependencies:
     cheerio "^1.0.0-rc.12"
     fdir "^6.1.1"
