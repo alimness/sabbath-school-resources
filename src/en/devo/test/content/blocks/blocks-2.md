@@ -174,8 +174,6 @@ _test_
 
 ```
 
-{#[]}
-
 {#[en/pm/discipleship-handbook]}
 
 {#[en/pm/discipleship-handbook/content/00-introduction/]}
