@@ -1,6 +1,7 @@
 import { carousel, slide } from "./carousel.js"
 import { image } from "./image.js"
 import { collapse } from "./collapse.js"
+import { story, storySlide } from "./story.js"
 import { audio } from "./audio.js"
 import { video } from "./video.js"
 import { reference } from "./reference.js"
@@ -17,6 +18,8 @@ import { style } from "./style.js"
 import { superscript } from "./superscript.js"
 
 export {
+    story,
+    storySlide,
     carousel,
     slide,
     image,

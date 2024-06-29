@@ -16,7 +16,7 @@ import {
     SEGMENT_TYPES,
     SECTION_DEFAULT_NAME,
     FIREBASE_DATABASE_BLOCKS,
-    FIREBASE_DATABASE_SEGMENTS
+    FIREBASE_DATABASE_SEGMENTS, FIREBASE_DATABASE_DOCUMENTS
 } from "../helpers/constants.js"
 import { SEGMENT_DEFAULT_BLOCK_STYLES } from "../helpers/styles.js"
 
@@ -43,11 +43,19 @@ let getSegmentInfo = async function (segment, processBlocks = false) {
         ...segmentInfoFrontMatter.attributes,
     }
 
-    if (!segmentInfo.type) {
-        if (processBlocks) {
-            segmentInfo.blocks = await parseSegment(segmentInfoFrontMatter.body, segmentPathInfo, "root", 1)
+    let segmentFilterForType = {
+        "block": (b) => b.type !== "space",
+        "story": (b) => {
+            return b.type === "story"
         }
+    }
+
+    if (!segmentInfo.type) {
         segmentInfo.type = SEGMENT_TYPES.BLOCK
+    }
+
+    if (processBlocks) {
+        segmentInfo.blocks = await parseSegment(segmentInfoFrontMatter.body, segmentPathInfo, "root", 1, segmentFilterForType[segmentInfo.type])
     }
 
     segmentInfo.id = `${segmentPathInfo.language}-${segmentPathInfo.type}-${segmentPathInfo.title}-${DOCUMENT_CONTENT_DIRNAME}-${segmentPathInfo.section || SECTION_DEFAULT_NAME}-${segmentPathInfo.document}-segments-${segmentPathInfo.segment}`
@@ -110,6 +118,7 @@ let processDocuments = async function (resourceType) {
             fs.outputFileSync(`${API_DIST}/${segmentPathInfo.language}/${resourceType}/${segmentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${segmentPathInfo.section ? `${segmentPathInfo.section}/` : "root/"}${segmentPathInfo.document}/segments/${segmentPathInfo.segment}/index.json`, JSON.stringify(segmentInfo))
         }
 
+        await database.collection(FIREBASE_DATABASE_DOCUMENTS).doc(documentInfo.id).set(documentInfo);
         fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${resourceType}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section ? `${documentPathInfo.section}/` : "root/"}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
     }
 }
@@ -117,6 +126,7 @@ let processDocuments = async function (resourceType) {
 if (isMainModule(import.meta)) {
     await processDocuments(RESOURCE_TYPE.DEVO)
     await processDocuments(RESOURCE_TYPE.PM)
+    await processDocuments(RESOURCE_TYPE.AIJ)
 }
 
 export {

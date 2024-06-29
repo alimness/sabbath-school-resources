@@ -73,10 +73,10 @@ let getResourceInfo = async function (resource, depth = 0) {
     // TODO: make seamless for local testing
     if (!resourceInfo.covers) {
         resourceInfo.covers = {
-            landscape: `http://localhost:3002/api/v2/en/devo/${resourceInfo.name}/assets/cover-landscape.png`,
-            square: `http://localhost:3002/api/v2/en/devo/${resourceInfo.name}/assets/cover-square.png`,
-            portrait: `http://localhost:3002/api/v2/en/devo/${resourceInfo.name}/assets/cover.png`,
-            splash: `http://localhost:3002/api/v2/en/devo/${resourceInfo.name}/assets/splash.png`,
+            landscape: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/cover-landscape.png`,
+            square: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/cover-square.png`,
+            portrait: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/cover.png`,
+            splash: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/splash.png`,
         }
     }
 
@@ -193,7 +193,7 @@ let processResources = async function (resourceType) {
     const languages = await getLanguages()
 
     for (let language of languages) {
-        const resources = new fdir()
+        let resources = new fdir()
             .withBasePath()
             .withRelativePaths()
             .withMaxDepth(3)
@@ -308,6 +308,7 @@ let processResources = async function (resourceType) {
 if (isMainModule(import.meta)) {
     await processResources(RESOURCE_TYPE.DEVO)
     await processResources(RESOURCE_TYPE.PM)
+    await processResources(RESOURCE_TYPE.AIJ)
 }
 
 export {

@@ -21,7 +21,7 @@ import {
     RESOURCE_ASSETS_DIRNAME, DIST_DIR, API_DIST,
 } from "../helpers/constants.js"
 
-let mode = "remote"
+let mode = "local"
 
 if (process && process.env && process.env.GITHUB_TOKEN) {
     mode = "remote"
@@ -194,6 +194,7 @@ let transferResourcesFonts = async function () {
                         let weight = await determineFontWeight(postScriptName)
                         if (weight) {
                             // weird bug of the ttfInfo library, replacing \x00 with nothing
+                            console.log(postScriptName)
                             resourceInfo.fonts.push({
                                 name: postScriptName,
                                 weight: parseInt(weight),

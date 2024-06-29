@@ -81,6 +81,7 @@ const styleSchema = {
             "properties": {
                 "aspectRatio": { "type": "number" },
                 "expandable": { "type": "boolean" },
+                "storyTextAlign": { "type": "string", "enum": ["top", "bottom"] },
             }
         },
 

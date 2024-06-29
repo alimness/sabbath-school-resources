@@ -14,6 +14,10 @@ _test_
 
 {#[en/pm/discipleship-handbook/content/00-introduction]}
 
+- [ ] A
+- [ ] B
+- [ ] C
+
 ```
 
 - Hello
@@ -57,6 +61,10 @@ Slide 2
 - [ ] C
 
 nest _italic_ **bold**
+
+- [ ] D
+- [ ] E
+- [ ] F
 
 {"style": {"block":{"padding": {"start": "xl"}}}}
 this is normal font but ^[this is not]({"style":{"text":{"color": "#ff0000"}}})

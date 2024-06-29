@@ -5,6 +5,7 @@ import { getLanguageInfoSync } from "../deploy/deploy-languages.js"
 let languageInfoGlobal = {}
 
 export const getBibleData = function (resourcePath, text) {
+    let outputText
     let bibleData = []
     let bibleVersionsArray = []
     if (languageInfoGlobal[resourcePath.language]) {
@@ -28,8 +29,9 @@ export const getBibleData = function (resourcePath, text) {
 
         try {
             bibleSearchResult = bibleSearchBCV.search(resourcePath.language, bibleVersionName, text, true)
-            if (!bibleData.length) {
-                text = bibleSearchResult.output
+
+            if (!outputText) {
+                outputText = bibleSearchResult.output
             }
         } catch (e) {
             bibleSearchResult = null
@@ -54,6 +56,6 @@ export const getBibleData = function (resourcePath, text) {
         }
     }
 
-    return {text, bibleData}
+    return {text: outputText ?? text, bibleData}
 }
 

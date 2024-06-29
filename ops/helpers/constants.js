@@ -21,6 +21,7 @@ export const LANGUAGE_INFO_FILENAME = "info.yml"
 export const RESOURCE_TYPE = {
     DEVO: "devo",
     PM: "pm",
+    AIJ: "aij",
 }
 export const RESOURCE_COLOR_PRIMARY = "#d8d8d8"
 export const RESOURCE_COLOR_PRIMARY_DARK = "#949494"

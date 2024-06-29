@@ -1,9 +1,11 @@
 import crypto from "crypto"
 import { marked } from "marked"
-import { carousel, slide, image, collapse, audio, video, reference, question, blockquote, hr, heading, list, paragraph, poll, style, superscript, excerpt } from "./blocks/index.js"
+import { story, storySlide, carousel, slide, image, collapse, audio, video, reference, question, blockquote, hr, heading, list, paragraph, poll, style, superscript, excerpt } from "./blocks/index.js"
 
 marked.use({
     extensions: [
+        story.extension,
+        storySlide.extension,
         carousel.extension,
         slide.extension,
         question.extension,
@@ -23,13 +25,15 @@ let parseBlock = async function (block, resourcePath, index, parentId, depth) {
 
     block = superscript(blockStyleReturn.block)
 
-    let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/content/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}`
+    let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/content/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}/${resourcePath.segment}`
 
     block.id = crypto.createHash("sha256").update(
         `${documentIndex}-${parentId}-${block.type}-${index}`
     ).digest("hex")
 
     const supportedBlockTypes = {
+        story,
+        storySlide,
         blockquote,
         audio,
         video,
