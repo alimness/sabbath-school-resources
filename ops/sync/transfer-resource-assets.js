@@ -194,7 +194,6 @@ let transferResourcesFonts = async function () {
                         let weight = await determineFontWeight(postScriptName)
                         if (weight) {
                             // weird bug of the ttfInfo library, replacing \x00 with nothing
-                            console.log(postScriptName)
                             resourceInfo.fonts.push({
                                 name: postScriptName,
                                 weight: parseInt(weight),

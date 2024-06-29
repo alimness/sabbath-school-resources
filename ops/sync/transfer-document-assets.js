@@ -3,12 +3,13 @@
 
 import fs from "fs-extra"
 import { fdir } from "fdir"
+import path from "path"
 import { getResourceTypesGlob, getNegativeCoverImagesGlob, escapeAssetPathForSed, parseResourcePath } from "../helpers/helpers.js"
 import {
     MEDIA_URL,
     SOURCE_DIR,
     RESOURCE_ASSETS_DIRNAME,
-    OPS_SYNC_TRANSFER_COMMANDS_FILENAME,
+    OPS_SYNC_TRANSFER_COMMANDS_FILENAME, RESOURCE_CONTENT_DIRNAME,
 } from "../helpers/constants.js"
 
 let transferDocumentAssets = async function () {
@@ -18,15 +19,18 @@ let transferDocumentAssets = async function () {
         .withBasePath()
         .withRelativePaths()
         .withMaxDepth(8) // up to assets/dir1/dir2/dir3/dir4
-        .glob(`**/${getResourceTypesGlob()}/**/assets/${getNegativeCoverImagesGlob()}?(**/)(*.{jpg,jpeg,png,pdf})`)
+        .glob(`**/${getResourceTypesGlob()}/**/(${RESOURCE_ASSETS_DIRNAME}|${RESOURCE_CONTENT_DIRNAME})/${getNegativeCoverImagesGlob()}?(**/)(*.{jpg,jpeg,png,pdf})`)
         .crawl(SOURCE_DIR)
         .sync();
 
     for (let documentImageAsset of documentImageAssets) {
+        documentImageAsset = `${SOURCE_DIR}/${documentImageAsset}`
         let assetResourcePath = parseResourcePath(documentImageAsset)
-        let assetDir = `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}`
-        let targetImage = documentImageAsset.substring(assetDir.length-5 + RESOURCE_ASSETS_DIRNAME.length + 1)
-        let remoteURL = `${MEDIA_URL}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_ASSETS_DIRNAME}/${targetImage}`
+        let assetDir = `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/`
+
+        let targetImage = path.basename(documentImageAsset)
+
+        let remoteURL = documentImageAsset.replace(`${SOURCE_DIR}`, MEDIA_URL)
 
         /**
          * This command replaces the locally referenced assets in *.md files within the target resource folder
@@ -59,7 +63,7 @@ let transferDocumentAssets = async function () {
          * now.
          */
 
-        commands.push(`sed -i -e 's/\\([ [(:]\\)${escapeAssetPathForSed(targetImage)}/\\1${escapeAssetPathForSed(remoteURL)}/g' ${assetDir}/content/**/*.md && rm ${SOURCE_DIR}/${documentImageAsset}`)
+        commands.push(`sed -i -e 's/\\([ [(:]\\)${escapeAssetPathForSed(targetImage)}/\\1${escapeAssetPathForSed(remoteURL)}/g' ${assetDir}**/*.md && rm ${documentImageAsset}`)
     }
 
     fs.writeFileSync(OPS_SYNC_TRANSFER_COMMANDS_FILENAME, `\n${commands.join("\n")}`)

@@ -86,3 +86,4 @@ let setImageAspectRatios = async function (resourceType) {
 
 await setImageAspectRatios(RESOURCE_TYPE.DEVO)
 await setImageAspectRatios(RESOURCE_TYPE.PM)
+await setImageAspectRatios(RESOURCE_TYPE.AIJ)
