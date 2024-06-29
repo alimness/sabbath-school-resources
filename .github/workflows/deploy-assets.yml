@@ -56,12 +56,13 @@ jobs:
     if: (github.repository == 'Adventech/sabbath-school-resources')
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        name: Fetch the repository files
       - name: Extract branch name
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
+      - uses: actions/checkout@v4
+        name: Fetch the repository files
+        ref: ${{ steps.extract_branch.outputs.branch }}
       - uses: actions/setup-node@v3
         name: Setup Node
         with:
