@@ -34,6 +34,11 @@ jobs:
         working-directory: ops/deploy/creds
       - run: tar xvf deploy-creds.tar
         working-directory: ops/deploy/creds
+      - run: aws s3 sync s3://sabbath-school-resources-media.adventech.io/assets assets --region us-east-1 --no-progress --exclude "*" --include "*.keep"
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        name: Sync global assets
       - run: node ops/deploy/deploy-documents.js
         name: Deploy documents
       - run: node ops/deploy/deploy-sections.js

@@ -26,7 +26,6 @@ import {
 } from "../helpers/constants.js"
 import crypto from "crypto"
 
-
 let getResourceInfo = async function (resource, depth = 0) {
     const resourceInfo = yaml.load(fs.readFileSync(resource, "utf8"));
     const resourcePathInfo = parseResourcePath(resource)
