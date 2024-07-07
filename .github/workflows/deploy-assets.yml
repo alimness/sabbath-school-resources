@@ -34,8 +34,6 @@ jobs:
         working-directory: ops/deploy/creds
       - run: tar xvf deploy-creds.tar
         working-directory: ops/deploy/creds
-      - run: find assets -type d -exec touch {}/.keep \;
-        name: Add ".keep" to all folders in global assets
       - run: aws s3 cp assets s3://sabbath-school-resources-media.adventech.io/assets --acl "public-read" --region us-east-1 --no-progress --recursive
         name: Upload global assets
         env:
