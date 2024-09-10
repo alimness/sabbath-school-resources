@@ -9,7 +9,8 @@ import {
     RESOURCE_COVERS,
     SECTION_DEFAULT_NAME,
     RESOURCE_FONTS_DIRNAME,
-    RESOURCE_ASSETS_DIRNAME
+    RESOURCE_ASSETS_DIRNAME,
+    OPS_SYNC_ASSET_EXTENSIONS
 } from "./constants.js"
 
 async function getBufferFromUrl(url) {
@@ -101,8 +102,6 @@ let parseResourcePath = function (resourcePath) {
         matches = pathRegExp.exec(resourcePath),
         info = {};
 
-
-
     try {
         info.language = matches[1] || null
         info.type = matches[2] || null
@@ -135,9 +134,10 @@ let parseResourcePath = function (resourcePath) {
                 info.document = matches[5]
             }
 
-            // Root level document segment
+            // Root level document segment or asset
             // ex: en/devo/resource/content/document-name/segment.md
-            if (/\.md$/.test(matches[6])) {
+            let regex = new RegExp(`(${OPS_SYNC_ASSET_EXTENSIONS.map(ext => ext.replace('.', '\\.')).join('|')})$`, 'i')
+            if (/\.md$/.test(matches[6]) || regex.test(matches[6])) {
                 info.section = SECTION_DEFAULT_NAME
                 info.document = matches[5]
                 info.segment = matches[6]
@@ -153,12 +153,12 @@ let parseResourcePath = function (resourcePath) {
 
                 // Document Segment
                 // ex: en/devo/resource/content/section-name/document-name/segment.md
-                if (/\.md$/.test(matches[7])) {
+                if (/\.md$/.test(matches[7]) || regex.test(matches[7])) {
                     info.section = matches[5]
                     info.document = matches[6]
                     info.segment = matches[7]
                 }
-            } else if (!/(info\.yml|\.md)$/.test(matches[6])) {
+            } else if (!/(info\.yml|\.md)$/.test(matches[6]) && !regex.test(matches[6])) {
                 info.section = matches[5]
                 info.document = matches[6]
             }

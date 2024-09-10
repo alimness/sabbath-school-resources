@@ -3,7 +3,7 @@ export const video = {
         name: "video",
         level: "block",
         tokenizer(src, tokens) {
-            const rule = /^!\s*(v|video)\s*\[([^\]\n\[]+)\]\s*([^\n]*)/
+            const rule = /^!\s*(v|video)\s*\[([^\]\n\[]+)\]( *[^\n]*)\n?/
             const match = rule.exec(src);
             if (match) {
                 return {

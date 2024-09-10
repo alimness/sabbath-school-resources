@@ -12,6 +12,7 @@ import { getLanguages } from "./deploy-languages.js"
 import {
     SOURCE_DIR,
     API_DIST,
+    GLOBAL_ASSETS_DIR,
     RESOURCE_TYPE,
     RESOURCE_COLOR_PRIMARY,
     RESOURCE_COLOR_PRIMARY_DARK,
@@ -22,7 +23,7 @@ import {
     FEED_SCOPES,
     FEED_VIEWS,
     FEED_DIRECTION,
-    FIREBASE_DATABASE_RESOURCES, FIREBASE_DATABASE_LANGUAGES, API_URL, API_PREFIX
+    FIREBASE_DATABASE_RESOURCES, FIREBASE_DATABASE_LANGUAGES, API_URL, API_PREFIX, MEDIA_URL
 } from "../helpers/constants.js"
 import crypto from "crypto"
 
@@ -77,6 +78,10 @@ let getResourceInfo = async function (resource, depth = 0) {
             portrait: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/cover.png`,
             splash: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/splash.png`,
         }
+    }
+
+    if (fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`)) {
+        resourceInfo.covers.splash = `${MEDIA_URL}/assets/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`
     }
 
     const documents = new fdir()

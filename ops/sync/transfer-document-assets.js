@@ -9,8 +9,35 @@ import {
     MEDIA_URL,
     SOURCE_DIR,
     RESOURCE_ASSETS_DIRNAME,
-    OPS_SYNC_TRANSFER_COMMANDS_FILENAME, RESOURCE_CONTENT_DIRNAME,
+    OPS_SYNC_TRANSFER_COMMANDS_FILENAME,
+    RESOURCE_CONTENT_DIRNAME,
+    DOCUMENT_COVER_FILENAME,
+    DOCUMENT_BACKGROUND_FILENAME,
+    SECTION_DEFAULT_NAME,
+    DOCUMENT_INFO_FILENAME, REMOTE_MEDIA_URL,
 } from "../helpers/constants.js"
+import process from "node:process"
+import yaml from "js-yaml"
+
+let mode = "local"
+
+if (process && process.env && process.env.GITHUB_TOKEN) {
+    mode = "remote"
+}
+
+let processDocumentCover = async function (documentPathInfo, remoteURL) {
+    let documentPath = `${SOURCE_DIR}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${RESOURCE_CONTENT_DIRNAME}/${documentPathInfo.section === SECTION_DEFAULT_NAME ? "" : documentPathInfo.section + "/"}/${documentPathInfo.document}/${DOCUMENT_INFO_FILENAME}`
+    let documentInfo = yaml.load(fs.readFileSync(documentPath, "utf8"))
+    documentInfo.cover = remoteURL
+    if (mode === "remote") fs.outputFileSync(documentPath, yaml.dump(documentInfo))
+}
+
+let processDocumentBackground = async function (documentPathInfo, remoteURL) {
+    let documentPath = `${SOURCE_DIR}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${RESOURCE_CONTENT_DIRNAME}/${documentPathInfo.section === SECTION_DEFAULT_NAME ? "" : documentPathInfo.section + "/"}/${documentPathInfo.document}/${DOCUMENT_INFO_FILENAME}`
+    let documentInfo = yaml.load(fs.readFileSync(documentPath, "utf8"))
+    documentInfo.background = remoteURL
+    if (mode === "remote") fs.outputFileSync(documentPath, yaml.dump(documentInfo))
+}
 
 let transferDocumentAssets = async function () {
     let commands = []
@@ -26,11 +53,22 @@ let transferDocumentAssets = async function () {
     for (let documentImageAsset of documentImageAssets) {
         documentImageAsset = `${SOURCE_DIR}/${documentImageAsset}`
         let assetResourcePath = parseResourcePath(documentImageAsset)
-        let assetDir = `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/`
+        let assetDir = `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.document}/`
 
         let targetImage = path.basename(documentImageAsset)
 
-        let remoteURL = documentImageAsset.replace(`${SOURCE_DIR}`, MEDIA_URL)
+        let remoteURL =
+            documentImageAsset.indexOf(`${assetResourcePath.title}/assets`) > 0 ?
+            documentImageAsset.replace(`${SOURCE_DIR}`, MEDIA_URL) :
+            `${MEDIA_URL}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.section}/${assetResourcePath.document}/${targetImage}`
+
+        if (assetResourcePath.segment === DOCUMENT_COVER_FILENAME) {
+            await processDocumentCover(assetResourcePath, remoteURL)
+        }
+
+        if (assetResourcePath.segment === DOCUMENT_BACKGROUND_FILENAME) {
+            await processDocumentBackground(assetResourcePath, remoteURL)
+        }
 
         /**
          * This command replaces the locally referenced assets in *.md files within the target resource folder
@@ -63,6 +101,7 @@ let transferDocumentAssets = async function () {
          * now.
          */
 
+        commands.push(`aws s3 cp ${documentImageAsset} ${remoteURL.replace(MEDIA_URL, REMOTE_MEDIA_URL)} --acl "public-read" --region us-east-1 --no-progress`)
         commands.push(`sed -i -e 's/\\([ [(:]\\)${escapeAssetPathForSed(targetImage)}/\\1${escapeAssetPathForSed(remoteURL)}/g' ${assetDir}**/*.md && rm ${documentImageAsset}`)
     }
 

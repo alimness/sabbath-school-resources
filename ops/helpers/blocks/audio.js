@@ -3,7 +3,7 @@ export const audio = {
         name: "audio",
         level: "block",
         tokenizer(src, tokens) {
-            const rule = /^!\s*(a|audio)\s*\[([^\]\n\[]+)\]\s*([^\n]*)/
+            const rule = /^!\s*(a|audio)\s*\[([^\]\n\[]+)\]( *[^\n]*)\n?/
             const match = rule.exec(src);
             if (match) {
                 return {

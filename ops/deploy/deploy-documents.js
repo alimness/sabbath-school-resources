@@ -16,7 +16,7 @@ import {
     SEGMENT_TYPES,
     SECTION_DEFAULT_NAME,
     FIREBASE_DATABASE_BLOCKS,
-    FIREBASE_DATABASE_SEGMENTS, FIREBASE_DATABASE_DOCUMENTS
+    FIREBASE_DATABASE_SEGMENTS, FIREBASE_DATABASE_DOCUMENTS, GLOBAL_ASSETS_DIR, MEDIA_URL
 } from "../helpers/constants.js"
 import { SEGMENT_DEFAULT_BLOCK_STYLES } from "../helpers/styles.js"
 
@@ -30,6 +30,17 @@ let getDocumentInfoYml = async function (document) {
     documentInfo.resourceIndex = `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}`
     documentInfo.index = `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section || SECTION_DEFAULT_NAME}/${documentPathInfo.document}`
     documentInfo.name = `${documentPathInfo.document}`
+
+    if (documentInfo.chips) {
+        documentInfo.showSegmentChips = true
+        delete documentInfo.chips
+    }
+
+    if (!documentInfo.cover && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.document}/cover.png`)) {
+        documentInfo.cover = `${MEDIA_URL}/assets/images/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.document}/cover.png`
+    }
+
+    documentInfo.defaultStyles = SEGMENT_DEFAULT_BLOCK_STYLES
 
     return documentInfo
 }
@@ -62,7 +73,6 @@ let getSegmentInfo = async function (segment, processBlocks = false) {
     segmentInfo.resourceId = `${segmentPathInfo.language}-${segmentPathInfo.type}-${segmentPathInfo.title}`
     segmentInfo.index = `${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${segmentPathInfo.section || SECTION_DEFAULT_NAME}/${segmentPathInfo.document}/segments/${segmentPathInfo.segment}`
     segmentInfo.name = `${segmentPathInfo.segment}`
-    segmentInfo.defaultStyles = SEGMENT_DEFAULT_BLOCK_STYLES
 
     return segmentInfo
 }
@@ -115,11 +125,11 @@ let processDocuments = async function (resourceType) {
 
             await database.collection(FIREBASE_DATABASE_SEGMENTS).doc(segmentInfo.id).set(segmentInfo);
             documentInfo.segments.push(segmentInfo)
-            fs.outputFileSync(`${API_DIST}/${segmentPathInfo.language}/${resourceType}/${segmentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${segmentPathInfo.section ? `${segmentPathInfo.section}/` : "root/"}${segmentPathInfo.document}/segments/${segmentPathInfo.segment}/index.json`, JSON.stringify(segmentInfo))
+            fs.outputFileSync(`${API_DIST}/${segmentPathInfo.language}/${resourceType}/${segmentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${segmentPathInfo.section}/${segmentPathInfo.document}/segments/${segmentPathInfo.segment}/index.json`, JSON.stringify(segmentInfo))
         }
 
         await database.collection(FIREBASE_DATABASE_DOCUMENTS).doc(documentInfo.id).set(documentInfo);
-        fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${resourceType}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section ? `${documentPathInfo.section}/` : "root/"}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
+        fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${resourceType}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section}/${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
     }
 }
 

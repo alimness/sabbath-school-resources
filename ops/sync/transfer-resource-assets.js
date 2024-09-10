@@ -129,7 +129,7 @@ let transferResourcesAssets = async function () {
         .withBasePath()
         .withRelativePaths()
         .withMaxDepth(4)
-        .glob(`**/${getResourceTypesGlob()}/**/assets/${getPositiveCoverImagesGlob()}`)
+        .glob(`**/${getResourceTypesGlob()}/**/${RESOURCE_ASSETS_DIRNAME}/${getPositiveCoverImagesGlob()}`)
         .crawl(SOURCE_DIR)
         .sync();
 

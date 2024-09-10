@@ -71,6 +71,38 @@ const styleSchema = {
                     },
                     "required": ["x", "y"]
                 },
+                "padding": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "properties": {
+                        "top": { "type": "string", "enum": [ "none", "xs", "sm", "base", "lg", "xl", ] },
+                        "bottom": { "type": "string", "enum": [ "none", "xs", "sm", "base", "lg", "xl", ] },
+                        "start": { "type": "string", "enum": [ "none", "xs", "sm", "base", "lg", "xl", ] },
+                        "end": { "type": "string", "enum": [ "none", "xs", "sm", "base", "lg", "xl", ] },
+                    },
+                    "anyOf": [
+                        { "required": ["top"], },
+                        { "required": ["bottom"], },
+                        { "required": ["start"], },
+                        { "required": ["end"], },
+                    ]
+                },
+                "margin": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "properties": {
+                        "top": { "type": "string", "enum": [ "none", "xs", "sm", "base", "lg", "xl", ] },
+                        "bottom": { "type": "string", "enum": [ "none", "xs", "sm", "base", "lg", "xl", ] },
+                        "start": { "type": "string", "enum": [ "none", "xs", "sm", "base", "lg", "xl", ] },
+                        "end": { "type": "string", "enum": [ "none", "xs", "sm", "base", "lg", "xl", ] },
+                    },
+                    "anyOf": [
+                        { "required": ["top"], },
+                        { "required": ["bottom"], },
+                        { "required": ["start"], },
+                        { "required": ["end"], },
+                    ]
+                },
             },
         },
 

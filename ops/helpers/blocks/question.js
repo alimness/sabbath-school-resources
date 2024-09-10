@@ -26,6 +26,8 @@ export const question = {
         if (!questionText.length) {
             questionText = [{markdown: block.text}]
         }
-        return { id: block.id, type: block.type, markdown: `**${questionText[0].markdown}**` }
+        let ret = { id: block.id, type: block.type, markdown: `**${questionText[0].markdown}**` }
+        if (questionText[0].data) { ret.data = questionText[0].data }
+        return ret
     },
 }

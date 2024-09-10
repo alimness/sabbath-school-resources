@@ -13,6 +13,7 @@ if (process && process.env && process.env.DEPLOY_ENV) {
 // Directories
 export const DIST_DIR = "./dist"
 export const SOURCE_DIR = "./src"
+export const GLOBAL_ASSETS_DIR = "./assets"
 
 // Languages
 export const LANGUAGE_INFO_FILENAME = "info.yml"
@@ -72,6 +73,9 @@ export const AUTHORS_ASSETS_DIRNAME = "assets"
 
 // Documents
 export const DOCUMENT_CONTENT_DIRNAME = "content"
+export const DOCUMENT_COVER_FILENAME = "cover.png"
+export const DOCUMENT_BACKGROUND_FILENAME = "background.png"
+export const DOCUMENT_INFO_FILENAME = "info.yml"
 export const SEGMENT_TYPES = {
     BLOCK: "block",
     PDF: "pdf",
@@ -105,7 +109,8 @@ export const FEED_SCOPES = {
 export const API_PREFIX = "/api/v2/"
 export const API_DIST = `${DIST_DIR}/${API_PREFIX}`
 export const API_URL = function () { return `https://sabbath-school${DEPLOY_ENV === "prod" ? "" : "-stage" }.adventech.io` }
-export const MEDIA_URL = (DEPLOY_ENV === "local") ? "http://localhost:3002" : `https://sabbath-school-resources-media.adventech.io`
+export const MEDIA_URL = (DEPLOY_ENV === "local") ? `http://localhost:3002${API_PREFIX.replace(/\/$/, "")}` : `https://sabbath-school-resources-media.adventech.io`
+export const REMOTE_MEDIA_URL = `s3://sabbath-school-resources-media.adventech.io`
 export const FIREBASE_DATABASE_NAME = (DEPLOY_ENV === "prod") ? "https://blistering-inferno-8720.firebaseio.com" : "https://sabbath-school-stage.firebaseio.com"
 export const FIREBASE_DATABASE_LANGUAGES = "languages"
 export const FIREBASE_DATABASE_RESOURCES = "resources"

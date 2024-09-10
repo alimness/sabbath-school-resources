@@ -28,6 +28,9 @@ let processDetectedLinks = async function () {
 
         if (src && link && link.length === 2) {
             link = link.join(":")
+            link = link.replace(/.*?http/, "http")
+            link = link.replace(/\)|\]$/, "")
+
             const srcPath = parseResourcePath(src)
             const linkHash = crypto.createHash("sha256").update(link).digest("hex")
             const extension = path.extname(link)
@@ -47,6 +50,9 @@ let processDetectedLinks = async function () {
             })
         }
     }
+
+    // Sort by string length desc
+    links.sort((a, b) => b.link.length - a.link.length);
 
     // TODO: if YouTube link, then generate yt-dlp command
     let downloadCommands = links.map(l => {

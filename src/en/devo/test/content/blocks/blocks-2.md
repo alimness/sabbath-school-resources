@@ -40,8 +40,8 @@ _test_
 
 _test_
 
-{"style": {"text": {"align": "center"},"block":{"margin": {"start": "xl"}}}}
-this is normal font but ^[this is not]({"style":{"text":{"color": "blue"}}})
+{"style": {"text": {"align": "center"},"wrapper":{"padding": {"top": "xl"}}}}
+this is normal font but ^[this is not]({"style":{"text":{"color": "blue", "typeface": "Omnes-BlackItalic"}}})
 
 _test_
 
@@ -66,8 +66,8 @@ nest _italic_ **bold**
 - [ ] E
 - [ ] F
 
-{"style": {"block":{"padding": {"start": "xl"}}}}
-this is normal font but ^[this is not]({"style":{"text":{"color": "#ff0000"}}})
+{"style": {"text": {"align": "center"},"wrapper":{"padding": {"top": "xl"}}}}
+this is normal font but ^[this is not]({"style":{"text":{"color": "#ff0000", "typeface": "Omnes-BlackItalic"}}})
 
 - [x] Appeal
 
