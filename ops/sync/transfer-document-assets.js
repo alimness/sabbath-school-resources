@@ -53,14 +53,17 @@ let transferDocumentAssets = async function () {
     for (let documentImageAsset of documentImageAssets) {
         documentImageAsset = `${SOURCE_DIR}/${documentImageAsset}`
         let assetResourcePath = parseResourcePath(documentImageAsset)
-        let assetDir = `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.document}/`
+        let assetDir =
+            documentImageAsset.indexOf(`${assetResourcePath.title}/assets`) > 0
+                ? `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_ASSETS_DIRNAME}/`
+                : `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.document}/`
 
         let targetImage = path.basename(documentImageAsset)
 
         let remoteURL =
-            documentImageAsset.indexOf(`${assetResourcePath.title}/assets`) > 0 ?
-            documentImageAsset.replace(`${SOURCE_DIR}`, MEDIA_URL) :
-            `${MEDIA_URL}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.section}/${assetResourcePath.document}/${targetImage}`
+            documentImageAsset.indexOf(`${assetResourcePath.title}/assets`) > 0
+            ? documentImageAsset.replace(`${SOURCE_DIR}`, MEDIA_URL)
+            : `${MEDIA_URL}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.section}/${assetResourcePath.document}/${targetImage}`
 
         if (assetResourcePath.segment === DOCUMENT_COVER_FILENAME) {
             await processDocumentCover(assetResourcePath, remoteURL)
@@ -69,6 +72,8 @@ let transferDocumentAssets = async function () {
         if (assetResourcePath.segment === DOCUMENT_BACKGROUND_FILENAME) {
             await processDocumentBackground(assetResourcePath, remoteURL)
         }
+
+
 
         /**
          * This command replaces the locally referenced assets in *.md files within the target resource folder
@@ -105,6 +110,7 @@ let transferDocumentAssets = async function () {
         commands.push(`sed -i -e 's/\\([ [(:]\\)${escapeAssetPathForSed(targetImage)}/\\1${escapeAssetPathForSed(remoteURL)}/g' ${assetDir}**/*.md && rm ${documentImageAsset}`)
     }
 
+    console.log(`${commands.join("\n")}`)
     fs.writeFileSync(OPS_SYNC_TRANSFER_COMMANDS_FILENAME, `\n${commands.join("\n")}`)
 }
 
