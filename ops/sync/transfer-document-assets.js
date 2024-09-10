@@ -33,7 +33,7 @@ let processDocumentCover = async function (documentPathInfo, remoteURL) {
 }
 
 let processDocumentBackground = async function (documentPathInfo, remoteURL) {
-    let documentPath = `${SOURCE_DIR}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${RESOURCE_CONTENT_DIRNAME}/${documentPathInfo.section === SECTION_DEFAULT_NAME ? "" : documentPathInfo.section + "/"}/${documentPathInfo.document}/${DOCUMENT_INFO_FILENAME}`
+    let documentPath = `${SOURCE_DIR}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${RESOURCE_CONTENT_DIRNAME}/${documentPathInfo.section === SECTION_DEFAULT_NAME ? "" : documentPathInfo.section}/${documentPathInfo.document}/${DOCUMENT_INFO_FILENAME}`
     let documentInfo = yaml.load(fs.readFileSync(documentPath, "utf8"))
     documentInfo.background = remoteURL
     if (mode === "remote") fs.outputFileSync(documentPath, yaml.dump(documentInfo))
@@ -77,8 +77,6 @@ let transferDocumentAssets = async function () {
             await processDocumentBackground(assetResourcePath, remoteURL)
         }
 
-
-
         /**
          * This command replaces the locally referenced assets in *.md files within the target resource folder
          * with the final destination after it had been uploaded.
@@ -114,7 +112,6 @@ let transferDocumentAssets = async function () {
         commands.push(`sed -i -e 's/\\([ [(:]\\)${escapeAssetPathForSed(targetImage)}/\\1${escapeAssetPathForSed(remoteURL)}/g' ${targetReplaceDir}/*.md && rm ${documentImageAsset}`)
     }
 
-    console.log(`${commands.join("\n")}`)
     fs.writeFileSync(OPS_SYNC_TRANSFER_COMMANDS_FILENAME, `\n${commands.join("\n")}`)
 }
 

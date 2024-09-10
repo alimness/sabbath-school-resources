@@ -95,6 +95,7 @@ jobs:
         name: Generate transfer commands (seds) to replace locally referenced assets with the remote URLs
         env:
           DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: test -f transfer_commands.txt && source transfer_commands.txt
         name: Run transfer commands if exists
         env:
