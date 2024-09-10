@@ -58,6 +58,10 @@ let transferDocumentAssets = async function () {
                 ? `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_ASSETS_DIRNAME}/`
                 : `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.document}/`
 
+        let targetReplaceDir = documentImageAsset.indexOf(`${assetResourcePath.title}/assets`) > 0
+            ? `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/**`
+            : `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.document}`
+
         let targetImage = path.basename(documentImageAsset)
 
         let remoteURL =
@@ -107,7 +111,7 @@ let transferDocumentAssets = async function () {
          */
 
         commands.push(`aws s3 cp ${documentImageAsset} ${remoteURL.replace(MEDIA_URL, REMOTE_MEDIA_URL)} --acl "public-read" --region us-east-1 --no-progress`)
-        commands.push(`sed -i -e 's/\\([ [(:]\\)${escapeAssetPathForSed(targetImage)}/\\1${escapeAssetPathForSed(remoteURL)}/g' ${assetDir}**/*.md && rm ${documentImageAsset}`)
+        commands.push(`sed -i -e 's/\\([ [(:]\\)${escapeAssetPathForSed(targetImage)}/\\1${escapeAssetPathForSed(remoteURL)}/g' ${targetReplaceDir}/*.md && rm ${documentImageAsset}`)
     }
 
     console.log(`${commands.join("\n")}`)
