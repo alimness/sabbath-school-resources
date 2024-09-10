@@ -63,6 +63,8 @@ jobs:
     if: (github.repository == 'Adventech/sabbath-school-resources')
     runs-on: ubuntu-latest
     steps:
+      - name: Activate Globstar
+        run: shopt -s globstar
       - name: Extract branch name
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
