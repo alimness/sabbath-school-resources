@@ -1,6 +1,10 @@
 ---
   title: Alive in Jesus
   groups:
+  - group: Babies
+    view: folio
+    resources:
+      - en-aij-2025-01-bb-pb
   - group: Beginners
     view: folio
     resources:
