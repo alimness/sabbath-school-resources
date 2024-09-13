@@ -60,7 +60,7 @@ let transferDocumentAssets = async function () {
 
         let targetReplaceDir = documentImageAsset.indexOf(`${assetResourcePath.title}/assets`) > 0
             ? `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/**`
-            : `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.document}`
+            : `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.section === SECTION_DEFAULT_NAME ? "" : assetResourcePath.section + "/"}${assetResourcePath.document}`
 
         let targetImage = path.basename(documentImageAsset)
 

@@ -24,7 +24,7 @@ Although we don’t like to see our children in pain or danger, when the risk is
 > <callout>Ephesians 6:1–3</callout>
 > “Children, obey your parents in the Lord, for this is right. ‘Honor your father and mother,’ which is the first commandment with promise: ‘that it may be well with you and you may live long on the earth’ ”
 
-> <callout>Ellen G. White, Testimonies for the Church, vol. 4, p. 313)</callout>
+> <callout>Ellen G. White, Testimonies for the Church, vol. 4, p. 313</callout>
 > “Many neglect their duty during the first years of their children’s lives, think- ing that when they get older they will then be very careful to repress wrong and educate them in the right. But the very time for them to do this work is when the children are babes in their arms”
 
 > <callout>Ellen G. White, Counsels to Parents, Teachers, and Students, p. 111</callout>
