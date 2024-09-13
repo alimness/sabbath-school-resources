@@ -27,14 +27,14 @@ export const story = {
 }
 export const storySlide = {
     extension: {
-        name: "storySlide",
+        name: "story-slide",
         level: "block",
         tokenizer(src, tokens) {
             const rule = /^\^{3}\n([\s\S]*?)\n\^{3}/
             const match = rule.exec(src);
             if (match) {
                 return {
-                    type: "storySlide",
+                    type: "story-slide",
                     raw: match[0],
                     text: match[0].replace(/(^\^{3}|\^{3}$)/g, "").trim()
                 }

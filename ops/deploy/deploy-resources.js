@@ -71,6 +71,12 @@ let getResourceInfo = async function (resource, depth = 0) {
     delete resourceInfo.featuredResources
 
     // TODO: make seamless for local testing
+    // TODO: if local then local covers
+    // TODO: if remote
+        //  if !cover set the remote default cover
+        //  if !landscape cover landscape = cover
+        //  if !square cover square = cover
+        //  if !splash cover splash = cover
     if (!resourceInfo.covers) {
         resourceInfo.covers = {
             landscape: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/cover-landscape.png`,
