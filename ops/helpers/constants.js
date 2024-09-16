@@ -109,8 +109,8 @@ export const FEED_SCOPES = {
 export const API_PREFIX = "/api/v2/"
 export const API_DIST = `${DIST_DIR}/${API_PREFIX}`
 export const API_URL = function () { return `https://sabbath-school${DEPLOY_ENV === "prod" ? "" : "-stage" }.adventech.io` }
-export const MEDIA_URL = (DEPLOY_ENV === "local") ? `http://localhost:3002${API_PREFIX.replace(/\/$/, "")}` : `https://sabbath-school-resources-media.adventech.io`
-export const REMOTE_MEDIA_URL = `s3://sabbath-school-resources-media.adventech.io`
+export const ASSETS_URL = (DEPLOY_ENV === "local") ? `http://localhost:3002${API_PREFIX.replace(/\/$/, "")}` : `https://sabbath-school-resources-assets.adventech.io`
+export const REMOTE_ASSETS_URL = `s3://sabbath-school-resources-assets.adventech.io`
 export const FIREBASE_DATABASE_NAME = (DEPLOY_ENV === "prod") ? "https://blistering-inferno-8720.firebaseio.com" : "https://sabbath-school-stage.firebaseio.com"
 export const FIREBASE_DATABASE_LANGUAGES = "languages"
 export const FIREBASE_DATABASE_RESOURCES = "resources"

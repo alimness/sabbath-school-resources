@@ -1,7 +1,7 @@
 ---
 title: Test document2
 subtitle: Subtitle
-cover: https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/faee4f59de8091519214a429d2b979b4215305ba147dce3a4c2828d201ee6393.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/faee4f59de8091519214a429d2b979b4215305ba147dce3a4c2828d201ee6393.png
 ---
 
 {"style":{"text": {"typeface":"Omnes-BlackItalic", "color": "#E5723F", "size": "xl"}}}

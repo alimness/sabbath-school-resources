@@ -1,6 +1,6 @@
 ---
 title: Obedience
-cover: https://sabbath-school-resources-media.adventech.io/en/aij/2025-01-bb-pb/content/part-1/03-the-foundation-for-spiritual-growth/03-cover-obedience.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/content/part-1/03-the-foundation-for-spiritual-growth/03-cover-obedience.png
 ---
 
 Obedience can be learned more easily when your baby has first learned love and trust. As a parent, you have control over their life, because you make all the decisions about their daily experiences. These repeated experiences become habits and routines. Routines bring security and happiness to them, making it easier for them to obey you.
@@ -21,11 +21,13 @@ Although we don’t like to see our children in pain or danger, when the risk is
 
 #### Inspiration tells me ...
 
-> <callout>Ephesians 6:1–3</callout>
+> <cite>Ephesians 6:1–3</cite>
 > “Children, obey your parents in the Lord, for this is right. ‘Honor your father and mother,’ which is the first commandment with promise: ‘that it may be well with you and you may live long on the earth’ ”
 
 > <callout>Ellen G. White, Testimonies for the Church, vol. 4, p. 313</callout>
 > “Many neglect their duty during the first years of their children’s lives, think- ing that when they get older they will then be very careful to repress wrong and educate them in the right. But the very time for them to do this work is when the children are babes in their arms”
 
 > <callout>Ellen G. White, Counsels to Parents, Teachers, and Students, p. 111</callout>
-> “Never should they [the children] be allowed to show their parents disrespect. Self-will should never be permitted to go unrebuked. The future well-being of the child requires kindly, loving, but firm discipline”
+> “Never should they [the children] be allowed to show their parents disrespect.
+>
+> Self-will should never be permitted to go unrebuked. The future well-being of the child requires kindly, loving, but firm discipline”

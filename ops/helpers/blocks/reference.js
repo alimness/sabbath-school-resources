@@ -23,7 +23,7 @@ let processReference = async function (block) {
 
             reference.title = block.title || documentInfo.title
             reference.subtitle = block.subtitle || documentInfo.subtitle || null
-            reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_CONTENT_DIRNAME}/${referenceTargetPath.section}/${referenceTargetPath.document.replace(/\*.md$/, "")}`
+            reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${referenceTargetPath.section}/${referenceTargetPath.document.replace(/\*.md$/, "")}`
             reference.document = documentInfo
         } else {
             reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}`

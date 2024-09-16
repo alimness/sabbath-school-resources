@@ -8,7 +8,7 @@ import { fdir } from "fdir"
 import { getCategoryInfo } from "../deploy/deploy-categories.js"
 import { parseResourcePath, getResourceTypesGlob, getPositiveCoverImagesGlob, getFontsGlob, determineFontWeight } from "../helpers/helpers.js"
 import {
-    MEDIA_URL,
+    ASSETS_URL,
     SOURCE_DIR,
     RESOURCE_COVERS,
     CATEGORIES_DIRNAME,
@@ -73,7 +73,7 @@ let transferCategoriesAssets = async function () {
 
             Object.keys(RESOURCE_COVERS).map(k => {
                 if (imageAssetPath.section === RESOURCE_COVERS[k]) {
-                    categoryInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${MEDIA_URL}/${categoryPath.language}/${CATEGORIES_DIRNAME}/${categoryPath.title}/${CATEGORY_ASSETS_DIRNAME}/${imageAssetPath.section}`
+                    categoryInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${ASSETS_URL}/${categoryPath.language}/${CATEGORIES_DIRNAME}/${categoryPath.title}/${CATEGORY_ASSETS_DIRNAME}/${imageAssetPath.section}`
                     if (mode === "remote") fs.removeSync(`${SOURCE_DIR}/${categoryImageAsset}`)
                 }
             })
@@ -114,7 +114,7 @@ let transferAuthorsAssets = async function () {
 
             Object.keys(RESOURCE_COVERS).map(k => {
                 if (imageAssetPath.section === RESOURCE_COVERS[k]) {
-                    authorInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${MEDIA_URL}/${authorPath.language}/${AUTHORS_DIRNAME}/${authorPath.title}/${AUTHORS_ASSETS_DIRNAME}/${imageAssetPath.section}`
+                    authorInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${ASSETS_URL}/${authorPath.language}/${AUTHORS_DIRNAME}/${authorPath.title}/${AUTHORS_ASSETS_DIRNAME}/${imageAssetPath.section}`
                     if (mode === "remote") fs.removeSync(`${SOURCE_DIR}/${authorImageAsset}`)
                 }
             })
@@ -149,7 +149,7 @@ let transferResourcesAssets = async function () {
 
             Object.keys(RESOURCE_COVERS).map(k => {
                 if (imageAssetPath.document === RESOURCE_COVERS[k]) {
-                    resourceInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${MEDIA_URL}/${resourcePath.language}/${resourcePath.type}/${resourcePath.title}/${RESOURCE_ASSETS_DIRNAME}/${imageAssetPath.document}`
+                    resourceInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${ASSETS_URL}/${resourcePath.language}/${resourcePath.type}/${resourcePath.title}/${RESOURCE_ASSETS_DIRNAME}/${imageAssetPath.document}`
                     if (mode === "remote") fs.removeSync(`${SOURCE_DIR}/${resourceImageAsset}`)
                     if (mode === "local") {
                         fs.copySync(`${SOURCE_DIR}/${resourceImageAsset}`,
@@ -183,7 +183,7 @@ let transferResourcesFonts = async function () {
         }
 
         for (let resourceFontAsset of resources[resource]) {
-            const remoteURL = `${MEDIA_URL}/${resourceFontAsset}`
+            const remoteURL = `${ASSETS_URL}/${resourceFontAsset}`
 
             if (!resourceInfo.fonts.find(f => f.src === remoteURL)) {
                 try {

@@ -1,6 +1,6 @@
 ---
 title: Trust
-cover: https://sabbath-school-resources-media.adventech.io/en/aij/2025-01-bb-pb/content/part-1/03-the-foundation-for-spiritual-growth/03-cover-trust.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/content/part-1/03-the-foundation-for-spiritual-growth/03-cover-trust.png
 ---
 
 The love you express to your baby also serves to teach trust. Unlike many baby animals, your baby has many needs and cannot survive unless they are cared for. As your baby grows, they need to trust that they will receive what they need. As with love, your little one will learn to trust you as you keep them clean and fed, and when you listen to them. As your baby grows, they will need to be reassured through your actions that you say what you mean and you mean what you say; that you will honor promises and follow through with consequences for behavior. Your little one needs to know that you can be counted on.
@@ -17,3 +17,10 @@ As parents, we sometimes fail, and we often fall short. We forget, and sometimes
 - [ ] Show a high level of support for your baby. Respect their feelings, and help them when they are struggling, sad, afraid, or overwhelmed.
 - [ ] Communicate that you trust your baby. Trust goes two ways. When you show they can trust you, you model how you want your child to act. Your baby, in turn, learns how to be trustworthy. Assume your child will want to do the right thing and tell them you believe they will make a good choice.
 - [ ] Teach your baby when not to trust. “Teach personal safety skills and how to get help when they need it. . . . [But] in your efforts to protect them from evil, don’t crush the beautiful bud of trust” (Donna Habenicht, How to Help Your Child Really Love Jesus, pp. 18–20).
+
+test
+
+- [ ] Incorrect
+- [x] Correct
+- [ ] Incorrect
+- [ ] Incorrect

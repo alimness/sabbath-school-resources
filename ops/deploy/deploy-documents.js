@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 "use strict"
 
+import crypto from "crypto"
 import yaml from "js-yaml"
 import fs from "fs-extra"
 import frontMatter from "front-matter"
@@ -16,7 +17,7 @@ import {
     SEGMENT_TYPES,
     SECTION_DEFAULT_NAME,
     FIREBASE_DATABASE_BLOCKS,
-    FIREBASE_DATABASE_SEGMENTS, FIREBASE_DATABASE_DOCUMENTS, GLOBAL_ASSETS_DIR, MEDIA_URL
+    FIREBASE_DATABASE_SEGMENTS, FIREBASE_DATABASE_DOCUMENTS, GLOBAL_ASSETS_DIR, ASSETS_URL
 } from "../helpers/constants.js"
 import { SEGMENT_DEFAULT_BLOCK_STYLES } from "../helpers/styles.js"
 
@@ -37,7 +38,7 @@ let getDocumentInfoYml = async function (document) {
     }
 
     if (!documentInfo.cover && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.document}/cover.png`)) {
-        documentInfo.cover = `${MEDIA_URL}/assets/images/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.document}/cover.png`
+        documentInfo.cover = `${ASSETS_URL}/assets/images/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.document}/cover.png`
     }
 
     documentInfo.defaultStyles = SEGMENT_DEFAULT_BLOCK_STYLES
@@ -65,14 +66,33 @@ let getSegmentInfo = async function (segment, processBlocks = false) {
         segmentInfo.type = SEGMENT_TYPES.BLOCK
     }
 
-    if (processBlocks) {
-        segmentInfo.blocks = await parseSegment(segmentInfoFrontMatter.body, segmentPathInfo, "root", 1, segmentFilterForType[segmentInfo.type])
-    }
-
     segmentInfo.id = `${segmentPathInfo.language}-${segmentPathInfo.type}-${segmentPathInfo.title}-${DOCUMENT_CONTENT_DIRNAME}-${segmentPathInfo.section || SECTION_DEFAULT_NAME}-${segmentPathInfo.document}-segments-${segmentPathInfo.segment}`
     segmentInfo.resourceId = `${segmentPathInfo.language}-${segmentPathInfo.type}-${segmentPathInfo.title}`
     segmentInfo.index = `${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${segmentPathInfo.section || SECTION_DEFAULT_NAME}/${segmentPathInfo.document}/segments/${segmentPathInfo.segment}`
     segmentInfo.name = `${segmentPathInfo.segment}`
+
+    if (segmentInfo.pdf) {
+        segmentInfo.type = SEGMENT_TYPES.PDF
+        for (let pdf of segmentInfo.pdf) {
+            pdf.id = crypto.createHash("sha256").update(
+                `${segmentInfo.id}-${pdf.src}`
+            ).digest("hex")
+        }
+    }
+
+    if (segmentInfo.video) {
+        segmentInfo.type = SEGMENT_TYPES.VIDEO
+
+        for (let video of segmentInfo.video) {
+            video.id = crypto.createHash("sha256").update(
+                `${segmentInfo.id}-${video.src}`
+            ).digest("hex")
+        }
+    }
+
+    if (processBlocks) {
+        segmentInfo.blocks = await parseSegment(segmentInfoFrontMatter.body, segmentPathInfo, "root", 1, segmentFilterForType[segmentInfo.type])
+    }
 
     return segmentInfo
 }

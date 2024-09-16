@@ -54,7 +54,7 @@ It is a sad reality that God’s people have been notorious for claiming to foll
 
 ### Spiritual Discernment for Perilous Times
 
-!v[https://sabbath-school-resources-media.adventech.io/en/devo/test/assets/45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] This is an example of the embedded video
+!v[https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] This is an example of the embedded video
 
 The apostle Paul describes the period immediately preceding the second coming of Christ as “perilous times” (2 Timothy 3:1). Of these times, Jesus warned that “even the elect” (Matthew 24:24) could be deceived, as Satan works “with all power, signs, and lying wonders” (2 Thessalonians 2:9). “All the depths of satanic skill and subtlety acquired . . . will be brought to bear against God’s people in the final conflict” (The Great Controversy, p. x). In order to meet this crisis, God has given us a special manifestation of the gift of prophecy in the ministry of Ellen G. White.
 

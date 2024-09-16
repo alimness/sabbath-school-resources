@@ -15,7 +15,7 @@ During the next three years your little one will experience the most startling a
 - For the first few months your baby can distinguish between your language and a foreign one, before being wired to your own language by the end of their first year. In the second year they will recognize their own reflection in a mirror.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](https://sabbath-school-resources-media.adventech.io/en/aij/2025-01-bb-pb/content/root/01-your-baby/01-01.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/content/root/01-your-baby/01-01.png)
 
 Yes, your baby is born ready to learn, and you will be their first teacher. Their health and development will be strongly influenced by good nutrition, a strong nurturing family, and rich, positive early learning experiences. This is what will shape and fuel their amazing brain and prepare it for their future learning. Research tells us that a child’s earliest years can have effects that last a lifetime. Beginning at birth, children develop brain connections through their everyday experiences. These healthy brain connections are built through happy and loving interactions with their parents and caregivers and by using their senses to interact with the world. A young child’s daily experiences determine which brain connections develop and which will last for a lifetime. The amount and quality of care, stimulation, and interaction they receive in their early years makes all the difference. In the first seven years of your child’s life, the brain learns almost all types of behaviors and skills that will help them to grow into adulthood, but the first three years are the most important.
 
@@ -35,4 +35,4 @@ But perhaps most important, remember that you are not alone in this journey. Jes
 > “After [you] have done the best [you] can do for the good of [your] children, [you] may bring them to Jesus. Even the babes in the mother’s arms are precious in His sight”
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![It's never too early to learn about Jesus](https://sabbath-school-resources-media.adventech.io/en/aij/2025-01-bb-pb/content/root/01-your-baby/01-02.png) 
+![It's never too early to learn about Jesus](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/content/root/01-your-baby/01-02.png) 

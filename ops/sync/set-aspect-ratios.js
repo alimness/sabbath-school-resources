@@ -13,32 +13,32 @@ import {
 } from "../helpers/constants.js"
 
 
-let getDocumentWithImageBlocksOnly = async function (document) {
-    const documentFile = fs.readFileSync(document, "utf8");
-    const documentInfoFrontMatter = frontMatter(documentFile)
-    const documentPathInfo = parseResourcePath(document)
+let getSegmentsWithImageBlocksOnly = async function (document) {
+    const segmentFile = fs.readFileSync(document, "utf8");
+    const segmentInfoFrontMatter = frontMatter(segmentFile)
+    const segmentPathInfo = parseResourcePath(document)
 
-    const documentInfo = {
-        ...documentInfoFrontMatter.attributes,
+    const segmentInfo = {
+        ...segmentInfoFrontMatter.attributes,
     }
 
-    if (!documentInfo.type || documentInfo.type === SEGMENT_TYPES.BLOCK) {
-        documentInfo.blocks = await parseSegment(documentInfoFrontMatter.body, documentPathInfo, "root",
+    if (!segmentInfo.type || segmentInfo.type === SEGMENT_TYPES.BLOCK) {
+        segmentInfo.blocks = await parseSegment(segmentInfoFrontMatter.body, segmentPathInfo, "root",
             1,
             (b) => {
                 return b.type === "image"
             })
-        documentInfo.type = SEGMENT_TYPES.BLOCK
+        segmentInfo.type = SEGMENT_TYPES.BLOCK
     }
 
-    documentInfo.id = `${documentPathInfo.language}-${documentPathInfo.type}-${documentPathInfo.title}-${DOCUMENT_CONTENT_DIRNAME}-${documentPathInfo.section || SECTION_DEFAULT_NAME}-${documentPathInfo.document}`
-    documentInfo.index = `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${documentPathInfo.section || SECTION_DEFAULT_NAME}/${documentPathInfo.document}`
+    segmentInfo.id = `${segmentPathInfo.language}-${segmentPathInfo.type}-${segmentPathInfo.title}-${DOCUMENT_CONTENT_DIRNAME}-${segmentPathInfo.section || SECTION_DEFAULT_NAME}-${segmentPathInfo.document}`
+    segmentInfo.index = `${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${segmentPathInfo.section || SECTION_DEFAULT_NAME}/${segmentPathInfo.document}`
 
-    return documentInfo
+    return segmentInfo
 }
 
 let setImageAspectRatios = async function (resourceType) {
-    const documents = new fdir()
+    const segments = new fdir()
         .withBasePath()
         .withRelativePaths()
         .withMaxDepth(5)
@@ -46,14 +46,14 @@ let setImageAspectRatios = async function (resourceType) {
         .crawl(SOURCE_DIR)
         .sync();
 
-    for (let document of documents) {
-        let documentInfo = await getDocumentWithImageBlocksOnly(`${SOURCE_DIR}/${document}`, true)
-        let documentRaw = fs.readFileSync(`${SOURCE_DIR}/${document}`, "utf8");
-        let documentPathInfo = parseResourcePath(document)
+    for (let segment of segments) {
+        let segmentInfo = await getSegmentsWithImageBlocksOnly(`${SOURCE_DIR}/${segment}`, true)
+        let segmentRaw = fs.readFileSync(`${SOURCE_DIR}/${segment}`, "utf8");
+        let segmentPathInfo = parseResourcePath(segment)
 
-        if (documentInfo.blocks && documentInfo.blocks.length) {
+        if (segmentInfo.blocks && segmentInfo.blocks.length) {
             let replace = []
-            for (let imageBlock of documentInfo.blocks) {
+            for (let imageBlock of segmentInfo.blocks) {
                 let style = imageBlock.style || {}
                 let aspectRatio
 
@@ -61,7 +61,7 @@ let setImageAspectRatios = async function (resourceType) {
                     if (isURL(imageBlock.src)) {
                         aspectRatio = await getImageRatio(await getBufferFromUrl(imageBlock.src))
                     } else {
-                        aspectRatio = await getImageRatio(`${SOURCE_DIR}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${imageBlock.src}`)
+                        aspectRatio = await getImageRatio(`${SOURCE_DIR}/${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${imageBlock.src}`)
                     }
                     if (!style["image"]) {
                         style["image"] = {}
@@ -76,9 +76,9 @@ let setImageAspectRatios = async function (resourceType) {
             }
             if (replace.length) {
                 replace.map(r => {
-                    documentRaw = documentRaw.replace(r[0], r[1])
+                    segmentRaw = segmentRaw.replace(r[0], r[1])
                 })
-                fs.outputFileSync(`${SOURCE_DIR}/${document}`, documentRaw)
+                fs.outputFileSync(`${SOURCE_DIR}/${segment}`, segmentRaw)
             }
         }
     }

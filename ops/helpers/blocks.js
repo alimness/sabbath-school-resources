@@ -33,7 +33,7 @@ let parseBlock = async function (block, resourcePath, index, parentId, depth) {
 
     const supportedBlockTypes = {
         story,
-        storySlide,
+        'story-slide': storySlide,
         blockquote,
         audio,
         video,

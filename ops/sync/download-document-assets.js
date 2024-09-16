@@ -6,7 +6,7 @@ import crypto from "crypto"
 import * as path from "path"
 import { escapeAssetPathForSed, parseResourcePath } from "../helpers/helpers.js"
 import {
-    MEDIA_URL,
+    ASSETS_URL,
     OPS_SYNC_ASSET_EXTENSIONS,
     OPS_SYNC_DETECTED_LINKS_FILENAME, OPS_SYNC_DOWNLOAD_LOCATION,
     OPS_SYNC_TRANSFER_COMMANDS_FILENAME,
@@ -34,7 +34,7 @@ let processDetectedLinks = async function () {
             const srcPath = parseResourcePath(src)
             const linkHash = crypto.createHash("sha256").update(link).digest("hex")
             const extension = path.extname(link)
-            let remoteURL = `${MEDIA_URL}/${srcPath.language}/${srcPath.type}/${srcPath.title}/${RESOURCE_ASSETS_DIRNAME}/${linkHash}`
+            let remoteURL = `${ASSETS_URL}/${srcPath.language}/${srcPath.type}/${srcPath.title}/${RESOURCE_ASSETS_DIRNAME}/${linkHash}`
             let localURL = `${OPS_SYNC_DOWNLOAD_LOCATION}/${srcPath.language}/${srcPath.type}/${srcPath.title}/${RESOURCE_ASSETS_DIRNAME}/${linkHash}`
 
             if (OPS_SYNC_ASSET_EXTENSIONS.indexOf(extension) >= 0) {

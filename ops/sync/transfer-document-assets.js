@@ -6,7 +6,7 @@ import { fdir } from "fdir"
 import path from "path"
 import { getResourceTypesGlob, getNegativeCoverImagesGlob, escapeAssetPathForSed, parseResourcePath } from "../helpers/helpers.js"
 import {
-    MEDIA_URL,
+    ASSETS_URL,
     SOURCE_DIR,
     RESOURCE_ASSETS_DIRNAME,
     OPS_SYNC_TRANSFER_COMMANDS_FILENAME,
@@ -14,7 +14,7 @@ import {
     DOCUMENT_COVER_FILENAME,
     DOCUMENT_BACKGROUND_FILENAME,
     SECTION_DEFAULT_NAME,
-    DOCUMENT_INFO_FILENAME, REMOTE_MEDIA_URL,
+    DOCUMENT_INFO_FILENAME, REMOTE_ASSETS_URL,
 } from "../helpers/constants.js"
 import process from "node:process"
 import yaml from "js-yaml"
@@ -66,8 +66,8 @@ let transferDocumentAssets = async function () {
 
         let remoteURL =
             documentImageAsset.indexOf(`${assetResourcePath.title}/assets`) > 0
-            ? documentImageAsset.replace(`${SOURCE_DIR}`, MEDIA_URL)
-            : `${MEDIA_URL}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.section}/${assetResourcePath.document}/${targetImage}`
+            ? documentImageAsset.replace(`${SOURCE_DIR}`, ASSETS_URL)
+            : `${ASSETS_URL}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.section}/${assetResourcePath.document}/${targetImage}`
 
         if (assetResourcePath.segment === DOCUMENT_COVER_FILENAME) {
             await processDocumentCover(assetResourcePath, remoteURL)
@@ -108,7 +108,7 @@ let transferDocumentAssets = async function () {
          * now.
          */
 
-        commands.push(`aws s3 cp ${documentImageAsset} ${remoteURL.replace(MEDIA_URL, REMOTE_MEDIA_URL)} --acl "public-read" --region us-east-1 --no-progress`)
+        commands.push(`aws s3 cp ${documentImageAsset} ${remoteURL.replace(ASSETS_URL, REMOTE_ASSETS_URL)} --acl "public-read" --region us-east-1 --no-progress`)
         commands.push(`sed -i -e 's/\\([ [(:]\\)${escapeAssetPathForSed(targetImage)}/\\1${escapeAssetPathForSed(remoteURL)}/g' ${targetReplaceDir}/*.md && rm ${documentImageAsset}`)
     }
 

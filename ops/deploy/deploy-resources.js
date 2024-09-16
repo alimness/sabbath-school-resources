@@ -23,7 +23,7 @@ import {
     FEED_SCOPES,
     FEED_VIEWS,
     FEED_DIRECTION,
-    FIREBASE_DATABASE_RESOURCES, FIREBASE_DATABASE_LANGUAGES, API_URL, API_PREFIX, MEDIA_URL
+    FIREBASE_DATABASE_RESOURCES, FIREBASE_DATABASE_LANGUAGES, API_URL, API_PREFIX, ASSETS_URL
 } from "../helpers/constants.js"
 import crypto from "crypto"
 
@@ -87,7 +87,7 @@ let getResourceInfo = async function (resource, depth = 0) {
     }
 
     if (fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`)) {
-        resourceInfo.covers.splash = `${MEDIA_URL}/assets/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`
+        resourceInfo.covers.splash = `${ASSETS_URL}/assets/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`
     }
 
     const documents = new fdir()
