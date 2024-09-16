@@ -186,6 +186,34 @@ let isMainModule = function (meta) {
     return modulePath === scriptPath
 }
 
+let getCurrentQuarterGlob = function (d, strict, includePrevious, postfix) {
+    d = d || new Date()
+    let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3)),
+        nextQuarter = (quarterIndex <= 3) ? d.getFullYear() + "-0" + (quarterIndex + 1) : (d.getFullYear() + 1) + "-01"
+
+    let ret = `+(${includePrevious ? getPreviousQuarter() + "|" : ''}${d.getFullYear()}-0${quarterIndex}|${nextQuarter}${postfix ? '|'+postfix : ''})`
+    if (!strict) {
+        ret = `${ret}*`
+    }
+
+    return ret
+}
+
+let getCurrentQuarter = function () {
+    let d = new Date();
+    let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3))
+
+    return `${d.getFullYear()}-0${quarterIndex}`
+}
+
+let getPreviousQuarter = function () {
+    let d = new Date()
+    let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3))
+    let prevQuarter = (quarterIndex === 1) ? (d.getFullYear() - 1) + "-04" : (d.getFullYear()) + `-0${(quarterIndex - 1)}`
+
+    return `${prevQuarter}`
+};
+
 export {
     parseResourcePath,
     isMainModule,
@@ -199,5 +227,8 @@ export {
     getImageRatio,
     isURL,
     getBufferFromUrl,
-    determineFontWeight
+    determineFontWeight,
+    getCurrentQuarterGlob,
+    getPreviousQuarter,
+    getCurrentQuarter,
 }

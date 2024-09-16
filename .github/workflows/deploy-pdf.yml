@@ -1,0 +1,48 @@
+name: deploy-pdf
+on:
+  push:
+    branches:
+      - prod
+      - stage
+    paths:
+      - 'ops/deploy/deploy-pdf.js'
+      - 'src/**/pdf.yml'
+jobs:
+  deploy-pdf:
+    if: (github.repository == 'Adventech/sabbath-school-resources')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        name: Fetch the repository files
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+      - uses: actions/setup-node@v3
+        name: Setup Node
+        with:
+          node-version: '16'
+      - name: Add token for private packages
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
+      - run: npm install --global yarn
+        name: Install Yarn
+      - run: yarn install
+        name: Installing dependencies
+      - run: mkdir media
+      - name: Sync from cloud
+        run: aws s3 sync s3://sabbath-school-resources-media`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io media --region us-east-1 --no-progress --exclude "*" --include "pdf/*/ss/`node --input-type=module -e 'import {getCurrentQuarter} from "./ops/helpers/helpers.js"; console.log(getCurrentQuarter())'`*/*.keep" --include "pdf/*/ss/`node --input-type=module -e 'import {getCurrentQuarter} from "./ops/helpers/helpers.js"; console.log(getCurrentQuarter())'`*/*.keep" --include "pdf/*/aij/*/*.keep" --include "pdf/*/devo/*/*.keep" --include "pdf/*/pm/*/*.keep"
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - run: node ./ops/deploy/deploy-pdf.js -m "gen"
+        env:
+          DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
+      - run: test -f curl-config.txt && curl -K curl-config.txt || true
+      - run: node ./ops/deploy/deploy-pdf.js -m "keep"
+        env:
+          DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
+      - name: Deploying to cloud
+        run: aws s3 sync ./media s3://sabbath-school-resources-media`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
