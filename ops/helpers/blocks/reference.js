@@ -1,7 +1,7 @@
 import { parseResourcePath } from "../helpers.js"
 import { getResourceInfo } from "../../deploy/deploy-resources.js"
 import { getDocumentInfoYml } from "../../deploy/deploy-documents.js"
-import { SECTION_DEFAULT_NAME, RESOURCE_INFO_FILENAME, SOURCE_DIR, FEED_SCOPES, RESOURCE_CONTENT_DIRNAME } from "../constants.js"
+import { RESOURCE_INFO_FILENAME, SOURCE_DIR, FEED_SCOPES } from "../constants.js"
 
 let processReference = async function (block) {
     let referenceTargetPath = parseResourcePath(block.target)
@@ -19,11 +19,11 @@ let processReference = async function (block) {
         const resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_INFO_FILENAME}`)
 
         if (reference.scope === FEED_SCOPES.DOCUMENT) {
-            const documentInfo = await getDocumentInfoYml(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_CONTENT_DIRNAME}/${(referenceTargetPath.section && referenceTargetPath.section !== SECTION_DEFAULT_NAME) ? `${referenceTargetPath.section}/` : ""}${referenceTargetPath.document}/info.yml`)
+            const documentInfo = await getDocumentInfoYml(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${referenceTargetPath.section ? referenceTargetPath.section + "/" : ""}${referenceTargetPath.document}/info.yml`)
 
             reference.title = block.title || documentInfo.title
             reference.subtitle = block.subtitle || documentInfo.subtitle || null
-            reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${referenceTargetPath.section}/${referenceTargetPath.document.replace(/\*.md$/, "")}`
+            reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${referenceTargetPath.section ? referenceTargetPath.section + "-" : ""}/${referenceTargetPath.document.replace(/\*.md$/, "")}`
             reference.document = documentInfo
         } else {
             reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}`

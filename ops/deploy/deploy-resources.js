@@ -86,7 +86,7 @@ let getResourceInfo = async function (resource, depth = 0) {
         }
     }
 
-    if (fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`)) {
+    if (!resourceInfo.covers.splash && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`)) {
         resourceInfo.covers.splash = `${ASSETS_URL}/assets/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`
     }
 

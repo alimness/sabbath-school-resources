@@ -56,6 +56,7 @@ let deployPdf = async function () {
                 pdf.target = `${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${String(i+1).padStart(2, '0')}`
             }
             pdf.id = crypto.createHash('sha256').update(pdf.target + pdf.src).digest('hex')
+            pdf.targetIndex = pdf.target.replace(/\//g, '-')
 
             let extname = ".pdf"
 

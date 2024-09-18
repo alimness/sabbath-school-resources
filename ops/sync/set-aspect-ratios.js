@@ -5,8 +5,6 @@ import { parseSegment } from "../helpers/blocks.js"
 import { isURL, getBufferFromUrl, getImageRatio, parseResourcePath} from "../helpers/helpers.js"
 import {
     RESOURCE_ASSETS_DIRNAME,
-    SECTION_DEFAULT_NAME,
-    DOCUMENT_CONTENT_DIRNAME,
     SEGMENT_TYPES,
     RESOURCE_TYPE,
     SOURCE_DIR
@@ -31,8 +29,8 @@ let getSegmentsWithImageBlocksOnly = async function (document) {
         segmentInfo.type = SEGMENT_TYPES.BLOCK
     }
 
-    segmentInfo.id = `${segmentPathInfo.language}-${segmentPathInfo.type}-${segmentPathInfo.title}-${DOCUMENT_CONTENT_DIRNAME}-${segmentPathInfo.section || SECTION_DEFAULT_NAME}-${segmentPathInfo.document}`
-    segmentInfo.index = `${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${DOCUMENT_CONTENT_DIRNAME}/${segmentPathInfo.section || SECTION_DEFAULT_NAME}/${segmentPathInfo.document}`
+    segmentInfo.id = `${segmentPathInfo.language}-${segmentPathInfo.type}-${segmentPathInfo.title}-${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}-${segmentPathInfo.document}`
+    segmentInfo.index = `${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}/${segmentPathInfo.document}`
 
     return segmentInfo
 }

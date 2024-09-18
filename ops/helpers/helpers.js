@@ -7,10 +7,12 @@ import {
     SOURCE_DIR,
     RESOURCE_TYPE,
     RESOURCE_COVERS,
-    SECTION_DEFAULT_NAME,
     RESOURCE_FONTS_DIRNAME,
     RESOURCE_ASSETS_DIRNAME,
-    OPS_SYNC_ASSET_EXTENSIONS
+    OPS_SYNC_ASSET_EXTENSIONS,
+    SEGMENT_FILENAME_EXTENSION,
+    DOCUMENT_INFO_FILENAME,
+    SECTION_INFO_FILENAME
 } from "./constants.js"
 
 async function getBufferFromUrl(url) {
@@ -98,9 +100,14 @@ let parseResourcePath = function (resourcePath) {
     if (/^\.\/src\//.test(resourcePath)) {
         resourcePath = resourcePath.replace(`${SOURCE_DIR}/`, "")
     }
-    let pathRegExp = /^([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?/mg,
+
+                 //   1           2           3          4            5         6
+                 //   /en         /devo       /title     /document    /segment
+                 //   /en         /devo       /title     /section    /document  /segment
+    let pathRegExp = /^([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?\/?([^\/]+)?/mg,
         matches = pathRegExp.exec(resourcePath),
         info = {};
+
 
     try {
         info.language = matches[1] || null
@@ -110,63 +117,68 @@ let parseResourcePath = function (resourcePath) {
         info.document = null
         info.segment = null
 
-        if (matches[4] && matches[5] && matches[4] === RESOURCE_ASSETS_DIRNAME && /\.png$/.test(matches[5])){
+        if (matches[4] && matches[4] === RESOURCE_ASSETS_DIRNAME){
             info.section = matches[4]
-            info.document = matches[5]
+
+            if (matches[5] && new RegExp(`(${OPS_SYNC_ASSET_EXTENSIONS.join("|")})$`).test(matches[5])) {
+                info.document = matches[5]
+            }
+            return info
         }
 
-        if (matches[4] && matches[5] && !matches[6] && !/(info\.yml|\.md)$/.test(matches[5])) {
-            info.section = SECTION_DEFAULT_NAME
-            info.document = matches[5]
+        if (matches[4] && matches[5] && !matches[6] && !(new RegExp(`${DOCUMENT_INFO_FILENAME}|${SEGMENT_FILENAME_EXTENSION}$`).test(matches[5]))) {
+            info.section = null
+            info.document = matches[4]
         }
 
-        if (matches[4] && matches[5] && matches[6]) {
+        if (matches[4] && matches[5]) {
             // Only section info
-            // ex: en/devo/resource/content/section-name/section.yml
-            if (/section\.yml$/.test(matches[6])) {
-                info.section = matches[5]
+            // ex: en/devo/resource/section-name/section.yml
+            if (new RegExp(`${SECTION_INFO_FILENAME}$`).test(matches[5])) {
+                info.section = matches[4]
             }
 
             // Root level document
-            // ex: en/devo/resource/content/document-name/info.yml
-            if (/info\.yml$/.test(matches[6])) {
-                info.section = SECTION_DEFAULT_NAME
-                info.document = matches[5]
+            // ex: en/devo/resource/document-name/info.yml
+            if (new RegExp(`${DOCUMENT_INFO_FILENAME}$`).test(matches[5])) {
+                info.section = null
+                info.document = matches[4]
             }
 
             // Root level document segment or asset
             // ex: en/devo/resource/content/document-name/segment.md
             let regex = new RegExp(`(${OPS_SYNC_ASSET_EXTENSIONS.map(ext => ext.replace('.', '\\.')).join('|')})$`, 'i')
-            if (/\.md$/.test(matches[6]) || regex.test(matches[6])) {
-                info.section = SECTION_DEFAULT_NAME
-                info.document = matches[5]
-                info.segment = matches[6]
+
+            if (new RegExp(`${SEGMENT_FILENAME_EXTENSION}$`).test(matches[5]) || regex.test(matches[5])) {
+                info.section = null
+                info.document = matches[4]
+                info.segment = matches[5]
             }
 
-            if (matches[7]) {
+            if (matches[6]) {
                 // Document info
                 // ex: en/devo/resource/content/section-name/document-name/info.yml
-                if (/info\.yml$/.test(matches[7])) {
-                    info.section = matches[5]
-                    info.document = matches[6]
+                if (new RegExp(`${DOCUMENT_INFO_FILENAME}$`).test(matches[6])) {
+                    info.section = matches[4]
+                    info.document = matches[5]
                 }
 
                 // Document Segment
                 // ex: en/devo/resource/content/section-name/document-name/segment.md
-                if (/\.md$/.test(matches[7]) || regex.test(matches[7])) {
-                    info.section = matches[5]
-                    info.document = matches[6]
-                    info.segment = matches[7]
+                if (new RegExp(`${SEGMENT_FILENAME_EXTENSION}$`).test(matches[6]) || regex.test(matches[6])) {
+                    info.section = matches[4]
+                    info.document = matches[5]
+                    info.segment = matches[6]
                 }
-            } else if (!/(info\.yml|\.md)$/.test(matches[6]) && !regex.test(matches[6])) {
-                info.section = matches[5]
-                info.document = matches[6]
+            } else if (!new RegExp(`${DOCUMENT_INFO_FILENAME}|${SEGMENT_FILENAME_EXTENSION}$`).test(matches[5]) && !regex.test(matches[5])) {
+                info.section = matches[4]
+                info.document = matches[5]
             }
         }
 
-        if (info.section) { info.section = info.section.replace("section.yml", "") }
-        if (info.document) { info.document = info.document.replace(".yml", "") }
-        if (info.segment) { info.segment = info.segment.replace(".md", "") }
+        if (info.document) { info.document = info.document.replace(SECTION_INFO_FILENAME, "") }
+        if (info.document) { info.document = info.document.replace(DOCUMENT_INFO_FILENAME, "") }
+        if (info.segment) { info.segment = info.segment.replace(SEGMENT_FILENAME_EXTENSION, "") }
 
     } catch (e) {
         console.error(`Error parsing resource path: ${e}`);

@@ -11,7 +11,6 @@ import {
     SOURCE_DIR,
     API_DIST,
     RESOURCE_TYPE,
-    RESOURCE_CONTENT_DIRNAME,
     RESOURCE_INFO_FILENAME,
     SECTION_INFO_FILENAME,
     RESOURCE_ORDER,
@@ -23,7 +22,7 @@ import { getLanguageInfo } from "./deploy-languages.js"
 let getSectionInfo = async function (section) {
     const sectionInfo = yaml.load(fs.readFileSync(section, "utf8"))
     const sectionPathInfo = parseResourcePath(section)
-    sectionInfo.name = sectionPathInfo.section || SECTION_DEFAULT_NAME
+    sectionInfo.name = sectionPathInfo.section ?? SECTION_DEFAULT_NAME
     return sectionInfo
 }
 
@@ -32,7 +31,7 @@ let processSection = async function (resourceInfo, section) {
         .withBasePath()
         .withRelativePaths()
         .withMaxDepth(1)
-        .glob("**/info.yml")
+        .glob("*/**/info.yml")
         .crawl(section)
         .sync()
 
@@ -63,7 +62,7 @@ let processSections = async function (resourceType) {
         let totalDocuments = 0
         const resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${resource}`, 1)
         const resourcePathInfo = parseResourcePath(`${SOURCE_DIR}/${resource}`)
-        const resourceContentPath = `${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_CONTENT_DIRNAME}`
+        const resourceContentPath = `${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}`
         const languageInfo = await getLanguageInfo(resourcePathInfo.language)
 
         const sections = new fdir()
@@ -98,6 +97,7 @@ let processSections = async function (resourceType) {
             if (documents.length) {
                 resourceSectionData[`${section.replace(`/${SECTION_INFO_FILENAME}`, "")}`] = {
                     id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${section.replace(`/${SECTION_INFO_FILENAME}`, "")}`,
+                    isRoot: false,
                     documents,
                     ...sectionInfo
                 }

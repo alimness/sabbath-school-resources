@@ -73,10 +73,10 @@ export const AUTHORS_INFO_FILENAME = "info.yml"
 export const AUTHORS_ASSETS_DIRNAME = "assets"
 
 // Documents
-export const DOCUMENT_CONTENT_DIRNAME = "content"
 export const DOCUMENT_COVER_FILENAME = "cover.png"
 export const DOCUMENT_BACKGROUND_FILENAME = "background.png"
 export const DOCUMENT_INFO_FILENAME = "info.yml"
+export const SEGMENT_FILENAME_EXTENSION = ".md"
 export const SEGMENT_TYPES = {
     BLOCK: "block",
     PDF: "pdf",

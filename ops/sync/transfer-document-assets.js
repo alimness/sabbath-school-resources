@@ -10,11 +10,9 @@ import {
     SOURCE_DIR,
     RESOURCE_ASSETS_DIRNAME,
     OPS_SYNC_TRANSFER_COMMANDS_FILENAME,
-    RESOURCE_CONTENT_DIRNAME,
     DOCUMENT_COVER_FILENAME,
     DOCUMENT_BACKGROUND_FILENAME,
-    SECTION_DEFAULT_NAME,
-    DOCUMENT_INFO_FILENAME, REMOTE_ASSETS_URL,
+    DOCUMENT_INFO_FILENAME, REMOTE_ASSETS_URL, OPS_SYNC_ASSET_EXTENSIONS,
 } from "../helpers/constants.js"
 import process from "node:process"
 import yaml from "js-yaml"
@@ -26,14 +24,14 @@ if (process && process.env && process.env.GITHUB_TOKEN) {
 }
 
 let processDocumentCover = async function (documentPathInfo, remoteURL) {
-    let documentPath = `${SOURCE_DIR}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${RESOURCE_CONTENT_DIRNAME}/${documentPathInfo.section === SECTION_DEFAULT_NAME ? "" : documentPathInfo.section + "/"}/${documentPathInfo.document}/${DOCUMENT_INFO_FILENAME}`
+    let documentPath = `${SOURCE_DIR}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "/" : ""}${documentPathInfo.document}/${DOCUMENT_INFO_FILENAME}`
     let documentInfo = yaml.load(fs.readFileSync(documentPath, "utf8"))
     documentInfo.cover = remoteURL
     if (mode === "remote") fs.outputFileSync(documentPath, yaml.dump(documentInfo))
 }
 
 let processDocumentBackground = async function (documentPathInfo, remoteURL) {
-    let documentPath = `${SOURCE_DIR}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${RESOURCE_CONTENT_DIRNAME}/${documentPathInfo.section === SECTION_DEFAULT_NAME ? "" : documentPathInfo.section}/${documentPathInfo.document}/${DOCUMENT_INFO_FILENAME}`
+    let documentPath = `${SOURCE_DIR}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "/" : ""}${documentPathInfo.document}/${DOCUMENT_INFO_FILENAME}`
     let documentInfo = yaml.load(fs.readFileSync(documentPath, "utf8"))
     documentInfo.background = remoteURL
     if (mode === "remote") fs.outputFileSync(documentPath, yaml.dump(documentInfo))
@@ -46,28 +44,26 @@ let transferDocumentAssets = async function () {
         .withBasePath()
         .withRelativePaths()
         .withMaxDepth(8) // up to assets/dir1/dir2/dir3/dir4
-        .glob(`**/${getResourceTypesGlob()}/**/(${RESOURCE_ASSETS_DIRNAME}|${RESOURCE_CONTENT_DIRNAME})/${getNegativeCoverImagesGlob()}?(**/)(*.{jpg,jpeg,png,pdf})`)
+        .glob(`**/${getResourceTypesGlob()}/*/*/**/(*.{${OPS_SYNC_ASSET_EXTENSIONS.map(i => i.replace(/^\./, '')).join(",")}})`)
         .crawl(SOURCE_DIR)
         .sync();
-
+console.log(documentImageAssets)
     for (let documentImageAsset of documentImageAssets) {
         documentImageAsset = `${SOURCE_DIR}/${documentImageAsset}`
         let assetResourcePath = parseResourcePath(documentImageAsset)
-        let assetDir =
-            documentImageAsset.indexOf(`${assetResourcePath.title}/assets`) > 0
-                ? `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_ASSETS_DIRNAME}/`
-                : `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.document}/`
+
+
 
         let targetReplaceDir = documentImageAsset.indexOf(`${assetResourcePath.title}/assets`) > 0
-            ? `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/**`
-            : `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.section === SECTION_DEFAULT_NAME ? "" : assetResourcePath.section + "/"}${assetResourcePath.document}`
+            ? `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/**`
+            : `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${assetResourcePath.section ? assetResourcePath.section + "/" : ""}${assetResourcePath.document}`
 
         let targetImage = path.basename(documentImageAsset)
 
         let remoteURL =
             documentImageAsset.indexOf(`${assetResourcePath.title}/assets`) > 0
             ? documentImageAsset.replace(`${SOURCE_DIR}`, ASSETS_URL)
-            : `${ASSETS_URL}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${RESOURCE_CONTENT_DIRNAME}/${assetResourcePath.section}/${assetResourcePath.document}/${targetImage}`
+            : `${ASSETS_URL}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${assetResourcePath.section ? assetResourcePath.section + "-" : ""}${assetResourcePath.document}/${targetImage}`
 
         if (assetResourcePath.segment === DOCUMENT_COVER_FILENAME) {
             await processDocumentCover(assetResourcePath, remoteURL)
