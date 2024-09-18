@@ -20,7 +20,7 @@ import {
     GLOBAL_ASSETS_DIR,
     ASSETS_URL,
     RESOURCE_PDF_FILENAME,
-    DOCUMENT_INFO_FILENAME
+    DOCUMENT_INFO_FILENAME, MEDIA_URL
 } from "../helpers/constants.js"
 import { SEGMENT_DEFAULT_BLOCK_STYLES } from "../helpers/styles.js"
 
@@ -118,6 +118,7 @@ let processPDFOnlyResource = async function (resource, returnOnly) {
 
         pdf.id = crypto.createHash('sha256').update(pdf.target + pdf.src).digest('hex')
         pdf.targetIndex = pdf.target.replace(/\//g, '-')
+        pdf.src = `${MEDIA_URL}/pdf/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${pdf.id}/${pdf.id}.pdf`
 
         if (!pdfsForDocument[pdf.target]) {
             pdfsForDocument[pdf.target] = [pdf]
