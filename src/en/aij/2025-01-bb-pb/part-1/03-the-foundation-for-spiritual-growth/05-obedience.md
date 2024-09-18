@@ -1,6 +1,6 @@
 ---
 title: Obedience
-cover: 03-cover-obedience.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/part-1-03-the-foundation-for-spiritual-growth/03-cover-obedience.png
 ---
 
 Obedience can be learned more easily when your baby has first learned love and trust. As a parent, you have control over their life, because you make all the decisions about their daily experiences. These repeated experiences become habits and routines. Routines bring security and happiness to them, making it easier for them to obey you.

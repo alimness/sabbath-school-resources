@@ -5,7 +5,7 @@ title: Test document!
 ```=Additional comments
 
 {"style":{"image":{"aspectRatio":1.514}}}
-![Learn more at https://grow.adventist.org The top icon represents the fi rst step of preparing the soil of the heart. Continuing clockwise, the second icon represents planting the seed of truth, the third icon represents cultivating spiritual interest, the fourth icon represents harvesting decisions for Christ, and the fi fth icon represents preserving the harvest with ongoing discipleship. The continuous circle represents the cyclical and multiplying nature of discipleship.](fisherman.jpg)
+![Learn more at https://grow.adventist.org The top icon represents the fi rst step of preparing the soil of the heart. Continuing clockwise, the second icon represents planting the seed of truth, the third icon represents cultivating spiritual interest, the fourth icon represents harvesting decisions for Christ, and the fi fth icon represents preserving the harvest with ongoing discipleship. The continuous circle represents the cyclical and multiplying nature of discipleship.](https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/fisherman.jpg)
 
 Hello, world!
 
@@ -145,7 +145,7 @@ Split this one
 `Question please?`
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![test](hopess.jpg)
+![test](https://sabbath-school-resources-assets.adventech.io/en/devo/test/blocks/hopess.jpg)
 
 Hello <sup>1</sup> In the beginning God created the heavens and the earth.
 
@@ -181,16 +181,16 @@ _test_
 {#[en/pm/discipleship-handbook/01-discipleship/01-to-be-like-jesus/]}
 
 {"style":{"image":{"aspectRatio":1.514}}}
-![Learn more at https://grow.adventist.org The top icon represents the fi rst step of preparing the soil of the heart. Continuing clockwise, the second icon represents planting the seed of truth, the third icon represents cultivating spiritual interest, the fourth icon represents harvesting decisions for Christ, and the fi fth icon represents preserving the harvest with ongoing discipleship. The continuous circle represents the cyclical and multiplying nature of discipleship.](fisherman.jpg)
+![Learn more at https://grow.adventist.org The top icon represents the fi rst step of preparing the soil of the heart. Continuing clockwise, the second icon represents planting the seed of truth, the third icon represents cultivating spiritual interest, the fourth icon represents harvesting decisions for Christ, and the fi fth icon represents preserving the harvest with ongoing discipleship. The continuous circle represents the cyclical and multiplying nature of discipleship.](https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/fisherman.jpg)
 
 {"style":{"image":{"aspectRatio":1.514}}}
-![penguin image](fisherman.jpg)
+![penguin image](https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/fisherman.jpg)
 
-!a[45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] with caption
+!a[https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] with caption
 
-!a[45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] f
+!a[https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] f
 
-!v[45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] test
+!v[https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] test
 
 Happy Sabbath!
 
