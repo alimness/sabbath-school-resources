@@ -15,7 +15,12 @@ import {
     RESOURCE_TYPE,
     SEGMENT_TYPES,
     FIREBASE_DATABASE_BLOCKS,
-    FIREBASE_DATABASE_SEGMENTS, FIREBASE_DATABASE_DOCUMENTS, GLOBAL_ASSETS_DIR, ASSETS_URL, RESOURCE_PDF_FILENAME
+    FIREBASE_DATABASE_SEGMENTS,
+    FIREBASE_DATABASE_DOCUMENTS,
+    GLOBAL_ASSETS_DIR,
+    ASSETS_URL,
+    RESOURCE_PDF_FILENAME,
+    DOCUMENT_INFO_FILENAME
 } from "../helpers/constants.js"
 import { SEGMENT_DEFAULT_BLOCK_STYLES } from "../helpers/styles.js"
 
@@ -98,6 +103,65 @@ let getSegmentInfo = async function (segment, processBlocks = false) {
     return segmentInfo
 }
 
+let processPDFOnlyResource = async function (resource, returnOnly) {
+    let resourcePathInfo = parseResourcePath(resource)
+    const pdfFile = yaml.load(fs.readFileSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_PDF_FILENAME}`, "utf8"))
+    const documents = []
+    const pdfsForDocument = {}
+
+    for (let [i, pdf] of pdfFile.pdf.entries()) {
+        if (!pdf.title || !pdf.src) { continue }
+
+        if (!pdf.target) {
+            pdf.target = `${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${String(i+1).padStart(2, '0')}`
+        }
+
+        pdf.id = crypto.createHash('sha256').update(pdf.target + pdf.src).digest('hex')
+        pdf.targetIndex = pdf.target.replace(/\//g, '-')
+
+        if (!pdfsForDocument[pdf.target]) {
+            pdfsForDocument[pdf.target] = [pdf]
+        } else {
+            pdfsForDocument[pdf.target].push(pdf)
+        }
+    }
+
+    for (let pdfTarget of Object.keys(pdfsForDocument)) {
+        const pdfs = pdfsForDocument[pdfTarget]
+        if (!pdfs.length) continue
+        const documentPathInfo = parseResourcePath(`${pdfs[0].target}/${DOCUMENT_INFO_FILENAME}`)
+        const segmentPathInfo = parseResourcePath(`${pdfs[0].target}/${documentPathInfo.document}.md`)
+        const documentInfo = {
+            title: pdfs[0].title,
+            id: `${documentPathInfo.language}-${documentPathInfo.type}-${documentPathInfo.title}-${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}`,
+            resourceId: `${documentPathInfo.language}-${documentPathInfo.type}-${documentPathInfo.title}`,
+            index: `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}`,
+            name: `${documentPathInfo.document}`,
+            segments: [
+                {
+                    title: pdfs[0].title,
+                    type: "pdf",
+                    id: `${segmentPathInfo.language}-${segmentPathInfo.type}-${segmentPathInfo.title}-${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}${segmentPathInfo.document}-${segmentPathInfo.segment}`,
+                    resourceId: `${segmentPathInfo.language}-${segmentPathInfo.type}-${segmentPathInfo.title}`,
+                    index: `${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}${segmentPathInfo.document}/${segmentPathInfo.segment}`,
+                    name: `${segmentPathInfo.segment}`,
+                    pdf: pdfs,
+                }
+            ],
+        }
+
+        if (!returnOnly) {
+            fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
+        } else {
+            documents.push(documentInfo)
+        }
+    }
+
+    if (returnOnly) {
+        return documents
+    }
+}
+
 // TODO: instead of wildcard for the resource glob, process only the ones that are in the git change
 //       if more than lets say 20 then use **
 let processDocuments = async function (resourceType) {
@@ -121,18 +185,12 @@ let processDocuments = async function (resourceType) {
             .crawl(SOURCE_DIR)
             .sync();
 
-        // const pdfFilePath = `${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_PDF_FILENAME}`
+        const pdfFilePath = `${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_PDF_FILENAME}`
 
-        // if (!documents.length
-        //     && fs.pathExistsSync(pdfFilePath)) {
-        //     const pdfFile = yaml.load(fs.readFileSync(pdfFilePath, "utf8"))
-        //
-        //     for (let pdf of pdfFile.pdf) {
-        //         if (!pdf.title || !pdf.target) { continue }
-        //         let resourcePathInfo = parseResourcePath(pdf.target)
-        //         console.log(resourcePathInfo)
-        //     }
-        // }
+        if (!documents.length
+            && fs.pathExistsSync(pdfFilePath)) {
+            await processPDFOnlyResource(`${SOURCE_DIR}/${resource}`)
+        }
 
         for (let document of documents) {
             let documentInfo = await getDocumentInfoYml(`${SOURCE_DIR}/${document}`, true)
@@ -191,5 +249,6 @@ if (isMainModule(import.meta)) {
 
 export {
     getSegmentInfo,
-    getDocumentInfoYml
+    getDocumentInfoYml,
+    processPDFOnlyResource,
 }

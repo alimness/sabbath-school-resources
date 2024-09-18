@@ -5,7 +5,7 @@ import fs from "fs-extra"
 import yaml from "js-yaml"
 import { fdir } from "fdir"
 import { getResourceInfo } from "./deploy-resources.js"
-import { getDocumentInfoYml } from "./deploy-documents.js"
+import { getDocumentInfoYml, processPDFOnlyResource } from "./deploy-documents.js"
 import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import {
     SOURCE_DIR,
@@ -15,7 +15,7 @@ import {
     SECTION_INFO_FILENAME,
     RESOURCE_ORDER,
     SECTION_DEFAULT_NAME,
-    SECTION_DIRNAME, SECTION_VIEWS,
+    SECTION_DIRNAME, SECTION_VIEWS, RESOURCE_PDF_FILENAME,
 } from "../helpers/constants.js"
 import { getLanguageInfo } from "./deploy-languages.js"
 
@@ -105,6 +105,20 @@ let processSections = async function (resourceType) {
         }
 
         resourceInfo.sections = Object.values(resourceSectionData)
+
+        const pdfFilePath = `${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_PDF_FILENAME}`
+
+        if (!resourceInfo.sections.length && fs.pathExistsSync(pdfFilePath)) {
+            const documents = await processPDFOnlyResource(`${SOURCE_DIR}/${resource}`, true)
+            resourceInfo.sections = [{
+                id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${SECTION_DEFAULT_NAME}`,
+                name: SECTION_DEFAULT_NAME,
+                title: languageInfo.sections?.default || SECTION_DEFAULT_NAME,
+                isRoot: true,
+                documents,
+            }]
+        }
+
         // TODO: consider number of sections and type of resource to determine the section view
         resourceInfo.sectionView = totalDocuments < 100 ? SECTION_VIEWS.NORMAL : SECTION_VIEWS.DROPDOWN
 

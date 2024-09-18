@@ -41,6 +41,8 @@ let deployPdf = async function () {
         .crawl(SOURCE_DIR)
         .sync()
 
+    console.log(pdfInfoFiles)
+
     for (let pdfInfoFile of pdfInfoFiles) {
         let pdfs = yaml.load(fs.readFileSync(`${SOURCE_DIR}/${pdfInfoFile}`, 'utf-8')),
             pdfPathInfo = parseResourcePath(pdfInfoFile)
