@@ -40,8 +40,8 @@ let getDocumentInfoYml = async function (document) {
         delete documentInfo.chips
     }
 
-    if (!documentInfo.cover && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.document}/cover.png`)) {
-        documentInfo.cover = `${ASSETS_URL}/assets/images/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.document}/cover.png`
+    if (!documentInfo.cover && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "/" : ""}${documentPathInfo.document}/cover.png`)) {
+        documentInfo.cover = `${ASSETS_URL}/assets/images/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "/" : ""}${documentPathInfo.document}/cover.png`
     }
 
     return documentInfo
