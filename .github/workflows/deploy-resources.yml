@@ -37,13 +37,14 @@ jobs:
       - run: |
           aws s3 ls s3://sabbath-school-resources-assets.adventech.io/assets --recursive --region us-east-1 | while read -r line; do
             filepath=$(echo "$line" | awk '{print $4}')
-            mkdir -p "$(dirname "$filepath")" && touch "$filepath"
+            if [[ ! -z "$filepath" && ! "$filepath" =~ /$ ]]; then
+              mkdir -p "$(dirname "$filepath")" && touch "$filepath"
+            fi
           done
         name: Syncing global assets, without creating actual file content, but making files empty
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-      - run: find ./assets
       - run: node ops/deploy/deploy-documents.js
         name: Deploy documents
       - run: node ops/deploy/deploy-sections.js
