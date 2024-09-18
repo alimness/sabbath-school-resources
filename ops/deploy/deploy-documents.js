@@ -20,7 +20,7 @@ import {
     GLOBAL_ASSETS_DIR,
     ASSETS_URL,
     RESOURCE_PDF_FILENAME,
-    DOCUMENT_INFO_FILENAME, MEDIA_URL
+    DOCUMENT_INFO_FILENAME, MEDIA_URL, SEGMENT_FILENAME_EXTENSION
 } from "../helpers/constants.js"
 import { SEGMENT_DEFAULT_BLOCK_STYLES } from "../helpers/styles.js"
 
@@ -202,7 +202,7 @@ let processDocuments = async function (resourceType) {
             const segments = new fdir()
                 .withBasePath()
                 .withRelativePaths()
-                .glob(`*.md`)
+                .glob(`*${SEGMENT_FILENAME_EXTENSION}`)
                 .crawl(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}`)
                 .sync();
 
@@ -230,7 +230,11 @@ let processDocuments = async function (resourceType) {
                 }
 
                 await database.collection(FIREBASE_DATABASE_SEGMENTS).doc(segmentInfo.id).set(segmentInfo)
-                documentInfo.segments.push(segmentInfo)
+
+                // skipping hidden segments
+                if (!/^_/.test(segment)) {
+                    documentInfo.segments.push(segmentInfo)
+                }
                 fs.outputFileSync(`${API_DIST}/${segmentPathInfo.language}/${resourceType}/${segmentPathInfo.title}/${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}${segmentPathInfo.document}/${segmentPathInfo.segment}/index.json`, JSON.stringify(segmentInfo))
             }
 

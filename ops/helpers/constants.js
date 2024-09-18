@@ -106,6 +106,12 @@ export const FEED_SCOPES = {
     AUTHOR: "author",
 }
 
+export const REFERENCE_SCOPES = {
+    RESOURCE: "resource",
+    DOCUMENT: "document",
+    SEGMENT: "segment",
+}
+
 // Resource-level PDF
 export const RESOURCE_PDF_FILENAME = "pdf.yml"
 

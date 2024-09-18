@@ -126,12 +126,21 @@ let parseResourcePath = function (resourcePath) {
             return info
         }
 
+        if (matches[4] && !matches[5]) {
+            info.section = null
+            info.document = matches[4]
+        }
+
         if (matches[4] && matches[5] && !matches[6] && !(new RegExp(`${DOCUMENT_INFO_FILENAME}|${SEGMENT_FILENAME_EXTENSION}$`).test(matches[5]))) {
             info.section = null
             info.document = matches[4]
         }
 
         if (matches[4] && matches[5]) {
+            // info.section = null
+            // info.document = matches[4]
+            info.segment = matches[5]
+
             // Only section info
             // ex: en/devo/resource/section-name/section.yml
             if (new RegExp(`${SECTION_INFO_FILENAME}$`).test(matches[5])) {

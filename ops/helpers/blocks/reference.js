@@ -1,29 +1,40 @@
 import { parseResourcePath } from "../helpers.js"
 import { getResourceInfo } from "../../deploy/deploy-resources.js"
-import { getDocumentInfoYml } from "../../deploy/deploy-documents.js"
-import { RESOURCE_INFO_FILENAME, SOURCE_DIR, FEED_SCOPES } from "../constants.js"
+import { getDocumentInfoYml, getSegmentInfo } from "../../deploy/deploy-documents.js"
+import { RESOURCE_INFO_FILENAME, SOURCE_DIR, REFERENCE_SCOPES, SEGMENT_FILENAME_EXTENSION } from "../constants.js"
 
 let processReference = async function (block) {
     let referenceTargetPath = parseResourcePath(block.target)
-    let reference = { "scope": FEED_SCOPES.RESOURCE }
+    let reference = { "scope": REFERENCE_SCOPES.RESOURCE }
 
     if (!referenceTargetPath.language || !referenceTargetPath.type || !referenceTargetPath.title) {
         return false
     }
 
     if (referenceTargetPath.document) {
-        reference.scope = FEED_SCOPES.DOCUMENT
+        reference.scope = REFERENCE_SCOPES.DOCUMENT
+    }
+
+    if (referenceTargetPath.segment) {
+        reference.scope = REFERENCE_SCOPES.SEGMENT
     }
 
     try {
         const resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${RESOURCE_INFO_FILENAME}`)
 
-        if (reference.scope === FEED_SCOPES.DOCUMENT) {
+        if (reference.scope === REFERENCE_SCOPES.SEGMENT) {
+            const segmentInfo = await getSegmentInfo(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${referenceTargetPath.section ? referenceTargetPath.section + "/" : ""}${referenceTargetPath.document}/${referenceTargetPath.segment}${SEGMENT_FILENAME_EXTENSION}`)
+            reference.title = block.title || segmentInfo.title
+            reference.subtitle = block.subtitle || segmentInfo.subtitle || null
+            reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${referenceTargetPath.section ? referenceTargetPath.section + "-" : ""}${referenceTargetPath.document}/${referenceTargetPath.segment}`
+            reference.segment = segmentInfo
+
+        } else if (reference.scope === REFERENCE_SCOPES.DOCUMENT) {
             const documentInfo = await getDocumentInfoYml(`${SOURCE_DIR}/${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${referenceTargetPath.section ? referenceTargetPath.section + "/" : ""}${referenceTargetPath.document}/info.yml`)
 
             reference.title = block.title || documentInfo.title
             reference.subtitle = block.subtitle || documentInfo.subtitle || null
-            reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${referenceTargetPath.section ? referenceTargetPath.section + "-" : ""}/${referenceTargetPath.document.replace(/\*.md$/, "")}`
+            reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}/${referenceTargetPath.section ? referenceTargetPath.section + "-" : ""}${referenceTargetPath.document.replace(/\*.md$/, "")}`
             reference.document = documentInfo
         } else {
             reference.target = `${referenceTargetPath.language}/${referenceTargetPath.type}/${referenceTargetPath.title}`

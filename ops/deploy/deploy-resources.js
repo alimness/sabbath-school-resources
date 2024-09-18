@@ -1,8 +1,10 @@
 #!/usr/bin/env node
 "use strict"
 
+import crypto from "crypto"
 import yaml from "js-yaml"
 import fs from "fs-extra"
+import picomatch from "picomatch"
 import { fdir } from "fdir"
 import { database } from "../helpers/firebase.js"
 import { getDocumentInfoYml } from "./deploy-documents.js"
@@ -23,9 +25,8 @@ import {
     FEED_SCOPES,
     FEED_VIEWS,
     FEED_DIRECTION,
-    FIREBASE_DATABASE_RESOURCES, FIREBASE_DATABASE_LANGUAGES, API_URL, API_PREFIX, ASSETS_URL
+    FIREBASE_DATABASE_RESOURCES, FIREBASE_DATABASE_LANGUAGES, API_URL, API_PREFIX, ASSETS_URL, DOCUMENT_INFO_FILENAME
 } from "../helpers/constants.js"
-import crypto from "crypto"
 
 let getResourceInfo = async function (resource, depth = 0) {
     const resourceInfo = yaml.load(fs.readFileSync(resource, "utf8"));
@@ -94,8 +95,8 @@ let getResourceInfo = async function (resource, depth = 0) {
         .withBasePath()
         .withRelativePaths()
         .withMaxDepth(6)
-        .glob(`${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_CONTENT_DIRNAME}/**/info.yml`)
-        .crawl(`${SOURCE_DIR}/`)
+        .glob(`${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/*/**/${DOCUMENT_INFO_FILENAME}`)
+        .crawl(`${SOURCE_DIR}`)
         .sync();
 
     // If resource only contains one document, add documentId and documentIndex to resource level
@@ -227,7 +228,7 @@ let processResources = async function (resourceType) {
                 scope: g.scope || null,
                 resources: [],
                 resourceIds: g.resources || [],
-                view: g.view || FEED_VIEWS.TILE,
+                view: g.view || FEED_VIEWS.FOLIO,
                 recent: g.recent || null,
                 type: resourceType,
                 direction: g.direction || FEED_DIRECTION.HORIZONTAL,
@@ -242,7 +243,7 @@ let processResources = async function (resourceType) {
                 const resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${resource}`)
                 const resourcePathInfo = parseResourcePath(resource)
 
-                let groupByName = resourceFeed.groups.find(g => g.resourceIds.includes(resourceInfo.id))
+                let groupByName = resourceFeed.groups.find(g => g.resourceIds.some(i => picomatch(i)(resourceInfo.id) ))
                 let groupByAuthor = resourceFeed.groups.find(g => g.author === resourceInfo.author)
                 let groupByKind = resourceFeed.groups.find(g => g.kind === resourceInfo.kind)
                 let groupByType = resourceFeed.groups.find(g => g.scope === FEED_SCOPES.RESOURCE)
