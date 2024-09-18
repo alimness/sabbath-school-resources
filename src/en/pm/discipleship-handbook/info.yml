@@ -21,17 +21,3 @@ credits:
     value: Kenton Rogers
   - name: ISBN
     value: 978-0-8280-2834-9
-id: en-pm-discipleship-handbook
-index: en/pm/discipleship-handbook
-features: []
-covers:
-  landscape: >-
-    https://sabbath-school-resources-assets.adventech.io/en/pm/discipleship-handbook/assets/cover-landscape.png
-  square: >-
-    https://sabbath-school-resources-assets.adventech.io/en/pm/discipleship-handbook/assets/cover-square.png
-  portrait: >-
-    https://sabbath-school-resources-assets.adventech.io/en/pm/discipleship-handbook/assets/cover.png
-  splash: >-
-    https://sabbath-school-resources-assets.adventech.io/en/pm/discipleship-handbook/assets/splash.png
-name: discipleship-handbook
-type: pm
