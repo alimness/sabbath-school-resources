@@ -1,1 +1,10 @@
 title: "test"
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/cover.png
+  splash: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/splash.png
