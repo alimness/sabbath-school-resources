@@ -12,7 +12,7 @@ export const paragraph = {
 
         let r =  { id: block.id, type: block.type, markdown: text }
 
-        let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/content/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}/${resourcePath.segment}`
+        let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}/${resourcePath.segment}`
         if (bibleData && bibleData.bibleData.length) {
             r["markdown"] = bibleData.text
 
@@ -37,7 +37,7 @@ export const paragraph = {
                     }
                     let markdown = passageArray.verses[verse]
 
-                    item.items = await parseSegment(markdown, resourcePath, item.id)
+                    item.items = await parseSegment(markdown, resourcePath, item.id, "no-bible")
                     excerpt.items.push(item)
                     index++
 

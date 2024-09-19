@@ -1,5 +1,6 @@
 import crypto from "crypto"
 import { parseBlock } from "../blocks.js"
+import { paragraph } from "./paragraph.js"
 
 /**
  * List
@@ -22,11 +23,15 @@ export const list = {
                     let listItemId = crypto.createHash("sha256").update(
                         `${documentIndex}-${block.id}-${token.type}-${index}`
                     ).digest("hex")
+
+                    let p = await paragraph.process(token, resourcePath)
+
                     blockData.items.push({
                         "type": "list-item",
-                        "markdown": token.text.trim(),
+                        "markdown": p.markdown ?? token.text.trim(),
                         "index": index,
                         "id": listItemId,
+                        "data": p.data ?? null,
                     })
                 } else {
                     blockData.items.push(

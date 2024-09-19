@@ -25,7 +25,8 @@ import {
     FEED_SCOPES,
     FEED_VIEWS,
     FEED_DIRECTION,
-    FIREBASE_DATABASE_RESOURCES, FIREBASE_DATABASE_LANGUAGES, API_URL, API_PREFIX, ASSETS_URL, DOCUMENT_INFO_FILENAME
+    FIREBASE_DATABASE_RESOURCES, FIREBASE_DATABASE_LANGUAGES, API_URL, API_PREFIX, ASSETS_URL, DOCUMENT_INFO_FILENAME,
+    DEPLOY_ENV
 } from "../helpers/constants.js"
 
 let getResourceInfo = async function (resource, depth = 0) {
@@ -78,7 +79,7 @@ let getResourceInfo = async function (resource, depth = 0) {
         //  if !landscape cover landscape = cover
         //  if !square cover square = cover
         //  if !splash cover splash = cover
-    if (!resourceInfo.covers) {
+    if (DEPLOY_ENV === "local") {
         resourceInfo.covers = {
             landscape: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/cover-landscape.png`,
             square: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/cover-square.png`,
@@ -86,6 +87,11 @@ let getResourceInfo = async function (resource, depth = 0) {
             splash: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/splash.png`,
         }
     }
+
+    // "Backporting" square, splash and landscape if don't have it
+    resourceInfo.covers.square ??= resourceInfo.covers.portrait
+    resourceInfo.covers.splash ??= resourceInfo.covers.portrait
+    resourceInfo.covers.landscape ??= resourceInfo.covers.portrait
 
     if (!resourceInfo.covers.splash && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`)) {
         resourceInfo.covers.splash = `${ASSETS_URL}/assets/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`

@@ -41,7 +41,7 @@ export const blockquote = {
                     item.style.text = item.style.text || {}
                     item.style.text.align = "center"
                     if (i < items.length-1) {
-                        item.style.text.size = "xl"
+                        item.style.text.size = "lg"
                     }
                 }
             })

@@ -7,7 +7,6 @@ import { Validator } from "jsonschema"
 import { getResourceInfo } from "../deploy/deploy-resources.js"
 import { getSectionInfo } from "../deploy/deploy-sections.js"
 import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
-
 import {
     SOURCE_DIR,
     RESOURCE_TYPE,
@@ -21,7 +20,7 @@ import {
 let failMessages = []
 
 let fail = function (message) {
-    failMessages.push(message);
+    failMessages.push(message)
 }
 
 const resourceSchema = {
@@ -122,7 +121,8 @@ let validateResources = async function (resourceType) {
         .withMaxDepth(3)
         .glob(`**/${resourceType}/**/${RESOURCE_INFO_FILENAME}`)
         .crawl(SOURCE_DIR)
-        .sync();
+        .sync()
+
     for (let resource of resources) {
         let resourceInfo
         let resourcePathInfo
@@ -130,16 +130,16 @@ let validateResources = async function (resourceType) {
         try {
             resourcePathInfo = parseResourcePath(resource)
         } catch (e) {
-            e = e.toString().replace(/\n/g, "<br>");
-            fail(`Critical error. Can not parse the resource path: ${resource}. Error: \`${e}\``);
+            e = e.toString().replace(/\n/g, "<br>")
+            fail(`Critical error. Can not parse the resource path: ${resource}. Error: \`${e}\``)
             continue
         }
 
         try {
             resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${resource}`)
         } catch (e) {
-            e = e.toString().replace(/\n/g, "<br>");
-            fail(`Critical error. Can not parse the resource info: ${resource}. Error: \`${e}\``);
+            e = e.toString().replace(/\n/g, "<br>")
+            fail(`Critical error. Can not parse the resource info: ${resource}. Error: \`${e}\``)
             continue
         }
 
@@ -151,7 +151,7 @@ let validateResources = async function (resourceType) {
                 .withMaxDepth(15)
                 .glob(`${resourceContentPath}/**/${SECTION_INFO_FILENAME}`)
                 .crawl(".")
-                .sync();
+                .sync()
 
             for (let section of sections) {
                 const sectionInfo = await getSectionInfo(`${section}`)
@@ -162,12 +162,12 @@ let validateResources = async function (resourceType) {
                     validateResult.errors.map(e => {
                         errors += `${e.stack} <br/>`
                     })
-                    fail(`Critical error. Found section ${section} on ${resource} but validation failed - ${errors}`);
+                    fail(`Critical error. Found section ${section} on ${resource} but validation failed - ${errors}`)
                 }
             }
         } catch (e) {
-            e = e.toString().replace(/\n/g, "<br>");
-            fail(`Critical error. Error checking sections of ${resource}. Error: \`${e}\``);
+            e = e.toString().replace(/\n/g, "<br>")
+            fail(`Critical error. Error checking sections of ${resource}. Error: \`${e}\``)
             continue
         }
 
@@ -178,23 +178,23 @@ let validateResources = async function (resourceType) {
                 .withMaxDepth(4)
                 .glob(`**/info.yml`)
                 .crawl(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}`)
-                .sync();
+                .sync()
 
             if (resourceInfo.kind !== RESOURCE_KIND.EXTERNAL) {
                 if (!documents.length) {
-                    fail(`Critical error. Did not find any documents in ${resource}.`);
+                    fail(`Critical error. Did not find any documents in ${resource}.`)
                     continue
                 }
             }
         } catch (e) {
-            e = e.toString().replace(/\n/g, "<br>");
-            fail(`Critical error. Can not determine documents for ${resource}. Error: \`${e}\``);
+            e = e.toString().replace(/\n/g, "<br>")
+            fail(`Critical error. Can not determine documents for ${resource}. Error: \`${e}\``)
             continue
         }
 
         if (resourceInfo.kind === RESOURCE_KIND.EXTERNAL
             && !resourceInfo.externalURL) {
-            fail(`Critical error. External resource found without the external URL value: ${resource}`);
+            fail(`Critical error. External resource found without the external URL value: ${resource}`)
             continue
         }
 
@@ -205,32 +205,32 @@ let validateResources = async function (resourceType) {
                 validateResult.errors.map(e => {
                     errors += `${e.stack} <br/>`
                 })
-                fail(`Critical error. Resource validation error: on ${resource} - ${errors}`);
+                fail(`Critical error. Resource validation error: on ${resource} - ${errors}`)
                 continue
             }
         } catch (e) {
-            fail(`Critical error. Resource validation error: ${resource}, ${e}`);
+            fail(`Critical error. Resource validation error: ${resource}, ${e}`)
             continue
         }
 
         try {
             if (!resourceInfo && !resourceInfo.portrait && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.PORTRAIT}`)) {
-                fail(`Portrait cover not found for resource: ${resource}`);
+                fail(`Portrait cover not found for resource: ${resource}`)
             }
 
             if (!resourceInfo && !resourceInfo.landscape && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.LANDSCAPE}`)) {
-                fail(`Landscape cover not found for resource: ${resource}`);
+                fail(`Landscape cover not found for resource: ${resource}`)
             }
 
             if (!resourceInfo && !resourceInfo.square && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.SQUARE}`)) {
-                fail(`Square cover not found for resource: ${resource}`);
+                fail(`Square cover not found for resource: ${resource}`)
             }
 
             if (!resourceInfo && !resourceInfo.splash && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.SPLASH}`)) {
-                fail(`Splash cover not found for resource: ${resource}`);
+                fail(`Splash cover not found for resource: ${resource}`)
             }
         } catch (e) {
-            fail(`Critical error. Checking covers validation error: ${resource}, ${e}`);
+            fail(`Critical error. Checking covers validation error: ${resource}, ${e}`)
         }
     }
 }

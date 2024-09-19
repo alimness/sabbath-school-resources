@@ -110,7 +110,7 @@ let createResource = async function () {
         languageInfo.code = lang
         languageInfo.name = "Language name in English"
         languageInfo.native = "Language name in language"
-        languageInfo.kinds = Object.keys(RESOURCE_KIND).reduce((obj, key) => ({ ...obj, [RESOURCE_KIND[key]]: RESOURCE_KIND[key] }), {});
+        languageInfo.kinds = Object.keys(RESOURCE_KIND).reduce((obj, key) => ({ ...obj, [RESOURCE_KIND[key]]: RESOURCE_KIND[key] }), {})
         languageInfo.bible = languageInfo.bible || []
 
         if (fs.pathExistsSync(`${BIBLES_LOCATION}/${lang}`)) {
