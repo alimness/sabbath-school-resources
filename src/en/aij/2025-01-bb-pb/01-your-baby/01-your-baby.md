@@ -39,5 +39,3 @@ But perhaps most important, remember that you are not alone in this journey. Jes
 
 {"style":{"image":{"aspectRatio":1.778}}}
 ![It's never too early to learn about Jesus](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/01-your-baby/01-02.png)
-
- 

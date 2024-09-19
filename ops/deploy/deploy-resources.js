@@ -89,9 +89,11 @@ let getResourceInfo = async function (resource, depth = 0) {
     }
 
     // "Backporting" square, splash and landscape if don't have it
-    resourceInfo.covers.square ??= resourceInfo.covers.portrait
-    resourceInfo.covers.splash ??= resourceInfo.covers.portrait
-    resourceInfo.covers.landscape ??= resourceInfo.covers.portrait
+    if (resourceInfo.covers) {
+        if (!resourceInfo.covers.square) { resourceInfo.covers.square = resourceInfo.covers.portrait }
+        if (!resourceInfo.covers.splash) { resourceInfo.covers.splash = resourceInfo.covers.portrait }
+        if (!resourceInfo.covers.landscape) { resourceInfo.covers.landscape = resourceInfo.covers.portrait }
+    }
 
     if (!resourceInfo.covers.splash && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`)) {
         resourceInfo.covers.splash = `${ASSETS_URL}/assets/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`
