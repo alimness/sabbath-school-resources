@@ -1,7 +1,4 @@
 ---
-  - group: Featured
-    resources:
-        - en-devo-test
   - group: Devotionals
     scope: resource
     kind: devotionals
