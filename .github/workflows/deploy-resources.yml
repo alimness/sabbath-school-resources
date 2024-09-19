@@ -48,7 +48,7 @@ jobs:
       - run: node ops/deploy/deploy-documents.js
         name: Deploy documents
       - run: node ops/deploy/deploy-sections.js
-        name: Deploy categories
+        name: Deploy sections
       - run: node ops/deploy/deploy-categories.js
         name: Deploy categories
       - run: node ops/deploy/deploy-authors.js
