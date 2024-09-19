@@ -4,7 +4,7 @@ title: 'Lesson 3: Noah and the Animals'
 
 As you implement these program ideas, “make the learning fun. Pair it with your love” (Donna Habenicht, _How to Help Your Child Really Love Jesus_, p. 48).
 
-Note: Song numbers provided in these lessons correspond with the songbook _Little Voices Praise Him_. You can also find sheet music and audio recordings for most of these songs at [www.aliveinjesus.info](https://www.aliveinjesus.info).
+Note: Song numbers provided in these lessons correspond with the songbook _Little Voices Praise Him_. You can also find sheet music and audio recordings for most of these songs at [www.aliveinjesus.info](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/assets/61b8ec417a377356ab40a8a7ec242f625c89708d215ba3ed7b9a0f5b775a3b74).
 
 ---
 
