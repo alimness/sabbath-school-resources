@@ -1,7 +1,7 @@
 ---
   - group: Featured
     resources:
-        - en-devo-bhp-ellen-white-2022
+        - en-devo-test
   - group: Devotionals
     scope: resource
     kind: devotionals
