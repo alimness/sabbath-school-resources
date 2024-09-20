@@ -61,6 +61,7 @@ Say: **Today we will learn about Jesus, who cares for us more than anyone else d
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**“Woolly, Woolly Lamb”**_\
+\
 Woolly, woolly lamb,\
 Woolly, woolly lamb,\
 Jesus made you soft and woolly.\
