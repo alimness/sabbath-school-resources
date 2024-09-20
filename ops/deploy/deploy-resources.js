@@ -66,7 +66,7 @@ let getResourceInfo = async function (resource, depth = 0) {
             scope: FEED_SCOPES.RESOURCE,
             view: FEED_VIEWS.TILE,
             title: languageInfo.featuredResources.title,
-            resources: featuredResources
+            resources: featuredResources.filter(r => r)
         }]
     }
 
