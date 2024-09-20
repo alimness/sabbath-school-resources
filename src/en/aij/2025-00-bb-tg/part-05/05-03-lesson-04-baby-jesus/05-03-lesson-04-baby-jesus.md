@@ -33,6 +33,8 @@ Children sweetly singing.\
 \
 Say: **I’m so happy you are at Sabbath School today! Jesus is also happy that you are here. Let’s talk to Him now.**
 
+![en-aij-bb-04-01-sabbath-bells.mp3] Sabbath Bells
+
 **^[PRAY]({"style":{"text":{"color": "#a65726"}}})** Invite parents to hold the little hands of their baby together while you say a short prayer to invite Jesus to be with you in Sabbath School.\
 \
 Say: **Today we will learn about Baby Jesus and how much God loves you.**
@@ -48,6 +50,8 @@ The donkey's walking down street,\
 Clip-clop, clip-clop, clip-clop.\
 (repeat)
 
+![en-aij-bb-04-02-clip-clop.mp3] Clip-Clop
+
 **^[DOOR-KNOCK]({"style":{"text":{"color": "#a65726"}}})** Open the Bible, point, and say: **Mary and Joseph looked for a place to sleep in the town.** Knock, knock! Make a knocking sound and movement. **They knocked on the door. Is there room to sleep? Mary and Joseph found a place to sleep in a stable, where Baby Jesus was born.**
 
 **^[HAPPY DAY]({"style":{"text":{"color": "#a65726"}}})** Say: **Baby Jesus was a very special baby. Mary and Joseph were so happy when He was born. It was a very happy day!** Clap or distribute shakers, bells, rainbow sticks, or ribbon sticks for the babies to hold while singing.
@@ -61,6 +65,8 @@ It was a happy day, happy day, happy day.\
 When little Baby Jesus was born.\
 (repeat)
 
+![en-aij-bb-04-03-it-was-a-happy-day.mp3] It Was a Happy Day
+
 **^[LAMB]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** Baa-baa. Baa-baa. **When Baby Jesus was awake, He could listen to the sheep**. Show the babies a toy sheep (or picture of a sheep) or give each child a small toy sheep to hold.
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
@@ -71,6 +77,8 @@ Woolly, woolly lamb,\
 Jesus made you soft and woolly.\
 (repeat)
 
+![en-aij-bb-04-04-woolly-woolly-lamb.mp3] Woolly, Woolly Lamb
+
 **^[COW]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** Moo-moo. Moo-moo. **When Baby Jesus was awake, He could listen to the cows.** Show the babies a toy cow (or picture of a cow).
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
@@ -80,6 +88,8 @@ Jesus made the cows that sing moo,\
 Jesus made the cows,\
 I'm so glad.\
 (repeat)
+
+![en-aij-bb-04-05-jesus-made-the-cows.mp3] Jesus Made the Cows
 
 **^[CARE FOR THE BABY]({"style":{"text":{"color": "#a65726"}}})** Say: **It’s time for Baby Jesus to have a bath. Baby Jesus likes water. Mommy Mary takes good care of Baby Jesus.** Using a small container of water and a cloth, wash a toy baby doll. Then dry the doll.
 
@@ -94,6 +104,8 @@ Jesus was a little Baby just like me.\
 \
 Say: **It’s time for Baby Jesus to be wrapped in a blanket to get ready to sleep. Baby Jesus likes to sleep. Mommy Mary takes good care of Baby Jesus**. Using a baby wrap, gently wrap a toy baby doll.
 
+![en-aij-bb-04-06-baby-jesus-wash.mp3] Baby Jesus (verse 1: wash)
+
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**“Baby Jesus”**_ (verse 2: wrap).\
 \
@@ -104,6 +116,8 @@ Wrapping Baby Jesus.\
 Jesus was a little Baby just like me.\
 \
 Say: **Mommy Mary and Daddy Joseph loved Baby Jesus very much. They hugged Him to show Him they loved Him**. Pick up the wrapped toy doll and give it a hug.
+
+![en-aij-bb-04-07-baby-jesus-wrap.mp3] Baby Jesus (verse 2: wrap)
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**“Baby Jesus”**_ (verse 3: hug).\
@@ -116,6 +130,8 @@ Jesus was a little Baby just like me.\
 \
 Say: **It was nighttime. Shhhh . . . Everyone is sleeping. Ohhh . . . Look at the Baby. The Baby is sleeping. See Him sleep? Let’s sing softly.**
 
+![en-aij-bb-04-08-baby-jesus-hug.mp3]  Baby Jesus (verse 3: hug)
+
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**“Baby Jesus”**_ (verse 4: sleep).\
 \
@@ -127,6 +143,8 @@ Jesus was a little Baby just like me.\
 \
 Say: **Your mommy and daddy love you very much too. They care for you like Mommy Mary cared for Baby Jesus. Can you pretend that it’s time to go to sleep now, like Baby Jesus?** Add the names of the babies to the song as you sing.
 
+![en-aij-bb-04-09-baby-jesus-sleep.mp3]  Baby Jesus (verse 4: sleep)
+
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**“Baby Jesus”**_ (verse 5: you).\
 \
@@ -135,6 +153,8 @@ Goodnight, baby _______ (child’s name).\
 Time to sleep,\
 Goodnight, baby _______ (child’s name).\
 Jesus was a little Baby just like you.
+
+![en-aij-bb-04-10-baby-jesus-you.mp3]  Baby Jesus (verse 5: you)
 
 **^[FAMILY]({"style":{"text":{"color": "#a65726"}}})** Say: **Babies make families happy. Families love babies.**
 
@@ -147,6 +167,8 @@ With baby in the family, happy, happy home,\
 Happy, happy home.\
 (repeat)
 
+![en-aij-bb-04-11-with-jesus-in-the-family.mp3] With Jesus in the Family
+
 **^[SHEPHERDS AND ANGELS]({"style":{"text":{"color": "#a65726"}}})** Show the babies a toy sheep. Say: **When Baby Jesus was born, shepherds were watching their sheep. The shepherds saw a beautiful, bright star in the sky. The star was lots and lots of angels. The angels told the shepherds about Baby Jesus.**
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
@@ -157,6 +179,8 @@ Shine, shine, shine tonight,\
 Shine, shine, shine so bright,\
 Beautiful Christmas star.\
 (repeat)
+
+![en-aij-bb-04-12-christmas-star.mp3] Christmas Star
 
 **^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})** Say: **The shepherds loved Baby Jesus, and we love Jesus too. Let’s sing our memory verse song. “I . . . love you, . . . Lord”** (Psalm 18:1).
 
@@ -170,5 +194,7 @@ For Jesus, for Jesus.\
 Here is my money for Jesus,\
 I give my money to Him.\
 (repeat)
+
+![en-aij-bb-04-13-here-is-my-money.mp3] Here Is My Money
 
 **^[PRAY]({"style":{"text":{"color": "#a65726"}}})** Pray for the offering to be a blessing to God’s work. Pray also for the babies and parents in your class. Then transition to Parent Time. You will find weekly handouts at www.aliveinjesus.info.
