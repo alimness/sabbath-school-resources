@@ -46,14 +46,19 @@ God sees when I have fun.\
 \
 Say: **Jesus cares for us more than anyone else does.**
 
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-02-god-sees-me.mp3] God Sees me
+
 **^[WOOL]({"style":{"text":{"color": "#a65726"}}})** Say: Sheep and lambs are very soft. People make soft sweaters from the yarn. Can you feel the softness? Give your baby a toy sheep or soft yarn to touch.
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**“Woolly, Woolly Lamb”**_\
+\
 Woolly, woolly lamb,\
 Woolly, woolly lamb,\
 Jesus made you soft and woolly.\
 (repeat)
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-03-woolly-lamb.mp3] Woolly, woolly lamb
 
 **^[FOOD]({"style":{"text":{"color": "#a65726"}}})** Show your baby some green fabric or real grass. Say: Each day the shepherd takes the sheep to find good food. The sheep like the grass. (If you have a toddler, they can pretend to feed the sheep.)
 
@@ -67,6 +72,8 @@ He made food for me to eat.\
 \
 If your baby is older than 6 months, show them other foods that they may like to eat (vegetables and fruit). Say: Jesus made good food for us to eat.
 
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-04-jesus-good-shepherd-grass.mp3] Jesus Is the Good Shepherd (verse 1: grass).
+
 **^[WATER]({"style":{"text":{"color": "#a65726"}}})** Pour water from one cup to another. Your baby may like to touch the water. “Walk” a toy sheep to the “water.” You may like to give some water to your babies if they are older than 6 months. Say: **Sheep need to drink water. The shepherd takes them to a place with fresh water to drink. Let’s take our sheep to drink**. Toddlers can take the toy sheep to “drink” some water, or you can model this if your baby is younger.
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
@@ -79,6 +86,8 @@ He made water for me to drink.\
 \
 Say: **It’s important for us to drink clean water every day. Jesus made water for us to drink.**
 
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-05-jesus-good-shepherd-water.mp3] Jesus Is the Good Shepherd (verse 2: water).
+
 **^[HURT SHEEP]({"style":{"text":{"color": "#a65726"}}})** Say: **Sometimes the sheep get hurt. Ouch! They might get scratched or cut. The shepherd cleans and puts medicine on their wounds. The shepherd cares for them**. Rub a drop of baby lotion or baby oil into your baby’s hand or cover it with a bandage or Band-Aid. If you have a toddler, they can put the Band-Aid on the sheep.
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
@@ -90,6 +99,8 @@ Jesus is the Good Shepherd,\
 He always takes care of me.\
 \
 Say: **The shepherd takes care of his sheep. Jesus takes care of you and me.**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-06-jesus-good-shepherd-care.mp3] Jesus Is the Good Shepherd (verse 3: care).
 
 **^[SHEEPFOLD]({"style":{"text":{"color": "#a65726"}}})** Say: **The shepherd builds a sheepfold** (house) **for the sheep. The shepherd wants them to have a safe place. Let’s build a place for the sheep to sleep**. Pile little boxes or blocks in a square shape for a sheepfold.
 
@@ -104,6 +115,8 @@ Jesus is the Good Shepherd,\
 He loves all the little lambs,\
 Jesus is the Good Shepherd,\
 He loves me just as I am.
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-07-jesus-good-shepherd-lambs.mp3] Jesus Is the Good Shepherd (verse 4: lambs).
 
 **^[YOU ARE SPECIAL]({"style":{"text":{"color": "#a65726"}}})** Say: **Who is this?** Hold a mirror near your baby’s face. **You are special to Jesus.** Then show your baby a picture of Jesus. **God loves you and takes care of you. He made Mommy and Daddy to care for you the way the shepherds care for their sheep**.
 
@@ -120,6 +133,8 @@ As you sing, hold the mirror near your baby’s face and say their name as part 
 \
 Say: **Jesus loves you so much. He is our kind shepherd.**
 
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-08-who-am-i.mp3] Who Am I?
+
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**“The Shepherd Loves His Lambs.”**_\
 \
@@ -130,6 +145,8 @@ And Jesus loves me.
 (repeat)\
 \
 Show your baby the picture of Jesus and point to the lambs.
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-09-shepherd-loves-lambs.mp3] The Shepherd Loves His Lambs
 
 **^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})** Open your Bible, point, and say: **The Bible says, “The Lord is my shepherd” (Psalm 23:1).** Have parents hug their baby softly and say: **God takes care of you. Mommy and Daddy take care of you too**.
 
