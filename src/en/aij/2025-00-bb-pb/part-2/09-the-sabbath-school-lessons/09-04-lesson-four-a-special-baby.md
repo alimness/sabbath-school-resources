@@ -1,10 +1,10 @@
 ---
-title: 'Lesson 4: A Special Baby'
+title: 'Lesson 4: Baby Jesus'
 ---
 
-As you implement these program ideas, “make the learning fun. Pair it with your love” (Donna Habenicht, _How to Help Your Child Really Love Jesus_, p. 48).
+As your baby grows, he will understand that God loves him. Look for opportunities throughout your day to show and tell him that God loves him too. Sing to him, smile, use kind words, and talk about Baby Jesus.
 
-Note: Song numbers provided in these lessons correspond with the songbook _Little Voices Praise Him_. You can also find sheet music and audio recordings for most of these songs at [www.aliveinjesus.info](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/assets/61b8ec417a377356ab40a8a7ec242f625c89708d215ba3ed7b9a0f5b775a3b74).
+Listen to, and sing along with, the recordings of the songs in the program, which can be found at www.aliveinjesus.info. You may like to begin with just a few songs and props when your baby is very young and increase to more songs when he is older.
 
 ---
 
@@ -12,7 +12,7 @@ Note: Song numbers provided in these lessons correspond with the songbook _Littl
 
 This lesson focuses on God’s love and care for you and your family. Many things around us can also be teaching moments and objects. Take every opportunity to show personal attention and love to your baby, seeking to show Jesus’ love in ways your baby understands. Look for ways to use music, your smile, words, your baby’s name, songs, etc. and show interest in pictures and songs about Baby Jesus. Keep your eyes open and use all the opportunities to reinforce the lesson.
 
-**^[BIBLE STORY]({"style":{"text":{"color": "#a65726"}}})** **A Special Baby**
+**^[BIBLE STORY]({"style":{"text":{"color": "#a65726"}}})** **Baby Jesus**
 
 **^[EMPHASIS]({"style":{"text":{"color": "#a65726"}}})** **God loves you and your family loves you.**
 
@@ -26,113 +26,132 @@ The baby will:\
 **+ Feel** happy and loved by parents and Sabbath School teachers.\
 **+ Respond** by participating.
 
-**^[PRAY]({"style":{"text":{"color": "#a65726"}}})** Hold the little hands of your baby together while you say a short prayer to invite Jesus to be with you.
-
-**^[DONKEY TRAVEL]({"style":{"text":{"color": "#a65726"}}})** Say: **Mary and Joseph had to go to Bethlehem. Mary may have gone on a donkey. Hear the donkey walking** (walk the donkey around while singing).
-
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“Clip-Clop”**_ (no. 158)\
-Clip-clop, clip-clop, hear the donkey walk;\
-Clip-clop, clip-clop, hear the donkey walk;\
-The donkey’s walking down the street;\
-Clip-clop, clip-clop, clip-clop.
-
-**^[DOOR-KNOCK]({"style":{"text":{"color": "#a65726"}}})** Say: **Mary and Joseph are in the town looking for a place to sleep. Knock, knock! They are knocking on the door. Is there room to sleep?** (Make a knocking sound and movement.) **Mary and Joseph found a place in a stable where Baby Jesus was born**.
-
-**^[HAPPY DAY]({"style":{"text":{"color": "#a65726"}}})** Say: **Baby Jesus was a very special baby. Mary and Joseph were so happy when He was born. It was a very happy day** (give your baby a shaker or bell to use while you sing).
-
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“It Was a Happy Day”**_ (no. 148)\
-It was a happy day, happy day, happy day\
-When little Baby Jesus was born;\
-It was a happy day, happy day, happy day\
-When little Baby Jesus was born.
-
-**^[ANIMALS]({"style":{"text":{"color": "#a65726"}}})** LAMB. Say: **Bah-ah-ah-ah, Bah-ah-ah-ah. . . Listen!** (Make sound.) **When Baby Jesus was awake, He could listen to the sheep** (give a toy lamb to your baby while you sing).
-
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“Woolly, Woolly Lamb”**_ (no. 171)\
-Woolly, woolly lamb,\
-Woolly, woolly lamb,\
-Jesus made you soft and woolly;\
-Woolly, woolly lamb,\
-Woolly, woolly lamb,\
-Jesus made you soft and woolly.
-
-**^[COW]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** (Moo-moo!) **Baby Jesus could also hear the cows nearby** (show a cow or picture of a cow while singing).
-
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“Jesus Made the Sunshine”**_ (no. 168—adapted)\
-Jesus made the cows that sing “moo”;\
-Jesus made the cows, I’m so glad!
-
-**^[DONKEY]({"style":{"text":{"color": "#a65726"}}})** Say: **Clip-Clop, clip-clop. Baby Jesus could also hear the donkeys walking around** (walk a donkey or picture of a donkey around while singing).
-
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“Clip-Clop”**_ (no. 158)\
-Clip-clop, clip-clop, hear the donkey walk;\
-Clip-clop, clip-clop, hear the donkey walk;\
-The donkey’s walking down the street;\
-Clip-clop, clip-clop, clip-clop.
-
-**^[CARE FOR THE BABY]({"style":{"text":{"color": "#a65726"}}})** Say: **It’s time for His bath. Baby Jesus likes water. Mother takes good care of Baby Jesus** (do actions with toy baby doll).
-
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“Mary Loved Baby Jesus”**_ (no. 150—adapted)\
-(Wash the baby.)\
-Mary washed Baby Jesus, Baby Jesus, Baby Jesus.\
-Mary washed Baby Jesus, she loved Him very much.\
-(Wrap the baby.)\
-Mary wrapped Baby Jesus, Baby Jesus, Baby Jesus.\
-Mary wrapped Baby Jesus, she loved Him very much.
-
-**^[BABY SLEEPING]({"style":{"text":{"color": "#a65726"}}})** Say: **The night was quiet. Shhhh . . . Everyone is sleeping. Ohhh . . . look at the Baby. The Baby is sleeping. See Him sleep? Let’s sing softly** (sing either of the following songs while showing or holding a baby toy).\
+**^[PRAY]({"style":{"text":{"color": "#a65726"}}})** Hold the little hands of your baby together while you say a short prayer to invite Jesus to be with you today.\
 \
-_**“Mary Loved Baby Jesus”**_ (no. 150—adapted)\
-Mother rocked Baby Jesus, Baby Jesus, Baby Jesus.\
-Mother rocked Baby Jesus, she loved Him very much.\
-\
-Or\
-\
-_**“Silent Night”**_ (The Seventh-day Adventist Hymnal, no. 143)\
-Silent night, holy night,\
-All is calm, all is bright;\
-Round yon virgin mother and Child!\
-Holy Infant, so tender and mild,\
-Sleep in heavenly peace,\
-Sleep in heavenly peace.
+Say: **Let’s learn about Baby Jesus and how much God loves you.**
 
-**^[FAMILY]({"style":{"text":{"color": "#a65726"}}})** Say: **Babies make families happy. Families love babies** (clap while singing).
+**^[DONKEY TRAVEL]({"style":{"text":{"color": "#a65726"}}})** If possible, show your baby a Mary and Joseph doll or make a simple doll from a cardboard roll to represent a mother and father. Say: **Mary and Joseph had to go to Bethlehem. Mary had a baby in her tummy. Mary may have gone on a donkey. Hear the donkey walking**. Walk a toy donkey around while singing.
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“With Jesus in the Family”**_ (no. 273—adapted)\
-With baby in the family,\
-Happy, happy home,\
-Happy, happy home,\
+_**“Clip-Clop.”**_\
+\
+Clip-clop, clip-clop, hear the donkey walk.\
+Clip-clop, clip-clop, hear the donkey walk.\
+The donkey's walking down street,\
+Clip-clop, clip-clop, clip-clop.\
+(repeat)
+
+**^[DOOR-KNOCK]({"style":{"text":{"color": "#a65726"}}})** Say: **Mary and Joseph looked for a place to sleep in the town. Knock, knock!** Make a knocking sound and movement. **They knocked on the door. Is there room to sleep? Mary and Joseph found a place to sleep in a stable, where Baby Jesus was born**. Show your baby a baby doll to represent Baby Jesus.
+
+**^[HAPPY DAY]({"style":{"text":{"color": "#a65726"}}})** Say: **Baby Jesus was a very special baby. Mary and Joseph were so happy when He was born. It was a very happy day!** Clap or give your baby a shaker to hold while you sing.
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“It Was a Happy Day.”**_\
+\
+It was a happy day, happy day, happy day.\
+When little Baby Jesus was born.\
+It was a happy day, happy day, happy day.\
+When little Baby Jesus was born.\
+(repeat)
+
+**^[LAMB]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** Baa-baa. Baa-baa. **When Baby Jesus was awake, He could hear the sheep**. Show your baby a toy sheep (or picture of a sheep) and give it to them to hold as you sing.
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“Woolly, Woolly Lamb.”**_\
+\
+Woolly, woolly lamb,\
+Woolly, woolly lamb,\
+Jesus made you soft and woolly.\
+(repeat)
+
+**^[COW]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** Moo-moo. Moo-moo. **When Baby Jesus was awake, He could hear the cows**. Show your baby a toy cow (or picture of a cow) and give it to them to hold as you sing.
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“Jesus Made the Cows.”**_\
+\
+Jesus made the cows that sing moo,\
+Jesus made the cows,\
+I'm so glad.\
+(repeat)
+
+**^[CARE FOR THE BABY]({"style":{"text":{"color": "#a65726"}}})** Say: **It’s time for Baby Jesus to have a bath. Baby Jesus likes water. Mommy Mary takes good care of Baby Jesus.** Using a small container of water and a cloth, wash a toy baby doll. Then dry the doll.
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“Baby Jesus”**_ (verse 1: wash).\
+\
+Mommy Mary,\
+Washing Baby Jesus.\
+Mommy Mary,\
+Washing Baby Jesus.\
+Jesus was a little Baby just like me.\
+\
+Say: **It’s time for Baby Jesus to be wrapped in a blanket to get ready to sleep. Baby Jesus likes to sleep. Mommy Mary takes good care of Baby Jesus**. Using a baby wrap, gently wrap a toy baby doll.
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“Baby Jesus”**_ (verse 2: wrap).\
+\
+Mommy Mary,\
+Wrapping Baby Jesus.\
+Mommy Mary,\
+Wrapping Baby Jesus.\
+Jesus was a little Baby just like me.\
+\
+Say: **Mommy Mary and Daddy Joseph loved Baby Jesus very much. They hugged Him to show Him they loved Him**. Pick up the wrapped toy doll and give it a hug.
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“Baby Jesus”**_ (verse 3: hug).\
+\
+Mommy Mary,\
+Hugging Baby Jesus.\
+Mommy Mary,\
+Hugging Baby Jesus.\
+Jesus was a little Baby just like me.\
+\
+Say: **It was nighttime. Shhhh . . . Everyone is sleeping. Ohhh . . . Look at the Baby. The Baby is sleeping. See Him sleep? Let’s sing softly.**
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“Baby Jesus”**_ (verse 4: sleep).\
+\
+Time to sleep,\
+Goodnight, Baby Jesus.\
+Time to sleep,\
+Goodnight, Baby Jesus,\
+Jesus was a little Baby just like me.\
+\
+Say: **Your mommy and daddy love you very much too. We care for you just as Mommy Mary cared for Baby Jesus. You can go to sleep like Baby Jesus too.** (Parents, you may like to sing this song at other times before your baby goes to sleep.)
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“Baby Jesus”**_ (verse 5: you).\
+\
+Time to sleep,\
+Goodnight, baby _______ (child’s name).\
+Time to sleep,\
+Goodnight, baby _______ (child’s name).\
+Jesus was a little Baby just like you.
+
+**^[FAMILY]({"style":{"text":{"color": "#a65726"}}})** Say: **You make our family happy! We love you.**
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“With Baby in the Family.”**_ Clap while you sing.\
+\
+With baby in the family, happy, happy home.\
+Happy, happy home. Happy, happy home.\
+With baby in the family, happy, happy home,\
 Happy, happy home.\
-With baby in the family,\
-Happy, happy home,\
-Happy, happy home.
+(repeat)
 
-**^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})** Say: **Mary loved Baby Jesus, and we love Jesus too. Let’s say/sing our memory verse song: “I . . . love you, . . .Lord”** (Psalm 18:1).
+**^[SHEPHERDS AND ANGELS]({"style":{"text":{"color": "#a65726"}}})** Show your baby a toy sheep. Say: **When Baby Jesus was born, shepherds were watching their sheep. The shepherds saw a beautiful, bright star in the sky. The star was lots and lots of angels. The angels told the shepherds about Baby Jesus**.
 
-**^[SHEPHERDS]({"style":{"text":{"color": "#a65726"}}})** Say: **Shepherds were watching their sheep when Jesus was born** (hold a toy sheep while singing adapted words to “Angels Singing,” no. 140).\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“Christmas Star.”**_ Give each baby a star or angel prop to hold while they sing.\
 \
-Shepherds watched their sheep at night, their sheep at night, their sheep at night;\
-Shepherds watched their sheep at night when Jesus Christ was born.
+Shine, shine, star of light,\
+Shine, shine, shine tonight,\
+Shine, shine, shine so bright,\
+Beautiful Christmas star.\
+(repeat)
 
-**^[ANGELS]({"style":{"text":{"color": "#a65726"}}})** Say: **Shepherds hear angels sing. Let’s hear their song!** (Hold an angel or picture of an angel while singing softly adapted words to _**“Angels Singing,”**_ no. 140.)\
-\
-Angels bright were singing, were singing, were singing; Shepherds heard the angels sing, when Jesus Christ was born.
-
-**^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})** Say: **The shepherds loved Baby Jesus, and we love Jesus too. Let’s say/sing our memory verse song. “I . . . love you, . . . Lord”** (Psalm 18:1).
-
-**^[WISE MEN]({"style":{"text":{"color": "#a65726"}}})** Say: **Some special men come to see Jesus and bring their gifts** (hold a felt gift bag or box while singing _**“Here We Come to Bethlehem,”**_ no. 146).\
-Here the Wise Men bring their gifts;\
-Here the Wise Men bring their gifts,\
-Here the Wise Men bring their gifts, To give the Baby King.
-
-**^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})** Say: **The Wise Men loved Baby Jesus, and we love Jesus too. Let’s say/sing our memory verse song. “I . . . love you, . . . Lord”** (Psalm 18:1).
+**^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})** Open your Bible, point, and say: **The Bible says, “I . . . love you, . . . Lord” (Psalm 18:1). The shepherds loved Baby Jesus, and we love Jesus too**. Hug your baby and say a short prayer for God to lead and bless them as they grow.
 
 ---
 

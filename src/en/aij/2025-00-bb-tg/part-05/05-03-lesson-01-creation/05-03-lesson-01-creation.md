@@ -22,6 +22,8 @@ The baby will:\
 
 **^[WELCOME]({"style":{"text":{"color": "#a65726"}}})** Ring a bell to start. Then say: **The bell is ringing. It’s time to start. Welcome!** Smile at the children and parents. Give each baby/parent a small bell to hold.
 
+!a[en-aij-bb-01-01-sabbath-bells.mp3] Sabbath Bells
+
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**“Sabbath Bells.”**_ Parent/caregiver helps to make it sound.\
 \
@@ -39,6 +41,8 @@ Say: **Today we will learn about our wonderful God who made our world! He loves 
 
 **^[LIGHT]({"style":{"text":{"color": "#a65726"}}})** Show a light (flashlight, lamp, or other). Say: **Look at the light! God made the light. He made the day** (turn on the light/room light) **and He made the night** (turn off the light/room light) **because God loves us**. Repeat a few times (sing while moving the flashlight or turning it on and off).
 
+!a[en-aij-bb-01-02-god-made-light.mp3] God Made the Light, Wind, Water (verse 1: light)
+
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**God Made the Light, Wind, Water"**_ (verse 1: light).\
 \
@@ -47,7 +51,9 @@ God made the light, for you and me.\
 Who made the light you can see?\
 God made the light, for you and me.
 
-**^[WIND]({"style":{"text":{"color": "#a65726"}}})** Blow softly or use a fan to make a breeze. Say: **Can you feel the wind?** (Blow gently on your baby’s head.) **God made the wind and the air we can feel**.
+**^[WIND]({"style":{"text":{"color": "#a65726"}}})** Blow softly or use a fan to make a breeze. Say: **Can you feel the wind?** Blow gently and have every parent blow on their baby’s head. **God made the wind and the air we can feel**.
+
+!a[en-aij-bb-01-03-god-made-wind.mp3] God Made the Light, Wind, Water (verse 2: wind)
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**God Made the Light, Wind, Water"**_ (verse 2: wind).\
@@ -59,9 +65,11 @@ God made the wind, for you and me.
 
 **^[SKY]({"style":{"text":{"color": "#a65726"}}})** Say: **And God made the sky and the clouds up very high. Let’s reach up . . . for the sky!** (Stretch arms up.)
 
-**^[RHYME]({"style":{"text":{"color": "#a65726"}}})** Say: **God made the clouds up very high; He made the great big sky; He made the wind that blows and goes; He made the world He loves** (move arms up, circle for the sky, sway for the wind, roll arms and cross over heart).
+**^[RHYME]({"style":{"text":{"color": "#a65726"}}})** Say: **God made the clouds up very high. He made the great big sky!** Gently move your baby’s arms up in a circle for the sky. **He made the wind that blows and goes.** Sway their arms for the wind. **God made the world He loves.** Roll your arms and cross them over your heart.
 
 **^[WATER]({"style":{"text":{"color": "#a65726"}}})** Show water by moving and pouring water from a cup into another cup or container. Say: **Look! God also made the water. Hmmm! To drink, and wash, and play. Hmmm! Water is fun!** (Let your baby touch the water.) **God made the water.**
+
+!a[en-aij-bb-01-04-god-made-water.mp3] God Made the Light, Wind, Water (verse 3: water)
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**God Made the Light, Wind, Water"**_ (verse 3: water).\
@@ -73,6 +81,8 @@ God made the water, for you and me.
 
 **^[FLOWERS]({"style":{"text":{"color": "#a65726"}}})** Smell a flower and say: **God made the trees and soft grass. God made the pretty flowers, too** (touch a real flower, if possible, to hold when singing). **God saw that the world looks very nice with the pretty flowers. God is very happy!**
 
+!a[en-aij-bb-01-05-happy-floweres.mp3] “I Am Happy as Can Be” (flower)
+
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**“I Am Happy as Can Be”**_ (flower)\
 \
@@ -82,6 +92,8 @@ For pretty flow’rs that Jesus made for me.\
 (repeat)
 
 **^[STARS]({"style":{"text":{"color": "#a65726"}}})** Show a star. Say: **God made the little stars that “twinkle” in the sky when it’s nighttime** (turn off the lights and represent sleeping). **And God made the sun that we can see in the day** (turn on the light and make a big circle with your arms or show a felt sun). **And He made the round moon and the stars for the night** (represent sleeping again; give your baby a star on a stick).
+
+!a[en-aij-bb-01-06-happy-stars.mp3] “I Am Happy as Can Be” (star)
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**“I Am Happy as Can Be”**_ (star)\
@@ -95,8 +107,10 @@ For twinkling stars that Jesus made for me.\
 
 **^[FISH]({"style":{"text":{"color": "#a65726"}}})** Say: **And look! A fish!** (Make a felt fish mitten, or bring a bowl with live fish.) **God saw that everything was very good!** (Wear fish mittens, or move a fish or hands as fish while singing.)
 
+!a[en-aij-bb-01-07-fishy.mp3] Fishy, Fishy
+
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“Fishy, Fishy”**_ (no. 161)\
+_**“Fishy, Fishy”**_\
 \
 Fishy, fishy, swim in the water,\
 Fishy, fishy, swishy swish!\
@@ -104,6 +118,8 @@ God made fishy swim in the water,\
 Fishy, fishy, swishy swish!
 
 **^[ANIMALS]({"style":{"text":{"color": "#a65726"}}})** (Make the sound of an animal [dog or cat] or show different animals [bunnies, kittens, horses, etc.].) Say: **God made the animals, big animals . . . little animals. Let’s sing**:
+
+!a[en-aij-bb-01-08-animals.mp3] Animals
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**“Animals, Animals”**_ (no. 67)\
@@ -114,8 +130,8 @@ Great big animals, little tiny animals—\
 Animals, animals,\
 Jesus made the animals;\
 Here is an animal that I know . . .\
-(repeat)
-
+(repeat)\
+\
 At the end of the song, make a different animal sound and show another toy animal. Say: **What other animals did God make? God made the dog** (or another animal). **Can you hear the dog bark?** Woof, woof. **God made the dog. God made the animals because He loves us**.
 
 **^[SING AGAIN]({"style":{"text":{"color": "#a65726"}}})** _**“Animals, Animals”**_ Add other animals and sing the song again as time and attention allows.
@@ -124,8 +140,10 @@ At the end of the song, make a different animal sound and show another toy anima
 
 **^[ME]({"style":{"text":{"color": "#a65726"}}})** Have a mirror ready. Say: **God was happy with all the animals. But next He made the best thing yet. Look in the mirror. He made you! You are special! He made babies, and mommies and daddies. He made us to be His friends. And God was very happy.**
 
+!a[en-aij-bb-01-09-who-am-i.mp3] Who Am I?
+
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“Who Am I?”**_ (no. 117)\
+_**“Who Am I?”**_\
 \
 Who am I? Who am I?\
 Someone special to Jesus;\
@@ -134,6 +152,8 @@ I am special to Jesus.\
 (repeat)
 
 **^[SABBATH]({"style":{"text":{"color": "#a65726"}}})** Say: **God created our world. On the seventh day God gave us a special day: the Sabbath. The Sabbath is a day to learn that Mommy loves you, that Daddy loves you, and that God loves you. The Sabbath is my favorite day!** Sing with instruments or clap hands.
+
+!a[en-aij-bb-01-10-sabbath.mp3] The Sabbath
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**“The Sabbath”**_\
@@ -152,6 +172,8 @@ Thank You God for the Sabbath!\
 Say: **God made the Sabbath and everything in our world because He loves us, just as I love you, and as your mommy and daddy love you**. Invite parents to hug their baby.
 
 **^[OFFERING]({"style":{"text":{"color": "#a65726"}}})** Say: **We show God we love Him when we give Him our offering money** Pass an offering container around the group of parents. Children who are old enough to place money in the container can do so.
+
+!a[en-aij-bb-01-11-money.mp3] Here Is My Money
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**“Here Is My Money.”**_ Sing while the offering is collected.\

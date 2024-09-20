@@ -110,7 +110,7 @@ In the big, big flood.
 **^[CHICKENS]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** Cock-a-doodle-do! Cluck, cluck, cluck. **Look at the rooster and chicken going to the boat!** Show the babies two toy chickens (or a rooster and chicken) as you sing.
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“Into Noah’s Ark”**_ (verse 4: sheep).\
+_**“Into Noah’s Ark”**_ (verse 5: chickens).\
 \
 Chickens came clucking into Noah's ark,\
 Cluck, cluck, cluck. Cluck, cluck, cluck.\

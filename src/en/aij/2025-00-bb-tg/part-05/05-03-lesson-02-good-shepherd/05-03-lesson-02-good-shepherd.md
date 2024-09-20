@@ -56,7 +56,7 @@ Say: **Today we will learn about Jesus, who cares for us more than anyone else d
 **^[WOOL]({"style":{"text":{"color": "#a65726"}}})** Say: **Sheep and lambs are very soft. People make soft sweaters from the yarn. Can you feel the softness?** Have children touch a toy sheep or soft yarn.
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“Woolly, Woolly Lamb”**_ (no. 171—touch sheep’s wool)\
+_**“Woolly, Woolly Lamb”**_\
 Woolly, woolly lamb,\
 Woolly, woolly lamb,\
 Jesus made you soft and woolly.\
@@ -136,7 +136,7 @@ And Jesus loves me.
 
 **^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})** Open your Bible, point, and say: **The Bible says, “The Lord is my shepherd” (Psalm 23:1).** Have parents hug their baby softly and say: **God takes care of you. Mommy and Daddy take care of you too**.
 
-**^[THANK YOU]({"style":{"text":{"color": "#a65726"}}})** Say: Softly say the words **“Thank You, Jesus.”** Then say together with the parents, **“I love You, Jesus.”**
+**^[THANK YOU]({"style":{"text":{"color": "#a65726"}}})** Softly say the words **“Thank You, Jesus.”** Then say together with the parents, **“I love You, Jesus.”**
 
 **^[OFFERING]({"style":{"text":{"color": "#a65726"}}})** Say: **God loves you so much. We can show God we love Him too when we give Him our offering money**. Pass an offering container around the group of parents. Children who are old enough to place money in the container can do so.
 

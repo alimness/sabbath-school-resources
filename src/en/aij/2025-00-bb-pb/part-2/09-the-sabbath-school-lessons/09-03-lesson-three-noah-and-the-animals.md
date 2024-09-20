@@ -1,10 +1,10 @@
 ---
-title: 'Lesson 3: Noah and the Animals'
+title: 'Lesson 3: Noah'
 ---
 
-As you implement these program ideas, “make the learning fun. Pair it with your love” (Donna Habenicht, _How to Help Your Child Really Love Jesus_, p. 48).
+As your baby grows, she will learn that God takes care of her and the things He made. Look for opportunities throughout your day to show and tell her that God cares for her by noticing God’s beautiful nature and reminding your baby that God loves her.
 
-Note: Song numbers provided in these lessons correspond with the songbook _Little Voices Praise Him_. You can also find sheet music and audio recordings for most of these songs at [www.aliveinjesus.info](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/assets/61b8ec417a377356ab40a8a7ec242f625c89708d215ba3ed7b9a0f5b775a3b74).
+Listen to, and sing along with, the recordings of the songs in the program, which can be found at www.aliveinjesus.info. You may like to begin with just a few songs and props when your baby is very young and increase to more songs when she is older.
 
 ---
 
@@ -26,83 +26,109 @@ The baby will:\
 **+ Feel** happy and loved by parents and Sabbath School teachers.\
 **+ Respond** by participating.
 
-**^[PRAY]({"style":{"text":{"color": "#a65726"}}})** Hold the little hands of your baby together while you say a short prayer to invite Jesus to be with you.
+**^[PRAY]({"style":{"text":{"color": "#a65726"}}})** Hold the little hands of your baby together while you say a short prayer to invite Jesus to be with you today.\
+\
+Say: **God takes care of us all and the things He made.**
 
-**^[NOAH]({"style":{"text":{"color": "#a65726"}}})** Say: **Noah was a friend of God. Noah knew God took care of him** (show a “Noah” while singing). **The Bible says God told Noah: “I want you to build a big boat (ark)”** (show the open Bible and have the baby touch it softly).
+**^[NOAH]({"style":{"text":{"color": "#a65726"}}})** Show your baby a “Noah.” Say: **Noah was a friend of God. Noah knew God took care of him.** Open your Bible, point, and say: **The Bible says that God told Noah: “I want you to build a big boat** [ark].”
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
 _**“Noah Was a Friend of God”**_ (sing to the tune of “London Bridge Is Falling Down”)\
+\
 Noah was a friend of God,\
 Friend of God, friend of God.\
-Noah was a friend of God. He loved God.
+Noah was a friend of God. He loved God.\
+(repeat)
 
-**^[WOOD-BOAT BUILDING]({"style":{"text":{"color": "#a65726"}}})** Say: **Noah looked for trees and wood. Saw, saw, saw . . . he sawed the wood. Bam, bam, bam . . . he hammered the wood** (make noise with a toy saw on the blocks; bump two wooden blocks together softly, or use a toy hammer, while singing).
-
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“Noah Took a Hammer”**_ (no. 269)\
-Noah took a hammer, and Noah took a saw.\
-He made him a boat and knew that it would float.\
-Oh, Noah took a hammer, and Noah took a saw.
-
-**^[BOAT]({"style":{"text":{"color": "#a65726"}}})** Say: **Finally, the boat (ark) was ready. Look at this BIG boat! God cared for Noah. God would keep Noah and his family and the animals safe from lots of water** (show a toy boat to your baby and move it along the ground to show how it moves when it travels).
-
-**^[BIRDS]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** (Chirp, chirp.) **It’s a bird. Oh, two birds are flying up in the air. They are going to the boat (ark)**.
-
-**^[DOGS]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** (Woof, woof.) **Oh! A dog. Wait . . . two dogs! They are coming to the boat (ark)**. (Have your baby touch the animals while you sing.)
+**^[WOOD-BOAT BUILDING]({"style":{"text":{"color": "#a65726"}}})** Say: **Noah looked for trees and wood. Saw, saw, saw . . . he sawed the wood**. Make noise with a toy saw on blocks, bump two wooden blocks together softly. **Bam, bam, bam . . . he hammered the wood. Use a toy hammer on some wood**. (Be careful not to scare your baby with loud noises, so do these actions gently and softly to make your point.)
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“The ‘Doggies’ Came a-Walking”**_ (no. 59—adapted)\
-The doggies came a-walking, a-walking, a-walking.\
-The doggies came a-walking to the ark that Noah made.
-
-**^[CATS]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** (Meow, meow.) **A mommy cat and a daddy cat.**
-
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“The ‘Kitty Cats’ Came a-Meowing”**_ (no. 59—adapted)\
-The kitty cats came a-meowing, a-meowing, a-meowing.\
-The kitty cats came a-meowing to the ark that Noah made.
-
-**^[SHEEP]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** (Baa, baa.) **Many sheep are coming to the boat!**
-
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“The ‘Sheep’ Came a-Walking”**_ (no. 59—adapted)\
-The sheep came a-walking, a-walking, a-walking.\
-The sheep came a-walking to the ark that Noah made.
-
-**^[OTHER]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** (Cock-a-doodle-do! Cluck, cluck, cluck.) **Look at the hen and rooster going to the boat!**
-
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“The Animals Came a-Walking”**_ (no. 59—add verses using animals familiar to your baby)\
-The animals came a-walking, a-walking, a-walking.\
-The animals came a-walking to the ark that Noah made.\
+_**“Noah Took a Hammer”**_\
 \
-May also sing _**“Animals, Animals”**_ (no. 67)\
+Noah took a hammer,\
+And Noah took a saw.\
+He made him a boat\
+And knew that it would float.\
+Oh, Noah took a hammer,\
+And Noah took a saw.
+
+**^[BOAT]({"style":{"text":{"color": "#a65726"}}})** Say: **Finally the boat (ark) was ready. It was a BIG boat! God cared for Noah. God would keep Noah and his family and the animals safe from lots of water.** Show a toy boat to your baby. Float it on some water in a plastic container or bucket to show how it moves when it travels.
+
+**^[BIRDS]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** Chirp, chirp, flap, flap. **It’s a bird. Oh, two birds are flying up in the air. They are going to the boat** (ark). Show your baby two toy birds as you sing.
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“Into Noah’s Ark”**_ (verse 1: birds).\
 \
-_**“Animals, Animals”**_ (no. 67)\
-Animals, animals, Jesus made the animals—\
-Great big animals, little tiny animals— Animals, animals,\
-Jesus made the animals; Here is an animal that I know. . .
+Birds came flapping into Noah's ark,\
+Flap, flap, flap. Flap, flap, flap.\
+Birds came flapping into Noah's ark,\
+God would keep them safe\
+in the big, big flood.
 
-**^[BIBLE]({"style":{"text":{"color": "#a65726"}}})** Say: **God’s angels led the animals into the boat (ark). The Bible says God told Noah to go into the boat (ark) too** (show the Bible). **The Bible says God cared for them and cares for us**.
-
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“I Open My Bible Book and Read”**_ (no. 27—adapted)\
-I open my Bible book and read:\
-God cares, God cares.
-
-**^[RAIN]({"style":{"text":{"color": "#a65726"}}})** (May use or add other familiar situations: riding in a car or stroller, eating baby food, etc.) Say: **God takes care of us when it rains** [or other situations] (spray water in the air as “rain”). **God took care of Noah and the animals when it rained**.
-
-**^[MOM]({"style":{"text":{"color": "#a65726"}}})** Say: God gives us mommies and daddies to care for babies (hug or cuddle your baby).
+**^[DOGS]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** Woof, woof. **Oh! A dog. Wait . . . two dogs! They are coming to the boat (ark)**. Show your baby two toy dogs as you sing.
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“Jesus Cares for You”**_ (no. 92)\
+_**“Into Noah’s Ark”**_ (verse 2: dogs).\
+\
+Dogs came barking into Noah's ark,\
+Woof, woof, woof. Woof, woof, woof.\
+Dogs came walking into Noah's ark,\
+God would keep them safe\
+In the big, big flood.
+
+**^[CATS]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** Meow, meow. **It’s a mommy cat and a daddy cat.** Show your baby two toy cats as you sing.
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“Into Noah’s Ark”**_ (verse 3: cats).\
+\
+Cats came purring into Noah's ark,\
+Meow, meow, meow. Meow, meow, meow.\
+Cats came purring into Noah's ark,\
+God would keep them safe\
+In the big, big flood.
+
+**^[SHEEP]({"style":{"text":{"color": "#a65726"}}})** Say: **Listen!** Baa, baa. **Many sheep are coming to the boat!** Show your baby several toy sheep as you sing.
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“Into Noah’s Ark”**_ (verse 4: sheep).\
+\
+Sheep came bleating into Noah's ark,\
+Baa, baa, baa. Baa, baa, baa.\
+Sheep came bleating into Noah's ark,\
+God would keep them safe\
+In the big, big flood.
+
+**^[CHICKENS]({"style":{"text":{"color": "#a65726"}}})** **Listen!** Cock-a-doodle-do! Cluck, cluck, cluck. **Look at the rooster and chicken going to the boat!** Show your baby two toy chickens (or a rooster and chicken) as you sing.
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“Into Noah’s Ark”**_ (verse 5: chickens).\
+\
+Chickens came clucking into Noah's ark,\
+Cluck, cluck, cluck. Cluck, cluck, cluck.\
+Chickens came clucking, into Noah's ark,\
+God would keep them safe\
+In the big, big flood.
+
+**^[BIBLE]({"style":{"text":{"color": "#a65726"}}})** Say: **God’s angels led the animals into the boat (ark). God told Noah and his family to go into the boat (ark) too. The Bible says God loved Noah and his family and all the animals. God loves us too.** Then show your baby a Bible as you sing.
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“I Open My Bible Carefully.”**_\
+\
+I open my Bible carefully, and learn of Jesus' love.\
+I open my Bible carefully, and learn of Jesus' love.\
+(repeat)
+
+**^[RAIN]({"style":{"text":{"color": "#a65726"}}})** Say: **God takes care of us when it rains** (or other familiar situations, such as riding in a car or stroller). **God took care of Noah and the animals when it rained.** Gently spray water in the air as “rain.”
+
+**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
+_**“Jesus Cares for You.”**_\
+\
 Jesus cares for you,\
-Jesus cares for you.\
-He cares for you.
+Jesus cares for you,\
+He cares for you.\
+(repeat)
 
-**^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})** Say: **Let’s say our memory verse: “He cares for you”** (1 Peter 5:7). Say it to your baby and touch them gently when saying “you.”
-
-**^[THANK YOU]({"style":{"text":{"color": "#a65726"}}})** Say: **“Thank You, Jesus”** softly to your child and hold your baby’s hands together as in prayer while repeating the words.
+**^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})** Open your Bible, point, and say: **The Bible says, God gives us mommies and daddies and others to care for babies. It says “He cares for you”** (1 Peter 5:7). Hug your baby gently when saying “you.” Then say a short prayer for God to lead and bless them as they grow.
 
 ---
 
