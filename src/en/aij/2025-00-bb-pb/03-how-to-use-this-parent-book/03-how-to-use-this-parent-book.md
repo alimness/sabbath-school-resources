@@ -4,10 +4,12 @@ title: How to Use This Parent Book
 
 The main goal of this book is to provide you with practical ideas and resources so that you can easily create a program at home to grow your baby’s understanding and love for Jesus.
 
-This Parent Book is broken down into two main sections: Part 1—Growing a Love for Jesus at Home
+This Parent Book is broken down into two main sections:
 
-- Part 2—The Sabbath School Program
 - Part 1—Growing a Love for Jesus at Home
+- Part 2—The Sabbath School Program
+
+### Part 1—Growing a Love for Jesus at Home
 
 Throughout Part 1 this Parent Book shares core ideas that set the foundation for daily routines so that your baby can be introduced to Jesus and learn to know and love Him. The information presented in this section is from the Bible, the pen of Ellen G. White, and scientific research. Each section is designed to equip you with not only knowledge but practical steps and ideas to nurture your baby’s love for Jesus.
 

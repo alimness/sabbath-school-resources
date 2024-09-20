@@ -16,6 +16,8 @@ This resource equips Sabbath School teachers with a program and with information
 
 Weekly handouts for parents or caregivers on topics that help educate and inspire. After the 20-minute program for babies at the beginning of Sabbath School, parents can gather to spend 30 minutes discussing, sharing, and praying. Each parent will be given a weekly Parent Time handout, which can be discussed together as a group. Parents can take the handout home to further reflect, discuss with a spouse or friend, and keep these weekly handouts as a resource for future reference. The goal of these Parent Time handouts is to grow your personal relationship with God and equip you with additional ideas for raising your child.
 
+{#[en/aij/2025-01-bb-pth]}
+
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
 **^[EACH WEEK WILL LOOK LIKE THIS:]({"style":{"text":{"color": "#a65726"}}})**\
 \
