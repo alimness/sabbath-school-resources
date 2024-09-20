@@ -47,7 +47,7 @@ let transferDocumentAssets = async function () {
         .glob(`**/${getResourceTypesGlob()}/*/*/**/(*.{${OPS_SYNC_ASSET_EXTENSIONS.map(i => i.replace(/^\./, '')).join(",")}})`)
         .crawl(SOURCE_DIR)
         .sync();
-console.log(documentImageAssets)
+
     for (let documentImageAsset of documentImageAssets) {
         documentImageAsset = `${SOURCE_DIR}/${documentImageAsset}`
         let assetResourcePath = parseResourcePath(documentImageAsset)
@@ -55,7 +55,7 @@ console.log(documentImageAssets)
 
 
         let targetReplaceDir = documentImageAsset.indexOf(`${assetResourcePath.title}/assets`) > 0
-            ? `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/**`
+            ? `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/**/*`
             : `${SOURCE_DIR}/${assetResourcePath.language}/${assetResourcePath.type}/${assetResourcePath.title}/${assetResourcePath.section ? assetResourcePath.section + "/" : ""}${assetResourcePath.document}`
 
         let targetImage = path.basename(documentImageAsset)
