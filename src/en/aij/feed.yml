@@ -4,7 +4,6 @@
   - group: Babies
     resources:
       - en-aij-*-bb*
-      - en-devo-test
   - group: Beginners
     view: folio
     resources:
