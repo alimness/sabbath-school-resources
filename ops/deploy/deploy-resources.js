@@ -46,9 +46,9 @@ let getResourceInfo = async function (resource, depth = 0) {
     resourceInfo.primaryColor = resourceInfo.primaryColor ?? RESOURCE_COLOR_PRIMARY
     resourceInfo.primaryColorDark = resourceInfo.primaryColorDark ?? RESOURCE_COLOR_PRIMARY_DARK
 
-    if (!resourceInfo.subtitle || resourceInfo.subtitle.indexOf(languageInfo.kinds[resourceInfo.kind]) < 0) {
-        resourceInfo.subtitle = [languageInfo.kinds[resourceInfo.kind], resourceInfo.subtitle || undefined, ].filter(e => e !== undefined).join(" · ")
-    }
+    // if (!resourceInfo.subtitle || resourceInfo.subtitle.indexOf(languageInfo.kinds[resourceInfo.kind]) < 0) {
+    //     resourceInfo.subtitle = [languageInfo.kinds[resourceInfo.kind], resourceInfo.subtitle || undefined, ].filter(e => e !== undefined).join(" · ")
+    // }
 
     if (depth && resourceInfo.featuredResources) {
         let featuredResources = await Promise.all(resourceInfo.featuredResources.map(async featuredResource => {
@@ -79,7 +79,7 @@ let getResourceInfo = async function (resource, depth = 0) {
         //  if !landscape cover landscape = cover
         //  if !square cover square = cover
         //  if !splash cover splash = cover
-    if (DEPLOY_ENV === "local") {
+    if (DEPLOY_ENV === "local" && !resourceInfo.covers) {
         resourceInfo.covers = {
             landscape: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/cover-landscape.png`,
             square: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/cover-square.png`,
