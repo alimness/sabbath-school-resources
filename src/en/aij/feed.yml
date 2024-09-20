@@ -8,7 +8,7 @@
     view: folio
     resources:
       - en-aij-*-bg*
-  - group: Babies
+  - group: Other
     view: tile
     resources:
       - en-aij-aij-training-videos
