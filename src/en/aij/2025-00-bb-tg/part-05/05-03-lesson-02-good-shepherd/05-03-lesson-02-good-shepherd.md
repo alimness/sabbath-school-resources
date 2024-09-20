@@ -34,6 +34,8 @@ Children sweetly singing.\
 \
 Say: **I’m so happy you are at Sabbath School today! Jesus is also happy that you are here. Let’s talk to Him now.**
 
+!a[en-aij-bb-02-01-sabbath-bells.mp3] Sabbath Bells
+
 **^[PRAY]({"style":{"text":{"color": "#a65726"}}})** Invite parents to hold the little hands of their baby together while you say a short prayer to invite Jesus to be with you in Sabbath School.\
 
 **^[JESUS]({"style":{"text":{"color": "#a65726"}}})** Say: **Jesus is happy you came to Sabbath School today! He is your best friend. He loves you so much**. Give each baby a picture of Jesus to hold.
