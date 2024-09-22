@@ -42,6 +42,8 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - run: node ./ops/deploy/deploy-video.js -m "gen"
+        env:
+          DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
       - run: rm -r media && mkdir media
       - run: |
           test -f curl-config-0.txt && for file in curl-config-*.txt; do
@@ -54,7 +56,10 @@ jobs:
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
       - run: node ./ops/deploy/deploy-video.js
+        env:
+          DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
       - name: Deploying API
         run: aws s3 cp dist/ s3://sabbath-school`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress --recursive
         env:
