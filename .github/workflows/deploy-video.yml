@@ -5,6 +5,7 @@ on:
       - prod
       - stage
     paths:
+      - '.github/workflows/deploy-video.yml'
       - 'ops/deploy/deploy-video.js'
       - 'src/**/video.yml'
 jobs:
