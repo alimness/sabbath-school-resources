@@ -3,6 +3,7 @@ video:
     clips:
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2024-03-11.mp4
         target: en/devo/test/blocks
-        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2024-03-01.webp
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2024-03-11.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2024-03-12.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2024-03-12.webp
         target: en/devo/test/01
