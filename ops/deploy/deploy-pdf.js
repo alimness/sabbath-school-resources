@@ -1,8 +1,3 @@
-// aws s3 sync s3://sabbath-school-resources-media-stage.adventech.io media --region us-east-1 --no-progress --exclude "*" --include "pdf/*/ss/`node --input-type=module -e 'import {getCurrentQuarter} from "./ops/helpers/helpers.js"; console.log(getCurrentQuarter())'`*/*.keep" --include "pdf/*/ss/`node --input-type=module -e 'import {getCurrentQuarter} from "./ops/helpers/helpers.js"; console.log(getCurrentQuarter())'`*/*.keep" --include "pdf/*/aij/*/*.keep" --include "pdf/*/devo/*/*.keep" --include "pdf/*/pm/*/*.keep"
-// aws s3 sync media s3://sabbath-school-resources-media-stage.adventech.io --region us-east-1 --no-progress --acl "public-read"
-
-// TODO: Handle pdf-only quarterlies
-
 import process from "node:process"
 import yargs from "yargs"
 import yaml from "js-yaml"
@@ -15,7 +10,9 @@ import {
     MEDIA_URL,
     SOURCE_DIR,
     RESOURCE_TYPE,
-    RESOURCE_PDF_FILENAME, API_DIST
+    RESOURCE_PDF_FILENAME,
+    API_DIST,
+    DEPLOY_ENV
 } from "../helpers/constants.js"
 
 const args = yargs(hideBin(process.argv))
@@ -77,18 +74,20 @@ output = "media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.ti
 
             // Keep mode
             // Used in CI/CD to create and empty .keep file for the newly downloaded PDFs which file size is non zero
-            if (mode === "keep"
-                && fs.pathExistsSync(`media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/${pdf.id}${extname}`)) {
+            if (mode === "keep") {
+                pdf.src = `${MEDIA_URL}/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/${pdf.id}${extname}`
+                if (fs.pathExistsSync(`media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/${pdf.id}${extname}`)) {
+                    let stats = fs.statSync(`media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/${pdf.id}${extname}`)
+                    if (stats.size > 0) {
+                        fs.outputFileSync(`media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/.keep`, "")
+                    }
+                }
 
-                let stats = fs.statSync(`media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/${pdf.id}${extname}`)
-                if (stats.size > 0) {
-                    pdf.src = `${MEDIA_URL}/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/${pdf.id}${extname}`
-                    fs.outputFileSync(`media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/.keep`, "")
+                if (fs.pathExistsSync(`media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/.keep`)
+                    || DEPLOY_ENV === "local"
+                ) {
                     pdfsForAPI.push(pdf)
                 }
-            } else if (fs.pathExistsSync(`media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/.keep`)) {
-                pdf.src = `${MEDIA_URL}/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/${pdf.id}${extname}`
-                pdfsForAPI.push(pdf)
             }
         }
 

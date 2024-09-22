@@ -2,6 +2,8 @@
 title: Test document!
 ---
 
+{#[en/devo/test/blocks/_hidden.md]}
+
 ```=Additional comments
 
 {"style":{"image":{"aspectRatio":1.514}}}

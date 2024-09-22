@@ -235,6 +235,14 @@ let getPreviousQuarter = function () {
     return `${prevQuarter}`
 };
 
+let getNextQuarter = function () {
+    let d = new Date();
+    let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3));
+    let nextQuarter = (quarterIndex <= 3) ? d.getFullYear() + "-0" + (quarterIndex + 1) : (d.getFullYear() + 1) + "-01";
+
+    return `${nextQuarter}`
+};
+
 export {
     parseResourcePath,
     isMainModule,
@@ -252,4 +260,5 @@ export {
     getCurrentQuarterGlob,
     getPreviousQuarter,
     getCurrentQuarter,
+    getNextQuarter,
 }

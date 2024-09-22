@@ -7,12 +7,11 @@
   - group: Featured
     view: square
     resources:
-      - en-devo-test-2
-      - en-devo-test-single-2
+      - en-devo-test
   - group: Other
     view: folio
     resources:
-      - en-devo-test-external
+      - en-devo-bhp-2023
   - group: Devotionals
     view: banner
     resources:

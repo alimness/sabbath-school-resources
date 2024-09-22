@@ -1,14 +1,14 @@
-name: deploy-pdf
+name: deploy-video
 on:
   push:
     branches:
       - prod
       - stage
     paths:
-      - 'ops/deploy/deploy-pdf.js'
-      - 'src/**/pdf.yml'
+      - 'ops/deploy/deploy-video.js'
+      - 'src/**/video.yml'
 jobs:
-  deploy-pdf:
+  deploy-video:
     if: (github.repository == 'Adventech/sabbath-school-resources')
     runs-on: ubuntu-latest
     steps:
@@ -30,19 +30,20 @@ jobs:
         name: Installing dependencies
       - run: mkdir media
       - name: Sync from cloud
-        run: aws s3 sync s3://sabbath-school-resources-media`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io media --region us-east-1 --no-progress --exclude "*" --include "pdf/*/ss/`node --input-type=module -e 'import {getPreviousQuarter} from "./ops/helpers/helpers.js"; console.log(getPreviousQuarter())'`*/*.keep" --include "pdf/*/ss/`node --input-type=module -e 'import {getCurrentQuarter} from "./ops/helpers/helpers.js"; console.log(getCurrentQuarter())'`*/*.keep" --include "pdf/*/ss/`node --input-type=module -e 'import {getNextQuarter} from "./ops/helpers/helpers.js"; console.log(getNextQuarter())'`*/*.keep" --include "pdf/*/aij/*/*.keep" --include "pdf/*/devo/*/*.keep" --include "pdf/*/pm/*/*.keep"
+        run: aws s3 sync s3://sabbath-school-resources-media`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io media --region us-east-1 --no-progress --exclude "*" --include "video/*/ss/`node --input-type=module -e 'import {getPreviousQuarter} from "./ops/helpers/helpers.js"; console.log(getPreviousQuarter())'`*/*.keep" --include "video/*/ss/`node --input-type=module -e 'import {getCurrentQuarter} from "./ops/helpers/helpers.js"; console.log(getCurrentQuarter())'`*/*.keep" --include "video/*/ss/`node --input-type=module -e 'import {getNextQuarter} from "./ops/helpers/helpers.js"; console.log(getNextQuarter())'`*/*.keep" --include "video/*/aij/*/*.keep" --include "video/*/devo/*/*.keep" --include "video/*/pm/*/*.keep"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-      - run: node ./ops/deploy/deploy-pdf.js -m "gen"
-        env:
-          DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
-      - run: test -f curl-config.txt && curl -K curl-config.txt || true
-      - run: node ./ops/deploy/deploy-pdf.js -m "keep"
-        env:
-          DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
-      - name: Deploying to cloud
-        run: aws s3 sync ./media s3://sabbath-school-resources-media`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress
+      - run: node ./ops/deploy/deploy-video.js -m "gen"
+      - run: rm -r media && mkdir media
+      - run: |
+          test -f curl-config-0.txt && for file in curl-config-*.txt; do
+              echo "Processing $file..."
+              curl -K "$file"
+              node ./ops/deploy/deploy-video.js -m "keep"
+              aws s3 sync ./media s3://sabbath-school-resources-media`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress
+              rm -r media
+          done || true
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

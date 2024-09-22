@@ -47,7 +47,7 @@ export const storySlide = {
         }
     },
     process: async function (block, resourcePath) {
-        let items = await parseSegment(block.text, resourcePath, block.id)
+        let items = await parseSegment(block.text, resourcePath, block.id, "no-bible")
 
         const image = items.find(b => b.type === "image")
         const paragraph = items.find(b => b.type === "paragraph")

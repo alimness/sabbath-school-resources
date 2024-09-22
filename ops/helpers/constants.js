@@ -112,11 +112,12 @@ export const REFERENCE_SCOPES = {
     SEGMENT: "segment",
 }
 
-// Resource-level PDF
+// Resource-level auxiliary (pdf, video, audio)
 export const RESOURCE_PDF_FILENAME = "pdf.yml"
+export const RESOURCE_VIDEO_FILENAME = "video.yml"
 
 // API related
-export const API_PREFIX = "/api/v2/"
+export const API_PREFIX = "/api/v3/"
 export const API_DIST = `${DIST_DIR}/${API_PREFIX}`
 export const API_URL = function () { return `https://sabbath-school${DEPLOY_ENV === "prod" ? "" : "-stage" }.adventech.io` }
 export const ASSETS_URL = (DEPLOY_ENV === "local") ? `http://localhost:3002${API_PREFIX.replace(/\/$/, "")}` : `https://sabbath-school-resources-assets.adventech.io`
