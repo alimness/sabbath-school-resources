@@ -50,8 +50,6 @@ let videoAPI = async function (mode) {
         let audioSource = yaml.load(fs.readFileSync(`${SOURCE_DIR}/${audio}`, "utf-8"));
         let info = parseResourcePath(audio)
 
-        console.log(info)
-
         for (let artist of audioSource.audio) {
             let weekIterator = 1;
             for (let [i, track] of artist.tracks.entries()) {
