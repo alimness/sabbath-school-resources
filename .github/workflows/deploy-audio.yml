@@ -1,0 +1,64 @@
+name: deploy-audio
+on:
+  push:
+    branches:
+      - prod
+      - stage
+    paths:
+      - '.github/workflows/deploy-audio.yml'
+      - 'ops/deploy/deploy-audio.js'
+      - 'src/**/audio.yml'
+jobs:
+  deploy-audio:
+    if: (github.repository == 'Adventech/sabbath-school-resources')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        name: Fetch the repository files
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+      - uses: actions/setup-node@v3
+        name: Setup Node
+        with:
+          node-version: '16'
+      - name: Add token for private packages
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
+      - run: npm install --global yarn
+        name: Install Yarn
+      - run: yarn install
+        name: Installing dependencies
+      - run: gpg --quiet --batch --yes --decrypt --passphrase="$CREDS_PASSPHRASE" --output deploy-creds.tar deploy-creds.tar.gpg
+        env:
+          CREDS_PASSPHRASE: ${{ secrets.CREDS_PASSPHRASE }}
+        working-directory: ops/deploy/creds
+      - run: tar xvf deploy-creds.tar
+        working-directory: ops/deploy/creds
+      - run: mkdir media
+      - name: Sync from cloud
+        run: aws s3 sync s3://sabbath-school-resources-media`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io media --region us-east-1 --no-progress --exclude "*" --include "audio/*/ss/`node --input-type=module -e 'import {getPreviousQuarter} from "./ops/helpers/helpers.js"; console.log(getPreviousQuarter())'`*/*.keep" --include "audio/*/ss/`node --input-type=module -e 'import {getCurrentQuarter} from "./ops/helpers/helpers.js"; console.log(getCurrentQuarter())'`*/*.keep" --include "audio/*/ss/`node --input-type=module -e 'import {getNextQuarter} from "./ops/helpers/helpers.js"; console.log(getNextQuarter())'`*/*.keep" --include "audio/*/aij/*/*.keep" --include "audio/*/devo/*/*.keep" --include "audio/*/pm/*/*.keep"
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - run: node ./ops/deploy/deploy-audio.js -m "gen"
+        env:
+          DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
+      - run: rm -r media && mkdir media
+      - run: test -f curl-config.txt && curl -K curl-config.txt || true
+      - run: node ./ops/deploy/deploy-audio.js -m "keep"
+        env:
+          DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
+      - name: Deploying to cloud
+        run: aws s3 sync ./media s3://sabbath-school-resources-media`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - run: node ./ops/deploy/deploy-audio.js
+        env:
+          DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
+      - name: Deploying API
+        run: aws s3 cp dist/ s3://sabbath-school`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress --recursive
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

@@ -114,6 +114,7 @@ export const REFERENCE_SCOPES = {
 
 // Resource-level auxiliary (pdf, video, audio)
 export const RESOURCE_PDF_FILENAME = "pdf.yml"
+export const RESOURCE_AUDIO_FILENAME = "audio.yml"
 export const RESOURCE_VIDEO_FILENAME = "video.yml"
 
 // API related

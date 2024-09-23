@@ -12,8 +12,9 @@ import {
     RESOURCE_TYPE,
     RESOURCE_PDF_FILENAME,
     API_DIST,
-    DEPLOY_ENV
+    DEPLOY_ENV, DOCUMENT_INFO_FILENAME
 } from "../helpers/constants.js"
+import { getDocumentInfoYml, getSegmentInfo } from "./deploy-documents.js"
 
 const args = yargs(hideBin(process.argv))
     .option("mode", {
@@ -38,8 +39,6 @@ let deployPdf = async function () {
         .crawl(SOURCE_DIR)
         .sync()
 
-    console.log(pdfInfoFiles)
-
     for (let pdfInfoFile of pdfInfoFiles) {
         let pdfs = yaml.load(fs.readFileSync(`${SOURCE_DIR}/${pdfInfoFile}`, 'utf-8')),
             pdfPathInfo = parseResourcePath(pdfInfoFile)
@@ -56,6 +55,28 @@ let deployPdf = async function () {
             }
             pdf.id = crypto.createHash('sha256').update(pdf.target + pdf.src).digest('hex')
             pdf.targetIndex = pdf.target.replace(/\//g, '-')
+
+            if (!pdf.title) {
+                let pdfTargetInfo = parseResourcePath(`${SOURCE_DIR}/${pdf.target}`)
+
+                if (!pdfTargetInfo.document) {
+                    continue
+                }
+
+                if (pdfTargetInfo.segment) {
+                    let segment = await getSegmentInfo(`${SOURCE_DIR}/${pdf.target}`)
+                    if (!segment.title) { continue }
+                    pdf.title = segment.title
+                } else {
+                    if (fs.pathExistsSync(`${SOURCE_DIR}/${pdf.target}/${DOCUMENT_INFO_FILENAME}`)) {
+                        let document = await getDocumentInfoYml(`${SOURCE_DIR}/${pdf.target}/${DOCUMENT_INFO_FILENAME}`)
+                        if (!document.title) { continue }
+                        pdf.title = document.title
+                    } else {
+                        continue
+                    }
+                }
+            }
 
             let extname = ".pdf"
 
