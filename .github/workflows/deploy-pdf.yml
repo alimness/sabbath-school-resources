@@ -5,6 +5,7 @@ on:
       - prod
       - stage
     paths:
+      - '.github/workflows/deploy-pdf.yml'
       - 'ops/deploy/deploy-pdf.js'
       - 'src/**/pdf.yml'
 jobs:
@@ -28,6 +29,12 @@ jobs:
         name: Install Yarn
       - run: yarn install
         name: Installing dependencies
+      - run: gpg --quiet --batch --yes --decrypt --passphrase="$CREDS_PASSPHRASE" --output deploy-creds.tar deploy-creds.tar.gpg
+        env:
+          CREDS_PASSPHRASE: ${{ secrets.CREDS_PASSPHRASE }}
+        working-directory: ops/deploy/creds
+      - run: tar xvf deploy-creds.tar
+        working-directory: ops/deploy/creds
       - run: mkdir media
       - name: Sync from cloud
         run: aws s3 sync s3://sabbath-school-resources-media`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io media --region us-east-1 --no-progress --exclude "*" --include "pdf/*/ss/`node --input-type=module -e 'import {getPreviousQuarter} from "./ops/helpers/helpers.js"; console.log(getPreviousQuarter())'`*/*.keep" --include "pdf/*/ss/`node --input-type=module -e 'import {getCurrentQuarter} from "./ops/helpers/helpers.js"; console.log(getCurrentQuarter())'`*/*.keep" --include "pdf/*/ss/`node --input-type=module -e 'import {getNextQuarter} from "./ops/helpers/helpers.js"; console.log(getNextQuarter())'`*/*.keep" --include "pdf/*/aij/*/*.keep" --include "pdf/*/devo/*/*.keep" --include "pdf/*/pm/*/*.keep"
