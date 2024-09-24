@@ -1,0 +1,9 @@
+---
+  title: Sabbath School
+  groups:
+  - group: Adult
+    resources:
+      - en-ss-*
+  - group: InVerse
+    resources:
+      - en-ss-*-cq
