@@ -6,7 +6,7 @@ import yaml from "js-yaml"
 import fs from "fs-extra"
 import frontMatter from "front-matter"
 import { fdir } from "fdir"
-import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
+import { isMainModule, parseResourcePath, deepMerge } from "../helpers/helpers.js"
 import { parseSegment } from "../helpers/blocks.js"
 import { database } from "../helpers/firebase.js"
 import {
@@ -240,16 +240,16 @@ let processDocuments = async function (resourceType) {
 
             await database.collection(FIREBASE_DATABASE_DOCUMENTS).doc(documentInfo.id).set(documentInfo)
 
-            documentInfo.defaultStyles = SEGMENT_DEFAULT_BLOCK_STYLES
+            documentInfo.defaultStyles = deepMerge(SEGMENT_DEFAULT_BLOCK_STYLES, documentInfo.defaultStyles)
             fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${resourceType}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
         }
     }
 }
 
 if (isMainModule(import.meta)) {
-    await processDocuments(RESOURCE_TYPE.DEVO)
-    await processDocuments(RESOURCE_TYPE.PM)
-    await processDocuments(RESOURCE_TYPE.AIJ)
+    Object.keys(RESOURCE_TYPE).map(async (key) => {
+        await processDocuments(RESOURCE_TYPE[key])
+    })
 }
 
 export {

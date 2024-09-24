@@ -127,9 +127,9 @@ let processSections = async function (resourceType) {
 }
 
 if (isMainModule(import.meta)) {
-    await processSections(RESOURCE_TYPE.DEVO)
-    await processSections(RESOURCE_TYPE.PM)
-    await processSections(RESOURCE_TYPE.AIJ)
+    Object.keys(RESOURCE_TYPE).map(async (key) => {
+        await processSections(RESOURCE_TYPE[key])
+    })
 }
 
 export {

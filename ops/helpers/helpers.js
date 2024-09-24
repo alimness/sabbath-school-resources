@@ -243,6 +243,22 @@ let getNextQuarter = function () {
     return `${nextQuarter}`
 };
 
+let deepMerge = function (target, source) {
+    const output = { ...target }; // Create a shallow copy of the target object
+    if (typeof target === 'object' && typeof source === 'object') {
+        for (const key in source) {
+            if (source[key] instanceof Object && !(source[key] instanceof Array)) {
+                // If the property is an object, recursively merge it
+                output[key] = deepMerge(target[key] || {}, source[key]);
+            } else {
+                // Otherwise, just copy the value (arrays are shallowly copied)
+                output[key] = source[key];
+            }
+        }
+    }
+    return output;
+}
+
 export {
     parseResourcePath,
     isMainModule,
@@ -261,4 +277,5 @@ export {
     getPreviousQuarter,
     getCurrentQuarter,
     getNextQuarter,
+    deepMerge,
 }

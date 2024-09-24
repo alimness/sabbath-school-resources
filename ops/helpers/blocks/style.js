@@ -128,6 +128,18 @@ const styleSchema = {
                 "offset": { "type": "string", "enum": [ "sup", "sub", ] },
             },
         },
+
+        "title": {
+            "text": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                    "typeface": { "type": "string" },
+                    "color": { "type": "string" },
+                    "align": { "type": "string", "enum": [ "start", "end", "center", ] },
+                },
+            },
+        }
     }
 }
 

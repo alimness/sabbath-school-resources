@@ -81,11 +81,12 @@ let getResourceInfo = async function (resource, depth = 0) {
         //  if !splash cover splash = cover
     if (DEPLOY_ENV === "local" && !resourceInfo.covers) {
         resourceInfo.covers = {
-            landscape: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/cover-landscape.png`,
-            square: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/cover-square.png`,
-            portrait: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/cover.png`,
-            splash: `http://localhost:3002/api/v2/en/${resourceInfo.type}/${resourceInfo.name}/assets/splash.png`,
+            portrait: `http://localhost:3002${API_PREFIX}en/${resourceInfo.type}/${resourceInfo.name}/assets/cover.png`,
         }
+    }
+
+    if (!resourceInfo.covers.splash && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`)) {
+        resourceInfo.covers.splash = `${ASSETS_URL}/assets/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`
     }
 
     // "Backporting" square, splash and landscape if don't have it
@@ -93,10 +94,6 @@ let getResourceInfo = async function (resource, depth = 0) {
         resourceInfo.covers.square ??= resourceInfo.covers.portrait
         resourceInfo.covers.splash ??= resourceInfo.covers.portrait
         resourceInfo.covers.landscape ??= resourceInfo.covers.portrait
-    }
-
-    if (!resourceInfo.covers.splash && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`)) {
-        resourceInfo.covers.splash = `${ASSETS_URL}/assets/images/${resourceInfo.type}/${resourceInfo.name}/splash.png`
     }
 
     const documents = new fdir()
@@ -325,9 +322,9 @@ let processResources = async function (resourceType) {
 }
 
 if (isMainModule(import.meta)) {
-    await processResources(RESOURCE_TYPE.DEVO)
-    await processResources(RESOURCE_TYPE.PM)
-    await processResources(RESOURCE_TYPE.AIJ)
+    Object.keys(RESOURCE_TYPE).map(async (key) => {
+        await processResources(RESOURCE_TYPE[key])
+    })
 }
 
 export {

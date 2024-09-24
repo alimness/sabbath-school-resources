@@ -1,2 +1,20 @@
 title: Dream
 subtitle: Week 1
+titleBelowCover: true
+defaultStyles:
+  inline:
+    all:
+      text:
+        typeface: PTSans-Regular
+  nested:
+    all:
+      text:
+        typeface: PTSans-Regular
+  title:
+    text:
+      typeface: Astralaga Bold
+      color: "#c18967"
+      align: center
+  subtitle:
+    text:
+      align: center
