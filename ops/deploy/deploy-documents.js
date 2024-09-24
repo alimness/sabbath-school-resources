@@ -229,7 +229,7 @@ let processDocuments = async function (resourceType) {
                     }
                 }
 
-                await database.collection(FIREBASE_DATABASE_SEGMENTS).doc(segmentInfo.id).set(segmentInfo)
+                // await database.collection(FIREBASE_DATABASE_SEGMENTS).doc(segmentInfo.id).set(segmentInfo)
 
                 // skipping hidden segments
                 if (!/^_/.test(segment)) {
@@ -238,7 +238,7 @@ let processDocuments = async function (resourceType) {
                 fs.outputFileSync(`${API_DIST}/${segmentPathInfo.language}/${resourceType}/${segmentPathInfo.title}/${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}${segmentPathInfo.document}/${segmentPathInfo.segment}/index.json`, JSON.stringify(segmentInfo))
             }
 
-            await database.collection(FIREBASE_DATABASE_DOCUMENTS).doc(documentInfo.id).set(documentInfo)
+            // await database.collection(FIREBASE_DATABASE_DOCUMENTS).doc(documentInfo.id).set(documentInfo)
 
             documentInfo.defaultStyles = deepMerge(SEGMENT_DEFAULT_BLOCK_STYLES, documentInfo.defaultStyles)
             fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${resourceType}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
