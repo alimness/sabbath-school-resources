@@ -105,7 +105,7 @@ let transferDocumentAssets = async function () {
          */
 
         commands.push(`aws s3 cp ${documentImageAsset} ${remoteURL.replace(ASSETS_URL, REMOTE_ASSETS_URL)} --acl "public-read" --region us-east-1 --no-progress`)
-        commands.push(`sed -i -e 's/\\([ [(:]\\)${escapeAssetPathForSed(targetImage)}/\\1${escapeAssetPathForSed(remoteURL)}/g' ${targetReplaceDir}/*.md && rm ${documentImageAsset}`)
+        commands.push(`sed -i -e 's/\\([ [(:"]\\)${escapeAssetPathForSed(targetImage)}/\\1${escapeAssetPathForSed(remoteURL)}/g' ${targetReplaceDir}/*.md && rm ${documentImageAsset}`)
     }
 
     fs.writeFileSync(OPS_SYNC_TRANSFER_COMMANDS_FILENAME, `\n${commands.join("\n")}`)
