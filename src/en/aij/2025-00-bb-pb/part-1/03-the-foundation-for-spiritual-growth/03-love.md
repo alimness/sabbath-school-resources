@@ -1,6 +1,6 @@
 ---
 title: Love
-cover: plant.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-03-the-foundation-for-spiritual-growth/plant.png
 ---
 
 For your baby to grow spiritually, an important foundation needs to be laid in the early years. This foundation is made up of three important lessons for your baby.
@@ -29,6 +29,7 @@ Your investment of time through the simple interactions of life will set your ba
 > {"style":{"text":{"color":"#bf9648"}}}
 > “Parents, give your children love: love in babyhood, love in childhood, love in youth”
 
+{"style":{"image":{"aspectRatio":1.499}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/part-1-03-the-foundation-for-spiritual-growth/cover.png)
 
 {"style":{"text":{"color": "#a65726"}}}

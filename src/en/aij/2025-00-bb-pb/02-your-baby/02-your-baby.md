@@ -21,7 +21,8 @@ During the next three years your little one will experience the most startling a
 - As you hold your baby, their heart rate can change to match yours. ([See https://www.smallacorn.co.uk/funfactfriday/mothers-and-their-babies-can-sync-heartbeats-by-just-looking-at-each-other](https://www.smallacorn.co.uk/funfactfriday/mothers-and-their-babies-can-sync-heartbeats-by-just-looking-at-each-other.))
 - For the first few months your baby can distinguish between your language and a foreign one, before being wired to your own language by the end of their first year. In the second year they will recognize their own reflection in a mirror.
 
-![](molding.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/02-your-baby/molding.png)
 
 Yes, your baby is born ready to learn, and you will be their first teacher. Their health and development will be strongly influenced by good nutrition, a strong nurturing family, and rich, positive early learning experiences. This is what will shape and fuel their amazing brain and prepare it for their future learning. Research tells us that a child’s earliest years can have effects that last a lifetime. Beginning at birth, children develop brain connections through their everyday experiences. These healthy brain connections are built through happy and loving interactions with their parents and caregivers and by using their senses to interact with the world. A young child’s daily experiences determine which brain connections develop and which will last for a lifetime. The amount and quality of care, stimulation, and interaction they receive in their early years makes all the difference. In the first seven years of your child’s life, the brain learns almost all types of behaviors and skills that will help them to grow into adulthood, but the first three years are the most important.
 

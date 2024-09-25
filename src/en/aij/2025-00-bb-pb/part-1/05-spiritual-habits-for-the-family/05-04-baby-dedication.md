@@ -6,7 +6,8 @@ Mary and Joseph took Baby Jesus to the temple to present Him before the priest s
 
 The ceremony of presenting a baby before God at church has a profound spiritual meaning. As parents, you publicly commit to training your little one to follow biblical guidelines. Your local church family can commit to supporting you as parents of your little one and be part of the extended family who will collaborate with you in the spiritual education of your baby. The pastor will offer a dedication prayer for your baby and your extended family.
 
-![](baby-dedication.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/baby-dedication.png)
 
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
 **^[TIP:]({"style":{"text":{"color": "#a65726", "size": "lg"}}})**

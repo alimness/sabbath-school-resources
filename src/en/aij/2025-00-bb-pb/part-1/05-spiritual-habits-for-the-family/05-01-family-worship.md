@@ -1,6 +1,6 @@
 ---
 title: Spiritual Habits for the Family
-cover: pot.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/pot.png
 ---
 
 Though your baby cannot express it, they will be very aware of the time, energy, and joy that you invest in spiritual habits within your home. Family worship, baby worship, prayer, spiritual conversations, Sabbath activities, and engagement at church will all be gradually absorbed. Through these activities your baby will come to sense how important God is in your home and how important other things are: work, your spouse, extended family, money, screen time, friends, and entertainment. Prioritizing family worship, the Sabbath, and church will demonstrate just how important Jesus is to your family. In this chapter we will look at the importance of family worship, the Sabbath, and church and offer some general ideas for how you can make these areas joy-filled in your home. In the next chapter there will be more specific ideas in accordance with your baby’s developmental age.

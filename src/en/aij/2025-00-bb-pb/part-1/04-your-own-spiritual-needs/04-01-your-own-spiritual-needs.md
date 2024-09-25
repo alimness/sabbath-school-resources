@@ -1,6 +1,6 @@
 ---
 title: Your Own Spiritual Needs
-cover: spoon.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-04-your-own-spiritual-needs/spoon.png
 ---
 
 ### ^[Little Eyes Watching]({"style":{"text":{"color": "#a65726"}}})
