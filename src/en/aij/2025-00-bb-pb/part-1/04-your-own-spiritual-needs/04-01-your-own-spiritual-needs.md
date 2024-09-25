@@ -1,5 +1,6 @@
 ---
 title: Your Own Spiritual Needs
+cover: spoon.png
 ---
 
 ### ^[Little Eyes Watching]({"style":{"text":{"color": "#a65726"}}})

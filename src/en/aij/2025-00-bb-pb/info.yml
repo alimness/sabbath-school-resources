@@ -35,3 +35,20 @@ covers:
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/cover.png
   splash: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/splash.png
+defaultStyles:
+  inline:
+    all:
+      text:
+        typeface: PTSans-Regular
+  nested:
+    all:
+      text:
+        typeface: PTSans-Regular
+  title:
+    text:
+      typeface: Astralaga Bold
+      color: '#c18967'
+      align: center
+  subtitle:
+    text:
+      align: center
