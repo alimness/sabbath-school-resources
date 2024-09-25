@@ -1,6 +1,6 @@
 ---
 title: Routine and Tidiness in Your Home
-cover: tools.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/tools.png
 ---
 
 The physical atmosphere of your home gives a valuable message in your baby’s education. A bright, tidy, and clean home, along with work and recreational activities that bring peace and are in harmony with the Bible, generate an ideal environment for the development of your child.

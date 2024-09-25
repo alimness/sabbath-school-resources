@@ -72,7 +72,7 @@ Ideas for Growing in Jesus
 + **Share Bible books** with colorful illustrations and explain what each picture shows.
 + **Use Sabbath afternoons to enjoy nature**. Your baby can see the flowers, and animals, or collect rocks. Tell them that everything they see in nature is a gift from Jesus because He loves us.
 
-{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
 ^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\
 Lord, help (_your baby’s name_) to increase\
 “in wisdom and in stature, and in favor\

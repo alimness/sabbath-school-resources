@@ -89,7 +89,7 @@ In addition to what has been identified in earlier stages, your baby can now lea
 + **Take your baby to church**. Encourage reverence and worship even from this early age.
 + **Use Sabbath afternoons to enjoy nature**. Your baby can smell the flowers, touch pets, crawl on the grass, and taste fruit. Tell them that everything they see and touch in nature is a gift from Jesus, who made everything because He loves us.
 
-{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
 ^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\
 Help (_your baby’s name_) to trust in You with\
 all their heart, and lean not on (his/her) own\

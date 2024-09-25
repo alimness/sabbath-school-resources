@@ -34,7 +34,7 @@ Do all you can to make the Sabbath a delight—the best day of the week!
 \+ **Take turns writing to each person in your family** a thank-you note or an “I love you because . . .” note on a small card. Use them as place cards on the supper table where each person will sit on Friday evening (small children can dictate their message for an older person to write).\
 \+ **Establish some special family Sabbath traditions**, such as having a special meal on Friday evening to celebrate the beginning of Sabbath.
 
-{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
 ^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\
 Dear Father in heaven, I pray that You will help our\
 family to honor and cherish the Sabbath in a way that\

@@ -1,6 +1,6 @@
 ---
 title: The Sabbath School Curriculum at Home
-cover: plant.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-08-the-sabbath-school-curriculum-at-home/plant.png
 ---
 
 {"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}

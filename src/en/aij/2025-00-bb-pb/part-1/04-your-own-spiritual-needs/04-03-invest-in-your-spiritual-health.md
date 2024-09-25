@@ -36,7 +36,7 @@ The unrushed time you spend with the Father will be the source of love in your h
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
 ^[TIP]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}): Choose a specific chair or location in your home to spend time with Jesus. Consistently use this spot each day to show your child that Jesus is an important companion and that your relationship with Him is worth prioritizing each day.
 
-{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
 ^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\
 As a parent it is sometimes difficult to\
 find time to spend with God. Ask Him\

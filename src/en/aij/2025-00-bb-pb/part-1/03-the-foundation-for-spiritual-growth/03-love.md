@@ -32,7 +32,7 @@ Your investment of time through the simple interactions of life will set your ba
 {"style":{"image":{"aspectRatio":1.499}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/part-1-03-the-foundation-for-spiritual-growth/cover.png)
 
-{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
 ^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\
 Read through 1 Corinthians 13:4–7.\
 Pray through the attributes of love mentioned and ask\

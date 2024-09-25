@@ -81,7 +81,7 @@ To help your baby continue to feel God’s love for them, make family worship pa
 + **Read them age-appropriate Bible books with colorful illustrations**.
 + **Take your baby to church**.
 
-{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
 ^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\
 Father in heaven, may (_your baby’s name_) delight\
 in Your law, and learn to meditate on it day and\

@@ -12,7 +12,7 @@ As you love and care for your child in your home, may you know, “I can do all 
 
 May you faithfully sow the love and thoughts of Jesus into your little one’s life every day—and when that moment comes (far too soon), when they are all grown up and their wings are stretched and ready to fly, may you say, “Not unto us, O Lord, not unto us, but to Your name give glory, because of Your mercy, because of Your truth” (Psalm 115:1).
 
-{"style":{"text":{"color": "#bf9648", "align": "center", "typeface": "BaskervilleBT-BoldItalic"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+{"style":{"text":{"color": "#bf9648", "align": "center", "typeface": "BaskervilleBT-BoldItalic"},"wrapper": { "backgroundImage": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
 “The Lord bless you and keep you;\
 The Lord make His face shine upon you, And be gracious to you;\
 The Lord lift up His countenance upon you, And give you peace”.\

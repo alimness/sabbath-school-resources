@@ -71,7 +71,7 @@ To help your baby begin to feel God’s love through your love for them, and to 
 + **Say grace before meals**, thanking God for your food.
 + **Show pictures of Jesus to your baby**.
 
-{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
 ^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\
 May (_your baby’s name_) “grow in the grace and\
 knowledge of our Lord and Savior Jesus Christ”\

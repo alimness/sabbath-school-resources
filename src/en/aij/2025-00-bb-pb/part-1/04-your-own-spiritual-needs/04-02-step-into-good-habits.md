@@ -16,7 +16,7 @@ Psalm 34:14 says, “Depart from evil and do good; seek peace and pursue it.” 
 - ^[STEP 7]({"style":{"text":{"color": "#a65726", "typeface": "PTSans-Bold"}}}): **Repeat the new habit over and over** (Deuteronomy 6; Mark 1:35; Luke 4:42; 5:16).
 - ^[STEP 8]({"style":{"text":{"color": "#a65726", "typeface": "PTSans-Bold"}}}): **Changing a harmful habit for a beneficial one** will set you on a path of other positive habits that can reach other people beyond the family circle (Romans 8:37).
 
-{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
 ^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\
 Lord, help me to “get rid of all bitterness, rage,\
 anger, harsh words, and slander, as well as all\

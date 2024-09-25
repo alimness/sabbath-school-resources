@@ -27,7 +27,7 @@ In the next chapter you will find age-appropriate ideas that you may like to imp
 \
 **^[Prayer]({"style":{"text":{"color": "#bf9648"}}})**: Since your baby has a very short attention span, it’s important for prayers to be short and to the point when you are praying with your child. Avoid repetition and meaningless words. Try to express to God what you want to say in three or four spontaneous and simple phrases. Pray as Jesus taught us to pray, addressing the Father in the name of Jesus.
 
-{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
 ^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\
 Deuteronomy 6:7–9 says,\
 “You shall teach them diligently to your children, and shall talk of them when you sit\
