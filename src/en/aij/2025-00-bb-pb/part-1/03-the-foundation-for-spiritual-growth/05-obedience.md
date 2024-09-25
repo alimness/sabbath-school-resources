@@ -16,19 +16,19 @@ As your baby grows and their world enlarges, you will come to know which of thei
 As your baby becomes a toddler and grows older, use the principles of natural consequence rather than punishment. Let them know that their choice has invited the consequence, and then faithfully follow through with the consequences that you have explained to them.
 
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
-**^[TIP]({"style":{"text":{"color": "#a65726"}}})**: Your baby wants to touch a pot with hot soup in it. You tell them not to, because it’s hot. They reach up to touch it, and you let them experience the heat, rather than pulling their hand away.
+^[TIP]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}): Your baby wants to touch a pot with hot soup in it. You tell them not to, because it’s hot. They reach up to touch it, and you let them experience the heat, rather than pulling their hand away.
 
 Although we don’t like to see our children in pain or danger, when the risk is not great, it is helpful for them to learn for themselves the natural consequences of their disobedience. Many times this teaches them more than our warning does.
 
-#### ^[Inspiration tells me ...]({"style":{"text":{"color": "#a65726"}}})
+{"style":{"text":{"color":"#a65726", "typeface": "PTSans-Bold"}}}
+INSPIRATION TELLS ME . . .
 
 > <cite>Ephesians 6:1–3</cite>
-> “Children, obey your parents in the Lord, for this is right. ‘Honor your father and mother,’ which is the first commandment with promise: ‘that it may be well with you and you may live long on the earth’ ”
+> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“Children, obey your parents in the Lord, for this is right. ‘Honor your father and mother,’ which is the first commandment with promise: ‘that it may be well with you and you may live long on the earth’ ”
 
 > <cite>Ellen G. White, Testimonies for the Church, vol. 4, p. 313</cite>
-> “Many neglect their duty during the first years of their children’s lives, think- ing that when they get older they will then be very careful to repress wrong and educate them in the right. But the very time for them to do this work is when the children are babes in their arms”
+> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“Many neglect their duty during the first years of their children’s lives, think- ing that when they get older they will then be very careful to repress wrong and educate them in the right. But the very time for them to do this work is when the children are babes in their arms”
 
 > <cite>Ellen G. White, Counsels to Parents, Teachers, and Students, p. 111</cite>
-> “Never should they [the children] be allowed to show their parents disrespect.
->
+> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“Never should they [the children] be allowed to show their parents disrespect.\
 > Self-will should never be permitted to go unrebuked. The future well-being of the child requires kindly, loving, but firm discipline”

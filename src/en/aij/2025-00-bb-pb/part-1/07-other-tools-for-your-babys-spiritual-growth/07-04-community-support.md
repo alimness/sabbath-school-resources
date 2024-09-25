@@ -9,7 +9,7 @@ You might be surprised that many other parents have similar thoughts to these. A
 A support group can invite both experienced parents and new parents to share with each other and offer advice in various ways.
 
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
-**^[TIP]({"style":{"text":{"color": "#a65726"}}})**: Here are some support group ideas:
+^[TIP]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}): ^[Here are some support group ideas:]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})
 \
 \
 **Study together and discuss a book**—it can be The Adventist Home; Child Guidance; Counsels to Parents, Teachers, and Students, by Ellen White, or How to Help Your Child to Really Love Jesus, by Donna J. Habenicht. In these sessions you can read one chapter and share how you apply it at home.\

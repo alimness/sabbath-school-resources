@@ -10,6 +10,7 @@ _The development stages are taken from the parameters of the American Psychologi
 {"style": {"text": {"color": "#bf9648"}}}
 Babies often have these characteristics during their first 9–12 months of life:
 
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 **Physical and Motor Skills**
 
 + They can sit without help.
@@ -17,6 +18,7 @@ Babies often have these characteristics during their first 9–12 months of life
 + They walk with help.
 + They may stand by themselves and even walk a few steps.
 
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 **Learning, Reasoning, and Problem-solving**
 
 + They explore objects: kick them, shake them, and throw them.
@@ -30,6 +32,7 @@ Babies often have these characteristics during their first 9–12 months of life
 + They touch things and people with their index finger.
 + They follow simple instructions: “Take the toy.” “Sit down.”
 
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 **Speech, Communication, and Music**
 
 + They understand when asked to do something simple.
@@ -38,6 +41,7 @@ Babies often have these characteristics during their first 9–12 months of life
 + They say “mama” and “dada.”
 + They try to imitate the words they hear.
 
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 **Social and Emotional**
 
 + They are shy with strangers.
@@ -49,7 +53,8 @@ Babies often have these characteristics during their first 9–12 months of life
 + They raise an arm or a leg to help get dressed.
 + They play hide-and- seek and high-five.
 
-##### ^[Character Development Ideas]({"style": {"text": {"color": "#a65726"}}})
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+Character Development Ideas
 
 + **Talk, read, sing, and play together every day**.
 + **Give your baby time to feel comfortable with strangers**. If appropriate for your culture, don’t force them to be with strangers or engage with them if they are not comfortable doing so. Put their emotional needs before the needs of the unfamiliar adult.
@@ -68,7 +73,8 @@ Babies often have these characteristics during their first 9–12 months of life
 + **It can be helpful to limit the number of toys your child can play with each week**. Try offering them a few toys rather than everything they own. Put the rest away. They will play with a few toys in a more focused way, as they will be less distracted, and they can learn to put their own toys away more easily when they are a little older. Plus, it will make tidying up even easier for you.
 + **Try to always be consistent with your baby**, with yourself, and with the rest of your family.
 
-##### ^[Ideas for Growing in Jesus]({"style": {"text": {"color": "#a65726"}}})
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+Ideas for Growing in Jesus
 
 In addition to what has been identified in earlier stages, your baby can now learn to pray when waking up, eating, and going to sleep.
 
@@ -83,7 +89,11 @@ In addition to what has been identified in earlier stages, your baby can now lea
 + **Take your baby to church**. Encourage reverence and worship even from this early age.
 + **Use Sabbath afternoons to enjoy nature**. Your baby can smell the flowers, touch pets, crawl on the grass, and taste fruit. Tell them that everything they see and touch in nature is a gift from Jesus, who made everything because He loves us.
 
-#### ^[Prayer Prompt]({"style":{"text":{"color": "#a65726", "align": "center"}}})
-
-{"style":{"text":{"color": "#a65726", "align": "center"}}}
-Help (_your baby’s name_) to trust in You with all their heart, and lean not on (his/her) own understanding. I pray that in all (your baby’s name’s) ways (he/she) will acknowledge You and allow You to direct (his/her) paths (see Proverbs 3:5, 6).
+{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\
+Help (_your baby’s name_) to trust in You with\
+all their heart, and lean not on (his/her) own\
+understanding. I pray that in all (your baby’s\
+name’s) ways (he/she) will acknowledge You and\
+allow You to direct (his/her) paths\
+(see Proverbs 3:5, 6).

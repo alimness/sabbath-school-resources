@@ -1,5 +1,6 @@
 ---
 title: Music
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/cover.png
 ---
 
 + Studies have shown that premature babies gain weight more easily when listening to classical music in the intensive-care unit, which contributes to them being discharged faster and having greater chances of survival (Lubetzky, Memouni, et al., 2010).
@@ -9,21 +10,32 @@ title: Music
 
 Music is another very effective tool that can be used in the home to enhance the spiritual, emotional, and intellectual well-being of your baby.
 
-_**The most important benefits that music brings to your little one are the following**_:
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
+The most important benefits that music brings to your little one are the following:
 
-##### ^[Security]({"style":{"text":{"color": "#a65726"}}})
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+Security
+
 It develops in them a sense of emotional security and trust so they can feel understood by sharing their songs and being immersed in a spirit of cooperation and help.
 
-##### ^[Learning]({"style":{"text":{"color": "#a65726"}}})
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+Learning
+
 Your baby’s literacy stage is more stimulated with music. Children’s songs with rhymed and repetitive syllables, accompanied by gestures, encourage your baby to sing and that help to improve their speech and comprehension of words.
 
-##### ^[Concentration]({"style":{"text":{"color": "#a65726"}}})
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+Concentration
+
 Through music your child will develop and improve their learning and concentration abilities. By persisting in the use of music, they will develop their mathematical thinking and their ability to learn foreign languages in the future.
 
-##### ^[Body expression]({"style":{"text":{"color": "#a65726"}}})
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+Body expression
+
 Through the rhythms of different pieces of music, your baby’s body expressions are stimulated, enhancing the rhythmic control of their body. It also improves their coordination when they respond with a range or sequence of actions (Provasi, Anderson, and Barbu-Roth, 2014).
 
-##### ^[Spiritual and character development]({"style":{"text":{"color": "#a65726"}}})
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+Spiritual and character development
+
 Music has the power to awaken in your baby sympathy, to banish the gloom, and to promote effort and courage (Ellen G. White, Education, p. 167).
 
 Generally, the first musical manifestation that your child perceives is the melodies you sing when you want to put them to sleep or comfort them. Sing to your child regularly!
@@ -32,10 +44,11 @@ Keep in mind that music, a mixture of sounds and silence that harmonically merge
 
 You have probably seen that children are very happy when they jump, move, clap their hands, and sing with someone they love or trust. Music delights, entertains, and contributes to modeling in children their mental, emotional, social, and physical development. It also gives them the enthusiasm and skills needed to learn on their own (Campbell, 2002).
 
-#### ^[Inspiration tells me ...]({"style":{"text":{"color": "#a65726"}}})
+{"style":{"text":{"color":"#a65726", "typeface": "PTSans-Bold"}}}
+INSPIRATION TELLS ME . . .
 
 > <cite>Psalm 57:7</cite>
-> “My heart is steadfast, O God, my heart is steadfast; I will sing and give praise”.
+> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“My heart is steadfast, O God, my heart is steadfast; I will sing and give praise”.
 
 > <cite>Ellen G. White, Education, p. 168</cite>
-> “[Music] is one of the most effective means of impressing the heart with spiritual truth. How often to the soul hard-pressed and ready to despair, memory recalls some word of God’s—the long-forgotten burden of a childhood song—and temptations lose their power, life takes on new meaning and new purpose, and courage and gladness are imparted to other souls!”.
+> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“[Music] is one of the most effective means of impressing the heart with spiritual truth. How often to the soul hard-pressed and ready to despair, memory recalls some word of God’s—the long-forgotten burden of a childhood song—and temptations lose their power, life takes on new meaning and new purpose, and courage and gladness are imparted to other souls!”.

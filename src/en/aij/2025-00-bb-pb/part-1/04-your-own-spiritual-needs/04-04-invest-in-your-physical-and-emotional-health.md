@@ -8,7 +8,8 @@ In order for you to be a healthy parent who will model God’s love to your baby
 
 Healthy eating, drinking more water, fresh air, and regular exercise will help your mind and body and will sustain you during the challenging days. And during those weeks when you’re sleep-deprived and feeling empty, when you don’t succeed in eating healthy, when you don’t drink enough water or manage to exercise enough, remember that tomorrow is a new day. Look for small ways to care for yourself, remembering that even a short walk is better than no walk at all. Find ways to fill your own emotional tank through conversations with extended family or friends, a mentor, and other parents.
 
-##### ^[Tips for a Physical Recharge:]({"style":{"text":{"color": "#bf9648"}}})
+{"style":{"text":{"color":"#bf9648", "typeface": "PTSans-Bold", "size": "lg"}}}
+Tips for a Physical Recharge:
 
 + **Lower your expectations** of keeping the house and kitchen clean and doing a lot of other housework. Although having an orderly home is good, your priority is to be rested and happy to take care of your baby.
 + **Try to sleep when your baby sleeps**.
@@ -17,7 +18,8 @@ Healthy eating, drinking more water, fresh air, and regular exercise will help y
 + **Take turns with your spouse** to care for your baby while the other one exercises, takes care of some errands, or rests. If you are a single parent, have courage to ask a church member to care for your baby (even for one hour) while you recharge. You may be surprised at how willing others are to help you.
 + **When you are overwhelmed and alone, ask for help** from someone you trust to watch your baby at home while you take a nap for an hour, and sleep without feeling guilty.
 
-##### ^[Tips for an Emotional Recharge]({"style":{"text":{"color": "#bf9648"}}})
+{"style":{"text":{"color":"#bf9648", "typeface": "PTSans-Bold", "size": "lg"}}}
+Tips for an Emotional Recharge
 
 Depending on your culture, you might have a constant stream of family coming and going with many offers of help for your baby, or you might feel like parenting is lonely and hard. Regardless of however it is for you, take time to care for yourself. Here are a few tips that may help:
 

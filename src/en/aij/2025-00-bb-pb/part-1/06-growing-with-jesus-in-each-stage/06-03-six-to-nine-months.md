@@ -10,6 +10,7 @@ _The development stages are taken from the parameters of the American Psychologi
 {"style": {"text": {"color": "#bf9648"}}}
 Babies often have these characteristics during their first 6–9 months of life:
 
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 **Physical and Motor Skills**
 
 + They stand by holding on to something.
@@ -17,6 +18,7 @@ Babies often have these characteristics during their first 6–9 months of life:
 + They try to get up by themselves.
 + They crawl.
 
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 **Learning, Reasoning, and Problem-solving**
 
 + They follow the path of a moving object.
@@ -26,6 +28,7 @@ Babies often have these characteristics during their first 6–9 months of life:
 + They pass objects from one hand to the other.
 + They lift small objects using the index finger and thumb.
 
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 **Speech, Communication, and Music**
 
 + They understand when you tell them “No.”
@@ -34,6 +37,7 @@ Babies often have these characteristics during their first 6–9 months of life:
 + They point at objects with their fingers.
 + They respond to music and acoustic stimuli by changing positions and modifying their state of rest.
 
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 **Social and Emotional**
 
 + They tend to be afraid of strangers.
@@ -41,7 +45,8 @@ Babies often have these characteristics during their first 6–9 months of life:
 + They have favorite toys.
 + They answer when called by their name.
 
-##### ^[Character Development Ideas]({"style": {"text": {"color": "#a65726"}}})
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+Character Development Ideas
 
 At this stage your little one can begin to learn obedience in simple situations in life.
 
@@ -58,7 +63,8 @@ At this stage your little one can begin to learn obedience in simple situations 
 
 When your baby obeys, affirm them or clap your hands. When your baby disobeys, shift their attention to something else or, in a dangerous situation, say, “No.” Be aware not to overuse the word “no” in your discipline, as this word doesn’t clearly say what the child should do, but rather causes stress in the brain. It is better to say “yes” warmly and joyfully to the things that the child does right and well, and save “no” for dangerous things, to help protect them. Try to structure the environment and your home to support your child’s good behavioral choices. Check that you have met your child’s needs and that you are not contributing to what may appear to be “misbehavior,” which can sometimes be just exploring.
 
-##### ^[Ideas for Growing in Jesus]({"style": {"text": {"color": "#a65726"}}})
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+Ideas for Growing in Jesus
 
 + **Babies can now enjoy worship that lasts a few more minutes**, including singing songs and playing with objects they can easily hold. Your baby will respond with laughter and happy expressions.
 + **Allow your baby to participate in family worship on your lap**. They can participate as much as possible—holding something, keeping the rhythm while others sing, turning the pages of a book, etc.
@@ -66,7 +72,9 @@ When your baby obeys, affirm them or clap your hands. When your baby disobeys, s
 + **Share Bible books** with colorful illustrations and explain what each picture shows.
 + **Use Sabbath afternoons to enjoy nature**. Your baby can see the flowers, and animals, or collect rocks. Tell them that everything they see in nature is a gift from Jesus because He loves us.
 
-#### ^[Prayer Prompt]({"style":{"text":{"color": "#a65726", "align": "center"}}})
-
-{"style":{"text":{"color": "#a65726", "align": "center"}}}
-Lord, help (_your baby’s name_) to increase “in wisdom and in stature, and in favor with God and men” (Luke 2:52).
+{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\
+Lord, help (_your baby’s name_) to increase\
+“in wisdom and in stature, and in favor\
+with God and men”\
+(Luke 2:52).

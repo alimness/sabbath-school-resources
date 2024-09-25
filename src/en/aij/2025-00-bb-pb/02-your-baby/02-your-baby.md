@@ -3,10 +3,10 @@ title: Your Baby
 ---
 
 > <callout>Ellen G. White, The Adventist Home, p. 268</callout>
-> {"style":{"text":{"color":"#a65726"}}}
+> {"style":{"text":{"color":"#a65726","typeface": "BaskervilleBT-BoldItalic"}}}
 > The education and training of their children to be Christians is the highest service that parents can render to God”
 
-{"style":{"text":{"color":"#bf9648"}}}
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 During the next three years your little one will experience the most startling and rapid development that they will ever experience. Every week they will be changing dramatically. Here are some amazing facts about their incredible brains!
 
 - When you were pregnant, your baby’s brain and nervous system began to develop about six weeks after conception. Miraculous!
@@ -39,7 +39,7 @@ Whether you’re feeling relaxed about parenting or if you’re overwhelmed by t
 But perhaps most important, remember that you are not alone in this journey. Jesus shares the love and burden of raising your baby. In fact, your baby is actually on loan from Him. He wants to equip and guide you in this special responsibility of parenthood. He wants to see your family happy and fulfilled. He is ready to help you. Speak to Him, ask Him for wisdom, and let Him guide you each day. Remember: “The God of heaven marks your solicitude, your earnest work, your constant watchfulness. He hears your prayers. With patience and tenderness train your children for the Lord. All heaven is interested in your work. . . . God will unite with you, crowning your efforts with success” (Ellen G. White, The Adventist Home, p. 205).
 
 > <cite>Ellen G. White, The Adventist Home, p. 274</cite>
-> “After [you] have done the best [you] can do for the good of [your] children, [you] may bring them to Jesus. Even the babes in the mother’s arms are precious in His sight”
+> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“After [you] have done the best [you] can do for the good of [your] children, [you] may bring them to Jesus. Even the babes in the mother’s arms are precious in His sight”
 
 {"style":{"image":{"aspectRatio":1.778}}}
 ![It's never too early to learn about Jesus](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/01-your-baby/01-02.png)

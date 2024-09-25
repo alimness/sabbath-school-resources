@@ -7,13 +7,15 @@ The love you express to your baby also serves to teach trust. Unlike many baby a
 
 As parents, we sometimes fail, and we often fall short. We forget, and sometimes things don’t turn out the way we hoped or planned. When love exists, our children will forgive us. When your children can trust you, you “are building trust in them about God, who truly never fails His children” (Donna Habenicht, How to Help Your Child Really Love Jesus, p. 17).
 
-{"style":{"text":{"color": "#bf9648"}, "block":{"backgroundColor": "#f9f5ed", "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
-_**“Love and trust go hand in hand. Without one we cannot have the other. Love sent the Savior. Trust accepts His sacrifice. Love provided a way to deal with sin. Trust accepts His grace and His perfect life in place of our sinfulness. Love yearns to show us a better life. Trust accepts Him as the Lord of our life—a guide we can follow with certainty. The trust learned in childhood translates into trust in God in later life”** (Donna Habenicht, How to Help Your Child Really Love Jesus, p. 17)._
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}, "block":{"backgroundColor": "#f9f5ed", "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
+“Love and trust go hand in hand. Without one we cannot have the other. Love sent the Savior. Trust accepts His sacrifice. Love provided a way to deal with sin. Trust accepts His grace and His perfect life in place of our sinfulness. Love yearns to show us a better life. Trust accepts Him as the Lord of our life—a guide we can follow with certainty. The trust learned in childhood translates into trust in God in later life”\
+^[(Donna Habenicht, How to Help Your Child Really Love Jesus, p. 17).]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Italic"}}})
 
 {"style":{"image":{"aspectRatio":2.551}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/part-1-03-the-foundation-for-spiritual-growth/03-cover-trust.png)
 
-### ^[Here are some things you can start doing right now to help your little one learn that God is trustworthy:]({"style":{"text":{"color": "#a65726"}}})
+{"style": {"text": {"color": "#a65726", "size":"lg","typeface": "BaskervilleBT-Bold"}}}
+Here are some things you can start doing right now to help your little one learn that God is trustworthy:
 
 - [ ] Commit to telling the truth to your children. Don’t lie to them, because it confuses them and undermines their trust in you. When you are leaving, don’t just disappear. Tell them that you are going out and that you will come back and see them again soon.
 - [ ] Keep your promises. Be careful what you promise, so you can always follow through and be trustworthy.

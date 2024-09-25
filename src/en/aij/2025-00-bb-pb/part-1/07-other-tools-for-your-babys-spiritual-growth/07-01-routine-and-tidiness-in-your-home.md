@@ -1,5 +1,6 @@
 ---
 title: Routine and Tidiness in Your Home
+cover: tools.png
 ---
 
 The physical atmosphere of your home gives a valuable message in your baby’s education. A bright, tidy, and clean home, along with work and recreational activities that bring peace and are in harmony with the Bible, generate an ideal environment for the development of your child.
@@ -16,16 +17,17 @@ Your little one will greatly benefit from a home environment that has a sense of
 
 As you introduce these home routines, also introduce spiritual routines as soon as possible. Character development is vital in the early years. Prayer (spoken or sung) when getting up and when going to bed and before each meal, family worship, special worship with your baby, and incidental conversations about God are all practices that can be woven into the fabric of your little one’s daily life as they grow. These practices will all be further explored within this book. These routines can make a deep impact on their mind and will lay the foundation for Christ-centered character development.
 
-#### ^[Inspiration tells me ...]({"style":{"text":{"color": "#a65726"}}})
+{"style":{"text":{"color":"#a65726", "typeface": "PTSans-Bold"}}}
+INSPIRATION TELLS ME . . .
 
 > <cite>1 Corinthians 14:33</cite>
-> “For God is not the author of confusion”.
+> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“For God is not the author of confusion”.
 
 > <cite>Ellen G. White, Child Guidance, p. 109</cite>
-> “Keep everything the eyes of the children rest upon and that comes in contact with the body, night or day, clean and wholesome. This will be one means of educating them to choose the cleanly and the pure. Let the sleeping room of your children be neat, however destitute it may be of expensive furniture”.
+> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“Keep everything the eyes of the children rest upon and that comes in contact with the body, night or day, clean and wholesome. This will be one means of educating them to choose the cleanly and the pure. Let the sleeping room of your children be neat, however destitute it may be of expensive furniture”.
 
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
-**^[TIPS]({"style":{"text":{"color": "#a65726"}}})**: The first simple rules a baby learns are:
+^[TIPS]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}): The first simple rules a baby learns are:
 \
 \
 **+** There is a time to sleep.\
@@ -34,4 +36,4 @@ As you introduce these home routines, also introduce spiritual routines as soon 
 \
 You can define these times by organizing a daily routine for the baby and the family.\
 \
-Don’t let routines beat you. If you’re looking for new, creative ideas of things to do with your baby, look online for specialized baby’s activities that you can do with your little one. There are endless possibilities to keep you motivated when you feel as though you have no ideas left.\
+Don’t let routines beat you. If you’re looking for new, creative ideas of things to do with your baby, look online for specialized baby’s activities that you can do with your little one. There are endless possibilities to keep you motivated when you feel as though you have no ideas left.

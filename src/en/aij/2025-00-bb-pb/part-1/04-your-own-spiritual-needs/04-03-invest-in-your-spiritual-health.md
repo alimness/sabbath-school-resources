@@ -2,7 +2,8 @@
 title: Invest in Your Spiritual Health
 ---
 
-##### ^[Bible reading and prayer]({"style":{"text":{"color": "#a65726"}}})
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+Bible reading and prayer
 
 God wants every newborn child to experience His love, but He also wants you, as parents, to know this love. You are also a child of God. He wants you to know, “I have loved you with an everlasting love; therefore with lovingkindness I have drawn you” (Jeremiah 31:3). He wants an abundant life for you (John 10:10). He wants you to know that His mercies “are new every morning” (Lamentations 3:23). In the weary moments, He wants you to know that His “strength is made perfect in weakness” (2 Corinthians 12:9). And He wants you to know that He will be “with you always” (Matthew 28:20). God’s interest in you is so great, it is “as though there were not another soul upon the earth to share His watchcare” (Ellen G. White, Steps to Christ, p. 100). These are sure promises from a faithful God.
 
@@ -11,13 +12,14 @@ The Bible is also full of invitations that invite us into a relationship with Hi
 As His children who are called to lead little children, we should, more than anything else, daily respond to and abide in a relationship with Him. Although, because of the daily pressures of parenting a new baby, it is often a challenge to spend time with God, connecting with God will keep us grounded as nothing else can. It will also equip us to be the parent God has called us to be.
 
 > <cite>Matthew 11:28–30</cite>
-> “Come to Me, all you who labor and are heavy laden, and I will give you rest. Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls. For My yoke is easy and My burden is light” (Matthew 11:28–30).
+> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“Come to Me, all you who labor and are heavy laden, and I will give you rest. Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls. For My yoke is easy and My burden is light” (Matthew 11:28–30).
 
 You need God’s strength, wisdom, and help possibly more now than at any other time in your life. This will help you to continue to grow in Him and have the perfect Father, who, in His wisdom, will help you nurture the little person in your care.
 
 David shares in Psalm 119:50, “This is my comfort in my affliction, for Your word has given me life.” God’s Word will give you what nothing else in this world can: a connection and a deeper relationship with the One who created you, redeemed you, loves you, and has chosen you to be a parent to His new child. What might need to change in your daily routines to make unrushed time with God a greater priority? How can you creatively use unexpected free “pockets of time” to spend time with God?
 
-##### ^[Here are some tips:]({"style":{"text":{"color": "#bf9648"}}})
+{"style":{"text":{"color":"#bf9648", "typeface": "PTSans-Bold", "size": "lg"}}}
+Here are some tips
 
 + **Choose a chair or place in your home** that you can go to each day to spend even a few moments with God. When your baby is fed and content, place them nearby while you spend time with God, reading and praying. You may want to read or pray aloud, as the sound of your voice will be comforting to your baby. If you incorporate this daily routine into your life with your baby close by, in an authentic way, they will come to understand that this is important to you.
 + **Choose a book of the Bible**, such as Philippians or James. Take a journal and pen and each day copy down a few verses into your journal. Consider what the verses tell you about God, yourself, your family, or your baby. Beneath each section, write or speak a short prayer response to God about the message you have copied.
@@ -32,17 +34,19 @@ In saying this, be comforted to know that the length and structure of your devot
 The unrushed time you spend with the Father will be the source of love in your home. When you abide in His presence, you will more naturally “reflect Him” (Ellen G. White, Education, p. 282). Our families need the fruit of our time spent with God. This is parenting from the inside out.
 
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
-**^[TIP]({"style":{"text":{"color": "#a65726"}}})**: Choose a specific chair or location in your home to spend time with Jesus. Consistently use this spot each day to show your child that Jesus is an important companion and that your relationship with Him is worth prioritizing each day.
+^[TIP]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}): Choose a specific chair or location in your home to spend time with Jesus. Consistently use this spot each day to show your child that Jesus is an important companion and that your relationship with Him is worth prioritizing each day.
 
-#### ^[Prayer Prompt]({"style":{"text":{"color": "#a65726"}}})
-
-{"style":{"text":{"color": "#a65726"}}}
-As a parent it is sometimes difficult to find time to spend with God. Ask Him to show you how and when you can spend time with Him each day.
+{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\
+As a parent it is sometimes difficult to\
+find time to spend with God. Ask Him\
+to show you how and when you can\
+spend time with Him each day.
 
 #### ^[Inspiration tells me ...]({"style":{"text":{"color": "#a65726"}}})
 
 > <cite>Psalm 119:105</cite>
-> “Your word is a lamp to my feet and a light to my path”
+> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“Your word is a lamp to my feet and a light to my path”
 
 > <cite>Ellen G. White, Education, p. 187</cite>
-> “In order to interest our children in the Bible, we ourselves must be interested in it. To awaken in them a love for its study, we must love it. Our instruction to them will have only the weight of influence given it by our own example and spirit”
+> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“In order to interest our children in the Bible, we ourselves must be interested in it. To awaken in them a love for its study, we must love it. Our instruction to them will have only the weight of influence given it by our own example and spirit”

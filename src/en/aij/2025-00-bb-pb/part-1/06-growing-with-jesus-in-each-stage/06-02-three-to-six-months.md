@@ -10,6 +10,7 @@ _The development stages are taken from the parameters of the American Psychologi
 {"style": {"text": {"color": "#bf9648"}}}
 _Babies often have these characteristics during their first 3–6 months of life:_
 
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 **Physical and Motor Skills**
 
 + They keep their head steady without help.
@@ -21,6 +22,7 @@ _Babies often have these characteristics during their first 3–6 months of life
 + They hold small objects and shake them.
 + They put their hands in their mouth.
 
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 **Learning, Reasoning, and Problem-solving**
 
 + They show when they are happy or sad.
@@ -31,6 +33,7 @@ _Babies often have these characteristics during their first 3–6 months of life
 + They look at faces attentively.
 + They recognize familiar objects and people from afar.
 
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 **Speech, Communication, and Music**
 
 + They look at whoever speaks to them.
@@ -41,6 +44,7 @@ _Babies often have these characteristics during their first 3–6 months of life
 + They cry in different ways when hungry, sleepy, tired, or in pain.
 + They try to find the origin of sounds.
 
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 **Social and Emotional**
 
 + They respond differently to a family member than to a stranger.
@@ -49,7 +53,8 @@ _Babies often have these characteristics during their first 3–6 months of life
 + They laugh out loud.
 + They copy movements and facial gestures, such as smiling or frowning.
 
-##### ^[Character Development Ideas]({"style": {"text": {"color": "#a65726"}}})
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+Character Development Ideas
 
 To help your baby feel loved and cared for, and to help them consolidate their daily routine of sleeping, eating, and playing in their world, you may like to consider the following ideas:
 
@@ -64,7 +69,8 @@ To help your baby feel loved and cared for, and to help them consolidate their d
 + **When your baby sees something, point it out and describe it**.
 + **When your baby drops something, pick it up and give it back**. They will learn about the cause-and-effect relationship.
 
-##### ^[Ideas for Growing in Jesus]({"style": {"text": {"color": "#a65726"}}})
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+Ideas for Growing in Jesus
 
 To help your baby continue to feel God’s love for them, make family worship part of their everyday routine, and begin to enjoy the Sabbath, you may like to try the following ideas:
 
@@ -75,7 +81,10 @@ To help your baby continue to feel God’s love for them, make family worship pa
 + **Read them age-appropriate Bible books with colorful illustrations**.
 + **Take your baby to church**.
 
-#### ^[Prayer Prompt]({"style":{"text":{"color": "#a65726", "align": "center"}}})
-
-{"style":{"text":{"color": "#a65726", "align": "center"}}}
-Father in heaven, may (_your baby’s name_) delight in Your law, and learn to meditate on it day and night so (your baby’s name) becomes like a tree planted by the rivers of water, that brings forth its fruit in its season (see Psalm 1:2, 3).
+{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\
+Father in heaven, may (_your baby’s name_) delight\
+in Your law, and learn to meditate on it day and\
+night so (your baby’s name) becomes like a tree\
+planted by the rivers of water, that brings forth\
+its fruit in its season (see Psalm 1:2, 3).

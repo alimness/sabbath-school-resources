@@ -16,11 +16,11 @@ Going to church regularly will create positive Sabbath routines for your baby, y
 Your baby will not remember a lot from their first years going to Sabbath School and church, but they will remember how going to church makes them feel. Do all you can to make it a happy experience for them, while showing respect for the church and other worshippers. As a family, model involvement and contribution to your church family, rather than just passive attendance. This will communicate much to your growing child about your spiritual priorities, because loyalty and affiliation grow by association.
 
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
-**^[TIP]({"style":{"text":{"color": "#a65726", "size": "lg"}}})**: Create a “Moments and Memories” baby photo album (either by using a journal book or creating a photo album using a book publisher of your choice that will print it for you). This book can commemorate and celebrate your baby’s growing love for Jesus through their Sabbath worship experiences.
+^[TIP]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}): Create a “Moments and Memories” baby photo album (either by using a journal book or creating a photo album using a book publisher of your choice that will print it for you). This book can commemorate and celebrate your baby’s growing love for Jesus through their Sabbath worship experiences.
 \
 \
-**^[This book could include such entries as:]({"style":{"text":{"color": "#a65726", "size": "md"}}})**
-\+ This is the first time I went to church (picture, date, and memorabilia).
+**^[This book could include such entries as:]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}})**\
+\+ This is the first time I went to church (picture, date, and memorabilia).\
 \+ This is the first time I went to Sabbath School (picture, date, and memorabilia).\
 \+ My baby dedication at church (picture, date, name of the church, pastor’s name, and memorabilia).\
 \+ In my first Sabbath School I had my first friends. Their names are _____ (names and photos).\

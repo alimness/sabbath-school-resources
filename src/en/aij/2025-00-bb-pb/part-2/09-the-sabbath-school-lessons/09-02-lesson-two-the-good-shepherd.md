@@ -27,12 +27,14 @@ The baby will:\
 **+ Feel** happy and loved by parents and Sabbath School teachers.\
 **+ Respond** by participating.
 
-**^[PRAY]({"style":{"text":{"color": "#a65726"}}})** Hold the little hands of your baby together while you say a short prayer to invite Jesus to be with you.
+**^[PRAY]({"style":{"text":{"color": "#a65726"}}})**\
+Hold the little hands of your baby together while you say a short prayer to invite Jesus to be with you.
 
-**^[JESUS]({"style":{"text":{"color": "#a65726"}}})** Say: **Jesus is your best friend. He loves you so much**. Show baby a picture of Jesus or let them hold it. (See the back of this book for a picture of Jesus.)
+**^[JESUS]({"style":{"text":{"color": "#a65726"}}})**\
+Say: **Jesus is your best friend. He loves you so much**. Show baby a picture of Jesus or let them hold it. (See the back of this book for a picture of Jesus.)
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“God Sees Me.”**_\
+^[“God Sees Me.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})\
 \
 God sees me when I work,\
 God sees me when I play,\
@@ -48,10 +50,11 @@ Say: **Jesus cares for us more than anyone else does.**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-02-god-sees-me.mp3] God Sees me
 
-**^[WOOL]({"style":{"text":{"color": "#a65726"}}})** Say: Sheep and lambs are very soft. People make soft sweaters from the yarn. Can you feel the softness? Give your baby a toy sheep or soft yarn to touch.
+**^[WOOL]({"style":{"text":{"color": "#a65726"}}})**\
+Say: Sheep and lambs are very soft. People make soft sweaters from the yarn. Can you feel the softness? Give your baby a toy sheep or soft yarn to touch.
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“Woolly, Woolly Lamb”**_\
+^[“Woolly, Woolly Lamb”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})\
 \
 Woolly, woolly lamb,\
 Woolly, woolly lamb,\
@@ -60,10 +63,11 @@ Jesus made you soft and woolly.\
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-03-woolly-lamb.mp3] Woolly, woolly lamb
 
-**^[FOOD]({"style":{"text":{"color": "#a65726"}}})** Show your baby some green fabric or real grass. Say: Each day the shepherd takes the sheep to find good food. The sheep like the grass. (If you have a toddler, they can pretend to feed the sheep.)
+**^[FOOD]({"style":{"text":{"color": "#a65726"}}})**\
+Show your baby some green fabric or real grass. Say: Each day the shepherd takes the sheep to find good food. The sheep like the grass. (If you have a toddler, they can pretend to feed the sheep.)
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**Jesus Is the Good Shepherd”**_ (verse 1: grass).
+^[Jesus Is the Good Shepherd”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) (verse 1: grass).
 \
 Jesus is the Good Shepherd,\
 He made grass to feed the sheep,\
@@ -74,10 +78,11 @@ If your baby is older than 6 months, show them other foods that they may like to
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-04-jesus-good-shepherd-grass.mp3] Jesus Is the Good Shepherd (verse 1: grass).
 
-**^[WATER]({"style":{"text":{"color": "#a65726"}}})** Pour water from one cup to another. Your baby may like to touch the water. “Walk” a toy sheep to the “water.” You may like to give some water to your babies if they are older than 6 months. Say: **Sheep need to drink water. The shepherd takes them to a place with fresh water to drink. Let’s take our sheep to drink**. Toddlers can take the toy sheep to “drink” some water, or you can model this if your baby is younger.
+**^[WATER]({"style":{"text":{"color": "#a65726"}}})**\
+Pour water from one cup to another. Your baby may like to touch the water. “Walk” a toy sheep to the “water.” You may like to give some water to your babies if they are older than 6 months. Say: **Sheep need to drink water. The shepherd takes them to a place with fresh water to drink. Let’s take our sheep to drink**. Toddlers can take the toy sheep to “drink” some water, or you can model this if your baby is younger.
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**Jesus Is the Good Shepherd”**_ (verse 2: water).
+^[Jesus Is the Good Shepherd”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) (verse 2: water).
 \
 Jesus is the Good Shepherd,\
 He made water for thirsty sheep,\
@@ -88,10 +93,11 @@ Say: **It’s important for us to drink clean water every day. Jesus made water 
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-05-jesus-good-shepherd-water.mp3] Jesus Is the Good Shepherd (verse 2: water).
 
-**^[HURT SHEEP]({"style":{"text":{"color": "#a65726"}}})** Say: **Sometimes the sheep get hurt. Ouch! They might get scratched or cut. The shepherd cleans and puts medicine on their wounds. The shepherd cares for them**. Rub a drop of baby lotion or baby oil into your baby’s hand or cover it with a bandage or Band-Aid. If you have a toddler, they can put the Band-Aid on the sheep.
+**^[HURT SHEEP]({"style":{"text":{"color": "#a65726"}}})**\
+Say: **Sometimes the sheep get hurt. Ouch! They might get scratched or cut. The shepherd cleans and puts medicine on their wounds. The shepherd cares for them**. Rub a drop of baby lotion or baby oil into your baby’s hand or cover it with a bandage or Band-Aid. If you have a toddler, they can put the Band-Aid on the sheep.
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**Jesus Is the Good Shepherd”**_ (verse 3: care).
+^[Jesus Is the Good Shepherd”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) (verse 3: care).
 \
 Jesus is the Good Shepherd,\
 He takes care of all the sheep,\
@@ -102,14 +108,16 @@ Say: **The shepherd takes care of his sheep. Jesus takes care of you and me.**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-06-jesus-good-shepherd-care.mp3] Jesus Is the Good Shepherd (verse 3: care).
 
-**^[SHEEPFOLD]({"style":{"text":{"color": "#a65726"}}})** Say: **The shepherd builds a sheepfold** (house) **for the sheep. The shepherd wants them to have a safe place. Let’s build a place for the sheep to sleep**. Pile little boxes or blocks in a square shape for a sheepfold.
+**^[SHEEPFOLD]({"style":{"text":{"color": "#a65726"}}})**\
+Say: **The shepherd builds a sheepfold** (house) **for the sheep. The shepherd wants them to have a safe place. Let’s build a place for the sheep to sleep**. Pile little boxes or blocks in a square shape for a sheepfold.
 
-**^[SHEPHERD]({"style":{"text":{"color": "#a65726"}}})** Place a cloth over your head and tell the children you are like a shepherd. Say: **Shepherds take care of their sheep. Some shepherds have many sheep to care for. The shepherd loves each one. The shepherd knows their names**. Say the names of the children in your class. **Each one is special. Every day the shepherd counts them. One, two, three** . . . Count the lambs\
-\
+**^[SHEPHERD]({"style":{"text":{"color": "#a65726"}}})**\
+Place a cloth over your head and tell the children you are like a shepherd. Say: **Shepherds take care of their sheep. Some shepherds have many sheep to care for. The shepherd loves each one. The shepherd knows their names**. Say the names of the children in your class. **Each one is special. Every day the shepherd counts them. One, two, three** . . . Count the lambs
+
 Say: **The shepherd is very happy and loves all of the sheep. The shepherd takes them to a safe place. Let’s bring our sheep to the sheepfold.** Show how the toy sheep go inside while you sing the final verse of the song. Older toddlers can “walk” the sheep inside by themselves or with a little help.
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**Jesus Is the Good Shepherd”**_ (verse 4: lambs).
+^[Jesus Is the Good Shepherd”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) (verse 4: lambs).
 \
 Jesus is the Good Shepherd,\
 He loves all the little lambs,\
@@ -118,10 +126,11 @@ He loves me just as I am.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-07-jesus-good-shepherd-lambs.mp3] Jesus Is the Good Shepherd (verse 4: lambs).
 
-**^[YOU ARE SPECIAL]({"style":{"text":{"color": "#a65726"}}})** Say: **Who is this?** Hold a mirror near your baby’s face. **You are special to Jesus.** Then show your baby a picture of Jesus. **God loves you and takes care of you. He made Mommy and Daddy to care for you the way the shepherds care for their sheep**.
+**^[YOU ARE SPECIAL]({"style":{"text":{"color": "#a65726"}}})**\
+Say: **Who is this?** Hold a mirror near your baby’s face. **You are special to Jesus.** Then show your baby a picture of Jesus. **God loves you and takes care of you. He made Mommy and Daddy to care for you the way the shepherds care for their sheep**.
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“Who Am I?”**_\
+^[“Who Am I?”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})\
 \
 Who am I? Who am I?\
 Someone special to Jesus;\
@@ -136,7 +145,7 @@ Say: **Jesus loves you so much. He is our kind shepherd.**
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-08-who-am-i.mp3] Who Am I?
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-_**“The Shepherd Loves His Lambs.”**_\
+^[“The Shepherd Loves His Lambs.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})\
 \
 The shepherd loves his lambs,\
 And Jesus loves me.\
@@ -148,13 +157,8 @@ Show your baby the picture of Jesus and point to the lambs.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-09-shepherd-loves-lambs.mp3] The Shepherd Loves His Lambs
 
-**^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})** Open your Bible, point, and say: **The Bible says, “The Lord is my shepherd” (Psalm 23:1).** Have parents hug their baby softly and say: **God takes care of you. Mommy and Daddy take care of you too**.
+**^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})**\
+Open your Bible, point, and say: **The Bible says, “The Lord is my shepherd” (Psalm 23:1).** Have parents hug their baby softly and say: **God takes care of you. Mommy and Daddy take care of you too**.
 
-**^[THANK YOU]({"style":{"text":{"color": "#a65726"}}})** Softly say the words **“Thank You, Jesus. I love You, Jesus.”** Hug your baby and say a short prayer for God to lead and bless them as they grow.
-
----
-
-#### ^[Additional Suggestions for This Lesson]({"style":{"text":{"color": "#a65726"}}})
-
-+ During the day, point out God’s care. When you care for your baby, say, “Mommy/ Daddy cares for you; Jesus cares for you too.” Do it during feeding time, bathing time, when baby is tired, or hurting or crying, or any other opportunity. Keep reminding your baby that Jesus cares just as you care. Show your little one your own personal thankfulness to God for His care.
-+ You can continue thanking Jesus for all that He gives you (food, shelter, family, etc.). Thanking God for tangible things is more relevant for your baby than pictures or words. Thank God for things that they can see and touch.
+**^[THANK YOU]({"style":{"text":{"color": "#a65726"}}})**\
+Softly say the words **“Thank You, Jesus. I love You, Jesus.”** Hug your baby and say a short prayer for God to lead and bless them as they grow.

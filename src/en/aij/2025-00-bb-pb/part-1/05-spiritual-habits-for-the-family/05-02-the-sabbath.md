@@ -6,7 +6,8 @@ Acknowledging and keeping the Sabbath is an important part of what it means to b
 
 So the Sabbath is a day to delight in God’s company. As we do this, He will give us a rest in every way: physically, mentally, emotionally, and spiritually. He wants us to enjoy it for the gift that it is, in all its fullness. To do this, try to plan your week so that it can be a delight for everyone in your home. From a very young age your child can grasp that Sabbath is a unique and very special day. It’s an opportunity to build wonderful memories with God into their little life as they grow. Take time to discover what brings your baby delight and try to incorporate those activities into your Sabbath in an appropriate way.
 
-##### ^[Here are some ideas to help make the Sabbath a day of delight and remembrance:]({"style":{"text":{"color": "#bf9648"}}})
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
+Here are some ideas to help make the Sabbath a day of delight and remembrance:
 
 + **Encourage an excited anticipation of Sabbath**. In everyday conversations, express how joyful the Sabbath is as a day to enjoy church, to be with the family, and to help others. For example, you could say such things as “I love singing and praying at church on Sabbath.” “It’s so beautiful to eat yummy food together on Sabbath.” “This Sabbath we can visit our neighbor—she’s so lonely. She’ll love the flowers we bring.”
 + **Every day, count how many days are left until Sabbath**: “Today is Tuesday, and there are four days left until Sabbath!”
@@ -20,10 +21,11 @@ So the Sabbath is a day to delight in God’s company. As we do this, He will gi
 + **Prepare a special box of toys** that explore the Bible, nature, and spiritual themes for special use on Sabbath. You could include Bible picture cards, special “heaven” building blocks, Bible games, a magnifying glass, Bible peg people, or plastic animals. Open the box on Friday evening and put it away Sabbath evening so it remains “special.” These materials can be used to explore God’s creation, play Bible games, and become props to help you tell interesting Bible stories.
 + **If possible, take your family into nature** on Sabbath and delight in the wonder of what God has made for us. Look carefully at some plants or animals and thank God for creating them; examine some body parts and their function and thank God for them, too. When we look closely at nature, we come to know our Creator more.
 
-### ^[Do all you can to make the Sabbath a delight—the best day of the week!]({"style":{"text":{"color": "#a65726"}}})
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
+Do all you can to make the Sabbath a delight—the best day of the week!
 
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
-**^[Tips for Older Children:]({"style":{"text":{"color": "#a65726", "size": "lg"}}})**
+**^[Tips for Older Children:]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}})**
 \
 \
 \+ **Go for a walk** and choose three things for a home “nature art gallery.”\
@@ -32,7 +34,10 @@ So the Sabbath is a day to delight in God’s company. As we do this, He will gi
 \+ **Take turns writing to each person in your family** a thank-you note or an “I love you because . . .” note on a small card. Use them as place cards on the supper table where each person will sit on Friday evening (small children can dictate their message for an older person to write).\
 \+ **Establish some special family Sabbath traditions**, such as having a special meal on Friday evening to celebrate the beginning of Sabbath.
 
-#### ^[Prayer Prompt]({"style":{"text":{"color": "#a65726", "align": "center"}}})
-
-{"style":{"text":{"color": "#a65726", "align": "center"}}}
-Dear Father in heaven, I pray that You will help our family to honor and cherish the Sabbath in a way that (your baby’s name) grows up to “call the Sabbath a delight” (Isaiah 58:13).
+{"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
+^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\
+Dear Father in heaven, I pray that You will help our\
+family to honor and cherish the Sabbath in a way that\
+(your baby’s name) grows up to\
+“call the Sabbath a delight”\
+(Isaiah 58:13).
