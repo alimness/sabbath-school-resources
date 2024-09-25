@@ -1,12 +1,16 @@
 ---
-title: Classroom Preparation
+title: Preparation
 ---
+
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+Classroom Preparation
 
 Even if you are not aware of it, the physical and emotional environment of your Sabbath School class has a powerful influence over the learning experience of babies and their parents. “Babies and young children are very perceptive and aware of the feelings and atmosphere around them” (Learning and Teaching, Scotland, 2005).
 
 The classroom surroundings show what you believe and value. A clean floor most probably shows that a clean space is important for the babies to be in (and surely it is an important aspect of safety and hygiene). Other details reflect values you uphold for your babies. Order, comfort, and safety are important aspects of a physical environment that helps to support learning. Here are some ideas that may help provide the best possible environment for the babies and their parents.
 
-### ^[Space]({"style":{"text":{"color": "#bf9648"}}})
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
+Space
 
 Where possible, choose a special space for the class, even if you have only one baby. Children were brought to Jesus to be blessed by Him, and they can receive His blessing today too.
 
@@ -14,7 +18,8 @@ We should prioritize babies coming into His presence. Some may think babies don�
 
 Whether you worship in an open-air church with woven palms for shade, a new church, a home church, or a permanent church building, angels will draw near as parents and teachers bring their babies to Sabbath School.
 
-##### ^[If you do have the luxury of a permanent church building with space for a class for babies, here are a few tips you may want to consider for the space:]({"style":{"text":{"color": "#bf9648"}}})
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
+If you do have the luxury of a permanent church building with space for a class for babies, here are a few tips you may want to consider for the space:
 
 + **It doesn’t need to be a large space** (especially if it’s only one or two babies). A small place may be enough for babies that do not walk. Keep in mind that parents may need to have space for their baby carriers and strollers.
 + **If possible, the space needs to support effective learning**, so it needs to be at least quiet enough so babies don’t get distracted or irritated by other noises.
@@ -22,7 +27,8 @@ Whether you worship in an open-air church with woven palms for shade, a new chur
 + **The space should be kept in order**; the materials and supplies should have a clean space for storage, preferably in air-tight, labeled containers to keep things clean and well organized, so that you can easily find them every Sabbath and every time a new lesson is taught. They should be out of sight when not being used to avoid distraction.
 + **The space should be as comfortable as possible**. You may choose to have some adult chairs, throw pillows, or cushions as seating on the floor (alternative to adult chairs). Other items to make it comfortable would be storage cabinets (for materials), curtains, a washable mat or rug, painted walls, or wallpaper. Invest in the best you can afford, but remember that babies don’t need much more than your love, care, and attention. Whether you have a grass floor or a carpeted room, if the space is comfortable and safe it will be very suitable.
 
-### ^[Decoration]({"style":{"text":{"color": "#bf9648"}}})
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
+Decoration
 
 + **A bulletin board or visuals for parents** (placed at adult eye level, that can be created and maintained by parents) that includes:
   + A list or pictures of class members.
@@ -42,12 +48,14 @@ Whether you worship in an open-air church with woven palms for shade, a new chur
 
 If you don’t have the resources mentioned above, just use whatever is available to you. Even simple backdrops can help to create a fantastic learning environment for babies.
 
-### ^[Purpose of Decorations]({"style":{"text":{"color": "#bf9648"}}})
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
+Purpose of Decorations
 
 Always remember that the environment and the visuals in your class are also teaching tools and must serve the purpose you want them to have. If you are not intentional in your use of them, they may give messages that differ from your purpose. For example, if you are teaching that Jesus made the animals and you decorate with Disney characters, it will create confusion in the baby’s mind, because they cannot distinguish reality from fiction.
 Everything the child and parent see in your classroom must lead their minds to the love of Jesus. The purpose of an age-appropriate study of God’s Word in Sabbath School is to lead their young minds to the love parents have for them, just as Jesus has for them. Today we can still use Jesus’ example for our choice of decorations. Jesus presented truth in a simple and direct way. We can use the simple things from nature (as real and safe as possible) to illustrate to parents and babies the immortal truths, and every time they see those things, they can remember Jesus’ words (see chapter 26 of The Desire of Ages).
 
-### ^[Before the Lesson on Sabbath]({"style":{"text":{"color": "#bf9648"}}})
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
+Before the Lesson on Sabbath
 
 Prepare as much as you can so that everything runs smoothly and there are no long lapses of time between activities. This is important to keep the babies engaged. Here are some ways you can prepare:
 

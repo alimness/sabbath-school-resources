@@ -8,13 +8,15 @@ Remember that God’s interest in you is so great that it is “as though there 
 
 As His children, our greatest priority is to respond—to invite Him in and dine with Him; to stay connected and abide. While this proves a continual challenge with all the stresses and responsibilities that pile upon us in life, the irony is that it becomes particularly necessary the more challenges we face.
 
-### ^[Spend Time in God’s Word]({"style":{"text":{"color": "#bf9648"}}})
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
+Spend Time in God’s Word
 
 The time you, as a Sabbath School leader, spend in God’s Word will impact how you teach and the manner in which you interact with both babies and parents. If your devotional life has been waning, commit to spending more unrushed time with God. Pray, read your Bible, and invite Him to speak truths into your life. David shares in Psalm 119:50, “This is my comfort in my affliction, for Your word has given me life.”
 
 Spending meaningful time with God in His Word will change the way you teach. Time with God will be the source of love, care, and kindness as you teach the Babies Sabbath School class. Abiding in Him will enable you to “reflect Him” (Ellen G. White, Education, p. 282). The families who bring their babies each week can become recipients of your time spent with God as you live from the overflow of time with Him.
 
-### ^[Spend Time in Prayer]({"style":{"text":{"color": "#bf9648"}}})
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
+Spend Time in Prayer
 
 Praying is perhaps the most practical and effective thing you can be doing to develop the spirituality of the babies and families in your class. “We must pray as we never have before that God will keep and bless our children” (Ellen G. White, Child Guidance, p. 494). Make praying for the families in your class a regular practice in your home, and as you consider the needs of the families, ask God to open your eyes to the ways in which you can help.
 

@@ -2,7 +2,8 @@
 title: Music Credits
 ---
 
-_**Alphabetized by Song Title**_
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
+Alphabetized by Song Title
 
 “Animals, Animals” by Janet Sage, copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #67. Used by permission.
 

@@ -2,24 +2,21 @@
 title: Home Time
 ---
 
-{"style":{"text": {"color": "#a65726", "align":"center", "size": "lg"}}}
-_There are three parts to the Alive in Jesus Babies curriculum, each working together in harmony to strengthen the spiritual development of the babies in your care._
-
-These three parts are: Baby Time (Sabbath School), Parent Time (Sabbath School), and Home Time (as explained in the Parent Book). It is recommended that the Sabbath School time slot at church be split into two parts: Baby Time and Parent Time. Then what is modeled during Sabbath School can be adopted at home too (Home Time).
-
----
-
 Parents are encouraged to repeat the lessons, or components of the lessons, from Sabbath School with their baby at home.
 
-### ^[Overview of Parent Book]({"style":{"text":{"color": "#bf9648"}}})
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
+Overview of Parent Book
 
 The Parent Book includes an outline of all the lessons and resources for both home and Sabbath School. It also includes other practical tips and advice on how to foster the spiritual growth of their baby at home.
+
+{#[en/aij/2025-00-bb-pb]}
 
 During Parent Time, encourage parents to continue the Sabbath School worship program throughout the week at home—to sing the same songs and talk about the same stories with their babies, to reinforce this joyful time through both home and church repetition.
 
 Provide parents with the Baby Steps Sabbath School Parent Book, and explain how it can be used. It is important for you to read through this guide and become familiar with it, to provide parents with tips and advice on how to have family worship at home.
 
-### ^[The Parent Book is very comprehensive and provides:]({"style":{"text":{"color": "#bf9648"}}})
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
+The Parent Book is very comprehensive and provides:
 
 + Advice and instruction on how to foster their babies’ love for Jesus through each developmental leap in the first year of life.
 + All four Sabbath School lesson outlines.
@@ -27,13 +24,18 @@ Provide parents with the Baby Steps Sabbath School Parent Book, and explain how 
 
 Below is a description of the Worship Box, suggestions for how parents can use their box, and where they can get one.
 
-### ^[Worship Box for Home Worship]({"style":{"text":{"color": "#bf9648"}}})
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
+Worship Box for Home Worship
 
 Props and objects are great tools to use when teaching your baby the stories and lessons. We suggest you choose a box or basket to use as a special Worship Box for worship with your little one. This box will hold items you can use to reinforce the themes.
 
 Some divisions will make available the Baby Steps Worship Box. If this is not available to you, you may like to make up one of your own or improvise by gathering the resources listed below. Choose objects that have different textures, bright colors, and items that make sounds, making sure that safety is a priority. Don’t worry if you don’t have a lot of toys. Remember that the best toys are found in nature or from safe items in your home. When you go out for a walk, look for safe, natural objects that can be your learning materials.
 
-##### Creation
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
+Here are some ideas of toys and other objects that you could keep in your basket or box that support the learning of each quarter’s story and lesson:
+
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
+Creation
 
 + Bible
 + Light
@@ -48,7 +50,8 @@ Some divisions will make available the Baby Steps Worship Box. If this is not av
 + Picture of Jesus
 + Noisemaker
 
-##### The Good Shepherd
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
+The Good Shepherd
 
 + Bible
 + Toy sheep and soft yarn
@@ -60,7 +63,8 @@ Some divisions will make available the Baby Steps Worship Box. If this is not av
 + "Shepherd" head covering
 + Picture of Jesus
 
-##### Noah and the Animals
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
+Noah and the Animals
 
 + Bible
 + A “Noah”
@@ -73,7 +77,8 @@ Some divisions will make available the Baby Steps Worship Box. If this is not av
 + A toy boat or ark
 + Water and sprayer (or other objects)
 
-##### A Special Baby
+{"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
+A Special Baby
 
 + Bible
 + A wooden board/door to knock on

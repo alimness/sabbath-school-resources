@@ -2,12 +2,11 @@
 title: The Potential
 ---
 
-{"style":{"text": {"color": "#a65726", "align":"center", "size": "lg"}}}
-_Babies are extraordinary_.\
-_We cannot underestimate what they’re capable of taking in and understanding in the first year of life._
+{"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-BoldItalic", "align":"center"}}}
+Babies are extraordinary.\
+We cannot underestimate what they’re capable of taking in and understanding in the first year of life.
 
 Think about these amazing facts!
-
 
 + **When a mother is pregnant**, a baby’s brain and nervous system begin to develop around six weeks after conception. Miraculous!
 + **At birth a baby’s brain has 100 billion neurons**. This little brain is continuing to develop and is experiencing the fastest growth it will ever have. During this time they are forming more than 1 million neural (brain) connections every second and are hypersensitive to stimulation and nurturing care. A baby’s brain will double in size in the first year, and by the age of 3 it will have tripled in size—from 12.3 ounces (350 grams) to 42.3 ounces (1.2 kilograms), reaching 80 percent of its adult volume.
