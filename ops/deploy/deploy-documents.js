@@ -177,6 +177,7 @@ let processDocuments = async function (resourceType) {
 
     for (let resource of resources) {
         let resourcePathInfo = parseResourcePath(`${SOURCE_DIR}/${resource}`)
+        const resourceInfoYaml = yaml.load(fs.readFileSync(`${SOURCE_DIR}/${resource}`, "utf8"));
 
         const documents = new fdir()
             .withBasePath()
@@ -240,7 +241,9 @@ let processDocuments = async function (resourceType) {
 
             // await database.collection(FIREBASE_DATABASE_DOCUMENTS).doc(documentInfo.id).set(documentInfo)
 
-            documentInfo.defaultStyles = deepMerge(SEGMENT_DEFAULT_BLOCK_STYLES, documentInfo.defaultStyles)
+            let defaultStyle = deepMerge(SEGMENT_DEFAULT_BLOCK_STYLES, resourceInfoYaml.defaultStyles)
+            documentInfo.defaultStyles = deepMerge(defaultStyle, documentInfo.defaultStyles)
+
             fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${resourceType}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
         }
     }
