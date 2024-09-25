@@ -1,0 +1,35 @@
+pdf:
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-01.pdf
+    target: en/aij/2025-00-bb-tg/00-introduction
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-02.pdf
+    target: en/aij/2025-00-bb-tg/02-curriculum-resources
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-03.pdf
+    target: en/aij/2025-00-bb-tg/part-02-02-the-purpose
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-04.pdf
+    target: en/aij/2025-00-bb-tg/part-03-03-01-baby-time
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-05.pdf
+    target: en/aij/2025-00-bb-tg/part-03-03-02-parent-time
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-06.pdf
+    target: en/aij/2025-00-bb-tg/part-03-03-03-home-time
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-07.pdf
+    target: en/aij/2025-00-bb-tg/part-04-04-01-classroom-preparation
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-08.pdf
+    target: en/aij/2025-00-bb-tg/part-04-04-02-teacher-preparation
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-09.pdf
+    target: en/aij/2025-00-bb-tg/part-05-05-01-scope-and-sequence
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-10.pdf
+    target: en/aij/2025-00-bb-tg/part-05-05-02-list-of-suggested-materials
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-11.pdf
+    target: en/aij/2025-00-bb-tg/part-05-05-03-lesson-01-creation
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-12.pdf
+    target: en/aij/2025-00-bb-tg/part-05-05-03-lesson-02-good-shepherd
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-13.pdf
+    target: en/aij/2025-00-bb-tg/part-05-05-03-lesson-03-noah
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-13.pdf
+    target: en/aij/2025-00-bb-tg/part-05-05-03-lesson-04-baby-jesus
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-13.pdf
+    target: en/aij/2025-00-bb-tg/part-06-06-01-references-and-resources
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-13.pdf
+    target: en/aij/2025-00-bb-tg/part-06-06-02-music-credits
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-13.pdf
+    target: en/aij/2025-00-bb-tg/
