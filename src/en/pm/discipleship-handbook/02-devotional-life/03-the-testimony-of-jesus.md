@@ -80,7 +80,7 @@ Poll 2
 
 As mentioned in the previous chapter, there are many inspirational books that we can read with benefit. But we should not be content to read only inspirational books when we could be reading inspired books. Seventh-day Adventists recognize Ellen White’s writings as an end-time manifestation of the biblical “spirit of prophecy.” These writings are a product of divine inspiration. God has given them specially to His church in these last days to help prepare us for the second coming of Christ. They expose the enemy’s deceptive snares and establish the reader in the truths of Scripture. Yet “many are going directly contrary to the light which God has given to His people, because they do not read the books which contain the light and knowledge in cautions, reproofs, and warnings” (Testimonies for the Church, vol. 5, p. 681).
 
-{#[en/pm/discipleship-handbook/content/02-devotional-life/02-spirit-and-life/02-spirit-and-life.md]}
+{#[en/pm/discipleship-handbook/02-devotional-life/02-spirit-and-life]}
 
 Recommit to spending at least 30 minutes a day in prayer and study, using the Bible and Spirit of Prophecy reading plan in the back of this handbook. Read the writings of Ellen G. White alongside your Bible, and discover for yourself how they illuminate your understanding of the Bible, establish you in the truth, and deepen your walk with God.
 
