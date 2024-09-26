@@ -139,7 +139,7 @@ let parseResourcePath = function (resourcePath) {
         if (matches[4] && matches[5]) {
             // info.section = null
             // info.document = matches[4]
-            info.segment = matches[5]
+            // info.segment = matches[5]
 
             // Only section info
             // ex: en/devo/resource/section-name/section.yml
