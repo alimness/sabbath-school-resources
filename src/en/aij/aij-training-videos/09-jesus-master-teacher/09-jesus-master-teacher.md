@@ -1,5 +1,6 @@
 ---
-title: Jesus Master Teacher
+title: Jesus Master Teacher (Writing Objectives)
+subtitle: The writing objectives and how Jesus also focused on these areas when teaching.
 video:
   - src: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-jesus-master-teacher.mp4
     title: Jesus Master Teacher

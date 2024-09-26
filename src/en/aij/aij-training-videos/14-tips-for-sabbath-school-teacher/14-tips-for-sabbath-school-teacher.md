@@ -1,5 +1,6 @@
 ---
-title: Tips For Sabbath School Teacher
+title: Tips for Sabbath School Teacher
+subtitle: Practical advice for how to implement Alive in Jesus in your Sabbath School room.
 video:
   - src: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-tips-for-sabbath-school-teacher.mp4
     title: Tips For Sabbath School Teacher
