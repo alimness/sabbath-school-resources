@@ -11,7 +11,7 @@ As parents, we sometimes fail, and we often fall short. We forget, and sometimes
 “Love and trust go hand in hand. Without one we cannot have the other. Love sent the Savior. Trust accepts His sacrifice. Love provided a way to deal with sin. Trust accepts His grace and His perfect life in place of our sinfulness. Love yearns to show us a better life. Trust accepts Him as the Lord of our life—a guide we can follow with certainty. The trust learned in childhood translates into trust in God in later life”\
 ^[(Donna Habenicht, How to Help Your Child Really Love Jesus, p. 17).]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Italic"}}})
 
-{"style":{"image":{"aspectRatio":2.551}}}
+{"style": {"image":{"aspectRatio":2.551},"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/part-1-03-the-foundation-for-spiritual-growth/03-cover-trust.png)
 
 {"style": {"text": {"color": "#a65726", "size":"lg","typeface": "BaskervilleBT-Bold"}}}

@@ -29,7 +29,7 @@ Your investment of time through the simple interactions of life will set your ba
 > {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 > “Parents, give your children love: love in babyhood, love in childhood, love in youth”
 
-{"style":{"image":{"aspectRatio":1.499}}}
+{"style": {"image":{"aspectRatio":1.499},"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/part-1-03-the-foundation-for-spiritual-growth/cover.png)
 
 {"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}

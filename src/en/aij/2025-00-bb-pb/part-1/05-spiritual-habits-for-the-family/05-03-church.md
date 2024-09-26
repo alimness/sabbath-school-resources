@@ -10,7 +10,7 @@ Going to church regularly will create positive Sabbath routines for your baby, y
 + **Meet the parents of other babies in your baby’s Sabbath School class**. This is a great privilege, and an opportunity to connect with others. Although only for a short time (once a week), this is an opportunity to share your week’s experiences with other mothers and fathers. You can pray together and encourage each other as you go through similar experiences. It is also a time to receive support from experienced parents who have already “walked the path” before you.
 + **During church, take your baby up for the children’s story** (if there is one) even when they don’t understand it. They will enjoy looking at the other children and the chance to move somewhere different and see other things in the church.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style": {"image":{"aspectRatio":1.778},"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/church.png)
 
 Your baby will not remember a lot from their first years going to Sabbath School and church, but they will remember how going to church makes them feel. Do all you can to make it a happy experience for them, while showing respect for the church and other worshippers. As a family, model involvement and contribution to your church family, rather than just passive attendance. This will communicate much to your growing child about your spiritual priorities, because loyalty and affiliation grow by association.

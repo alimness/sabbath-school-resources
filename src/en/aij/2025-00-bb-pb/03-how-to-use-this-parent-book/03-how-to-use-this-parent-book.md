@@ -21,7 +21,7 @@ _You will find the following helpful elements_:
 
 Prayer is one of the most practical tools you can use as a parent. Throughout each section of Part 1, we offer prayer prompts to help you pray intentionally and thoughtfully for your child. Sometimes there will be Bible promises for you to claim as you pray for your baby, and on other occasions there may be topics or ideas to pray about.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style": {"image":{"aspectRatio":1.778},"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/03-how-to-use-this-parent-book/mushroom.png)
 
 {"style":{"text":{"color":"#bf9648", "typeface": "PTSans-Bold"}}}
