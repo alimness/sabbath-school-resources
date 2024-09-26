@@ -11,6 +11,11 @@ on:
       - 'ops/deploy/deploy-categories.js'
       - 'ops/deploy/deploy-authors.js'
       - 'ops/deploy/deploy-languages.js'
+      - 'src/**/*.png'
+      - 'src/**/*.jpg'
+      - 'src/**/*.jpeg'
+      - 'src/**/*.mp3'
+      - 'src/**/*.mp4'
       - 'src/**/*.md'
 jobs:
   transfer-resource-assets:
