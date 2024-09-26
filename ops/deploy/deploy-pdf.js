@@ -63,10 +63,6 @@ let deployPdf = async function () {
                     continue
                 }
 
-                if (pdfTargetInfo.section) {
-                    pdf.target = pdf.target.replace(`${pdfTargetInfo.section}/${pdfTargetInfo.document}`, `${pdfTargetInfo.section}-${pdfTargetInfo.document}`)
-                }
-
                 if (pdfTargetInfo.segment) {
                     let segment = await getSegmentInfo(`${SOURCE_DIR}/${pdf.target}`)
                     if (!segment.title) { continue }
@@ -79,6 +75,10 @@ let deployPdf = async function () {
                     } else {
                         continue
                     }
+                }
+
+                if (pdfTargetInfo.section) {
+                    pdf.target = pdf.target.replace(`${pdfTargetInfo.section}/${pdfTargetInfo.document}`, `${pdfTargetInfo.section}-${pdfTargetInfo.document}`)
                 }
             }
 
