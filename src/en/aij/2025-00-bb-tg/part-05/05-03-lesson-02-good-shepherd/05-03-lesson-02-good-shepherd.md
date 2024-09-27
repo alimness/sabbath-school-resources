@@ -161,8 +161,6 @@ The shepherd loves his lambs,\
 And Jesus loves me.
 (repeat)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-09-shepherd-loves-lambs.mp3] The Shepherd Loves His Lambs
-
 **^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})**\
 Open your Bible, point, and say: **The Bible says, “The Lord is my shepherd” (Psalm 23:1).** Have parents hug their baby softly and say: **God takes care of you. Mommy and Daddy take care of you too**.
 
