@@ -5,7 +5,7 @@ type: story
 
 ;;;
 ^^^
-![](01-00.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/01-00.png)
 {"style":{"text":{"color": "#0e7039", "typeface": "Omnes-Bold", "align": "center"}, "block": {"backgroundColor": "#ffffffad"}}}
 In the\
 ^[Beginning]({"style":{"text":{"color": "#ee6d23", "typeface": "Omnes-BoldItalic"}}})
@@ -23,7 +23,7 @@ In the beginning the earth was covered in water. There were no playful dolphins 
 ^^^
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}
-![](01-03.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/01-03.png)
 {"style":{"block": {"backgroundColor": "#ffffffad"},"text":{"color": "#000000"}}}
 In the beginning God created the heavens and the earth _(point up and down)_ for you and me. God filled the earth with grassy fields and honeybees and tumbling streams and crashing seas because He loves you. He made the heavens with the sun and moon to see. God wanted to create all this for you and me. What would God make on Day 1? _(Point to the circle with number 1.)_ God is so good, and everything He made for us is good.
 ^^^
