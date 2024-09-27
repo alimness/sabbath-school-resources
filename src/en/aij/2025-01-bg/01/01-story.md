@@ -5,6 +5,12 @@ type: story
 
 ;;;
 ^^^
+![](01-00.png)
+{"style":{"text":{"color": "#0e7039", "typeface": "Omnes-Bold", "align": "center"}, "block": {"backgroundColor": "#ffffffad"}}}
+In the\
+^[Beginning]({"style":{"text":{"color": "#ee6d23", "typeface": "Omnes-BoldItalic"}}})
+^^^
+^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/test/blocks/story1.png)
 {"style":{"text":{"color": "#ffffff"}}}
 In the _**beginning**_, before there were white fluffy clouds or fuzzy caterpillars, there was God. Before there were twinkly stars or an ocean so blue, God created a special place for you. There was so much He would do. In _(count with your fingers to six)_ one... two... three... four... five... six days the world would be perfect and new.  God would fill the earth with colors to see: red, yellow, blue, and green. There would be new sounds to hear and tasty food to eat. Best of all would be the friends He would meet. God is so good, and everything He made for us is good.
@@ -17,8 +23,8 @@ In the beginning the earth was covered in water. There were no playful dolphins 
 ^^^
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}
-![](http://localhost:3002/api/v2/en/aij/2025-01-bg/assets/01-03.png)
-{"style":{"text":{"color": "#000000"}}}
+![](01-03.png)
+{"style":{"block": {"backgroundColor": "#ffffffad"},"text":{"color": "#000000"}}}
 In the beginning God created the heavens and the earth _(point up and down)_ for you and me. God filled the earth with grassy fields and honeybees and tumbling streams and crashing seas because He loves you. He made the heavens with the sun and moon to see. God wanted to create all this for you and me. What would God make on Day 1? _(Point to the circle with number 1.)_ God is so good, and everything He made for us is good.
 ^^^
 ;;;

@@ -197,7 +197,7 @@ let transferResourcesFonts = async function () {
                             resourceInfo.fonts.push({
                                 name: postScriptName,
                                 weight: parseInt(weight),
-                                src: remoteURL,
+                                src: remoteURL.replace(/ /g, '%20'),
                             })
                             if (mode === "remote") fs.removeSync(`${SOURCE_DIR}/${resourceFontAsset}`)
                         }

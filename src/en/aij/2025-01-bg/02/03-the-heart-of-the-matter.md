@@ -1,5 +1,17 @@
 ---
-title: The heart of the matter
+title: The heart of the Matter
+markdownTitle: 'the ^[HEART]({"style": {"text": {"color": "#C1307D"}}}) of the ^[MATTER]({"style": {"text": {"color": "#117F4B"}}})'
+subtitle: For you, Parents
+defaultStyles:
+  title:
+    text:
+      typeface: BaskervilleBT-Roman
+      align: center
+  subtitle:
+    text:
+      typeface: BaskervilleBT-Roman
+      align: center
+background: hm-background.png
 ---
 
 God really is so good, and everything God made is good. God took an empty, dark expanse and filled it with His goodness. He created the earth full of good things for you and your children! He wants you to know and see that He is good. God longs to fill your life with His goodness. In the busyness of each day, how easily this can be overlooked. “In singing bird and opening blossom, in rain and sunshine, in summer breeze and gentle dew, in ten thousand objects in nature, from the oak of the forest to the violet that blossoms at its root, is seen the love that restores. And nature still speaks to us of God’s goodness” (Ellen G. White, Child Guidance, p. 47).

@@ -42,7 +42,7 @@ God made the light, for you and me.\
 Who made the light you can see?\
 God made the light, for you and me.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-02-god-made-light.mp3] God Made the Light, Wind, Water (verse 1: light)
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-02-god-made-light.mp3] God Made the Light, Wind, Water (verse 1: light) {"credits": [{"key": "Writer", "value": "Janet Sage"}], "copyright": "Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From _**Little Voices Praise Him**_, #67. Used by permission."}
 
 **^[WIND]({"style":{"text":{"color": "#a65726"}}})**\
 Blow gently on your baby’s head. **Can you feel the wind? God made the wind and the air we can feel**.
