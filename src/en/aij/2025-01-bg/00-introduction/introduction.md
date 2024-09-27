@@ -1,7 +1,7 @@
 ---
 title: Introduction
 markdownTitle: '^[Dear Parents,]({"style": {"text": {"color": "#f4793b", "typeface": "Omnes-BoldItalic"}}})'
-background: intro-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/00-introduction/intro-background.png
 ---
 
 God has given your precious child to your family on loan. People say the days of parenting can feel long, but the years are short. Indeed, the daily grind of running a home and juggling work and family needs can sometimes feel endless and tiring. And yet the years do slip by so quickly . . .
