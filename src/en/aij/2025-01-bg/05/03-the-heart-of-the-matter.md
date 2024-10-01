@@ -11,7 +11,7 @@ defaultStyles:
     text:
       typeface: BaskervilleBT-Roman
       align: center
-background: 05-04.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/05-04.png
 ---
 
 The hillsides were bursting with new life. Buttercups and daisies dotted the rolling hills of green grass; bushes were loaded with sweet-smelling lilac blossoms. Tall, stately evergreen trees stood guard while groves of fruit trees hung heavy with sweet juicy peaches. The earth was clothed in fragrant beauty, and new life was growing abundantly.

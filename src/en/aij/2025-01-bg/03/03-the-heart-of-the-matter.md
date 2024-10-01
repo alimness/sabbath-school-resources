@@ -11,7 +11,7 @@ defaultStyles:
     text:
       typeface: BaskervilleBT-Roman
       align: center
-background: 03-04.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/03-04.png
 ---
 
 God paints His beauty on the canvas of the sky differently each day through the times and seasons. Take some time today to drink in the vast beauty of God’s sky. Notice the various patterns of clouds; marvel at the burnished pinks of a sunset or golden hue of a sunrise. Watch a storm gather on the horizon as dark clouds build and then release their showers. 

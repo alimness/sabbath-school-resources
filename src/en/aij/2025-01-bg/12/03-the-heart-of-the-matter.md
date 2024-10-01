@@ -11,7 +11,7 @@ defaultStyles:
     text:
       typeface: BaskervilleBT-Roman
       align: center
-background: 12-04.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/12-04.png
 ---
 
 God created each child in His image, uniquely designed to reflect His glory. Your child is precious and is treasured by God. Teaching your child that their identity is found in Christ will take intentional effort to speak His truth into their lives. 

@@ -11,7 +11,7 @@ defaultStyles:
     text:
       typeface: BaskervilleBT-Roman
       align: center
-background: 06-04.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/06-04.png
 ---
 
 Have you ever looked up at the night sky and been overwhelmed at the sheer enormity of the universe? There are approximately 4,500 stars we can see at night just with our eyes. In the Milky Way Galaxy alone, astronomers estimate that there are 100 thousand million stars! Using the Hubble Telescope, they estimate there to be about 1 x 1024—that is, 1 septillion American (or 1 septiljoen European)—stars in the known universe! 
