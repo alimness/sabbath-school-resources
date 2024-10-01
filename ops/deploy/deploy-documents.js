@@ -15,12 +15,11 @@ import {
     RESOURCE_TYPE,
     SEGMENT_TYPES,
     FIREBASE_DATABASE_BLOCKS,
-    FIREBASE_DATABASE_SEGMENTS,
-    FIREBASE_DATABASE_DOCUMENTS,
+    DEPLOY_ENV,
     GLOBAL_ASSETS_DIR,
     ASSETS_URL,
     RESOURCE_PDF_FILENAME,
-    DOCUMENT_INFO_FILENAME, MEDIA_URL, SEGMENT_FILENAME_EXTENSION
+    DOCUMENT_INFO_FILENAME, MEDIA_URL, SEGMENT_FILENAME_EXTENSION, RESOURCE_ASSETS_DIRNAME
 } from "../helpers/constants.js"
 import { SEGMENT_DEFAULT_BLOCK_STYLES } from "../helpers/styles.js"
 
@@ -98,6 +97,20 @@ let getSegmentInfo = async function (segment, processBlocks = false) {
 
     if (processBlocks) {
         segmentInfo.blocks = await parseSegment(segmentInfoFrontMatter.body, segmentPathInfo, "root", 1, segmentFilterForType[segmentInfo.type])
+    }
+
+    if (DEPLOY_ENV === "local") {
+        if (segmentInfo.cover && !/^http/.test(segmentInfo.cover)) {
+            segmentInfo.cover = `${MEDIA_URL}/${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${segmentInfo.cover}`
+        }
+
+        if (segmentInfo.background && !/^http/.test(segmentInfo.background)) {
+            segmentInfo.background = `${MEDIA_URL}/${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${segmentInfo.background}`
+        }
+
+        if (segmentInfo.audio && segmentInfo.audio.src) {
+            segmentInfo.audio.src = `${MEDIA_URL}/${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${segmentInfo.audio.src}`
+        }
     }
 
     return segmentInfo

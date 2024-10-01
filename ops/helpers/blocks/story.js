@@ -1,3 +1,4 @@
+import { deepMerge } from "../helpers.js"
 import { parseSegment } from "../blocks.js"
 
 export const story = {
@@ -54,9 +55,11 @@ export const storySlide = {
 
         if (!image || !paragraph) { return null }
 
-        const  alignment = image?.style?.image?.storyTextAlign ?? "bottom"
+        const alignment = image?.style?.image?.storyTextAlign ?? "bottom"
 
-        return { id: block.id, type: block.type, image: image.src, markdown: paragraph.markdown, alignment: alignment, ...(paragraph.style && { style: paragraph.style}) }
+        let style = deepMerge(paragraph.style, image.style)
+
+        return { id: block.id, type: block.type, image: image.src, markdown: paragraph.markdown, alignment: alignment, style }
     },
 
 }

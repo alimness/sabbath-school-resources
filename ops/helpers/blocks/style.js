@@ -114,6 +114,14 @@ const styleSchema = {
                 "aspectRatio": { "type": "number" },
                 "expandable": { "type": "boolean" },
                 "storyTextAlign": { "type": "string", "enum": ["top", "bottom"] },
+                "variants": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "properties": {
+                        "landscape": { "type": "string" },
+                        "portrait": { "type": "string" },
+                    }
+                }
             }
         },
 
