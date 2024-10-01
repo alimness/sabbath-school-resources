@@ -1,12 +1,14 @@
 ---
 title: God Made the Light
 type: story
+audio:
+    src: ABSG-2025-01-BG-02.mp3
 ---
 
 ;;;
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/02-00.png)
-{"style":{"text":{"color": "#84b4c1", "typeface": "Omnes-Bold", "align": "center"}}}
+{"style":{"text":{"color": "#84b4c1", "typeface": "Omnes-Bold", "align": "center"}, "block":{"backgroundColor": "#181818ad"}}}
 God Made the\
 ^[Light]({"style":{"text":{"color": "#fad656", "typeface": "Omnes-BoldItalic"}}})
 ^^^
@@ -14,17 +16,19 @@ God Made the\
 {"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/02-01.png)
 {"style":{"text":{"color": "#ffffff"}}}
-In the _**beginning**_, before there were white fluffy clouds or fuzzy caterpillars, there was God. Before there were twinkly stars or an ocean so blue, God created a special place for you. There was so much He would do. In _(count with your fingers to six)_ one... two... three... four... five... six days the world would be perfect and new.  God would fill the earth with colors to see: red, yellow, blue, and green. There would be new sounds to hear and tasty food to eat. Best of all would be the friends He would meet. God is so good, and everything He made for us is good.
+_Sit with your child under a blanket with a flashlight._\
+In the beginning, before there were lion cubs having fun, or cheetahs on the run, there was God. Before God created the earth for you and me, it was dark and empty. It was so dark (whisper). No glimmer of light shone. There was no sun or moon, nor twinkling stars to see. God had a special plan for Day 1 (hold up one finger). The time had come, and He was excited to begin! He was going to make a wonderful world for you and me. This would be the first day of Creation. All was quiet, waiting to see what God would do.  
 ^^^
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/02-02.png)
 {"style":{"text":{"color": "#ffffff"}}}
-In the beginning the earth was covered in water. There were no playful dolphins or great big whales; no boats ready to set sail. God wanted to create a beautiful place for you to be, with animals big _(arms out wide)_ and small _(hands close together)_ for you to see. He wanted to make people like you (point to child) and like me _(point to self)_. So He did. God is so good, and everything He made for us is good. In the beginning the earth was empty and dark. There were no twinkling stars _(wiggle fingers)_ shining in the darkness; no owls hooting from their nests _(hoo-hoo)_. God wanted to create a wonderful world for you to see, filled with light for both day and night. He wanted to make a special day for time with you. So He did. God is so good, and everything He made for us is good.
+Then out of the darkness God’s strong, kind voice echoed across the water: “Let there be light!” (Child turns on flashlight.) And there was light! God spoke, and the darkness was gone! Light sparkled across the water covering the earth (wiggle fingers, moving them side to side). God created light to brighten each day and separated it from the darkness at night. It was the very first morning on earth. A morning shimmering with the colors of light. God saw the light and said that it was good.
 ^^^
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/02-03.png)
-{"style":{"block": {"backgroundColor": "#ffffffad"},"text":{"color": "#000000"}}}
-In the beginning God created the heavens and the earth _(point up and down)_ for you and me. God filled the earth with grassy fields and honeybees and tumbling streams and crashing seas because He loves you. He made the heavens with the sun and moon to see. God wanted to create all this for you and me. What would God make on Day 1? _(Point to the circle with number 1.)_ God is so good, and everything He made for us is good.
+{"style":{"block": {"backgroundColor": "#02addb66"},"text":{"color": "#ffffff"}}}
+God made the light to fill the earth on Day 1. Can you see light shining all around? God’s beautiful light shines each day, a gift of love for you and me  (hug child). God’s perfect plan had begun.  There was much more God would do.  Each day would bring something new. What would He create on Day 2? (Hold up two fingers.)\
+(Say together) Thank You, God, for making the light!
 ^^^
 ;;;

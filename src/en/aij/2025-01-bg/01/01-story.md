@@ -1,6 +1,8 @@
 ---
 title: In the Beginning
 type: story
+audio:
+    src: ABSG-2025-01-BG-01.mp3
 ---
 
 ;;;
@@ -11,6 +13,7 @@ In the\
 ^[Beginning]({"style":{"text":{"color": "#ee6d23", "typeface": "Omnes-BoldItalic"}}})
 ^^^
 ^^^
+{"style": {"image": {"variants": {"portrait": "hello.png"}}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/test/blocks/story1.png)
 {"style":{"text":{"color": "#ffffff"}}}
 In the _**beginning**_, before there were white fluffy clouds or fuzzy caterpillars, there was God. Before there were twinkly stars or an ocean so blue, God created a special place for you. There was so much He would do. In _(count with your fingers to six)_ one... two... three... four... five... six days the world would be perfect and new.  God would fill the earth with colors to see: red, yellow, blue, and green. There would be new sounds to hear and tasty food to eat. Best of all would be the friends He would meet. God is so good, and everything He made for us is good.

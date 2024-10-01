@@ -11,15 +11,18 @@ defaultStyles:
     text:
       typeface: BaskervilleBT-Roman
       align: center
-background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/02/hm-background.png
+background: 02-04.png
 ---
 
-God really is so good, and everything God made is good. God took an empty, dark expanse and filled it with His goodness. He created the earth full of good things for you and your children! He wants you to know and see that He is good. God longs to fill your life with His goodness. In the busyness of each day, how easily this can be overlooked. “In singing bird and opening blossom, in rain and sunshine, in summer breeze and gentle dew, in ten thousand objects in nature, from the oak of the forest to the violet that blossoms at its root, is seen the love that restores. And nature still speaks to us of God’s goodness” (Ellen G. White, Child Guidance, p. 47).
+Imagine the beautiful and majestic sound of God’s voice echoing across the water. In Psalms we read of God’s voice as “thunder” and in Revelation as the “roar of many waters.” It is this same powerful, almighty voice, which welcomed light to brighten the darkness, that also gently calls to you. Just as you invite your children to come sit with you to share a story or a hug, God also longs to draw you close, and to fill your life with His light. 
 
-Ask God to reveal His goodness to you throughout your busy days. The more you seek Him in each moment, the more your eyes will be open to discover Him. Even when your day may seem dark or empty, you will begin to see that His goodness is there ready to fill the emptiness. Whether in a call from a friend or the sunrise each morning, God’s goodness is all around you. Look for Him, and He promises you will find Him (Proverbs 8:17). Share His goodness with those around you, and they too will discover that He truly is good!
+On that first day of Creation the earth was glowing with light, the very presence of God. God’s light is pure and good. It illuminates the dark, shadowy places with His goodness. It comforts us when our days are overwhelmed with darkness, and reminds us that every morning is a fresh new day. 
 
-> <cite>1 Chronicles 16:34</cite>
-> “Oh, give thanks to the Lord, for He is good! For His mercy endures forever”
+You may have moments when your day is full, yet you feel empty. You have tripped over toys or cleaned food off the floor one too many times, your energy and patience drained. It is in those moments that it can be the hardest to answer His invitation. 
 
-> <cite>Psalm 145:9</cite>
-> “The Lord is good to all, and His tender mercies are over all His works”.
+Take a breath, exhale a prayer, or sing a praise to God. “Song has wonderful power. It has power to subdue rude and uncultivated natures; power to quicken thought and to awaken sympathy, to promote harmony of action, and to banish gloom and foreboding that destroy courage and weaken effort” (Ellen G. White, Education, p. 168).
+
+His light will shine in your heart. It cannot be contained. The glorious light of God will radiate through your life, renewing your spirit and filling your home with His goodness. 
+
+> <cite>2 Corinthians 4:6, 7, ICB</cite>
+> “God once said, ‘Let the light shine out of the darkness!’ And this is the same God who made his light shine in our hearts. He gave us light by letting us know the glory of God that is in the face of Christ. We have this treasure from God. But we are only like clay jars that hold the treasure. This shows that this great power is from God, not from us”

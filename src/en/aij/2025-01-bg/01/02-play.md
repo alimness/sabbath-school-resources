@@ -1,5 +1,5 @@
 ---
-title: Play throughout the day
+title: Play Throughout the Day
 markdownTitle: '^[play]({"style": {"text": {"color": "#d9b228"}}}) throughout the day'
 cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/01/play-cover.png
 titleBelowCover: true
@@ -35,3 +35,6 @@ Throughout the week, watch for the goodness of God and talk about it with your c
 Learn
 
 Sing “God Is So Good” or another song that emphasizes God’s love with your child.
+
+{"style": {"text": {"color": "#5EB6AD", "typeface": "Omnes-Regular"}}}
+**Extension weekly memory verse**: “In the beginning God created the heavens and the earth” (Genesis 1:1).

@@ -1,5 +1,5 @@
 ---
-title: Play throughout the day
+title: Play Throughout the Day
 markdownTitle: '^[play]({"style": {"text": {"color": "#5cc8d8"}}}) throughout the day'
 cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/02/play-cover.png
 titleBelowCover: true
@@ -14,24 +14,27 @@ defaultStyles:
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Create
 
-Make a Creation Book with your child. Use loose sheets of plain paper to form the book, which can be bound together at the end of the quarter. Each week a new creation day will be added. This week, focus on the cover. Ask your child to think of some of their favorite things that God created. Find and print pictures of animals or plants, or draw these together on the front cover. Then write the memory verse on the front cover.
+Work on Day 1 in your child’s Creation Book (from last week). Cut black and yellow cardstock into strips and glue these down to show the difference between light and dark. Write, “On Day 1 God Made the Light,” at the bottom of the page. 
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Explore
 
-Use water play to learn about God’s creation. Fill a plastic bin one-third full of water. Provide your child with a variety of items to design and create their own little world: driftwood pieces, aquarium plants, pebbles, twigs, flowers, leaves, and plastic fish and ducks.
-
-{"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
-Connect
-
-Write out the memory verse on a piece of paper and then cut each word up separately. Draw a picture on the back of each word to help your child understand what it says. Hide the word pictures around the room and send your child on a treasure hunt to find them. Once they are found, help your child place the words in the right order and say the verse a few times to learn it. Isn’t God amazing to create such a wonderful world!
-
-{"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
-Pray
-
-Throughout the week, watch for the goodness of God and talk about it with your child. Explore your neighborhood or backyard for the good things God has made for us. As you discover God’s goodness with your child, pause to say “Thank You” to God for each specific thing.
+Before bed one night, build a blanket fort and hide toy animals in it. Share how when light shines into the darkness it can help us find the good things that God has made. Take time to pray and thank God for His wonderful light that brightens our world.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Learn
 
-Sing “God Is So Good” or another song that emphasizes God’s love with your child.
+Light is made up of a rainbow of colors. Fill a clear cup with water and set it at the edge of a table. Place a white sheet of paper on the floor one foot away. Shine a flashlight through the cup of water so the light is refracted into individual colors that shine onto the paper. (Some flashlights may need a small slit to focus the beam, which can be created by using masking tape across the light.) Praise God for each of the beautiful colors He made for us.
+
+{"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
+Sing
+
+Sing “This Little Light of Mine” together for worships this week. Wave a flashlight or battery candle while you sing.
+
+{"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
+Pray
+
+Put a string of Christmas lights up in your child’s room this week. Before bed every night, take time to pray, thanking God for creating light. Ask Jesus to help you to be a shining light for Him.
+
+{"style": {"text": {"color": "#3379be", "typeface": "Omnes-Regular"}}}
+**Extension weekly memory verse**: “Then God said, ‘Let there be light’; and there was light” (Genesis 1:3).
