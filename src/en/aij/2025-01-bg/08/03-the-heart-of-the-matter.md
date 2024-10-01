@@ -11,7 +11,7 @@ defaultStyles:
     text:
       typeface: BaskervilleBT-Roman
       align: center
-background: 08-04.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/08-04.png
 ---
 
 Winged animals and creatures of the sea were the first of the animals God would make. He blessed them to go forth and multiply. Everything was good, and nothing was destructive. How amazing it is to witness the goodness and creativity of God! But after Adam and Eve sinned, each species developed a unique ability for their survival. The lanternfish uses a light to lure its breakfast, while the ostrich can run up to 43 mph using its wings as rudders to turn quickly and avoid predators. In heaven and the earth made new, though, there will be no pain, suffering, or death, just as God had made it in the beginning.

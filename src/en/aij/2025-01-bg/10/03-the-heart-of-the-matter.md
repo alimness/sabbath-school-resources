@@ -11,7 +11,7 @@ defaultStyles:
     text:
       typeface: BaskervilleBT-Roman
       align: center
-background: 10-04.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/10-04.png
 ---
 
 What an exciting day the sixth day of Creation must have been! God created animals of every shape, size, and color imaginable. When spending time in nature, pause for a moment and ponder the amazing creativity of God. It is in the animals’ incredible design that we can see the divine nature of God. 

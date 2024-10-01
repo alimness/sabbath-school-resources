@@ -2,7 +2,7 @@
 title: In the Beginning
 type: story
 audio:
-    src: ABSG-2025-01-BG-01.mp3
+    src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-01.mp3
 ---
 
 ;;;

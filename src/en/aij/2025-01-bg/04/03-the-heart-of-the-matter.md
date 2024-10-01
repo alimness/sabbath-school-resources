@@ -11,7 +11,7 @@ defaultStyles:
     text:
       typeface: BaskervilleBT-Roman
       align: center
-background: 04-04.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/04-04.png
 ---
 
 The water rushed to be within the boundaries God designed for it. Rivers and lakes flowed within their banks, the sea in its place. These boundaries would keep the water from overtaking the dry land, creating space where things would grow. God, in His infinite wisdom and creativity, crafted beautiful meandering rivers and oceans with the boundaries necessary to provide the balance needed between water and land. 

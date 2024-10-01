@@ -11,7 +11,7 @@ defaultStyles:
     text:
       typeface: BaskervilleBT-Roman
       align: center
-background: 09-04.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/09-04.png
 ---
 
 Have you ever stopped and watched a large bird soar, getting higher and higher with seemingly no effort at all? The Andean condor, one of the world’s heaviest flying birds, can fly up to 21,325 feet (6,500 meters). That is higher than Kilimanjaro, the highest peak in Africa, or Mount Denali, the highest peak in North America.  

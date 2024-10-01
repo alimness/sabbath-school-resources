@@ -11,7 +11,7 @@ defaultStyles:
     text:
       typeface: BaskervilleBT-Roman
       align: center
-background: 07-04.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/07-04.png
 ---
 
 “More, please” is a phrase often heard in the home of a young child. Having read the story ten times already or played the same game more times than you can count, you take a breath and do it once again. What is it about doing something again and again that is so appealing? To our adult minds, this repetition can seem boring or even annoying. The small child, however, thrives on being able to anticipate what comes next. Whether knowing what is on the next page of the book or the next activity in Sabbath School, the expected is comforting and fun! 

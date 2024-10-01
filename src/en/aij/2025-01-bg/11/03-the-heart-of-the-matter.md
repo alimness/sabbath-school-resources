@@ -11,7 +11,7 @@ defaultStyles:
     text:
       typeface: BaskervilleBT-Roman
       align: center
-background: 11-04.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/11-04.png
 ---
 
 As you wander the aisles of the toy section of the store or look through pages upon pages of online toys available to buy for your child’s birthday, the choices seem endless. You take care and time to decide just what they might enjoy the most. What will help them learn and develop new skills, what will they be drawn to play with, and what will hold their attention for the longest amount of time? You imagine just what the perfect gift will be for them.

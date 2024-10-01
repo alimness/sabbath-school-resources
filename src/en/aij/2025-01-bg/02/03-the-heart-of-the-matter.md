@@ -11,7 +11,7 @@ defaultStyles:
     text:
       typeface: BaskervilleBT-Roman
       align: center
-background: 02-04.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/02-04.png
 ---
 
 Imagine the beautiful and majestic sound of God’s voice echoing across the water. In Psalms we read of God’s voice as “thunder” and in Revelation as the “roar of many waters.” It is this same powerful, almighty voice, which welcomed light to brighten the darkness, that also gently calls to you. Just as you invite your children to come sit with you to share a story or a hug, God also longs to draw you close, and to fill your life with His light. 
