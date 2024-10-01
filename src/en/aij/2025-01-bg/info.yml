@@ -2,8 +2,27 @@ title: Creation
 subtitle: Year A. Quarter 1
 primaryColor: '#39788D'
 primaryColorDark: '#1F5A6D'
-categories:
-  - love
+credits:
+  - name: Principal Contributor
+    value: Linda Schaffner
+  - name: Curriculum Manager and Senior Editor
+    value: Nina Atcheson
+  - name: Editor
+    value: Rosanne Peach
+  - name: Editorial Assistant
+    value: Denise Gustafson
+  - name: World Sabbath School Directors
+    value: Jim Howard and Daniel Ebenezer
+  - name: Biblical Research Institute Advisor
+    value: Clinton Wahlen
+  - name: Creative Director
+    value: Meredith Herzel
+  - name: Illustrator
+    value: Hannah Justinen
+  - name: Designer
+    value: Types & Symbols
+  - name: Copy Editors
+    value: James and Ida Cavil
 covers:
   landscape: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/cover-landscape.png
