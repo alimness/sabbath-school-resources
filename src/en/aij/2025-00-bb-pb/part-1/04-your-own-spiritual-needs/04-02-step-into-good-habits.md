@@ -24,3 +24,5 @@ types of evil behavior. Instead, [help me to be]\
 kind . . . tenderhearted, forgiving . . . just as God\
 through Christ has forgiven [me]”\
 (Ephesians 4:31, 32, NLT).
+
+![](special-baby.png)

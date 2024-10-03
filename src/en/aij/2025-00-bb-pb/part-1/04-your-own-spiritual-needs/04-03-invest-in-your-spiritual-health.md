@@ -49,6 +49,8 @@ find time to spend with God. Ask Him\
 to show you how and when you can\
 spend time with Him each day.
 
+![](chair.png)
+
 #### ^[Inspiration tells me ...]({"style":{"text":{"color": "#a65726"}}})
 
 {"style":{"text":{"color":"#bf9648", "typeface": "BaskervilleBT-Roman"}}}

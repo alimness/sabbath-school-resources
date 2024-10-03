@@ -1,11 +1,18 @@
 ---
 title: 0-3 Months
+markdownTitle: Growing With Jesus in Each Stage
+cover: gloves.png
 ---
 
 Even though not all babies develop at the same rate, you can use the guide below to identify developmental characteristics during the first 12 months of their life. At each stage you will find suggestions of what can be done within your home and sphere of influence to intentionally foster character growth and spiritual development.
 
 {"style": {"text": {"size": "sm"}}}
 _The development stages are taken from the parameters of the American Psychological Association of the ACT Raising Safe Kids Program and the Description Children’s Hospital of Orange County affiliated with the University of California._
+
+![](0-3m.png)
+
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+0-3 MONTHS
 
 {"style": {"text": {"color": "#bf9648"}}}
 _Babies often have these characteristics during their first 3 months of life:_

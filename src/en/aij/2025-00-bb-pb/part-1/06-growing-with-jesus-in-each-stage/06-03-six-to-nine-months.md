@@ -1,5 +1,6 @@
 ---
 title: 6–9 Months
+cover: 6-9m.png
 ---
 
 Even though not all babies develop at the same rate, you can use the guide below to identify developmental characteristics during the first 12 months of their life. At each stage you will find suggestions of what can be done within your home and sphere of influence to intentionally foster character growth and spiritual development.
@@ -78,3 +79,5 @@ Lord, help (_your baby’s name_) to increase\
 “in wisdom and in stature, and in favor\
 with God and men”\
 (Luke 2:52).
+
+![](boots.png)

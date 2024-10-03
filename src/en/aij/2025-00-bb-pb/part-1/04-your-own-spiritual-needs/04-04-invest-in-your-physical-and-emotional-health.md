@@ -14,6 +14,9 @@ In order for you to be a healthy parent who will model God’s love to your baby
 
 Healthy eating, drinking more water, fresh air, and regular exercise will help your mind and body and will sustain you during the challenging days. And during those weeks when you’re sleep-deprived and feeling empty, when you don’t succeed in eating healthy, when you don’t drink enough water or manage to exercise enough, remember that tomorrow is a new day. Look for small ways to care for yourself, remembering that even a short walk is better than no walk at all. Find ways to fill your own emotional tank through conversations with extended family or friends, a mentor, and other parents.
 
+{"style": {"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
+![](field-2.png)
+
 {"style":{"text":{"color":"#bf9648", "typeface": "PTSans-Bold", "size": "lg"}}}
 Tips for a Physical Recharge:
 

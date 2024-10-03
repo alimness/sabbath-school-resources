@@ -1,7 +1,11 @@
 ---
 title: Routine and Tidiness in Your Home
-cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/tools.png
+markdownTitle: "Other Tools for Your\\\n Baby’s Spiritual Growth"
+cover: tools.png
 ---
+
+{"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
+Routine and Tidiness in Your Home
 
 The physical atmosphere of your home gives a valuable message in your baby’s education. A bright, tidy, and clean home, along with work and recreational activities that bring peace and are in harmony with the Bible, generate an ideal environment for the development of your child.
 
@@ -15,16 +19,19 @@ Whenever you are doing chores around your child, do them cheerfully and positive
 
 Your little one will greatly benefit from a home environment that has a sense of calm and order. Daily routines and habits help to create this kind of environment. When your baby first arrives home, it will be helpful to reorganize family routines for the benefit of them and the whole family. As soon as possible, establish a routine of regular sleep, feed, and rest time with your baby. This will allow both of you to be rested, and it helps to maintain physical and emotional balance and positive family relationships. Whenever your daily routine allows it, try to enjoy an outdoor walk so your child can experiment with their senses in nature by touching, smelling, hearing, and seeing all that is around them.
 
+![](collage-4.png)
+
 As you introduce these home routines, also introduce spiritual routines as soon as possible. Character development is vital in the early years. Prayer (spoken or sung) when getting up and when going to bed and before each meal, family worship, special worship with your baby, and incidental conversations about God are all practices that can be woven into the fabric of your little one’s daily life as they grow. These practices will all be further explored within this book. These routines can make a deep impact on their mind and will lay the foundation for Christ-centered character development.
 
 {"style":{"text":{"color":"#a65726", "typeface": "PTSans-Bold"}}}
 INSPIRATION TELLS ME . . .
 
-> <cite>1 Corinthians 14:33</cite>
-> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“For God is not the author of confusion”.
+{"style":{"text":{"color":"#bf9648", "typeface": "BaskervilleBT-Roman"}}}
+^[“For God is not the author of confusion”.]({"style": {"text": {"typeface": "BaskervilleBT-BoldItalic"}}}) _(1 Corinthians 14:33)_.
 
-> <cite>Ellen G. White, Child Guidance, p. 109</cite>
-> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“Keep everything the eyes of the children rest upon and that comes in contact with the body, night or day, clean and wholesome. This will be one means of educating them to choose the cleanly and the pure. Let the sleeping room of your children be neat, however destitute it may be of expensive furniture”.
+{"style":{"text":{"color":"#bf9648", "typeface": "BaskervilleBT-Roman"}}}
+^[“Keep everything the eyes of the children rest upon and that comes in contact with the body, night or day, clean and wholesome. This will be one means of educating them to choose the cleanly and the pure. Let the sleeping room of your children be neat, however destitute it may be of expensive furniture”]({"style": {"text": {"typeface": "BaskervilleBT-BoldItalic"}}}) _(Ellen G. White,_ Child Guidance, _p. 109)_.
+
 
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
 ^[TIPS]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}): The first simple rules a baby learns are:

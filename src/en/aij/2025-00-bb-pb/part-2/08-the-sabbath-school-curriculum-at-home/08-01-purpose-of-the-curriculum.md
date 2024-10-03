@@ -1,5 +1,6 @@
 ---
 title: The Sabbath School Curriculum at Home
+markdownTitle: "The Sabbath School\\\n Curriculum at Home"
 cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-08-the-sabbath-school-curriculum-at-home/plant.png
 ---
 

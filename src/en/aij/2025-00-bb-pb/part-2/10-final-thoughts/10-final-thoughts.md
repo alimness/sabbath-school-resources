@@ -16,4 +16,7 @@ May you faithfully sow the love and thoughts of Jesus into your little one’s l
 “The Lord bless you and keep you;\
 The Lord make His face shine upon you, And be gracious to you;\
 The Lord lift up His countenance upon you, And give you peace”.\
-Numbers 6:24–26 
+(Numbers 6:24–26).
+
+{"style": {"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
+![](collage-13.png)

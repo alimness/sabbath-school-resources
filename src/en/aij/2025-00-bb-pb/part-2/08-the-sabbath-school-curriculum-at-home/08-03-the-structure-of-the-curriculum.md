@@ -1,13 +1,19 @@
 ---
 title: The Structure of the Curriculum
+defaultStyles:
+  title:
+    text:
+      typeface: Astralaga Bold
+      color: '#c18967'
+      align: left
 ---
 
-The Baby Steps curriculum consists of four quarterly programs. Each program is repeated every week for a full quarter. The topics have been carefully selected for their potential to express God’s love, to show nature as God’s second book, and to appeal to the senses. Your little one will begin understanding God’s love and care through their senses.
+The _Baby Steps_ curriculum consists of four quarterly programs. Each program is repeated every week for a full quarter. The topics have been carefully selected for their potential to express God’s love, to show nature as God’s second book, and to appeal to the senses. Your little one will begin understanding God’s love and care through their senses.
 
 _Please note that these lessons can begin at any time throughout the year. The time frame below is offered as a guide._
 
 {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
-The four lessons are
+The four lessons are:
 
 {"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
 Lesson One

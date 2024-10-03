@@ -1,5 +1,11 @@
 ---
 title: The Sabbath
+defaultStyles:
+  title:
+    text:
+      typeface: Astralaga Bold
+      color: '#c18967'
+      align: left
 ---
 
 Acknowledging and keeping the Sabbath is an important part of what it means to be a Seventh-day Adventist. It is a special day that is different from the other days of the week. When God rested on the Sabbath, He blessed it, He sanctified it, and He made it holy (Genesis 2:2, 3). God asks us to remember the Sabbath every Friday sundown through Saturday sundown so that we can rest from the busyness and pressures of this life, while investing in time with God, worshipping with a community of believers, and being a blessing to those we can serve. We grow in knowledge of Him and His Word, and our love for God grows deeper as we spend time with Him.
@@ -23,6 +29,8 @@ Here are some ideas to help make the Sabbath a day of delight and remembrance:
 
 {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
 Do all you can to make the Sabbath a delight—the best day of the week!
+
+![](sparrow.png)
 
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
 **^[Tips for Older Children:]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}})**

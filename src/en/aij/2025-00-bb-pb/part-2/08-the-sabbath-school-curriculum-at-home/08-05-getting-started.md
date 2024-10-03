@@ -1,6 +1,12 @@
 ---
 title: Getting Started
 cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-08-the-sabbath-school-curriculum-at-home/getting-started-cover.png
+defaultStyles:
+  title:
+    text:
+      typeface: Astralaga Bold
+      color: '#c18967'
+      align: left
 ---
 
 When your baby is about 2 months old (depending on your little one’s engagement and eye contact), catch their attention and say, “Look at this flower” (showing a natural flower or an artificial flower that looks natural). “What a beautiful color! It smells beautiful! I wonder who made the flowers?”
@@ -31,6 +37,11 @@ Babies 0–3 months:
 + **You may also like to sing these songs incidentally** throughout the day as you notice something that relates to one of them.
 + **If you have other older children at home**, try to set aside a special time (about five minutes) to have one-to-one time with your baby, speaking quietly about God’s love. You will still want to have worship together as a family, but this is your special time, to bond closely with just your little one.
 
+![](collage-10.png)
+
+{"style": {"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
+![](collage-11.png)
+
 {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 Babies 3–6 months (with previous experience):
 
@@ -38,6 +49,9 @@ Babies 3–6 months (with previous experience):
 + **As your little one grows and their routine changes** (for example, they stay awake longer, need more or less activities, move more, etc.), you will invariably need to adjust the time. However, try to be consistent and keep to your regular routine. It will be a precious moment for you to be able to connect with your baby and teach them about God’s love.
 + **Watch for indications of “learning” through your little one’s reactions**, facial expressions, the odd word or two, or their attempts to sing the songs from the program. Begin a gradual transition from one story to the next. This is more important the younger they are, as it provides security in the process.
 + **With a consistent and faithful routine**, you will discover that by the sixth month your baby will respond to your worship time with smiles and will be able to pay almost constant attention for about five minutes.
+
+{"style": {"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
+![](collage-12.png)
 
 {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 Babies 6–12 months (with previous experience):

@@ -1,6 +1,12 @@
 ---
 title: Music
 cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/cover.png
+defaultStyles:
+  title:
+    text:
+      typeface: Astralaga Bold
+      color: '#c18967'
+      align: left
 ---
 
 + Studies have shown that premature babies gain weight more easily when listening to classical music in the intensive-care unit, which contributes to them being discharged faster and having greater chances of survival (Lubetzky, Memouni, et al., 2010).
@@ -36,7 +42,7 @@ Through the rhythms of different pieces of music, your baby’s body expressions
 {"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
 Spiritual and character development
 
-Music has the power to awaken in your baby sympathy, to banish the gloom, and to promote effort and courage (Ellen G. White, Education, p. 167).
+Music has the power to awaken in your baby sympathy, to banish the gloom, and to promote effort and courage (Ellen G. White, _Education_, p. 167).
 
 Generally, the first musical manifestation that your child perceives is the melodies you sing when you want to put them to sleep or comfort them. Sing to your child regularly!
 
@@ -47,8 +53,11 @@ You have probably seen that children are very happy when they jump, move, clap t
 {"style":{"text":{"color":"#a65726", "typeface": "PTSans-Bold"}}}
 INSPIRATION TELLS ME . . .
 
-> <cite>Psalm 57:7</cite>
-> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“My heart is steadfast, O God, my heart is steadfast; I will sing and give praise”.
+{"style":{"text":{"color":"#bf9648", "typeface": "BaskervilleBT-Roman"}}}
+^[“My heart is steadfast, O God, my heart is steadfast; I will sing and give praise”]({"style": {"text": {"typeface": "BaskervilleBT-BoldItalic"}}}) _(Psalm 57:7)_.
 
-> <cite>Ellen G. White, Education, p. 168</cite>
-> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“[Music] is one of the most effective means of impressing the heart with spiritual truth. How often to the soul hard-pressed and ready to despair, memory recalls some word of God’s—the long-forgotten burden of a childhood song—and temptations lose their power, life takes on new meaning and new purpose, and courage and gladness are imparted to other souls!”.
+{"style":{"text":{"color":"#bf9648", "typeface": "BaskervilleBT-Roman"}}}
+^[“[Music] is one of the most effective means of impressing the heart with spiritual truth. How often to the soul hard-pressed and ready to despair, memory recalls some word of God’s—the long-forgotten burden of a childhood song—and temptations lose their power, life takes on new meaning and new purpose, and courage and gladness are imparted to other souls!”]({"style": {"text": {"typeface": "BaskervilleBT-BoldItalic"}}}) _(Ellen G. White_, Education, _p. 168)_.
+
+{"style": {"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
+![](collage-5.png)
