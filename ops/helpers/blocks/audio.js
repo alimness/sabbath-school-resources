@@ -9,7 +9,7 @@ export const audio = {
                 let caption = match[3] ?? null
                 let credits = null
                 if (caption) {
-                    caption = caption.replace(/[\(\)]/g, "").trim()
+                    caption = caption.trim()
                     const creditsRule = /({\s*"credits"\s*:.*})/g
                     const hasCredits = creditsRule.exec(caption)
 
