@@ -1,6 +1,6 @@
 ---
 title: 3–6 Months
-cover: 3-6m.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/3-6m.png
 ---
 
 Even though not all babies develop at the same rate, you can use the guide below to identify developmental characteristics during the first 12 months of their life. At each stage you will find suggestions of what can be done within your home and sphere of influence to intentionally foster character growth and spiritual development.
@@ -70,7 +70,8 @@ To help your baby feel loved and cared for, and to help them consolidate their d
 + **When your baby sees something, point it out and describe it**.
 + **When your baby drops something, pick it up and give it back**. They will learn about the cause-and-effect relationship.
 
-![](watering-can.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/watering-can.png)
 
 {"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
 Ideas for Growing in Jesus
@@ -92,4 +93,5 @@ night so (your baby’s name) becomes like a tree\
 planted by the rivers of water, that brings forth\
 its fruit in its season (see Psalm 1:2, 3).
 
-![](vase.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/vase.png)

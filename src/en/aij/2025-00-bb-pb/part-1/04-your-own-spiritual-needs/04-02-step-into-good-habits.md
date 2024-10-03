@@ -25,4 +25,5 @@ kind . . . tenderhearted, forgiving . . . just as God\
 through Christ has forgiven [me]”\
 (Ephesians 4:31, 32, NLT).
 
-![](special-baby.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-04-your-own-spiritual-needs/special-baby.png)

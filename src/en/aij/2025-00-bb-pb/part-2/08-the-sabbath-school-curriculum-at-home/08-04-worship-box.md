@@ -12,7 +12,8 @@ Props and objects are great tools to use when teaching stories and lessons to yo
 
 Some churches may provide you with the option of purchasing the Alive in Jesus Baby Worship Box. If this is not available to you, you may like to make up one of your own or improvise using the resources listed below. Choose objects that have different textures, bright colors, and make sounds, ensuring that safety is a priority. Don’t worry if you don’t have a lot of toys. Remember that the best toys are found in nature, and you can also use some of the safe items you already have in your home. When you go out for a walk, look for natural objects that can be your learning materials—making sure that safety is your first priority.
 
-![](collage-9.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-08-the-sabbath-school-curriculum-at-home/collage-9.png)
 
 {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}
 Here are some ideas of things that you could keep in your basket or box that support the learning of each quarter’s story and lesson:

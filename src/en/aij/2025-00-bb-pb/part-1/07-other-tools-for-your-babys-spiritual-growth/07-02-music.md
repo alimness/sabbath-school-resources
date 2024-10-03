@@ -59,5 +59,5 @@ INSPIRATION TELLS ME . . .
 {"style":{"text":{"color":"#bf9648", "typeface": "BaskervilleBT-Roman"}}}
 ^[“[Music] is one of the most effective means of impressing the heart with spiritual truth. How often to the soul hard-pressed and ready to despair, memory recalls some word of God’s—the long-forgotten burden of a childhood song—and temptations lose their power, life takes on new meaning and new purpose, and courage and gladness are imparted to other souls!”]({"style": {"text": {"typeface": "BaskervilleBT-BoldItalic"}}}) _(Ellen G. White_, Education, _p. 168)_.
 
-{"style": {"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
-![](collage-5.png)
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/collage-5.png)

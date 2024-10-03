@@ -26,4 +26,5 @@ Please help (your baby’s name) to learn to “be joyful because you have hope.
 \
 “We should pray to God much more than we do. There is great strength and blessing in praying together in our families, with and for our children” (Ellen G. White, _Child Guidance_, p. 525).
 
-![](collage-6.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/collage-6.png)

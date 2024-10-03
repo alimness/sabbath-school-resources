@@ -1,7 +1,7 @@
 ---
 title: Spiritual Habits for the Family
 markdownTitle: "Spiritual Habits\\\n for the Family"
-cover: pot.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/pot.png
 ---
 
 Though your baby cannot express it, they will be very aware of the time, energy, and joy that you invest in spiritual habits within your home. Family worship, baby worship, prayer, spiritual conversations, Sabbath activities, and engagement at church will all be gradually absorbed. Through these activities your baby will come to sense how important God is in your home and how important other things are: work, your spouse, extended family, money, screen time, friends, and entertainment. Prioritizing family worship, the Sabbath, and church will demonstrate just how important Jesus is to your family. In this chapter we will look at the importance of family worship, the Sabbath, and church and offer some general ideas for how you can make these areas joy-filled in your home. In the next chapter there will be more specific ideas in accordance with your baby’s developmental age.
@@ -19,7 +19,8 @@ Because worship is not a “thing” but something we do, try to do all you can 
 
 In the next chapter you will find age-appropriate ideas that you may like to implement for family worship with your baby. You will find a summary of ideas for each developmental stage as your baby grows. (Also see Part 2 of this book for the Sabbath School program, which you can do each day at home, to be reinforced and repeated every Sabbath at church.)
 
-![](importance.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/importance.png)
 
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
 ^[TIP]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}): Here are some general ideas of how you can make family worship something everyone can enjoy:\
@@ -30,8 +31,8 @@ In the next chapter you will find age-appropriate ideas that you may like to imp
 \
 **^[Prayer]({"style":{"text":{"color": "#bf9648"}}})**: Since your baby has a very short attention span, it’s important for prayers to be short and to the point when you are praying with your child. Avoid repetition and meaningless words. Try to express to God what you want to say in three or four spontaneous and simple phrases. Pray as Jesus taught us to pray, addressing the Father in the name of Jesus.
 
-{"style": {"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
-![](field.png)
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/field.png)
 
 {"style":{"text":{"color": "#a65726", "align": "center"},"wrapper": { "backgroundImage": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/prayer-background.png", "backgroundPosition": { "x": "center", "y": "top" }}}}
 ^[Prayer Prompt]({"style":{"text":{"size": "xl", "typeface": "BaskervilleBT-Bold"}}})\

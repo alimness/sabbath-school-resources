@@ -30,7 +30,8 @@ Here are some ideas to help make the Sabbath a day of delight and remembrance:
 {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
 Do all you can to make the Sabbath a delight—the best day of the week!
 
-![](sparrow.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/sparrow.png)
 
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
 **^[Tips for Older Children:]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}})**

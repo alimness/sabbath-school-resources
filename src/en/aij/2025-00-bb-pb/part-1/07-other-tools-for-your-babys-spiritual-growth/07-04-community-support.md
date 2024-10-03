@@ -14,7 +14,8 @@ You might be surprised that many other parents have similar thoughts to these. A
 
 A support group can invite both experienced parents and new parents to share with each other and offer advice in various ways.
 
-![](collage-7.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/collage-7.png)
 
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
 ^[TIP]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}): ^[Here are some support group ideas:]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})
@@ -25,4 +26,5 @@ A support group can invite both experienced parents and new parents to share wit
 **Choose a mission project for the Sabbath School class**, such as helping a family in need or sharing with mothers from the community and inviting them to your Sabbath School program.\
 **Study the _Adult Bible Study Guide_ Sabbath School lesson** from the perspective of families with babies. This study can be done from the perspective of how the topic of the week’s study can be applied to a home with babies, in the effort of making the children disciples of Jesus.
 
-![](open-book.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/open-book.png)

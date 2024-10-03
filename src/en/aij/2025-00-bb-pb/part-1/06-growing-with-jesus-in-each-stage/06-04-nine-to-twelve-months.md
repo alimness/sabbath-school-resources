@@ -1,6 +1,6 @@
 ---
 title: 9-12 Months
-cover: 9-12m.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/9-12m.png
 ---
 
 Even though not all babies develop at the same rate, you can use the guide below to identify developmental characteristics during the first 12 months of their life. At each stage you will find suggestions of what can be done within your home and sphere of influence to intentionally foster character growth and spiritual development.
@@ -74,10 +74,11 @@ Character Development Ideas
 + **It can be helpful to limit the number of toys your child can play with each week**. Try offering them a few toys rather than everything they own. Put the rest away. They will play with a few toys in a more focused way, as they will be less distracted, and they can learn to put their own toys away more easily when they are a little older. Plus, it will make tidying up even easier for you.
 + **Try to always be consistent with your baby**, with yourself, and with the rest of your family.
 
-![](collage.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/collage.png)
 
-{"style": {"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
-![](collage-2.png)
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/collage-2.png)
 
 {"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
 Ideas for Growing in Jesus
@@ -92,8 +93,8 @@ In addition to what has been identified in earlier stages, your baby can now lea
 + **Encourage them to participate in family worship on your lap**, so they can learn reverence and enjoy family time. They can participate as much as possible with Bible stories, especially if they have older siblings.
 + **Take your little one to their Sabbath School**.
 
-{"style": {"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
-![](collage-3.png)
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/collage-3.png)
 
 + **Read your baby age-appropriate Bible books** with colorful illustrations and explain what each picture shows. Ask them to point to different objects on the pages.
 + **Take your baby to church**. Encourage reverence and worship even from this early age.

@@ -1,7 +1,7 @@
 ---
 title: Routine and Tidiness in Your Home
 markdownTitle: "Other Tools for Your\\\n Baby’s Spiritual Growth"
-cover: tools.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/tools.png
 ---
 
 {"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
@@ -19,7 +19,8 @@ Whenever you are doing chores around your child, do them cheerfully and positive
 
 Your little one will greatly benefit from a home environment that has a sense of calm and order. Daily routines and habits help to create this kind of environment. When your baby first arrives home, it will be helpful to reorganize family routines for the benefit of them and the whole family. As soon as possible, establish a routine of regular sleep, feed, and rest time with your baby. This will allow both of you to be rested, and it helps to maintain physical and emotional balance and positive family relationships. Whenever your daily routine allows it, try to enjoy an outdoor walk so your child can experiment with their senses in nature by touching, smelling, hearing, and seeing all that is around them.
 
-![](collage-4.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/collage-4.png)
 
 As you introduce these home routines, also introduce spiritual routines as soon as possible. Character development is vital in the early years. Prayer (spoken or sung) when getting up and when going to bed and before each meal, family worship, special worship with your baby, and incidental conversations about God are all practices that can be woven into the fabric of your little one’s daily life as they grow. These practices will all be further explored within this book. These routines can make a deep impact on their mind and will lay the foundation for Christ-centered character development.
 

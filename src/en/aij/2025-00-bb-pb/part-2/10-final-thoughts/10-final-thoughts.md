@@ -18,5 +18,5 @@ The Lord make His face shine upon you, And be gracious to you;\
 The Lord lift up His countenance upon you, And give you peace”.\
 (Numbers 6:24–26).
 
-{"style": {"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
-![](collage-13.png)
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-10-final-thoughts/collage-13.png)

@@ -1,6 +1,6 @@
 ---
 title: Your Role as a Parent
-cover: basket.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-08-the-sabbath-school-curriculum-at-home/basket.png
 defaultStyles:
   title:
     text:
@@ -22,4 +22,5 @@ INSPIRATION TELLS ME . . .
 {"style":{"text":{"color":"#bf9648", "typeface": "BaskervilleBT-Roman"}}}
 ^[“Parents should seek to comprehend the fact that they are to train their children for the courts of God. When they are entrusted with children, it is the same as though Christ placed them in their arms and said, ‘Train these children for Me, that they may shine in the courts of God.’ One of the first sounds that should attract their attention is the name of Jesus, and in their earliest years they should be led to the footstool of prayer. Their minds should be filled with stories of the life of the Lord, and their imaginations encouraged in picturing the glories of the world to come”]({"style": {"text": {"typeface": "BaskervilleBT-BoldItalic"}}}) _(Ellen G. White_, Child Guidance, _p. 488)_.
 
-![](collage-8.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-08-the-sabbath-school-curriculum-at-home/collage-8.png)
