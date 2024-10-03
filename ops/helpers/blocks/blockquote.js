@@ -32,7 +32,7 @@ export const blockquote = {
             blockquote.callout = true
         }
 
-        let items = await parseSegment(block.text, resourcePath, block.id)
+        let items = await parseSegment(block.text, resourcePath, block.id, "no-bible")
 
         if (blockquote.callout) {
             items.map((item, i) => {
