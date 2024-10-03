@@ -1,6 +1,6 @@
 ---
 title: 'Lesson 4: Baby Jesus'
-cover: nest.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-09-the-sabbath-school-lessons/nest.png
 ---
 
 As your baby grows, he will understand that God loves him. Look for opportunities throughout your day to show and tell him that God loves him too. Sing to him, smile, use kind words, and talk about Baby Jesus.
