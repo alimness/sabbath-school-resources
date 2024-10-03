@@ -32,4 +32,5 @@ Make prayer an essential time during Sabbath School. Pray for the babies at the 
 
 “Parents should reflect and pray earnestly to God for wisdom and divine aid to properly train their children, that they may develop characters that God will approve. Their anxiety should not be how they can educate their children that they may be praised and honored of the world, but how they can educate them to form beautiful characters that God can approve. Much prayer and study are needed for heavenly wisdom to know how to deal with young minds, for very much is depending upon the direction parents give to the minds and wills of their children” (Ellen G. White, _Child Guidance_, p. 189).
 
-![](chair.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/part-04-04-02-teacher-preparation/chair.png)

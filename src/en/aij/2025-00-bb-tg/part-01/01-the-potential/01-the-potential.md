@@ -25,4 +25,5 @@ During the most influential years of a baby’s life, the Sabbath School class i
 
 What an honor it is as a Sabbath School teacher to invest in the life of a baby during such an important time in their lives! It’s your mission, in partnership with God and parents, to harness the power and potential of this time. It’s from within your Sabbath School class, and the spiritual care offered at home, that babies have the opportunity to choose God as their forever friend and grow up to share God’s love with those around them.
 
-![](collage-1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/part-01-01-the-potential/collage-1.png)

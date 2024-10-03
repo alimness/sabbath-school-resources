@@ -8,7 +8,7 @@ defaultStyles:
       align: left
 ---
 
-This is a spiritual parenting small group for the remaining time in class (approximately 30 minutes), to nurture parents in their parenting journey and spiritual lives. You can find outlines to facilitate intentional, spiritual discussion during this time at www.aliveinjesus.info. [The Parent Time handouts](https://app.babies.aliveinjesus.info/resources/en/aij/2025-01-bb-pth) offer Bible verses to ponder, questions to discuss, prayer ideas, and challenges for the week ahead, with the purpose of nurturing and equipping parents for the high calling of Christian parenting.
+This is a spiritual parenting small group for the remaining time in class (approximately 30 minutes), to nurture parents in their parenting journey and spiritual lives. You can find outlines to facilitate intentional, spiritual discussion during this time at www.aliveinjesus.info. [The Parent Time handouts](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/a04bca07ad0db72ada3549407db38058084f88e483e0039f6409aed505099b0e) offer Bible verses to ponder, questions to discuss, prayer ideas, and challenges for the week ahead, with the purpose of nurturing and equipping parents for the high calling of Christian parenting.
 
 One goal of Parent Time is to nurture and develop friendships among parents (or grandparents) in the class. Most who are at this stage of life of raising a young child long for connection and ideas from other parents. Use this section of Sabbath School to talk with parents, pray for them, and build community. Parents of babies love to chat about the challenges they’re facing and share what’s working and what’s not working at home.
 
