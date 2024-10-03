@@ -69,4 +69,5 @@ Prepare as much as you can so that everything runs smoothly and there are no lon
 
 Parents can be seated on chairs or on cushions on the floor. Either way, the Sabbath School teacher should be able to interact with each baby at eye level.
 
-![](bird.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/part-04-04-01-classroom-preparation/bird.png)
