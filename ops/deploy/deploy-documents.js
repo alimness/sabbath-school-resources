@@ -108,7 +108,7 @@ let getSegmentInfo = async function (segment, processBlocks = false) {
             segmentInfo.background = `${MEDIA_URL}/${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${segmentInfo.background}`
         }
 
-        if (segmentInfo.audio && segmentInfo.audio.src) {
+        if (segmentInfo.audio && segmentInfo.audio.src && !/^http/.test(segmentInfo.audio.src)) {
             segmentInfo.audio.src = `${MEDIA_URL}/${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${segmentInfo.audio.src}`
         }
     }
