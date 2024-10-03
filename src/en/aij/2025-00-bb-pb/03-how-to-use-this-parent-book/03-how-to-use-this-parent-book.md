@@ -2,12 +2,14 @@
 title: How to Use This Parent Book
 ---
 
+{"style":{"text":{"color":"#bf9648", "align": "center", "typeface": "BaskervilleBT-BoldItalic"}}}
 The main goal of this book is to provide you with practical ideas and resources so that you can easily create a program at home to grow your baby’s understanding and love for Jesus.
 
 This Parent Book is broken down into two main sections:
 
-- ^[Part 1]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}})—Growing a Love for Jesus at Home
-- ^[Part 2]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}})—The Sabbath School Program
+^[Part 1]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}})—Growing a Love for Jesus at Home
+
+^[Part 2]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}})—The Sabbath School Program
 
 ### ^[Part 1—Growing a Love for Jesus at Home]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}})
 
@@ -36,15 +38,9 @@ As you talk to other parents, read, and learn new ideas and strategies, you’ll
 
 ### ^[Part 2—The Sabbath School Program]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}})
 
-{"style":{"text":{"color":"#bf9648", "typeface": "PTSans-Bold"}}}
-**At Home**:
+^[At Home]({"style":{"text":{"color":"#bf9648", "typeface": "PTSans-Bold"}}}): The second part of this book outlines the home time component of the Babies Sabbath School program. This explains how you can implement the simple Babies lessons at home during the week in your baby’s worship time. In this section you will be given ideas and specific resources to use, as well as the exact sequence of Sabbath School lesson activities.
 
-The second part of this book outlines the home time component of the Babies Sabbath School program. This explains how you can implement the simple Babies lessons at home during the week in your baby’s worship time. In this section you will be given ideas and specific resources to use, as well as the exact sequence of Sabbath School lesson activities.
-
-{"style":{"text":{"color":"#bf9648", "typeface": "PTSans-Bold"}}}
-**At Church**
-
-The same stories and activities you do with your baby at home will be repeated each week during Sabbath School. Your baby will become familiar with the worship time at home and will look forward to the repetition of this during Sabbath School with other babies.
+^[At Church]({"style":{"text":{"color":"#bf9648", "typeface": "PTSans-Bold"}}}): The same stories and activities you do with your baby at home will be repeated each week during Sabbath School. Your baby will become familiar with the worship time at home and will look forward to the repetition of this during Sabbath School with other babies.
 
 {"style":{"text":{"color":"#bf9648", "typeface": "PTSans-Bold", "size": "lg"}}}
 **Let’s get started!**

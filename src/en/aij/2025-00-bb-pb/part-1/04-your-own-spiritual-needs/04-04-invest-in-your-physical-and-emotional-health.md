@@ -1,5 +1,11 @@
 ---
 title: Invest in Your Physical and Emotional Health
+defaultStyles:
+  title:
+    text:
+      typeface: Astralaga Bold
+      color: '#c18967'
+      align: left
 ---
 
 Because you’re the object of His love, God isn’t interested in just your spiritual life. He’s interested in all aspects of your life, which includes your physical, emotional, and mental health.
@@ -19,7 +25,7 @@ Tips for a Physical Recharge:
 + **When you are overwhelmed and alone, ask for help** from someone you trust to watch your baby at home while you take a nap for an hour, and sleep without feeling guilty.
 
 {"style":{"text":{"color":"#bf9648", "typeface": "PTSans-Bold", "size": "lg"}}}
-Tips for an Emotional Recharge
+Tips for an Emotional Recharge:
 
 Depending on your culture, you might have a constant stream of family coming and going with many offers of help for your baby, or you might feel like parenting is lonely and hard. Regardless of however it is for you, take time to care for yourself. Here are a few tips that may help:
 

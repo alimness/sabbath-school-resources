@@ -1,5 +1,7 @@
 ---
 title: Your Own Spiritual Needs
+markdownTitle: "Your Own\\\n
+Spiritual Needs"
 cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-04-your-own-spiritual-needs/spoon.png
 ---
 
@@ -12,13 +14,13 @@ Your child will begin to mirror you in word and deed, and their character will b
 
 Your modeling is a very powerful influence, so take time to reflect on your own habits— those you have brought from your own childhood and those you have developed in later years. This will help you identify which habits to strengthen with God’s help, and which ones to take to Him in prayer to help you overcome. Focusing on your personal relationship with God and accepting His grace with humble gratitude will allow the Holy Spirit to mold your character. Over time, He will shape you to be the person He longs for you to be, and your habits will increasingly reflect His beautiful character.
 
-“Education, culture, the exercise of the will, human effort, all have their proper sphere, but here they are powerless. They may produce an outward correctness of behavior, but they cannot change the heart; they cannot purify the springs of life. There must be a power working from within, a new life from above, before men can be changed. That power is Christ. His grace alone can quicken the lifeless faculties of the soul, and attract it to God, to holiness” (Ellen G. White, Steps to Christ, p. 18).
+“Education, culture, the exercise of the will, human effort, all have their proper sphere, but here they are powerless. They may produce an outward correctness of behavior, but they cannot change the heart; they cannot purify the springs of life. There must be a power working from within, a new life from above, before men can be changed. That power is Christ. His grace alone can quicken the lifeless faculties of the soul, and attract it to God, to holiness” (Ellen G. White, _Steps to Christ_, p. 18).
 
 {"style":{"text":{"color":"#a65726", "typeface": "PTSans-Bold"}}}
 INSPIRATION TELLS ME . . .
 
-> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“Continue to think about the things that are good and worthy of praise. Think about the things that are true and honorable and right and pure and beautiful and respected”\
-> Philippians 4:8, ^[ICB]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Italic"}}})
+{"style":{"text":{"color":"#bf9648", "typeface": "BaskervilleBT-Roman"}}}
+^[“Continue to think about the things that are good and worthy of praise. Think about the things that are true and honorable and right and pure and beautiful and respected”]({"style": {"text": {"typeface": "BaskervilleBT-BoldItalic"}}}) _(Philippians 4:8, ICB)._
 
-> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“Every act of life, however unimportant, has its influence in forming the charac- ter. A good character is more precious than worldly possessions, and the work of forming it is the noblest in which men can engage”\
-> ^[Ellen G. White]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Italic"}}}), Testimonies for the Church, vol. 4, p. 657
+{"style":{"text":{"color":"#bf9648", "typeface": "BaskervilleBT-Roman"}}}
+^[“Every act of life, however unimportant, has its influence in forming the charac- ter. A good character is more precious than worldly possessions, and the work of forming it is the noblest in which men can engage”]({"style": {"text": {"typeface": "BaskervilleBT-BoldItalic"}}}) _(Ellen G. White,_ Testimonies for the Church, _vol. 4, p. 657)._

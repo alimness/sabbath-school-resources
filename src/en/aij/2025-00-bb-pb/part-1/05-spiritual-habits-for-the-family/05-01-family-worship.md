@@ -1,5 +1,6 @@
 ---
 title: Spiritual Habits for the Family
+markdownTitle: "Spiritual Habits\\\n for the Family"
 cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/pot.png
 ---
 

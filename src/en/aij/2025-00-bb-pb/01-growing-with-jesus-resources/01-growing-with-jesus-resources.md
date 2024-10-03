@@ -27,7 +27,7 @@ Weekly handouts for parents or caregivers on topics that help educate and inspir
 ^[Home Time: Sunday–Friday]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}) _(5-15 minutes)_ Parents share worship with their baby every day. Find a time when your baby is content, take them to the same place each day, and share the same worship activities (see section 2 of the Parent Book for these activities).
 \
 \
-^[Baby Time: Sabbath School]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}): _(20 minutes)_ The home worship program is repeated in Sabbath School with parents and babies.
+^[Baby Time: Sabbath School]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}) _(20 minutes)_ The home worship program is repeated in Sabbath School with parents and babies.
 \
 \
-^[Parent Time: Sabbath School]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}): _(30 minutes)_ Parent Time is a spiritual workshop in which parents join together to explore spiritual parenting topics. A weekly handout is given to each parent. One parent can lead the discussion, based on the prompts, activities, and discussion questions. Babies can either stay with the parents during this time, or, for a more focused discussion, be cared for by two or more volunteers.
+^[Parent Time: Sabbath School]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}) _(30 minutes)_ Parent Time is a spiritual workshop in which parents join together to explore spiritual parenting topics. A weekly handout is given to each parent. One parent can lead the discussion, based on the prompts, activities, and discussion questions. Babies can either stay with the parents during this time, or, for a more focused discussion, be cared for by two or more volunteers.
