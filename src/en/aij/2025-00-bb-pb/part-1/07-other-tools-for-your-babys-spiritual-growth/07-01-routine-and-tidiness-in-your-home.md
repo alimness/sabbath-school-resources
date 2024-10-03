@@ -32,7 +32,6 @@ INSPIRATION TELLS ME . . .
 {"style":{"text":{"color":"#bf9648", "typeface": "BaskervilleBT-Roman"}}}
 ^[“Keep everything the eyes of the children rest upon and that comes in contact with the body, night or day, clean and wholesome. This will be one means of educating them to choose the cleanly and the pure. Let the sleeping room of your children be neat, however destitute it may be of expensive furniture”]({"style": {"text": {"typeface": "BaskervilleBT-BoldItalic"}}}) _(Ellen G. White,_ Child Guidance, _p. 109)_.
 
-
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
 ^[TIPS]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}): The first simple rules a baby learns are:
 \
