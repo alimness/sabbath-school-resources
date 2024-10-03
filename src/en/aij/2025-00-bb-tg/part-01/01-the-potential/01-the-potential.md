@@ -1,10 +1,12 @@
 ---
 title: The Potential
+subtitle: Part 1
 ---
 
 {"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-BoldItalic", "align":"center"}}}
 Babies are extraordinary.\
-We cannot underestimate what they’re capable of taking in and understanding in the first year of life.
+We cannot underestimate what they’re capable of taking in\
+and understanding in the first year of life.
 
 Think about these amazing facts!
 
@@ -15,10 +17,12 @@ Think about these amazing facts!
 + **They can already discriminate between happy and sad expressions**. They are very sensitive to other people’s emotions, as well as their own, and they will react to what they feel. This means they will learn about emotions and love well before they ever learn about words and facts.
 + **For the first few months, a baby can distinguish between their language** and a foreign one—before being wired to their mom and dad’s language by the end of their first year. During the second year, they will recognize their own reflection in a mirror.
 + **Research indicates** that “during the first three years of [a child’s] life they learn more than all the rest of their lives” (Habenicht and Burton, 2004).
-+ **“John the Baptist was filled with the Holy Spirit from his birth**. If we live in communion with God, we too may expect the divine Spirit to mould our little ones, even from their earliest moments” (Ellen G. White, The Adventist Home, pp. 274, 275).
++ **“John the Baptist was filled with the Holy Spirit from his birth**. If we live in communion with God, we too may expect the divine Spirit to mould our little ones, even from their earliest moments” (Ellen G. White, _The Adventist Home_, pp. 274, 275).
 
 If you ever thought that babies were too young to learn about Jesus, these staggering facts show us quite the opposite. Because they are so sensitive to surrounding stimuli, NOW is the time to nurture their love for God as well as their physical development.
 
 During the most influential years of a baby’s life, the Sabbath School class is an excellent opportunity to teach them to pray, to sing, to give an offering, to say “Thank you,” “Amen,” and “Jesus,” and to recognize the Bible as God’s Book. It is a chance for babies to develop spiritual habits and patterns that will set a foundation for long-term love and service to Jesus.
 
 What an honor it is as a Sabbath School teacher to invest in the life of a baby during such an important time in their lives! It’s your mission, in partnership with God and parents, to harness the power and potential of this time. It’s from within your Sabbath School class, and the spiritual care offered at home, that babies have the opportunity to choose God as their forever friend and grow up to share God’s love with those around them.
+
+![](collage-1.png)

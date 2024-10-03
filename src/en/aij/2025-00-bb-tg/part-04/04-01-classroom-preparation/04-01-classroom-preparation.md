@@ -1,5 +1,6 @@
 ---
 title: Preparation
+subtitle: Part 4
 ---
 
 {"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
@@ -52,7 +53,7 @@ If you don’t have the resources mentioned above, just use whatever is availabl
 Purpose of Decorations
 
 Always remember that the environment and the visuals in your class are also teaching tools and must serve the purpose you want them to have. If you are not intentional in your use of them, they may give messages that differ from your purpose. For example, if you are teaching that Jesus made the animals and you decorate with Disney characters, it will create confusion in the baby’s mind, because they cannot distinguish reality from fiction.
-Everything the child and parent see in your classroom must lead their minds to the love of Jesus. The purpose of an age-appropriate study of God’s Word in Sabbath School is to lead their young minds to the love parents have for them, just as Jesus has for them. Today we can still use Jesus’ example for our choice of decorations. Jesus presented truth in a simple and direct way. We can use the simple things from nature (as real and safe as possible) to illustrate to parents and babies the immortal truths, and every time they see those things, they can remember Jesus’ words (see chapter 26 of The Desire of Ages).
+Everything the child and parent see in your classroom must lead their minds to the love of Jesus. The purpose of an age-appropriate study of God’s Word in Sabbath School is to lead their young minds to the love parents have for them, just as Jesus has for them. Today we can still use Jesus’ example for our choice of decorations. Jesus presented truth in a simple and direct way. We can use the simple things from nature (as real and safe as possible) to illustrate to parents and babies the immortal truths, and every time they see those things, they can remember Jesus’ words (see chapter 26 of _The Desire of Ages_).
 
 {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
 Before the Lesson on Sabbath
@@ -67,3 +68,5 @@ Prepare as much as you can so that everything runs smoothly and there are no lon
 + Choose the setup of your Sabbath School classroom, depending on your culture and church’s needs. Because of the age group of these babies (birth through 12 months), we recommend that parents hold and interact with their babies (instead of placing the babies in baby seats). Not only does this foster social-emotional connection and positive spiritual moments between parent and child—it invites parents to be invested in this time together.
 
 Parents can be seated on chairs or on cushions on the floor. Either way, the Sabbath School teacher should be able to interact with each baby at eye level.
+
+![](bird.png)

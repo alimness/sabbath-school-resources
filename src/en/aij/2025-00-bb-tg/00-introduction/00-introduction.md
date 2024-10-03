@@ -6,7 +6,10 @@ title: Introduction
 Dear Babies Sabbath School Teacher,
 
 {"style": {"text": {"align": "center"}}}
-Life is busy, yet you’ve agreed to teach the Babies Sabbath School class this year—thank you! As you pray and plan from this curriculum, may God lead you to know just how to make every Sabbath full of teachable moments and meaningful connections with God that are eternally life-changing for the babies and their parents.
+Life is busy, yet you’ve agreed to teach the Babies Sabbath School class this\
+year—thank you! As you pray and plan from this curriculum, may God lead\
+you to know just how to make every Sabbath full of teachable moments and\
+meaningful connections with God that are eternally life-changing for the babies and their parents.
 
 {"style": {"text": {"align": "center"}}}
 As you stare into the sweet faces of the babies in your Sabbath School, may you be reminded of the potential in the lives of the little miracles that God created.

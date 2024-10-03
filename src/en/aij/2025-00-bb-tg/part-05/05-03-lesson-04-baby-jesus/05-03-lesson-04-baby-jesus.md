@@ -8,9 +8,9 @@ title: 'Lesson 4: Baby Jesus'
 
 **^[EMPHASIS]({"style":{"text":{"color": "#a65726"}}})** **God loves you and your family loves you.**
 
-**^[REFERENCES]({"style":{"text":{"color": "#a65726"}}})** **Luke 2:1–20; The Desire of Ages, pp. 43–49.**
+**^[REFERENCES]({"style":{"text":{"color": "#a65726"}}})** **Luke 2:1–20; _The Desire of Ages_, pp. 43–49.**
 
-**^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})** **“I . . . love you, . . . Lord” (Psalm 18:1).**
+**^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})** **“I . . . love you, . . . Lord”** (Psalm 18:1).
 
 **^[PROGRAM GOALS]({"style":{"text":{"color": "#a65726"}}})**\
 The baby will:\
@@ -23,8 +23,7 @@ The baby will:\
 **^[WELCOME]({"style":{"text":{"color": "#a65726"}}})**\
 Ring a bell to start. Then say: **The bell is ringing. It’s time to start. Welcome!** Smile at the children and parents. Give each baby/parent a small bell to hold.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Sabbath Bells.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) Parent/caregiver helps to make it sound.\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Sabbath Bells.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) Parent/caregiver helps to make it sound.\
 \
 Ring-a-ling-a-ling, ring-a-ling-a-ling,\
 Sabbath bells are ringing.\
@@ -44,8 +43,7 @@ Say: **Today we will learn about Baby Jesus and how much God loves you.**
 **^[DONKEY TRAVEL]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **Mary and Joseph had to go to Bethlehem. Mary had a baby in her tummy. Mary may have gone on a donkey. Hear the donkey walking.** Walk a toy donkey around while singing.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Clip-Clop.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Clip-Clop.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}})\
 \
 Clip-clop, clip-clop, hear the donkey walk.\
 Clip-clop, clip-clop, hear the donkey walk.\
@@ -61,8 +59,7 @@ Open the Bible, point, and say: **Mary and Joseph looked for a place to sleep in
 **^[HAPPY DAY]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **Baby Jesus was a very special baby. Mary and Joseph were so happy when He was born. It was a very happy day!** Clap or distribute shakers, bells, rainbow sticks, or ribbon sticks for the babies to hold while singing.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“It Was a Happy Day.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“It Was a Happy Day.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}})\
 \
 It was a happy day, happy day, happy day.\
 When little Baby Jesus was born.\
@@ -75,8 +72,7 @@ When little Baby Jesus was born.\
 **^[LAMB]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **Listen!** Baa-baa. Baa-baa. **When Baby Jesus was awake, He could listen to the sheep**. Show the babies a toy sheep (or picture of a sheep) or give each child a small toy sheep to hold.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Woolly, Woolly Lamb.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Woolly, Woolly Lamb.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}})\
 \
 Woolly, woolly lamb,\
 Woolly, woolly lamb,\
@@ -88,8 +84,7 @@ Jesus made you soft and woolly.\
 **^[COW]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **Listen!** Moo-moo. Moo-moo. **When Baby Jesus was awake, He could listen to the cows.** Show the babies a toy cow (or picture of a cow).
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Jesus Made the Cows.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Jesus Made the Cows.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}})\
 \
 Jesus made the cows that sing moo,\
 Jesus made the cows,\
@@ -101,8 +96,7 @@ I'm so glad.\
 **^[CARE FOR THE BABY]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **It’s time for Baby Jesus to have a bath. Baby Jesus likes water. Mommy Mary takes good care of Baby Jesus.** Using a small container of water and a cloth, wash a toy baby doll. Then dry the doll.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Baby Jesus”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) (verse 1: wash).\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Baby Jesus”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 1: wash).\
 \
 Mommy Mary,\
 Washing Baby Jesus.\
@@ -114,8 +108,7 @@ Say: **It’s time for Baby Jesus to be wrapped in a blanket to get ready to sle
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-06-baby-jesus-wash.mp3] Baby Jesus (verse 1: wash) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Baby Jesus”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) (verse 2: wrap).\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Baby Jesus”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 2: wrap).\
 \
 Mommy Mary,\
 Wrapping Baby Jesus.\
@@ -127,8 +120,7 @@ Say: **Mommy Mary and Daddy Joseph loved Baby Jesus very much. They hugged Him t
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-07-baby-jesus-wrap.mp3] Baby Jesus (verse 2: wrap) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Baby Jesus”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) (verse 3: hug).\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Baby Jesus”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 3: hug).\
 \
 Mommy Mary,\
 Hugging Baby Jesus.\
@@ -140,8 +132,7 @@ Say: **It was nighttime. Shhhh . . . Everyone is sleeping. Ohhh . . . Look at th
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-08-baby-jesus-hug.mp3]  Baby Jesus (verse 3: hug) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Baby Jesus”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) (verse 4: sleep).\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Baby Jesus”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 4: sleep).\
 \
 Time to sleep,\
 Goodnight, Baby Jesus.\
@@ -153,8 +144,7 @@ Say: **Your mommy and daddy love you very much too. They care for you like Mommy
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-09-baby-jesus-sleep.mp3]  Baby Jesus (verse 4: sleep) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Baby Jesus”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) (verse 5: you).\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Baby Jesus”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 5: you).\
 \
 Time to sleep,\
 Goodnight, baby _______ (child’s name).\
@@ -167,8 +157,7 @@ Jesus was a little Baby just like you.
 **^[FAMILY]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **Babies make families happy. Families love babies.**
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“With Jesus in the Family.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) Clap while you sing.\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“With Jesus in the Family.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) Clap while you sing.\
 \
 With baby in the family, happy, happy home.\
 Happy, happy home. Happy, happy home.\
@@ -181,8 +170,7 @@ Happy, happy home.\
 **^[SHEPHERDS AND ANGELS]({"style":{"text":{"color": "#a65726"}}})**\
 Show the babies a toy sheep. Say: **When Baby Jesus was born, shepherds were watching their sheep. The shepherds saw a beautiful, bright star in the sky. The star was lots and lots of angels. The angels told the shepherds about Baby Jesus.**
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Christmas Star.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) Give each baby a star or angel prop to hold while they sing.\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Christmas Star.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) Give each baby a star or angel prop to hold while they sing.\
 \
 Shine, shine, star of light,\
 Shine, shine, shine tonight,\
@@ -198,8 +186,7 @@ Say: **The shepherds loved Baby Jesus, and we love Jesus too. Let’s sing our m
 **^[OFFERING]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **Jesus loves us so much. We can show God we love Him too when we give Him our offering money**. Pass an offering container around the group of parents. Children who are old enough to place money in the container can do so.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Here Is My Money.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) Sing while the offering is collected.\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Here Is My Money.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) Sing while the offering is collected.\
 \
 Here is my money for Jesus,\
 For Jesus, for Jesus.\

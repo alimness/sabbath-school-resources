@@ -8,9 +8,9 @@ title: 'Lesson 1: Creation'
 
 **^[EMPHASIS]({"style":{"text":{"color": "#a65726"}}})** **Mommy/Daddy loves you; God loves you; God created the world because He loves you.**
 
-**^[REFERENCES]({"style":{"text":{"color": "#a65726"}}})** **Genesis 1:1–2:3; Patriarchs and Prophets, pp. 44–51.**
+**^[REFERENCES]({"style":{"text":{"color": "#a65726"}}})** **Genesis 1:1–2:3; _Patriarchs and Prophets_, pp. 44–51.**
 
-**^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})** **Then God saw everything that He had made, and . . . it was very good (Genesis 1:31).**
+**^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})** **Then God saw everything that He had made, and . . . it was very good** (Genesis 1:31).
 
 **^[PROGRAM GOALS]({"style":{"text":{"color": "#a65726"}}})**\
 The baby will:\
@@ -23,8 +23,7 @@ The baby will:\
 **^[WELCOME]({"style":{"text":{"color": "#a65726"}}})**\
 Ring a bell to start. Then say: **The bell is ringing. It’s time to start. Welcome!** Smile at the children and parents. Give each baby/parent a small bell to hold.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Sabbath Bells.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) Parent/caregiver helps to make it sound.\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Sabbath Bells.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) Parent/caregiver helps to make it sound.\
 \
 Ring-a-ling-a-ling, ring-a-ling-a-ling,\
 Sabbath bells are ringing.\
@@ -44,8 +43,7 @@ Say: **Today we will learn about our wonderful God who made our world! He loves 
 **^[LIGHT]({"style":{"text":{"color": "#a65726"}}})**\
 Show a light (flashlight, lamp, or other). Say: **Look at the light! God made the light. He made the day** (turn on the light/room light) **and He made the night** (turn off the light/room light) **because God loves us**. Repeat a few times (sing while moving the flashlight or turning it on and off).
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[God Made the Light, Wind, Water"]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) (verse 1: light).\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[God Made the Light, Wind, Water"]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 1: light).\
 \
 Who made the light you can see?\
 God made the light, for you and me.\
@@ -57,8 +55,7 @@ God made the light, for you and me.
 **^[WIND]({"style":{"text":{"color": "#a65726"}}})**\
 Blow softly or use a fan to make a breeze. Say: **Can you feel the wind?** Blow gently and have every parent blow on their baby’s head. **God made the wind and the air we can feel**.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[God Made the Light, Wind, Water"]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) (verse 2: wind).\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[God Made the Light, Wind, Water"]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 2: wind).\
 \
 Who made the wind you can hear?\
 God made the wind, for you and me.\
@@ -76,34 +73,31 @@ Say: **God made the clouds up very high. He made the great big sky!** Gently mov
 **^[WATER]({"style":{"text":{"color": "#a65726"}}})**\
 Show water by moving and pouring water from a cup into another cup or container. Say: **Look! God also made the water. Hmmm! To drink, and wash, and play. Hmmm! Water is fun!** (Let your baby touch the water.) **God made the water.**
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[God Made the Light, Wind, Water"]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) (verse 3: water).\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[God Made the Light, Wind, Water"]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 3: water).\
 \
 Who made the water you feel?\
 God made the water, for you and me.\
 Who made the water you feel?\
 God made the water, for you and me.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-04-god-made-water.mp3] God Made the Light, Wind, Water (verse 3: water) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-04-god-made-water.mp3] God Made the Light, Wind, Water (verse 3: water). {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 **^[FLOWERS]({"style":{"text":{"color": "#a65726"}}})**\
 Smell a flower and say: **God made the trees and soft grass. God made the pretty flowers, too** (touch a real flower, if possible, to hold when singing). **God saw that the world looks very nice with the pretty flowers. God is very happy!**
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“I Am Happy as Can Be”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) (flower)\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“I Am Happy as Can Be”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (flowers).\
 \
 I am happy as can be!\
 I am happy as can be\
 For pretty flow’rs that Jesus made for me.\
 (repeat)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-05-happy-floweres.mp3] “I Am Happy as Can Be” (flower) {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #214. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-05-happy-floweres.mp3] “I Am Happy as Can Be” (flower). {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #214. Used by permission."}
 
 **^[STARS]({"style":{"text":{"color": "#a65726"}}})**\
 Show a star. Say: **God made the little stars that “twinkle” in the sky when it’s nighttime** (turn off the lights and represent sleeping). **And God made the sun that we can see in the day** (turn on the light and make a big circle with your arms or show a felt sun). **And He made the round moon and the stars for the night** (represent sleeping again; give your baby a star on a stick).
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“I Am Happy as Can Be”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) (star)\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“I Am Happy as Can Be”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (star).\
 \
 I am happy as can be,\
 I am happy as can be,\
@@ -118,21 +112,20 @@ Make the sound of a bird (whistle). Say: Listen! **What is that sound? A bird! G
 **^[FISH]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **And look! A fish!** (Make a felt fish mitten, or bring a bowl with live fish.) **God saw that everything was very good!** (Wear fish mittens, or move a fish or hands as fish while singing.)
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Fishy, Fishy”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Fishy, Fishy”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}})\
 \
 Fishy, fishy, swim in the water,\
 Fishy, fishy, swishy swish!\
 God made fishy swim in the water,\
-Fishy, fishy, swishy swish!
+Fishy, fishy, swishy swish!\
+(repeat)
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-07-fishy.mp3] Fishy, Fishy {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #161. Used by permission."}
 
 **^[ANIMALS]({"style":{"text":{"color": "#a65726"}}})**\
 Make the sound of an animal (for example, cat) and ask where the animal sound is coming from. Look under a box or in a bag to reveal a toy animal. Say: **God made the animals, big animals . . . little animals.**
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Animals, Animals”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Animals, Animals.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}})\
 \
 Animals, animals,\
 Jesus made the animals—\
@@ -146,7 +139,7 @@ At the end of the song, make a different animal sound and show another toy anima
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-08-animals.mp3] Animals {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #67. Used by permission."}
 
-**^[SING AGAIN]({"style":{"text":{"color": "#a65726"}}})** ^[“Animals, Animals”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) Add other animals and sing the song again as time and attention allows.
+**^[SING AGAIN]({"style":{"text":{"color": "#a65726"}}})** ^[“Animals, Animals.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) Add other animals and sing the song again as time and attention allows.
 
 **^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **The animals in our world are very special. God made each one of them. We can be kind and gentle to animals.** Then open your Bible, point, and say: **The Bible says, “God saw [all the animals] that He had made, and . . . it was very good”** (Genesis 1:31). Invite parents to gently hug their baby as they say the memory verse.
@@ -154,8 +147,7 @@ Say: **The animals in our world are very special. God made each one of them. We 
 **^[ME]({"style":{"text":{"color": "#a65726"}}})**\
 Have a mirror ready. Say: **God was happy with all the animals. But next He made the best thing yet. Look in the mirror. He made you! You are special! He made babies, and mommies and daddies. He made us to be His friends. And God was very happy.**
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Who Am I?”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Who Am I?”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}})\
 \
 Who am I? Who am I?\
 Someone special to Jesus;\
@@ -168,8 +160,7 @@ I am special to Jesus.\
 **^[SABBATH]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **God created our world. On the seventh day God gave us a special day: the Sabbath. The Sabbath is a day to learn that Mommy loves you, that Daddy loves you, and that God loves you. The Sabbath is my favorite day!** Sing with instruments or clap hands.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“The Sabbath”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“The Sabbath.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}})\
 \
 The Sabbath is my favorite day,\
 I love to go to church to sing and pray,\
@@ -189,8 +180,7 @@ Say: **God made the Sabbath and everything in our world because He loves us, jus
 **^[OFFERING]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **We show God we love Him when we give Him our offering money** Pass an offering container around the group of parents. Children who are old enough to place money in the container can do so.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})**\
-^[“Here Is My Money.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}) Sing while the offering is collected.\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Here Is My Money.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) Sing while the offering is collected.\
 \
 Here is my money for Jesus,\
 For Jesus, for Jesus.\

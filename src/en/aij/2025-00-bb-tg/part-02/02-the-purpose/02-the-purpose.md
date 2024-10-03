@@ -1,5 +1,6 @@
 ---
-title: The Potential
+title: The Purpose
+subtitle: Part 2
 ---
 
 {"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-BoldItalic", "align":"center"}}}
@@ -13,28 +14,28 @@ This program includes four simple stories with familiar themes and objects to le
 Here is a brief outline of the lessons:
 
 {"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-Bold"}}}
-Lesson One
+Lesson 1
 
 + **First Quarter**: January, February, March
 + **Bible Story**: Creation (Genesis 1:1–31 and 2:1–3)
 + **Message**: God made all things good for me. He loves me.
 
 {"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-Bold"}}}
-Lesson Two
+Lesson 2
 
 + **Second Quarter**: April, May, June
 + **Bible Story**: The Good Shepherd (Luke 15:4–6)
 + **Message**: God cares for me.
 
 {"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-Bold"}}}
-Lesson Three
+Lesson 3
 
 + **Third Quarter**: July, August, September
 + **Bible Story**: Noah and the Animals (Genesis 6; 7; 8; 9:8–17)
 + **Message**: God takes cares of me and all He made.
 
 {"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-Bold"}}}
-Lesson Four
+Lesson 4
 
 + **Fourth Quarter**: October, November, December
 + **Bible Story**: Baby Jesus (Luke 2:1–20)

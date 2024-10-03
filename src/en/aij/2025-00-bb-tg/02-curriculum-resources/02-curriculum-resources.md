@@ -5,7 +5,7 @@ title: 'Baby Steps: Growing with Jesus Curriculum Resources'
 {"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
 Parent Book
 
-The aim of the book Baby Steps: Growing With Jesus is simple: to encourage parents in their parenting, to give them ideas, and to equip them with practical strategies to nurture the spiritual life of their baby. In the latter part of the Parent Book are four simple story programs. These programs will be mirrored at home (one per quarter). Each day, when their baby is content, parents can follow the simple worship ideas. These same ideas will be repeated every Sabbath at Sabbath School. The repetition is beneficial for babies as the stories and songs are repeated every day at home and every week at Sabbath School.
+The aim of the book _Baby Steps: Growing With Jesus_ is simple: to encourage parents in their parenting, to give them ideas, and to equip them with practical strategies to nurture the spiritual life of their baby. In the latter part of the Parent Book are four simple story programs. These programs will be mirrored at home (one per quarter). Each day, when their baby is content, parents can follow the simple worship ideas. These same ideas will be repeated every Sabbath at Sabbath School. The repetition is beneficial for babies as the stories and songs are repeated every day at home and every week at Sabbath School.
 
 {#[en/aij/2025-00-bb-pb]}
 
@@ -24,11 +24,10 @@ Weekly handouts for parents or caregivers on topics that help educate and inspir
 {"style":{"block":{"backgroundColor": "#f9f5ed","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
 **^[EACH WEEK WILL LOOK LIKE THIS:]({"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-Bold"}}})**\
 \
-\
-**^[Home Time: Sunday–Friday]({"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-Bold"}}})** _(5-15 minutes)_ Parents share worship with their baby every day. Find a time when your baby is content, take them to the same place each day, and share the same worship activities (see section 2 of the Parent Book for these activities).
-\
-\
-**^[Baby Time: Sabbath School]({"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-Bold"}}})**: _(20 minutes)_ The home worship program is repeated in Sabbath School with parents and babies.
+**^[Home Time: Sunday–Friday]({"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-Bold"}}})** _(5-15 minutes)_ Parents share worship with their baby every day. Find a time when your baby is content, take them to the same place each day, and share the same worship activities (see section 2 of the Parent Book for these activities.)
 \
 \
-**^[Parent Time: Sabbath School]({"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-Bold"}}})**: _(30 minutes)_ Parent Time is a spiritual workshop in which parents join together to explore spiritual parenting topics. A weekly handout is given to each parent. One parent can lead the discussion, based on the prompts, activities, and discussion questions. Babies can either stay with the parents during this time, or, for a more focused discussion, be cared for by two or more volunteers.
+**^[Baby Time: Sabbath School]({"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-Bold"}}})** _(20 minutes)_ The home worship program is repeated in Sabbath School with parents and babies.
+\
+\
+**^[Parent Time: Sabbath School]({"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-Bold"}}})** _(30 minutes)_ Parent Time is a spiritual workshop in which parents join together to explore spiritual parenting topics. A weekly handout is given to each parent. One parent can lead the discussion, based on the prompts, activities, and discussion questions. Babies can either stay with the parents during this time, or, for a more focused discussion, be cared for by two or more volunteers.

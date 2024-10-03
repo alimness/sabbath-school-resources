@@ -1,5 +1,6 @@
 ---
 title: The Plan
+subtitle: Part 3
 ---
 
 {"style": {"text": {"color": "#a65726", "size": "lg", "typeface": "BaskervilleBT-BoldItalic", "align":"center"}}}
@@ -37,6 +38,8 @@ Babies have very short attention spans, and it can be challenging to keep them e
 Music
 
 Babies are especially sensitive to music. Singing and playing music to babies can be a great way to calm, comfort, and teach them. According to the authors of the book Teaching the Faith (Habenicht and Burton, 2004), music is valuable for religious education because it’s a way of worship, learning Scripture, providing variety, and expressing feelings. The most effective way to use music during the class is to introduce only a few songs to begin with, and then sing them every week. You will notice that the lesson outlines (Part 5) will introduce new songs every three or four months. Encourage parents to sing the same songs at home as part of their Home Time daily worship so the melodies and words become familiar to the baby.
+
+![](watering-can.png)
   
 {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
 Volunteer and Parent Involvement
@@ -51,3 +54,5 @@ The Classroom Environment
 Discuss the best place to hold your Babies class with your church leaders or Sabbath School superintendent. It’s important to have a space dedicated to the babies that you can use regularly. It doesn’t need to be a large space (especially if you have only one or two babies), but it does need to support their learning. The best learning environment will be quiet, clean, well lit, and as comfortable as possible for parents and babies.
 
 You may choose to decorate the room in a simple, organized, and beautiful way. There are ideas on how to do this in Part 4: Preparation.
+
+![](cat.png)
