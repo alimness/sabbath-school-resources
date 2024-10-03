@@ -46,9 +46,9 @@ export const paragraph = {
             }
         }
 
-        const egwData = await getEGWData(resourcePath, r.markdown)
+        const egwData = depth !== "no-bible" ? await getEGWData(resourcePath, r.markdown) : null
 
-        if (Object.keys(egwData.data.egw).length) {
+        if (egwData && Object.keys(egwData?.data?.egw).length) {
             if (!r["data"]) { r["data"] = {}}
 
             r["data"]["egw"] = {}
