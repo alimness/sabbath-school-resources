@@ -24,6 +24,7 @@ In the beginning, before there were bears that snore or eagles that soar, there 
 God’s strong, kind voice echoed across the hills. As He spoke, the Earth became warm and filled with shining light from the sun.  The day was warm and bright as the sky filled up with colors and light. Bright dots sparkled in the night sky as God set millions (expansive motion of arms) of stars to twinkle way up high. He hung the big round moon to shine, reflecting the sun at night. God placed these lights in the heavens to give light to the Earth and to separate day from night.  God saw (hand above eyes; look about) all that He had made, and it was good. Evening passed, and morning came. This was the fourth day.
 ^^^
 ^^^
+{"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/06-03.png)
 {"style":{"block": {"backgroundColor": "#ffffffad"},"text":{"color": "#000000"}}}
 God made the sun, stars, and moon for you and me. The sunlight makes your skin feel warm and helps you grow. Can you watch the moon change night by night from a silver crescent in the sky to full and bright?  Can you count the stars each night as they begin to shine? God made this Earth so fine. He loves you, and so do I! What would come next on Day 5?\

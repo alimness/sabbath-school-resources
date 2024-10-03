@@ -25,6 +25,7 @@ In the beginning, before there were owls in the trees or turtles in the seas, th
 God’s strong, kind voice echoed across the water. God told the water to move together and the dry land to appear. At His command the water rushed to one place (move hands to one side), and the dirt and rocks pushed right up through the water! (Push hands up.) “God named the dry land ‘earth.’ He named the water . . . ‘seas’” (Genesis 1:10, ICB). Rolling hills of deep brown dirt could be seen. Colorful rocks sparkled on the ground. Water bubbled (make a rolling motion with hands) up from the earth and became gentle streams and roaring rivers that joined the big sea. God saw (hand above eyes; look about) all that He had made, and it was good.  
 ^^^
 ^^^
+{"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/04-03.png)
 {"style":{"block": {"backgroundColor": "#ffffffad"},"text":{"color": "#000000"}}}
 All this goodness God made for you and me. When you play in the warm brown dirt, what do you see? Red rocks or yellow ones, worms crawling or seeds growing in the ground? Do you make roads through the dirt or rivers of water flow? God’s wonderful plan had more for us to see. He made dry land for our homes and gardens to be. What more would He make for us on Day 3?\

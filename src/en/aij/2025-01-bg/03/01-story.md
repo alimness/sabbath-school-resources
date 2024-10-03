@@ -25,9 +25,10 @@ In the beginning, before there were birds that flew, or cows that moo, there was
 Across the water echoed God’s strong, kind voice. God told the waters to divide in two (hands together, then apart). Some water went up, up, up (hand up high), and some water stayed down, down, down (move other hand side to side below). God spoke, and there was air! “God named the air, ‘sky’ ” (Genesis 1:8, ICB). Blue sky and fresh air filled the earth (breathe in and out with your child). A gentle breeze blew across the shimmering water (blow across your hand). The water shone with the blue of the new sky. One day the sky would water the earth with rain from fluffy clouds that would float by.  
 ^^^
 ^^^
+{"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/03-03.png)
 {"style":{"block": {"backgroundColor": "#ffffffad"},"text":{"color": "#00796a"}}}
-God made the sky for me and you, His special gift on Day 2. When you feel the wind on your cheeks and see the clouds in the sky, you will know He is good. When you take a deep breath of the air God made, you will know He loves you (hug child). God’s plan was not done yet.  Each day there would be more to see. What do you think He will make on Day 3? (Three fingers.)\
+God made the sky for me and you, His special gift on Day 2. When you feel the wind on your cheeks and see the clouds in the sky, you will know He is good. When you take a deep breath of the air God made, you will know He loves you (hug child). God’s plan was not done yet. Each day there would be more to see. What do you think He will make on Day 3? (Three fingers.)\
 (Say together) Thank You, God, for making the sky!
 ^^^
 ;;;

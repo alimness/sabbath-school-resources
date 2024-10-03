@@ -7,6 +7,7 @@ audio:
 
 ;;;
 ^^^
+{"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/02-00.png)
 {"style":{"text":{"color": "#84b4c1", "typeface": "Omnes-Bold", "align": "center"}, "block":{"backgroundColor": "#181818ad"}}}
 God Made the\

@@ -7,6 +7,7 @@ audio:
 
 ;;;
 ^^^
+{"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/11-00.png)
 {"style":{"text":{"color": "#fff200", "typeface": "Omnes-Bold", "align": "center"}, "block":{"backgroundColor": "#00000066"}}}
 God Made\
@@ -25,7 +26,7 @@ God was excited! He gathered up some dirt into the shape of a man. God made a ma
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/11-03.png)
 {"style":{"block": {"backgroundColor": "#ffffffad"},"text":{"color": "#000000"}}}
-God made Adam and Eve, the very first family, on Day 6 (six fingers). They loved each other and worked together in the beautiful garden God had made. They were people just like you and me. They were God’s friends and talked to Him every day. God is your friend too. He loves you very much! (Hug child.) He likes to hear you pray and talk about your day. He hears each song you sing and each “Thank You” you bring.\ 
+God made Adam and Eve, the very first family, on Day 6 (six fingers). They loved each other and worked together in the beautiful garden God had made. They were people just like you and me. They were God’s friends and talked to Him every day. God is your friend too. He loves you very much! (Hug child.) He likes to hear you pray and talk about your day. He hears each song you sing and each “Thank You” you bring.\
 (Say together) Thank You, God, for making Adam and Eve!
 ^^^
 ;;;

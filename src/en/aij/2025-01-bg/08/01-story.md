@@ -7,6 +7,7 @@ audio:
 
 ;;;
 ^^^
+{"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/08-00.png)
 {"style":{"text":{"color": "#fbe000", "typeface": "Omnes-Bold", "align": "center"}, "block":{"backgroundColor": "#7aadc0ad"}}}
 God Made the\
@@ -23,6 +24,7 @@ In the beginning, before there were lions in a pride or glowing fireflies, there
 God’s strong, kind voice echoed across the hills. As He spoke, the sea came alive with creatures of every color and size. Bright blue and yellow fish began swimming to and fro (hand swim like a fish), and an octopus crawled along deep below. A starfish found its place on the rocks while manatees munched on leafy stalks. The water was alive with the creatures of the sea God made on Day 5.  
 ^^^
 ^^^
+{"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/08-03.png)
 {"style":{"block": {"backgroundColor": "#ffffffad"},"text":{"color": "#000000"}}}
 God made all this for you and me! Have you ever been to the sea? There are shells to gather and pretty rocks of many colors. When you walk on the sand, do you like the feel on your toes? Can you find the crabs that walk sideways or the anemones waiting for the tide? Watch closely to see a whale spout or dolphin leap. God made all this wonder of the sea for you and me. He had more to bring to life on Day 5. What do you think is next to arrive?\

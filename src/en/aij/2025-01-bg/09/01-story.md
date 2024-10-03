@@ -7,6 +7,7 @@ audio:
 
 ;;;
 ^^^
+{"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/09-00.png)
 {"style":{"text":{"color": "#2a418f", "typeface": "Omnes-Bold", "align": "center"}, "block":{"backgroundColor": "#e1e1e1ad"}}}
 God Made the\
@@ -24,6 +25,7 @@ In the beginning, before there were seals that play and slide or pretty butterfl
 God’s strong, kind voice echoed across the hills. As He spoke, the air came alive with birds of every color and size, tiny hummingbirds and giant ostriches (show size with hands), pink flamingos and purple finches. Birds tweeted and chattered in the trees, and pelicans soared above the sea. A pair of yellow meadowlarks had a lovely song to sing, and geese flew high above in a V. The earth and sky were alive with the birds God made on Day 5. As the sun set low, an owl called, “Hoo, hoo.” A hawk soared from a tall pine tree. A mama duck waddled along the shore. “Quack, quack,” she called to her ducklings in a row. Parrots chattered in a banana tree as Day 5 came to an end. God saw (hand above eyes; look about) all He had made, and it was good.    
 ^^^
 ^^^
+{"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/09-03.png)
 {"style":{"block": {"backgroundColor": "#ffffffad"},"text":{"color": "#000000"}}}
 Listen (hand to ear); do you hear the singing birds? They are happy as they sing of God’s love. There are red ones, and blue ones, and yellow ones, too. God made each with a special song for you. Some birds fly way up high, like an eagle, and others run on the ground, like an emu. God cares for each one He made, and even more, He cares for you. God was excited for what would be next. What do you think is ahead on Day 6 (six fingers)?\ 
