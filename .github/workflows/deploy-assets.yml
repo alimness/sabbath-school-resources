@@ -102,6 +102,9 @@ jobs:
         working-directory: ops/deploy/creds
       - run: node ops/sync/set-aspect-ratios.js
         name: Set aspect ratios of images
+        env:
+          DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: node ops/sync/transfer-document-assets.js
         name: Generate transfer commands (seds) to replace locally referenced assets with the remote URLs
         env:
