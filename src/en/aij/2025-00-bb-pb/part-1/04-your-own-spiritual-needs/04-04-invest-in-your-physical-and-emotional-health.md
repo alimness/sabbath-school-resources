@@ -39,5 +39,5 @@ Depending on your culture, you might have a constant stream of family coming and
 + **Pause and take time to notice something beautiful that God has created**. Think about His creative power and how He cares for you even more than the birds of the air (Matthew 6:26–30).
 + **Spend 10 minutes a day doing a favorite hobby or physical activity**. Reach out in kindness to another parent. These all help you to experience positive emotions in your busy life.
 
-{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
-![](collage-14.png)
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-04-your-own-spiritual-needs/collage-14.png)
