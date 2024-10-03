@@ -7,6 +7,7 @@ audio:
 
 ;;;
 ^^^
+{"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/01-00.png)
 {"style":{"text":{"color": "#0e7039", "typeface": "Omnes-Bold", "align": "center"}, "block": {"backgroundColor": "#ffffffad"}}}
 In the\
