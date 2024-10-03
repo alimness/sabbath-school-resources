@@ -1,5 +1,6 @@
 ---
 title: 'Lesson 3: Noah'
+cover: yellow-boots.png
 ---
 
 As your baby grows, she will learn that God takes care of her and the things He made. Look for opportunities throughout your day to show and tell her that God cares for her by noticing God’s beautiful nature and reminding your baby that God loves her.

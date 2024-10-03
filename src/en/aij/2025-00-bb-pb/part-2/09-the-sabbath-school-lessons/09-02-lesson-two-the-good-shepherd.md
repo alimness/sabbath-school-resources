@@ -1,5 +1,6 @@
 ---
 title: 'Lesson 2: The Good Shepherd'
+cover: bugs.png
 ---
 
 As your baby grows, he will see that you care for him. Look for opportunities throughout your day to show and tell him that God cares for him too. Talk about God’s loving care when you feed, bath, or dress your baby to remind them that God cares for them as you do.

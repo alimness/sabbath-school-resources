@@ -89,8 +89,8 @@ knowledge of our Lord and Savior Jesus Christ”\
 {"style":{"text":{"color":"#a65726", "typeface": "PTSans-Bold"}}}
 INSPIRATION TELLS ME ...
 
-> <cite>Isaiah 54:13</cite>
-> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“All your children shall be taught by the Lord, and great shall be the peace of your children”.
+{"style":{"text":{"color":"#bf9648", "typeface": "BaskervilleBT-Roman"}}}
+^[“All your children shall be taught by the Lord, and great shall be the peace of your children”]({"style": {"text": {"typeface": "BaskervilleBT-BoldItalic"}}}) _(Isaiah 54:13)_.
 
-> <cite>Ellen G. White, The Ministry of Healing, p. 380</cite>
-> {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}}“Too much importance cannot be placed upon the early training of children. The lessons learned, the habits formed, during the years of infancy and childhood, have more to do with the formation of the character and the direction of the life than have all the instruction and training of after years”.
+{"style":{"text":{"color":"#bf9648", "typeface": "BaskervilleBT-Roman"}}}
+^[“Too much importance cannot be placed upon the early training of children. The lessons learned, the habits formed, during the years of infancy and childhood, have more to do with the formation of the character and the direction of the life than have all the instruction and training of after years”]({"style": {"text": {"typeface": "BaskervilleBT-BoldItalic"}}}) _(Ellen G. White,_ The Ministry of Healing, _p. 380)_.

@@ -38,3 +38,6 @@ Depending on your culture, you might have a constant stream of family coming and
 + **Ask for help if you need it and learn to accept it**. If someone asks you what you need, tell them the truth. Be honest and ask for help.
 + **Pause and take time to notice something beautiful that God has created**. Think about His creative power and how He cares for you even more than the birds of the air (Matthew 6:26–30).
 + **Spend 10 minutes a day doing a favorite hobby or physical activity**. Reach out in kindness to another parent. These all help you to experience positive emotions in your busy life.
+
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}}}}
+![](collage-14.png)
