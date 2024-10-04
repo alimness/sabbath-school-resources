@@ -11,6 +11,10 @@ pdf:
     target: en/aij/2025-01-bg-tg/004-at-a-glance
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-005.pdf
     target: en/aij/2025-01-bg-tg/005-simple-program-outline
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-006.pdf
+    target: en/aij/2025-01-bg-tg/006-printed-resources
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007.pdf
+    target: en/aij/2025-01-bg-tg/007-crafts
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-01.pdf
     target: en/aij/2025-01-bg-tg/01
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-02.pdf
