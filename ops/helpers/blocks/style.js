@@ -156,6 +156,20 @@ export const style = function (block) {
     let sspmOptionsRegex = /^({\s*"style"\s*:.*})/g
     let sspmOptionsMatch = block.raw.match(sspmOptionsRegex)
 
+    let sspmOptionsListRegex = /^\s*(-)\s*({\s*"style"\s*:.*})/
+    let sspmOptionsListMatch = block.raw.match(sspmOptionsListRegex)
+
+    if (block.type === "list" && sspmOptionsListMatch) {
+        if (sspmOptionsListMatch && sspmOptionsListMatch[2]) {
+            block.items.shift()
+            let sspmOptions = JSON.parse(sspmOptionsListMatch[2])
+            let validateResult = jsonSchemaValidate(sspmOptions.style, styleSchema)
+            if (validateResult.errors.length < 1) {
+                blockStyle.style = {...sspmOptions.style}
+            }
+        }
+    } else
+
     if (sspmOptionsMatch && sspmOptionsMatch[0]) {
         try {
             let sspmOptions = JSON.parse(sspmOptionsMatch[0])
