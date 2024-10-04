@@ -19,7 +19,7 @@ A sensory box is filled with sand or water, depending on the Creation day you ar
 - Gingerbread men shapes and wooden people
 - Plastic sifter and sorting cups so children can move or pick up items within the box
 
-!v[http://localhost:3002/api/v3/en/aij/2025-01-bg-tg/assets/sand.mp4]
+!v[sand.mp4]
 
 {"style": {"block": {"backgroundColor": "#E4E4E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **WATER FILL**
@@ -34,7 +34,7 @@ A sensory box is filled with sand or water, depending on the Creation day you ar
 - Nature tools so children can move or pick up items
 - Towels to dry hands
 
-!v[http://localhost:3002/api/v3/en/aij/2025-01-bg-tg/assets/water.mp4]
+!v[water.mp4]
 
 {"style": {"text": {"color": "#58b0e3"}}}
 **What is a sensory box?**
