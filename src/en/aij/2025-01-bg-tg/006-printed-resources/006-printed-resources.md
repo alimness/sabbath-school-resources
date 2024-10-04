@@ -50,4 +50,5 @@ title: Printed Resources
 
 Give each family one small memory verse poster for display in their home.
 
-![](memory-verse-poster.jpg)
+{"style":{"image":{"aspectRatio":1.294}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/memory-verse-poster.jpg)
