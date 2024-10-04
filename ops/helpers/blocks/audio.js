@@ -1,3 +1,5 @@
+import { ASSETS_URL, DEPLOY_ENV, RESOURCE_ASSETS_DIRNAME } from "../constants.js"
+
 export const audio = {
     extension: {
         name: "audio",
@@ -39,7 +41,17 @@ export const audio = {
             return `TODO: reference`;
         }
     },
-    process: async function (block) {
-        return { id: block.id, type: block.type, src: block.target, caption: block.caption, credits: block.credits }
+    process: async function (block, resourcePath) {
+        const audioPathDist = `${ASSETS_URL}/${resourcePath.language}/${resourcePath.type}/${resourcePath.title}/${RESOURCE_ASSETS_DIRNAME}/${block.target}`
+
+        let src = block.target
+
+        if (!/^http/.test(block.target.trim())) {
+            if (DEPLOY_ENV === "local") {
+                src = audioPathDist
+            }
+        }
+
+        return { id: block.id, type: block.type, src, caption: block.caption, credits: block.credits }
     },
 }
