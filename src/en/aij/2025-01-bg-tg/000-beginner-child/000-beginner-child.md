@@ -1,5 +1,5 @@
 ---
-title: The Beginner Child
+title: The Beginner Child*
 ---
 
 The Alive in Jesus Beginner Sabbath School curriculum is a three- year curriculum designed for children who are one, two, and three years old.
@@ -55,4 +55,4 @@ The Alive in Jesus Beginner Sabbath School curriculum is a three- year curriculu
 - Able to sense attitudes of respect, joy, and anticipation in connection with church, the Bible, and Jesus.
 - Able to briefly fold their hands and kneel for prayer.
 
-_The material for this section has been adapted from Donna Habenicht and Anna Bell. How to Teach Children in Sabbath School. (Washington, DC: E.P. Dutton, 1983)._
+_* The material for this section has been adapted from Donna Habenicht and Anna Bell. How to Teach Children in Sabbath School. (Washington, DC: E.P. Dutton, 1983)._

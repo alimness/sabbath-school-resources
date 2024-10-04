@@ -43,7 +43,6 @@ defaultStyles:
   title:
     text:
       typeface: CenturyGothic
-      align: center
       color: '#f4793b'
 fonts:
   - name: CenturyGothic-Bold
