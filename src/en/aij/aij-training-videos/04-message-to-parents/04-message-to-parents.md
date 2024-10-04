@@ -4,5 +4,5 @@ subtitle: A short message to parents or caregivers about using Alive in Jesus at
 video:
   - src: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-message-to-parents.mp4
     title: Message To Parents
-    thumbnail: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-message-to-parents.webp
+    thumbnail: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/04-message-to-parents/cover.png
 ---

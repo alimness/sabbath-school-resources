@@ -4,5 +4,5 @@ subtitle: Refresh your understanding of good teaching strategies for the Sabbath
 video:
   - src: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-teaching-and-learning.mp4
     title: Teaching And Learning
-    thumbnail: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-teaching-and-learning.webp
+    thumbnail: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/11-teaching-and-learning/cover.png
 ---

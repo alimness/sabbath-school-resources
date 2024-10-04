@@ -4,5 +4,5 @@ subtitle: Explore the main differences between these two Alive in Jesus levels.
 video:
   - src: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-differences-between-baby-and-beginner.mp4
     title: Differences Between Baby And Beginner
-    thumbnail: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-differences-between-baby-and-beginner.webp
+    thumbnail: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/18-differences-between-baby-and-beginner/cover.png
 ---

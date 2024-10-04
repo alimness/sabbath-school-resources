@@ -4,5 +4,5 @@ subtitle: Explore the main differences between these two Sabbath School curricul
 video:
   - src: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-differences-between-gracelink-and-alive-in-jesus.mp4
     title: Differences Between Gracelink And Alive In Jesus
-    thumbnail: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-differences-between-gracelink-and-alive-in-jesus.webp
+    thumbnail: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/19-differences-between-gracelink-and-alive-in-jesus/cover.png
 ---

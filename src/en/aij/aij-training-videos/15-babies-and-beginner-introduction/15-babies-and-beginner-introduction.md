@@ -4,5 +4,5 @@ subtitle: Be reminded of what is important for children from birth through three
 video:
   - src: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-babies-and-beginner-introduction.mp4
     title: Babies And Beginner Introduction
-    thumbnail: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-babies-and-beginner-introduction.webp
+    thumbnail: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/15-babies-and-beginner-introduction/cover.png
 ---

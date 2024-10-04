@@ -4,5 +4,5 @@ subtitle: A brief exploration of when and how Sabbath School first began and why
 video:
   - src: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-looking-back.mp4
     title: Looking Back
-    thumbnail: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-looking-back.webp
+    thumbnail: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/06-looking-back/cover.png
 ---
