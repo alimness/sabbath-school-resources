@@ -103,7 +103,7 @@ Make the sound of a bird (whistle). Say: Listen! **What is that sound? A bird! G
 **^[FISH]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **And look ... a fish!** Make a felt fish mitten or show a toy fish. Say: **God saw that everything was very good**. Wear fish mittens or move hands like a fish while singing.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Fishy, Fishy.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-BoldItalic"}}})\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Fishy, Fishy.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}})\
 \
 Fishy, fishy, swim in the water,\
 Fishy, fishy, swishy swish!\
