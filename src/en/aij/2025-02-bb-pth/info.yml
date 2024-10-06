@@ -1,0 +1,44 @@
+title: Parent Time Handouts. Quarter Two.
+subtitle: How to Grow in a Relationship With God
+primaryColor: '#E8E9E0'
+primaryColorDark: '#CED0B8'
+credits:
+  - name: Principal Contributor
+    value: Nina Atcheson
+  - name: Curriculum Manager and Senior Editor
+    value: Nina Atcheson
+  - name: Editorial Assistant
+    value: Denise Gustafson
+  - name: World Sabbath School Directors
+    value: Jim Howard and Daniel Ebenezer
+  - name: Biblical Research Institute Advisor
+    value: Frank M. Hasel
+  - name: Creative Direction
+    value: Nina Atcheson
+  - name: Designer
+    value: Jordan Bariesheff
+  - name: Illustrator
+    value: Jayde Bray
+  - name: Copy Editors
+    value: James and Ida Cavil
+featuredResources:
+  - en/aij/2025-00-bb-pb
+  - en/aij/2025-00-bb-tg
+  - en/aij/aij-training-videos
+defaultStyles:
+  inline:
+    all:
+      text:
+        typeface: PTSans-Regular
+  nested:
+    all:
+      text:
+        typeface: PTSans-Regular
+  title:
+    text:
+      typeface: Astralaga Bold
+      color: '#c18967'
+      align: center
+  subtitle:
+    text:
+      align: center
