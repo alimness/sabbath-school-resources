@@ -18,6 +18,7 @@ on:
       - 'src/**/*.mp3'
       - 'src/**/*.mp4'
       - 'src/**/*.md'
+      - 'src/**/*.yml'
 jobs:
   transfer-resource-assets:
     if: (github.repository == 'Adventech/sabbath-school-resources')
