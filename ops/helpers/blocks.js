@@ -77,7 +77,7 @@ let parseSegment = async function (segment, resourcePath, parentId, depth, filte
 
     for (let [index, block] of blocks.entries()) {
         let indexHash = blocks.filter(b => b.type === block.type).findIndex(b => b === block)
-        let blockData = await parseBlock(block, resourcePath, indexHash >= 0 ? indexHash : index, parentId ?? "root", depth)
+        let blockData = await parseBlock(block, resourcePath, indexHash >= 0 ? indexHash : index, parentId ?? "root", depth ?? 1)
 
         if (blockData) {
             blocksData.push(blockData)

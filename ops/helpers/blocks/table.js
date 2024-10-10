@@ -1,6 +1,5 @@
 import { parseSegment } from "../blocks.js"
 import crypto from "crypto"
-import { marked } from "marked"
 
 export const table = {
     extension: {},
@@ -31,7 +30,7 @@ export const table = {
 
         if (block.rows) {
             for (let row of block.rows) {
-                rows.push(await processRows(row))
+                rows.push({ items: await processRows(row) })
             }
         }
 

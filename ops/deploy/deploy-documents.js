@@ -244,9 +244,9 @@ let processDocuments = async function (resourceType) {
                     }
 
                     if (block.rows && block.rows.length) {
-                        for (let columnBlock of block.rows) {
-                            for (let column of columnBlock) {
-                                for (let itemBlock of column.items) {
+                        for (let row of block.rows) {
+                            for (let rowItems of row.items) {
+                                for (let itemBlock of rowItems.items) {
                                     if (itemBlock && itemBlock.id) {
                                         await setBlockInDatabase(itemBlock)
                                     }
