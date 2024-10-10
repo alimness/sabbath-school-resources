@@ -86,3 +86,11 @@ fonts:
     weight: 400
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/CenturyGothic-Regular.ttf
+  - name: Omnes-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/Omnes%20Bold.ttf
+  - name: Omnes-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/Omnes%20Regular.ttf
