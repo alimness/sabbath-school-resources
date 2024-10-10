@@ -251,12 +251,6 @@ let processDocuments = async function (resourceType) {
                         }
                     }
 
-                    for (let itemBlock of block.items) {
-                        if (itemBlock && itemBlock.id) {
-                            await setBlockInDatabase(itemBlock)
-                        }
-                    }
-
                     if (block && block.id) {
                         await database.collection(FIREBASE_DATABASE_BLOCKS).doc(block.id).set(block);
                     }
