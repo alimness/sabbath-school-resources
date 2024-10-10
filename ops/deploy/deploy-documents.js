@@ -232,6 +232,31 @@ let processDocuments = async function (resourceType) {
                             }
                         }
                     }
+
+                    if (block.header && block.header.length) {
+                        for (let itemBlock of block.header) {
+                            if (itemBlock && itemBlock.id) {
+                                await setBlockInDatabase(itemBlock)
+                            }
+                        }
+                    }
+
+                    if (block.rows && block.rows.length) {
+                        for (let columnBlock of block.rows) {
+                            for (let itemBlock of columnBlock) {
+                                if (itemBlock && itemBlock.id) {
+                                    await setBlockInDatabase(itemBlock)
+                                }
+                            }
+                        }
+                    }
+
+                    for (let itemBlock of block.items) {
+                        if (itemBlock && itemBlock.id) {
+                            await setBlockInDatabase(itemBlock)
+                        }
+                    }
+
                     if (block && block.id) {
                         await database.collection(FIREBASE_DATABASE_BLOCKS).doc(block.id).set(block);
                     }
