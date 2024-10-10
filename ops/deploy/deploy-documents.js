@@ -264,7 +264,11 @@ let processDocuments = async function (resourceType) {
 
                 if (segmentInfo.blocks) {
                     for (let block of segmentInfo.blocks) {
-                        await setBlockInDatabase(block)
+                        try {
+                            await setBlockInDatabase(block)
+                        } catch (e) {
+                            console.error(e)
+                        }
                     }
                 }
 
