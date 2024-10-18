@@ -1,6 +1,7 @@
 name: English
 native: English
 code: en
+feedSeeAll: See All
 kinds:
   devotional: Devotional
   plan: Plan
@@ -8,6 +9,7 @@ kinds:
   blog: Blog
   external: Link
   magazine: Magazine
+egw: true
 bible:
   - nasb
   - nkjv
