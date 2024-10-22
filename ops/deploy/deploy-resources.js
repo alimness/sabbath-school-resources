@@ -311,7 +311,6 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
         // if (recentFeedGroup && recentFeedGroup.group) {
         //     const recentFeedGroupAPI = {
         //         title: recentFeedGroup.group,
-        //         name: slug(recentFeedGroup.group),
         //         view: recentFeedGroup.view || FEED_VIEWS.SQUARE,
         //         scope: recentFeedGroup.scope || FEED_SCOPES.RESOURCE,
         //         resources: [],
