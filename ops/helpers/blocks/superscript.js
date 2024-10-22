@@ -8,7 +8,7 @@ export const superscript = function (text) {
             for (let match of sspmSuperscriptMatch) {
                 let superscript = match.replace(sspmSuperscript, "$2")
 
-                ret = ret.replace(match, `^[${superscript}]({"style":{"text":{"offset": "sup"}}}) `).trim()
+                ret = ret.replace(match, `^[${superscript}]({"style":{"text":{"offset": "sup"}}})`).trim()
             }
         }
 
@@ -18,7 +18,7 @@ export const superscript = function (text) {
         if (sspmSubscriptMatch && sspmSubscriptMatch.length > 0) {
             for (let match of sspmSubscriptMatch) {
                 let subscript = match.replace(sspmSubscript, "$2")
-                ret = ret.replace(match, `^[${subscript}]({"style":{"text":{"offset": "sub"}}}) `).trim()
+                ret = ret.replace(match, `^[${subscript}]({"style":{"text":{"offset": "sub"}}})`).trim()
             }
         }
     }
