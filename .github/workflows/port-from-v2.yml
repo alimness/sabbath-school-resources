@@ -25,5 +25,8 @@ jobs:
         run: rm -r ./port
       - name: Git Add all new files
         run: git add -A
-      - name: Status
-        run: git status
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          branch: stage
+          github_token: ${{ secrets.GITHUB_TOKEN }}
