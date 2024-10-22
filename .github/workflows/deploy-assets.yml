@@ -20,6 +20,9 @@ on:
       - 'src/**/*.mp4'
       - 'src/**/*.md'
       - 'src/**/*.yml'
+      - '!audio.yml'
+      - '!video.yml'
+      - '!pdf.yml'
 jobs:
   transfer-resource-assets:
     if: (github.repository == 'Adventech/sabbath-school-resources')
@@ -121,7 +124,7 @@ jobs:
         name: Clean up
       - run: mkdir download
         name: Creating download directory
-      - run: grep -Poir '\[(.*?)\]\((http|https)://(?!sabbath-school)[a-zA-Z0-9./?=_%:-]*\)|:\s*(http|https)://(?!sabbath-school)[a-zA-Z0-9./?=_%:-]*' --include="*.md" ./src > detected_links.txt || true
+      - run: grep -Poir '\!\[(.*?)\]\((http|https)://(?!sabbath-school)[a-zA-Z0-9./?=_%:-]*\)' --include="*.md" ./src > detected_links.txt || true
         name: Finding all external links in the markdown files and saving to detected_links.txt
       - run: node ops/sync/download-document-assets.js
         name: Running script to generate transfer commands
@@ -136,6 +139,9 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - run: test -f transfer_commands.txt && source transfer_commands.txt
         name: Run transfer commands if exists
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - run: test -f detected_links.txt && rm detected_links.txt
       - run: test -f download_commands.txt && rm download_commands.txt
       - run: test -f transfer_commands.txt && rm transfer_commands.txt
