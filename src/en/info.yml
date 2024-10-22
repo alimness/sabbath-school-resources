@@ -3,12 +3,16 @@ native: English
 code: en
 sections:
   default: Main
+featuredResources:
+  title: Featured
 egw: true
 bible:
   - nasb
   - nkjv
   - kjv
   - asv
+  - name: niv
+    copyright: "\n\n^[HOLY BIBLE, NEW INTERNATIONAL VERSION TM, NIV TM. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission. All rights reserved worldwide.]({\"style\": {\"text\": {\"size\": \"xs\"}}})"
 features:
   teacher-comments:
     name: teacher-comments
