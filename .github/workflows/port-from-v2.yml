@@ -25,6 +25,8 @@ jobs:
         run: rm -r ./port
       - name: Git Add all new files
         run: git add -A
+      - name: Reset yarn.lock
+        run: git restore yarn.lock
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
