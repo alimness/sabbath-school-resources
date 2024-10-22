@@ -21,5 +21,9 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - name: Running rsync
         run: rsync -a ./port/ ./src/
+      - name: Remove port dir
+        run: rm -r ./port
+      - name: Git Add all new files
+        run: git add -A
       - name: Status
         run: git status
