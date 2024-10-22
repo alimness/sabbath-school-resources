@@ -12,6 +12,8 @@ jobs:
         name: Fetch the repository files
         with:
           ref: stage
+          fetch-depth: 0
+          persist-credentials: false
       - name: Create port dir
         run: mkdir port
       - name: Sync ported content from s3
