@@ -3,6 +3,7 @@ native: English
 code: en
 sections:
   default: Main
+egw: true
 bible:
   - nasb
   - nkjv
