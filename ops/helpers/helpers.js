@@ -3,7 +3,7 @@ import https from "https"
 import { imageSize } from "image-size"
 import { fileURLToPath } from "url"
 import { createRequire } from "module"
-import yargs from "yargs"
+import yargParser from "yargs-parser"
 import fs from "fs-extra"
 import { hideBin } from "yargs/helpers"
 import {
@@ -18,27 +18,25 @@ import {
     SECTION_INFO_FILENAME
 } from "./constants.js"
 
-const args = yargs(hideBin(process.argv))
-    .option("lang", {
-        alias: "l",
-        describe: "Language",
-        default: "*",
-    })
-    .option("types", {
-        alias: "t",
-        describe: "Types",
-        default: "*",
-    })
-    .option("quarterly", {
-        alias: "q",
-        describe: "Quarterly",
-        default: "**",
-    })
-    .option("resource", {
-        alias: "r",
-        describe: "Resource",
-        default: "*",
-    })
+const options = {
+    alias: {
+        lang: 'l',
+        types: 't',
+        resource: 'r',
+    },
+    default: {
+        lang: '*',
+        types: '*',
+        resource: '*',
+    },
+    description: {
+        lang: 'Language',
+        types: 'Types',
+        resource: 'Resource',
+    }
+};
+
+const args = yargParser.detailed(hideBin(process.argv), options)
 
 async function getBufferFromUrl(url) {
     return new Promise((resolve) => {
@@ -286,9 +284,9 @@ let deepMerge = function (target, source) {
 
 export const arg = {}
 
-if (args.parsed && (!args.parsed.defaulted.lang
-    || !args.parsed.defaulted.lang
-    || !args.parsed.defaulted.lang)) {
+if (!args.defaulted.lang
+    || !args.defaulted.lang
+    || !args.defaulted.lang) {
     arg[args.argv.lang] = {
         [args.argv.types] : {
             resources: args.argv.resource,

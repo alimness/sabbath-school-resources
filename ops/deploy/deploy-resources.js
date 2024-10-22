@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 "use strict"
 
+import fetch from "node-fetch"
 import crypto from "crypto"
 import yaml from "js-yaml"
 import fs from "fs-extra"
@@ -14,7 +15,6 @@ import {
     SOURCE_DIR,
     API_DIST,
     GLOBAL_ASSETS_DIR,
-    RESOURCE_TYPE,
     RESOURCE_COLOR_PRIMARY,
     RESOURCE_COLOR_PRIMARY_DARK,
     RESOURCE_KIND,
@@ -24,13 +24,11 @@ import {
     FEED_VIEWS,
     FEED_DIRECTION,
     FIREBASE_DATABASE_RESOURCES,
-    FIREBASE_DATABASE_LANGUAGES,
     API_URL,
     API_PREFIX,
     ASSETS_URL,
     DOCUMENT_INFO_FILENAME,
     DEPLOY_ENV,
-    FIREBASE_DATABASE_FEEDS,
     RESOURCE_AUDIO_FILENAME,
     RESOURCE_VIDEO_FILENAME,
     RESOURCE_PDF_FILENAME,
@@ -357,19 +355,56 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                     feedGroupAll.direction = FEED_DIRECTION.VERTICAL
                     delete feedGroupAll.backgroundColor
 
-                    fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/feeds/${feedGroup.id}/index.json`, JSON.stringify(feedGroupAll))
+                    // Get existing feed for non-global deployments
+                    if (resourceGlob !== "*") {
+                        const existingFeedResponse = await fetch(`${API_URL()}${API_PREFIX}${language}/${resourceFeedForType}/feeds/${feedGroup.id}/index.json`)
+                        const existingFeed = await existingFeedResponse.json()
 
-                    await database.collection(FIREBASE_DATABASE_FEEDS).doc(language).collection(resourceFeedForType).doc(feedGroup.id).set(feedGroup)
+                        for (let feedGroupResource of feedGroup.resources) {
+                            let found = false
+
+                            existingFeed.resources = existingFeed.resources.map((existingResource) => {
+                                if (existingResource.id === feedGroupResource.id) {
+                                    found = true
+                                    existingResource = feedGroupResource
+                                }
+                                return existingResource
+                            })
+
+                            if (!found) {
+                                existingFeed.resources.unshift(feedGroupResource)
+                            }
+                        }
+
+                        feedGroupAll.resources = existingFeed.resources
+                        feedGroup.resources = existingFeed.resources
+                    }
+
+                    fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/feeds/${feedGroup.id}/index.json`, JSON.stringify(feedGroupAll))
 
                     if (resourceFeed.groups.length > 1 && feedGroup.resources.length > 10) {
                         feedGroup.resources = feedGroup.resources.slice(0, 10)
                     }
                 }
 
-                fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/index.json`, JSON.stringify(resourceFeed))
+                // Get existing feed for non-global deployments
+                if (resourceGlob !== "*") {
+                    const existingMainFeedResponse = await fetch(`${API_URL()}${API_PREFIX}${language}/${resourceFeedForType}/index.json`)
+                    const existingMainFeed = await existingMainFeedResponse.json()
 
-                // deploy to FireStore
-                await database.collection(FIREBASE_DATABASE_FEEDS).doc(language).collection(resourceFeedForType).doc('main').set(resourceFeed)
+                    existingMainFeed.groups = existingMainFeed.groups.map((existingMainFeedGroup) => {
+                        for (let feedGroup of resourceFeed.groups) {
+                            if (feedGroup.id === existingMainFeedGroup.id) {
+                                existingMainFeedGroup = feedGroup
+                            }
+                        }
+                        return existingMainFeedGroup
+                    })
+
+                    resourceFeed.groups = existingMainFeed.groups
+                }
+
+                fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/index.json`, JSON.stringify(resourceFeed))
             }
         }
     }
