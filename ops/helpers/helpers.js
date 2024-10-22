@@ -286,9 +286,9 @@ let deepMerge = function (target, source) {
 
 export const arg = {}
 
-if (!args.parsed.defaulted.lang
+if (args.parsed && (!args.parsed.defaulted.lang
     || !args.parsed.defaulted.lang
-    || !args.parsed.defaulted.lang) {
+    || !args.parsed.defaulted.lang)) {
     arg[args.argv.lang] = {
         [args.argv.types] : {
             resources: args.argv.resource,
