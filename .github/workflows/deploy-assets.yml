@@ -21,9 +21,9 @@ on:
       - 'src/**/*.mp4'
       - 'src/**/*.md'
       - 'src/**/*.yml'
-      - '!audio.yml'
-      - '!video.yml'
-      - '!pdf.yml'
+      - '!src/**/audio.yml'
+      - '!src/**/video.yml'
+      - '!src/**/pdf.yml'
 jobs:
   transfer-resource-assets:
     if: (github.repository == 'Adventech/sabbath-school-resources')
