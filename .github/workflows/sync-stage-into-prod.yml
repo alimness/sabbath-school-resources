@@ -2,7 +2,7 @@ name: sync-stage-into-prod
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1,7 * * *'
+    - cron: '45 1,7 * * *'
 jobs:
   sync-stage-into-master:
     if: (github.repository == 'Adventech/sabbath-school-resources' && github.ref_name == 'stage')
