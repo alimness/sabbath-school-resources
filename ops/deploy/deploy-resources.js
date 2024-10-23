@@ -127,9 +127,9 @@ let getResourceInfo = async function (resource, depth = 0) {
     const documents = new fdir()
         .withBasePath()
         .withRelativePaths()
-        .withMaxDepth(6)
-        .glob(`${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/*/**/${DOCUMENT_INFO_FILENAME}`)
-        .crawl(`${SOURCE_DIR}`)
+        .withMaxDepth(2)
+        .glob(`*/**/${DOCUMENT_INFO_FILENAME}`)
+        .crawl(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}`)
         .sync();
 
     // If resource only contains one document, add documentId and documentIndex to resource level
@@ -137,7 +137,7 @@ let getResourceInfo = async function (resource, depth = 0) {
 
     if (documents.length === 1) {
         let document = documents[0]
-        let documentInfo = await getDocumentInfoYml(`${SOURCE_DIR}/${document}`)
+        let documentInfo = await getDocumentInfoYml(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${document}`)
         resourceInfo.documentId = documentInfo.id
         resourceInfo.documentIndex = documentInfo.index
     }
