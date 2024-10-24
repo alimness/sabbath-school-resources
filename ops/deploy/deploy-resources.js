@@ -109,7 +109,6 @@ let getResourceInfo = async function (resource, depth = 0) {
     delete resourceInfo.featuredResources
 
     if (DEPLOY_ENV === "local" && !resourceInfo.covers) {
-        console.log('fdsfds')
         resourceInfo.covers = {
             portrait: `http://localhost:3002${API_PREFIX}${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/assets/cover.png`,
         }
