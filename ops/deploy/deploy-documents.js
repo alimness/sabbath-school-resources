@@ -21,12 +21,6 @@ import {
 } from "../helpers/constants.js"
 import { SEGMENT_DEFAULT_BLOCK_STYLES } from "../helpers/styles.js"
 
-let getDocumentInfoFromPDF = async function (pdf) {
-    const pdfPathInfo = parseResourcePath(document)
-    const documentInfo = {}
-    // documentInfo.id = `${pdfPathInfo.language}-${pdfPathInfo.type}-${pdfPathInfo.title}-${DOCUMENT_CONTENT_DIRNAME}-${SECTION_DEFAULT_NAME}-${documentPathInfo.document}`
-}
-
 let getDocumentInfoYml = async function (document) {
     const documentInfo = yaml.load(fs.readFileSync(document, "utf8"));
     const documentPathInfo = parseResourcePath(document)
@@ -36,6 +30,22 @@ let getDocumentInfoYml = async function (document) {
     documentInfo.resourceIndex = `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}`
     documentInfo.index = `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}`
     documentInfo.name = `${documentPathInfo.document}`
+
+    if (documentInfo.start_date) {
+        documentInfo.startDate = documentInfo.start_date
+        delete documentInfo.start_date
+    }
+
+    if (documentInfo.end_date) {
+        documentInfo.endDate = documentInfo.end_date
+        delete documentInfo.end_date
+    }
+
+    if (/^\d+$/.test(documentInfo.name)) {
+        documentInfo.sequence = `${parseInt(documentInfo.name)}`
+    } else {
+        documentInfo.sequence = `•`
+    }
 
     if (documentInfo.chips) {
         documentInfo.showSegmentChips = true
@@ -149,7 +159,7 @@ let processPDFOnlyResource = async function (resource, returnOnly) {
     }
 
     for (let pdfTarget of Object.keys(pdfsForDocument)) {
-        const pdfs = pdfsForDocument[pdfTarget]
+        let pdfs = pdfsForDocument[pdfTarget]
         if (!pdfs.length) continue
         const documentPathInfo = parseResourcePath(`${pdfs[0].target}/${DOCUMENT_INFO_FILENAME}`)
         const segmentPathInfo = parseResourcePath(`${pdfs[0].target}/${documentPathInfo.document}.md`)
@@ -161,20 +171,40 @@ let processPDFOnlyResource = async function (resource, returnOnly) {
             resourceIndex: `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}`,
             index: `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}`,
             name: `${documentPathInfo.document}`,
-            segments: [
-                {
-                    title: pdfs[0].title,
-                    type: "pdf",
-                    id: `${segmentPathInfo.language}-${segmentPathInfo.type}-${segmentPathInfo.title}-${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}${segmentPathInfo.document}-${segmentPathInfo.segment}`,
-                    resourceId: `${segmentPathInfo.language}-${segmentPathInfo.type}-${segmentPathInfo.title}`,
-                    index: `${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}${segmentPathInfo.document}/${segmentPathInfo.segment}`,
-                    name: `${segmentPathInfo.segment}`,
-                    pdf: pdfs,
-                }
-            ],
+        }
+
+        if (pdfs[0].start_date) {
+            documentInfo.startDate = pdfs[0].start_date
+        }
+
+        if (pdfs[0].end_date) {
+            documentInfo.endDate = pdfs[0].end_date
+        }
+
+        pdfs = pdfs.map(pdf => { delete pdf['start_date']; delete pdf['end_date']; return pdf } )
+
+        documentInfo.segments = [
+            {
+                title: pdfs[0].title,
+                type: "pdf",
+                id: `${segmentPathInfo.language}-${segmentPathInfo.type}-${segmentPathInfo.title}-${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}${segmentPathInfo.document}-${segmentPathInfo.segment}`,
+                resourceId: `${segmentPathInfo.language}-${segmentPathInfo.type}-${segmentPathInfo.title}`,
+                index: `${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}${segmentPathInfo.document}/${segmentPathInfo.segment}`,
+                name: `${segmentPathInfo.segment}`,
+                pdf: pdfs,
+            }
+        ]
+
+        if (/^\d+$/.test(documentInfo.name)) {
+            documentInfo.sequence = `${parseInt(documentInfo.name)}`
+        } else {
+            documentInfo.sequence = `•`
         }
 
         if (!returnOnly) {
+            for (let pdfSegment of documentInfo.segments) {
+                fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}/${pdfSegment.name}/index.json`, JSON.stringify(pdfSegment))
+            }
             fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
         } else {
             documents.push(documentInfo)
