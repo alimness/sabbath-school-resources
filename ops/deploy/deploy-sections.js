@@ -22,7 +22,7 @@ let getSectionInfo = async function (section) {
     const sectionInfo = yaml.load(fs.readFileSync(section, "utf8"))
     const sectionPathInfo = parseResourcePath(section)
     sectionInfo.name = sectionPathInfo.section ?? SECTION_DEFAULT_NAME
-    sectionInfo.displaySequence = sectionPathInfo.section ?? sectionPathInfo.type === RESOURCE_TYPE.SS
+    sectionInfo.displaySequence = sectionPathInfo.displaySequence ?? sectionPathInfo.type === RESOURCE_TYPE.SS
     return sectionInfo
 }
 

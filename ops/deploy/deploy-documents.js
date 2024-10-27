@@ -52,8 +52,10 @@ let getDocumentInfoYml = async function (document) {
         delete documentInfo.chips
     }
 
-    if (!documentInfo.cover && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "/" : ""}${documentPathInfo.document}/cover.png`)) {
-        documentInfo.cover = `${ASSETS_URL}/assets/images/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "/" : ""}${documentPathInfo.document}/cover.png`
+    let documentTitleForSplash = documentPathInfo.title.replace(/-er$/, '').replace(/-(ay|inv)$/, '-cq')
+
+    if (!documentInfo.cover && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${documentPathInfo.type}/${documentTitleForSplash.title}/${documentPathInfo.section ? documentPathInfo.section + "/" : ""}${documentPathInfo.document}/cover.png`)) {
+        documentInfo.cover = `${ASSETS_URL}/assets/images/${documentPathInfo.type}/${documentTitleForSplash.title}/${documentPathInfo.section ? documentPathInfo.section + "/" : ""}${documentPathInfo.document}/cover.png`
     }
 
     return documentInfo
