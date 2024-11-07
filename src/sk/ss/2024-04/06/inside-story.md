@@ -45,5 +45,5 @@ Uplynulo šest let a téměř všech 38 vězňů odevzdalo svá srdce Ježíši 
 
 _Děkujeme vám za vaše dary třinácté soboty, které v minulém čtvrtletí pomohly dvěma misijním projektům v Kolumbii._
 
-![Donaldo](picture06.jpg)  
+![Donaldo](https://sabbath-school-resources-assets.adventech.io/sk/ss/2024-04/06/picture06.jpg)  
 Donaldo
