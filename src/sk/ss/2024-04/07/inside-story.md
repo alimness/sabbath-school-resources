@@ -35,5 +35,5 @@ Jacob byl frustrovaný. Na konci tábora však chlapec Jacoba objal a zamířil 
 
 _Děkujeme vám za dary třinácté soboty v roce 2016, která pomohly opravit a rozšířit tábor Polaris, aby se ho mohlo účastnit více dětí. Část darů třinácté soboty v tomto čtvrtletí pomůže otevřít centrum vlivu v adventistickém sboru v Bethelu na Aljašce. Církev v Bethelu posílá každoročně místní děti na tábor Polaris._
 
-![Jacob Pierce](picture07.jpg)  
+![Jacob Pierce](https://sabbath-school-resources-assets.adventech.io/sk/ss/2024-04/07/picture07.jpg)  
 Jacob Pierce
