@@ -31,5 +31,5 @@ Když Ježíše bolelo srdce, „Tehdy řekl svým učedníkům: 'Žeň je velk�
 
 _Modlete se za Savoonga. Modlete se za Aljašku. Děkujeme vám za dary třinácté soboty v tomto čtvrtletí, které pomůžou otevřít centrum vlivu pro sdílení Boží lásky s aljašskými domorodci v Bethelu na Aljašce._
 
-![Marie](picture09.jpg)  
+![Marie](https://sabbath-school-resources-assets.adventech.io/sk/ss/2024-04/09/picture09.jpg)  
 Marie
