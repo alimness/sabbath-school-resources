@@ -2,6 +2,7 @@
   title: Personal Ministries
   groups:
   - group: Personal Ministries
+    reverse: true
     view: folio
     resources:
       - en-pm-discipleship-handbook
