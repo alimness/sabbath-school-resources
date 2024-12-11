@@ -5,5 +5,6 @@
     view: folio
     resources:
       - en-pm-discipleship-handbook
+      - en-pm-spread-the-word
   - group: Other resources
     scope: resource
