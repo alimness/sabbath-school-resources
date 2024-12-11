@@ -9,7 +9,7 @@
     resources:
       - en-devo-test
   - group: Devotionals
-    view: banner
+    view: tile
     resources:
       - en-devo-bhp-2024
   - group: Other resources
