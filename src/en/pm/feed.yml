@@ -12,7 +12,6 @@
     reverse: true
     view: folio
     resources:
-      - en-pm-keys-adventist-community-services
-      - en-pm-keys-health-evangelism-booklet
+      - en-pm-keys-*
   - group: Other resources
     scope: resource
