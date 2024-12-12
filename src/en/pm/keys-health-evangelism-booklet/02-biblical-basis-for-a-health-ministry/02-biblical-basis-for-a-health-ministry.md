@@ -18,4 +18,4 @@ Christian churches should be involved in health ministry because:
 
 Endnotes:
 
-<sup>2</sup>_The Ministry of Healing_, p. 19.
+<sup>2</sup> _The Ministry of Healing_, p. 19.
