@@ -13,5 +13,6 @@
     view: folio
     resources:
       - en-pm-keys-adventist-community-services
+      - en-pm-keys-health-evangelism-booklet
   - group: Other resources
     scope: resource
