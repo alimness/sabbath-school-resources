@@ -22,4 +22,4 @@ Yes, a health ministry will reach many people that no other approach will.
 
 Endnotes:
 
-<sup>1</sup>_The Ministry of Healing_, p. 144.
+<sup>1</sup> _The Ministry of Healing_, p. 144.
