@@ -1,6 +1,9 @@
 title: Keys to Adventist Community Services
 kind: book
-description: Keys to Adventist Community Services is created by the General Conference Sabbath School & Personal Ministries Department / Adventist Community Services International.
+description: >-
+  Keys to Adventist Community Services is created by the General Conference
+  Sabbath School & Personal Ministries Department / Adventist Community Services
+  International.
 primaryColor: '#383867'
 primaryColorDark: '#1A1A59'
 author: sspm
@@ -17,3 +20,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-500-0
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-adventist-community-services/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-adventist-community-services/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-adventist-community-services/assets/cover.png
