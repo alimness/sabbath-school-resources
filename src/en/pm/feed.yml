@@ -8,5 +8,10 @@
       - en-pm-discipleship-handbook
       - en-pm-spread-the-word
       - en-pm-fundamentals-of-faith
+  - group: Keys Series
+    reverse: true
+    view: folio
+    resources:
+      - en-pm-keys-adventist-community-services
   - group: Other resources
     scope: resource
