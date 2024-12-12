@@ -1,6 +1,8 @@
 title: Methods of Door-to-Door Visitation
 kind: book
-description: Methods of Door-to-Door Visitation is created by the General Conference Sabbath School & Personal Ministries Department
+description: >-
+  Methods of Door-to-Door Visitation is created by the General Conference
+  Sabbath School & Personal Ministries Department
 primaryColor: '#B2623F'
 primaryColorDark: '#A54921'
 author: sspm
@@ -17,3 +19,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-581-9
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-door-to-door-visitation/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-door-to-door-visitation/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-door-to-door-visitation/assets/cover.png
