@@ -20,5 +20,4 @@ An agency is a program sponsored by two or more local churches which operates fr
 
 A federation is a training and empowerment network formed to support front line leaders in community service ministry. Constituents of ACS Federations represent ACS units, centers, and other ACS entities in a geographic area of a local conference. The Community Services Federation has a long history in the Seventh-day Adventist Church and is still strong and viable in many places. To remain viable, the federation needs to go beyond inspirational or ceremonial occasions and be involved in actively and intentionally empowering leaders. Federation meetings should include a time for training and encouraging leaders. They should also include a time for sharing about successes and challenges and creative problem solving.
 
-> <callout></callout>
 > “But it is better to teach a man or woman to feed their family than it is to continue to provide emergency meals forever. Once an impoverished person has been empowered to meet his or her own needs, he is in a position to thrive and grow.”
