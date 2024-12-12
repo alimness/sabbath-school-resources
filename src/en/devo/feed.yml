@@ -9,6 +9,7 @@
     resources:
       - en-devo-test
   - group: Believe His Prophets
+    reverse: true
     view: tile
     resources:
       - en-devo-bhp-*
