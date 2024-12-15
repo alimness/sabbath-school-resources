@@ -12,5 +12,6 @@
       - en-aij-*-bg*
   - group: Training Videos
     view: tile
+    reverse: true
     resources:
       - en-aij-aij-training-videos*
