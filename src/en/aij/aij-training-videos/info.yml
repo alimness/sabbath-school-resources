@@ -10,9 +10,9 @@ covers:
     https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/cover-square.png
   portrait: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/cover.png
-  splash: >-
-    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/splash.png
 featuredResources:
   - en/aij/2025-00-bb-pb
   - en/aij/2025-00-bb-tg
   - en/aij/2025-01-bb-pth
+  - en/aij/aij-training-videos-babies
+  - en/aij/aij-training-videos-beginner
