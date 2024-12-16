@@ -10,6 +10,9 @@ author: sspm
 cta:
   hidden: true
 preferredCover: square
+featuredResources:
+  - en/pm/global-tmi-disciple-making-evangelism-plan
+featuredResourcesView: tile
 covers:
   landscape: >-
     https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-church-planner/assets/cover-landscape.png
