@@ -9,3 +9,10 @@ preferredCover: square
 featuredResources:
   - en/pm/global-tmi-church-planner
 featuredResourcesView: tile
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-disciple-making-evangelism-plan/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-disciple-making-evangelism-plan/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-disciple-making-evangelism-plan/assets/cover.png
