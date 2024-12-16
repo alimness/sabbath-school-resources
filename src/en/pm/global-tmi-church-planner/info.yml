@@ -1,5 +1,8 @@
 title: Church Planner
-description: Every Seventhday Adventist local church across the world is invited to launch this ongoing, culturechanging, personal and public evangelism strategy, which includes holding evangelistic reaping meetings in 2024-2025.
+description: >-
+  Every Seventhday Adventist local church across the world is invited to launch
+  this ongoing, culturechanging, personal and public evangelism strategy, which
+  includes holding evangelistic reaping meetings in 2024-2025.
 kind: book
 primaryColor: '#62879B'
 primaryColorDark: '#2A6585'
@@ -7,3 +10,10 @@ author: sspm
 cta:
   hidden: true
 preferredCover: square
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-church-planner/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-church-planner/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-church-planner/assets/cover.png
