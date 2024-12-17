@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: Abraham in Canaan PP 132-136b
 ---
 
-Chapter 12—Abraham in Canaan
+### Chapter 12—Abraham in Canaan
 
 This chapter is based on Genesis 13; to 15;; 17: 1-16; 18.
 

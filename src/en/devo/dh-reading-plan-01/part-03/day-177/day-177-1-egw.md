@@ -13,57 +13,57 @@ The people were surrounded by fierce, warlike tribes, that were eager to seize u
 
 The first of these festivals, the Passover, the feast of unleavened bread, occurred in Abib, the first month of the Jewish year, corresponding to the last of March and the beginning of April. The cold of winter was past, the latter rain had ended, and all nature rejoiced in the freshness and beauty of the springtime. The grass was green on the hills and valleys, and wild flowers everywhere brightened the fields. The moon, now approaching the full, made the evenings delightful. It was the season so beautifully pictured by the sacred singer:
 
-“The winter is past,  
-The rain is over and gone;  
-The flowers appear on the earth;  
-The time of the singing of birds is come,  
-And the voice of the turtle is heard in our land;  
-The fig tree ripeneth her green figs,  
-And the vines are in blossom,  
+“The winter is past,\
+The rain is over and gone;\
+The flowers appear on the earth;\
+The time of the singing of birds is come,\
+And the voice of the turtle is heard in our land;\
+The fig tree ripeneth her green figs,\
+And the vines are in blossom,\
 They give forth their fragrance.” Song of Solomon 2:11-13, R.V.
 
 Throughout the land bands of pilgrims were making their way toward Jerusalem. The shepherds from their flocks, the herdsmen from the mountains, fishers from the Sea of Galilee, the husbandmen from their fields, and sons of the prophets from the sacred schools—all turned their steps toward the place where God's presence was revealed. They journeyed by short stages, for many went on foot. The caravans were constantly receiving accessions, and often became very large before reaching the Holy City.
 
 Nature's gladness awakened joy in the hearts of Israel and gratitude to the Giver of all good. The grand Hebrew psalms were chanted, exalting the glory and majesty of Jehovah. At the sound of the signal trumpet, with the music of cymbals, the chorus of thanksgiving arose, swelled by hundreds of voices:
 
-“I was glad when they said unto me,  
-Let us go unto the house of the Lord.  
-Our feet are standing  
-Within thy gates, O Jerusalem....  
-Whither the tribes go up, even the tribes of the Lord, ...  
-To give thanks unto the name of Jehovah....  
-Pray for the peace of Jerusalem:  
+“I was glad when they said unto me,\
+Let us go unto the house of the Lord.\
+Our feet are standing\
+Within thy gates, O Jerusalem....\
+Whither the tribes go up, even the tribes of the Lord, ...\
+To give thanks unto the name of Jehovah....\
+Pray for the peace of Jerusalem:\
 They shall prosper that love thee.” Psalm 122:1-6, R.V.
 
 As they saw around them the hills where the heathen had been wont to kindle their altar fires, the children of Israel sang:
 
-“Shall I lift up mine eyes to the hills?  
-Whence should my help come?  
-My help cometh from Jehovah,  
+“Shall I lift up mine eyes to the hills?\
+Whence should my help come?\
+My help cometh from Jehovah,\
 Which made heaven and earth.” Psalm 121:1, 2 (margin).
 
-“They that trust in the Lord  
-Are as Mount Zion, which cannot be moved, but abideth forever.  
-As the mountains are round about Jerusalem,  
-So the Lord is round about His people,  
+“They that trust in the Lord\
+Are as Mount Zion, which cannot be moved, but abideth forever.\
+As the mountains are round about Jerusalem,\
+So the Lord is round about His people,\
 From this time forth and forevermore.” Psalm 125:1, 2, R.V.
 
 Surmounting the hills in view of the Holy City, they looked with reverent awe upon the throngs of worshipers wending their way to the temple. They saw the smoke of the incense ascending, and as they heard the trumpets of the Levites heralding the sacred service, they caught the inspiration of the hour, and sang:
 
-“Great is the Lord, and greatly to be praised  
-In the city of our God, in the mountain of His holiness.  
-Beautiful for situation, the joy of the whole earth,  
-Is Mount Zion, on the sides of the north,  
+“Great is the Lord, and greatly to be praised\
+In the city of our God, in the mountain of His holiness.\
+Beautiful for situation, the joy of the whole earth,\
+Is Mount Zion, on the sides of the north,\
 The city of the great King.” Psalm 48:1, 2.
 
-“Peace be within thy walls,  
-And prosperity within thy palaces.”  
-“Open to me the gates of righteousness:  
-I will go into them, and I will praise the Lord.”  
-“I will pay my vows unto the Lord  
-Now in the presence of all His people,  
-In the courts of the Lord's house,  
-In the midst of thee, O Jerusalem,  
+“Peace be within thy walls,\
+And prosperity within thy palaces.”\
+“Open to me the gates of righteousness:\
+I will go into them, and I will praise the Lord.”\
+“I will pay my vows unto the Lord\
+Now in the presence of all His people,\
+In the courts of the Lord's house,\
+In the midst of thee, O Jerusalem,\
 Praise ye the Lord.” Psalm 122:7; 118:19; 116:18, 19.
 
 All the houses in Jerusalem were thrown open to the pilgrims, and rooms were furnished free; but this was not sufficient for the vast assembly, and tents were pitched in every available space in the city and upon the surrounding hills.

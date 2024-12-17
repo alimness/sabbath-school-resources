@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: Destruction of Sodom PP 156-159a
 ---
 
-Chapter 14—Destruction of Sodom
+### Chapter 14—Destruction of Sodom
 
 This chapter is based on Genesis 19.
 

@@ -3,21 +3,21 @@ title: EGW Reading
 subtitle: Why Was Sin Permitted? PP 33-39a
 ---
 
-Chapter 1—Why was Sin Permitted?
+### Chapter 1—Why was Sin Permitted?
 
 “God is love.” 1 John 4:16. His nature, His law, is love. It ever has been; it ever will be. “The high and lofty One that inhabiteth eternity,” whose “ways are everlasting,” changeth not. With Him “is no variableness, neither shadow of turning.” Isaiah 57:15; Habakkuk 3:6; James 1:17.
 
 Every manifestation of creative power is an expression of infinite love. The sovereignty of God involves fullness of blessing to all created beings. The psalmist says:
 
-“Strong is Thy hand, and high is Thy right hand.  
-Righteousness and judgment are the foundation of Thy throne:  
-Mercy and truth go before Thy face.  
-Blessed is the people that know the joyful sound:  
-They walk, O Lord, in the light of Thy countenance.  
-In Thy name do they rejoice all the day:  
-And in Thy righteousness are they exalted.  
-For Thou art the glory of their strength: ...  
-For our shield belongeth unto Jehovah,  
+“Strong is Thy hand, and high is Thy right hand.\
+Righteousness and judgment are the foundation of Thy throne:\
+Mercy and truth go before Thy face.\
+Blessed is the people that know the joyful sound:\
+They walk, O Lord, in the light of Thy countenance.\
+In Thy name do they rejoice all the day:\
+And in Thy righteousness are they exalted.\
+For Thou art the glory of their strength: ...\
+For our shield belongeth unto Jehovah,\
 And our king to the Holy One.” Psalm 89:13-18, R.V. \[Note: In this text and in some other Bible quotations used in this book the word “Jehovah” is employed instead of “Lord,” as rendered in the American Supplement to the Revised Version.\]
 
 The history of the great conflict between good and evil, from the time it first began in heaven to the final overthrow of rebellion and the total eradication of sin, is also a demonstration of God's unchanging love.

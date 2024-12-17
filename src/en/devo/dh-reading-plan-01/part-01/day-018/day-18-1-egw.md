@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: After the Flood PP 105-106a
 ---
 
-Chapter 8—After the Flood
+### Chapter 8—After the Flood
 
 The waters rose fifteen cubits above the highest mountains. It often seemed to the family within the ark that they must perish, as for five long months their boat was tossed about, apparently at the mercy of wind and wave. It was a trying ordeal; but Noah's faith did not waver, for he had the assurance that the divine hand was upon the helm.
 

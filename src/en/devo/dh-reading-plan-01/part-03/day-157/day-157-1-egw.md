@@ -7,17 +7,17 @@ That very day there came to Moses the command, “Get thee up ... unto Mount Neb
 
 For the last time Moses stood in the assembly of his people. Again the Spirit of God rested upon him, and in the most sublime and touching language he pronounced a blessing upon each of the tribes, closing with a benediction upon them all:
 
-“There is none like unto God, O Jeshurun,  
-Who rideth upon the heaven for thy help,  
-And in His excellency on the skies.  
-The eternal God is thy dwelling place,  
-And underneath are the everlasting arms:  
-And He thrust out the enemy from before thee,  
-And said, Destroy.  
-And Israel dwelleth in safety,  
-The fountain of Jacob alone,  
-In a land of corn and wine;  
-Yea, His heavens drop down dew.  
-Happy art thou, O Israel:  
-Who is like unto thee, a people saved by Jehovah,  
+“There is none like unto God, O Jeshurun,\
+Who rideth upon the heaven for thy help,\
+And in His excellency on the skies.\
+The eternal God is thy dwelling place,\
+And underneath are the everlasting arms:\
+And He thrust out the enemy from before thee,\
+And said, Destroy.\
+And Israel dwelleth in safety,\
+The fountain of Jacob alone,\
+In a land of corn and wine;\
+Yea, His heavens drop down dew.\
+Happy art thou, O Israel:\
+Who is like unto thee, a people saved by Jehovah,\
 The shield of thy help.” Deuteronomy 33:26-29, R.V.

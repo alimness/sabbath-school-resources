@@ -25,28 +25,28 @@ David's grief at the death of Saul was sincere and deep, evincing the generosity
 
 The song in which David gave utterance to the feelings of his heart became a treasure to his nation, and to the people of God in all subsequent ages:
 
-“Thy glory, O Israel, is slain upon thy high places!  
-How are the mighty fallen!  
-Tell it not in Gath,  
-Publish it not in the streets of Ashkelon;  
-Lest the daughters of the Philistines rejoice,  
-Lest the daughters of the uncircumcised triumph.  
-Ye mountains of Gilboa, Let there be no dew nor rain upon you, neither fields of  
-offerings:  
-For there the shield of the mighty was vilely cast away,  
-The shield of Saul as of one not anointed with oil....  
-Saul and Jonathan were lovely and pleasant in their lives,  
-And in their death they were not divided;  
-They were swifter than eagles,  
-They were stronger than lions.  
-Ye daughters of Israel, weep over Saul,  
-Who clothed you in scarlet delicately,  
-Who put ornaments of gold upon your apparel.  
-How are the mighty fallen in the midst of the battle!  
-Jonathan is slain upon thy high places.  
-I am distressed for thee, my brother Jonathan:  
-Very pleasant hast thou been unto me:  
-Thy love to me was wonderful,  
-Passing the love of women.  
-How are the mighty fallen,  
+“Thy glory, O Israel, is slain upon thy high places!\
+How are the mighty fallen!\
+Tell it not in Gath,\
+Publish it not in the streets of Ashkelon;\
+Lest the daughters of the Philistines rejoice,\
+Lest the daughters of the uncircumcised triumph.\
+Ye mountains of Gilboa, Let there be no dew nor rain upon you, neither fields of\
+offerings:\
+For there the shield of the mighty was vilely cast away,\
+The shield of Saul as of one not anointed with oil....\
+Saul and Jonathan were lovely and pleasant in their lives,\
+And in their death they were not divided;\
+They were swifter than eagles,\
+They were stronger than lions.\
+Ye daughters of Israel, weep over Saul,\
+Who clothed you in scarlet delicately,\
+Who put ornaments of gold upon your apparel.\
+How are the mighty fallen in the midst of the battle!\
+Jonathan is slain upon thy high places.\
+I am distressed for thee, my brother Jonathan:\
+Very pleasant hast thou been unto me:\
+Thy love to me was wonderful,\
+Passing the love of women.\
+How are the mighty fallen,\
 And the weapons of war perished!” 2 Samuel 1:19-27, R.V.

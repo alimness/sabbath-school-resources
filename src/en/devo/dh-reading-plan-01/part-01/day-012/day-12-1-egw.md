@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: Seth and Enoch PP 80-84b
 ---
 
-Chapter 6—Seth and Enoch
+### Chapter 6—Seth and Enoch
 
 This chapter is based on Genesis 4:25 to 6:2.
 

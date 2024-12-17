@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: The Return to Canaan PP 204-206c
 ---
 
-Chapter 19—The Return to Canaan
+### Chapter 19—The Return to Canaan
 
 This chapter is based on Genesis 34; 35; 37.
 

@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: Joseph in Egypt PP 213-218
 ---
 
-Chapter 20—Joseph in Egypt
+### Chapter 20—Joseph in Egypt
 
 This chapter is based on Genesis 39 to 41.
 

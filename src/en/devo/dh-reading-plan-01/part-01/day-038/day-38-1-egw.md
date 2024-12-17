@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: Jacob and Esau PP 177-179c
 ---
 
-Chapter 16—Jacob and Esau
+### Chapter 16—Jacob and Esau
 
 This chapter is based on Genesis 25:19-24; 27.
 

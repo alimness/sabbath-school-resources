@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: The Creation PP 44-45
 ---
 
-Chapter 2—The Creation
+### Chapter 2—The Creation
 
 This chapter is based on Genesis 1 and 2.
 

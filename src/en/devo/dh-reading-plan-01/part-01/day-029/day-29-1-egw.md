@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: The Test of Faith PP 145-147b
 ---
 
-Chapter 13—The Test of Faith
+### Chapter 13—The Test of Faith
 
 This chapter is based on Genesis 16; 17:18-20; 21:1-14; 22:1-19.
 

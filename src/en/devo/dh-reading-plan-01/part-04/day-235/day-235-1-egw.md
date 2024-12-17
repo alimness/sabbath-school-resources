@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: The Reign of David PP 708e-713a
 ---
 
-“The Lord of hosts,  
+“The Lord of hosts,\
 He is the King of glory.” Psalm 24:7-10.
 
 Then the gates were opened wide, the procession entered, and with reverent awe the ark was deposited in the tent that had been prepared for its reception. Before the sacred enclosure altars for sacrifice were erected; the smoke of peace offerings and burnt offerings, and the clouds of incense, with the praises and supplications of Israel, ascended to heaven. The service ended, the king himself pronounced a benediction upon his people. Then with regal bounty he caused gifts of food and wine to be distributed for their refreshment.

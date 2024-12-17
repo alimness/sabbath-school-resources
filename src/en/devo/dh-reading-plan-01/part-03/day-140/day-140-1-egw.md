@@ -31,19 +31,19 @@ By Balaam's direction seven altars were erected, and he offered a sacrifice upon
 
 With the nobles and princes of Moab the king stood beside the sacrifice, while around them gathered the eager multitude, watching for the return of the prophet. He came at last, and the people waited for the words that should paralyze forever that strange power exerted in behalf of the hated Israelites. Balaam said:
 
-“The king of Moab hath brought me from Aram,  
-Out of the mountains of the east,  
-Saying, Come, curse me Jacob,  
-And come, defy Israel.  
-How shall I curse, whom God hath not cursed?  
-Or how shall I defy, whom the Lord hath not defied?  
-For from the top of the rocks I see him ,  
-And from the hills I behold him :  
-Lo, the people shall dwell alone,  
-And shall not be reckoned among the nations.  
-Who can count the dust of Jacob,  
-And the number of the fourth part of Israel?  
-Let me die the death of the righteous,  
+“The king of Moab hath brought me from Aram,\
+Out of the mountains of the east,\
+Saying, Come, curse me Jacob,\
+And come, defy Israel.\
+How shall I curse, whom God hath not cursed?\
+Or how shall I defy, whom the Lord hath not defied?\
+For from the top of the rocks I see him ,\
+And from the hills I behold him :\
+Lo, the people shall dwell alone,\
+And shall not be reckoned among the nations.\
+Who can count the dust of Jacob,\
+And the number of the fourth part of Israel?\
+Let me die the death of the righteous,\
 And let my last end be like his!”
 
 Balaam confessed that he came with the purpose of cursing Israel, but the words he uttered were directly contrary to the sentiments of his heart. He was constrained to pronounce blessings, while his soul was filled with curses.

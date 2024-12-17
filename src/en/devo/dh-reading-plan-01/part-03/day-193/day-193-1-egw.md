@@ -7,33 +7,33 @@ Once more Hannah journeyed with her husband to Shiloh and presented to the pries
 
 The mother's heart was filled with joy and praise, and she longed to pour forth her gratitude to God. The Spirit of Inspiration came upon her; “and Hannah prayed, and said:
 
-“My heart rejoiceth in the Lord;  
-Mine horn is exalted in the Lord;  
-My mouth is enlarged over mine enemies;  
-Because I rejoice in Thy salvation.  
-There is none holy as the Lord:  
-For there is none beside Thee:  
-Neither is there any rock like our God.  
-Talk no more so exceeding proudly;  
-Let not arrogancy come out of your mouth;  
-For Jehovah is a God of knowledge,  
-And by Him actions are weighed....  
-The Lord killeth, and maketh alive:  
-He bringeth down to the grave, and bringeth up.  
-The Lord maketh poor, and maketh rich:  
-He bringeth low, and lifteth up.  
-He raiseth up the poor out of the dust,  
-And lifteth up the beggar from the dunghill,  
-To set them among princes,  
-And to make them inherit the throne of glory:  
-For the pillars of the earth are the Lord's,  
-And He hath set the world upon them.  
-He will keep the feet of His saints,  
-And the wicked shall be silent in darkness;  
-For by strength shall no man prevail.  
-The adversaries of the Lord shall be broken to pieces; Out of heaven shall He thunder upon them:  
-The Lord shall judge the ends of the earth;  
-And He shall give strength unto His king,  
+“My heart rejoiceth in the Lord;\
+Mine horn is exalted in the Lord;\
+My mouth is enlarged over mine enemies;\
+Because I rejoice in Thy salvation.\
+There is none holy as the Lord:\
+For there is none beside Thee:\
+Neither is there any rock like our God.\
+Talk no more so exceeding proudly;\
+Let not arrogancy come out of your mouth;\
+For Jehovah is a God of knowledge,\
+And by Him actions are weighed....\
+The Lord killeth, and maketh alive:\
+He bringeth down to the grave, and bringeth up.\
+The Lord maketh poor, and maketh rich:\
+He bringeth low, and lifteth up.\
+He raiseth up the poor out of the dust,\
+And lifteth up the beggar from the dunghill,\
+To set them among princes,\
+And to make them inherit the throne of glory:\
+For the pillars of the earth are the Lord's,\
+And He hath set the world upon them.\
+He will keep the feet of His saints,\
+And the wicked shall be silent in darkness;\
+For by strength shall no man prevail.\
+The adversaries of the Lord shall be broken to pieces; Out of heaven shall He thunder upon them:\
+The Lord shall judge the ends of the earth;\
+And He shall give strength unto His king,\
 And exalt the horn of His anointed.”
 
 Hannah's words were prophetic, both of David, who should reign as king of Israel, and of the Messiah, the Lord's Anointed. Referring first to the boasting of an insolent and contentious woman, the song points to the destruction of the enemies of God and the final triumph of His redeemed people.

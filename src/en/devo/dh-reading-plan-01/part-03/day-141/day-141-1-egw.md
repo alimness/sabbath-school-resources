@@ -11,32 +11,32 @@ Balak could not even now relinquish his purpose. He decided that the imposing sp
 
 When he appeared to the anxious, expectant company the question was put to him, “What hath the Lord spoken?” The answer, as before, struck terror to the heart of king and princes:
 
-“God is not a man, that He should lie;  
-Neither the son of man, that He should repent:  
-Hath He said, and shall He not do it?  
-Or hath He spoken, and shall He not make it good?  
-Behold, I have received commandment to bless:  
-And He hath blessed; and I cannot reverse it.  
-He hath not beheld iniquity in Jacob,  
-Neither hath He seen perverseness in Israel:  
-The Lord his God is with him,  
+“God is not a man, that He should lie;\
+Neither the son of man, that He should repent:\
+Hath He said, and shall He not do it?\
+Or hath He spoken, and shall He not make it good?\
+Behold, I have received commandment to bless:\
+And He hath blessed; and I cannot reverse it.\
+He hath not beheld iniquity in Jacob,\
+Neither hath He seen perverseness in Israel:\
+The Lord his God is with him,\
 And the shout of a king is among them.”
 
 Awed by these revelations, Balaam exclaimed, “Surely there is no enchantment against Jacob, neither is there any divination against Israel.” The great magician had tried his power of enchantment, in accordance with the desire of the Moabites; but concerning this very occasion it should be said of Israel, “What hath God wrought!” While they were under the divine protection, no people or nation, though aided by all the power of Satan, should be able to prevail against them. All the world should wonder at the marvelous work of God in behalf of His people—that a man determined to pursue a sinful course should be so controlled by divine power as to utter, instead of imprecations, the richest and most precious promises, in the language of sublime and impassioned poetry. And the favor of God at this time manifested toward Israel was to be an assurance of His protecting care for His obedient, faithful children in all ages. When Satan should inspire evil men to misrepresent, harass, and destroy God's people, this very occurrence would be brought to their remembrance, and would strengthen their courage and their faith in God.
 
 The king of Moab, disheartened and distressed, exclaimed, “Neither curse them at all, nor bless them at all.” Yet a faint hope still lingered in his heart, and he determined to make another trial. He now conducted Balaam to Mount Peor, where was a temple devoted to the licentious worship of Baal, their god. Here the same number of altars were erected as before, and the same number of sacrifices were offered; but Balaam went not alone, as at other times, to learn God's will. He made no pretense of sorcery, but standing beside the altars, he looked abroad upon the tents of Israel. Again the Spirit of God rested upon him, and the divine message came from his lips:
 
-“How goodly are thy tents, O Jacob,  
-And thy tabernacles, O Israel!  
-As the valleys are they spread forth, as gardens by the river's side,  
-As the trees of lignaloes which the Lord hath planted, and as cedar  
-trees beside the waters.  
-He shall pour the water out of his buckets, and his seed shall be in  
-many waters,  
-And his King shall be higher than Agag, and his kingdom shall be  
-exalted....  
-He couched, he lay down as a lion, and as a great lion: who shall  
-stir him up?  
+“How goodly are thy tents, O Jacob,\
+And thy tabernacles, O Israel!\
+As the valleys are they spread forth, as gardens by the river's side,\
+As the trees of lignaloes which the Lord hath planted, and as cedar\
+trees beside the waters.\
+He shall pour the water out of his buckets, and his seed shall be in\
+many waters,\
+And his King shall be higher than Agag, and his kingdom shall be\
+exalted....\
+He couched, he lay down as a lion, and as a great lion: who shall\
+stir him up?\
 Blessed is he that blesseth thee, and cursed is he that curseth thee.”
 
 The prosperity of God's people is here represented by some of the most beautiful figures to be found in nature. The prophet likens Israel to fertile valleys covered with abundant harvests; to flourishing gardens watered by never-failing springs; to the fragrant sandal tree and the stately cedar. The figure last mentioned is one of the most strikingly beautiful and appropriate to be found in the inspired word. The cedar of Lebanon was honored by all the people of the East. The class of trees to which it belongs is found wherever man has gone throughout the earth. From the arctic regions to the tropic zone they flourish, rejoicing in the heat, yet braving the cold; springing in rich luxuriance by the riverside, yet towering aloft upon the parched and thirsty waste. They plant their roots deep among the rocks of the mountains and boldly stand in defiance of the tempest. Their leaves are fresh and green when all else has perished at the breath of winter. Above all other trees the cedar of Lebanon is distinguished for its strength, its firmness, its undecaying vigor; and this is used as a symbol of those whose life is “hid with Christ in God.” Colossians 3:3. Says the Scripture, “The righteous ... shall grow like a cedar.” Psalm 92:12. The divine hand has exalted the cedar as king over the forest. “The fir trees were not like his boughs, and the chestnut trees were not like his branches” (Ezekiel 31:8); nor any tree in the garden of God. The cedar is repeatedly employed as an emblem of royalty, and its use in Scripture to represent the righteous shows how heaven regards those who do the will of God.
@@ -47,9 +47,9 @@ As he listened to the prophet's words Balak was overwhelmed with disappointed ho
 
 Before returning to his people, Balaam uttered a most beautiful and sublime prophecy of the world's Redeemer and the final destruction of the enemies of God: “I shall see Him , but not now: I shall behold Him , but not nigh:
 
-There shall come a Star out of Jacob, and a Scepter shall rise out of  
-Israel,  
-And shall smite the corners of Moab, and destroy all the children of  
+There shall come a Star out of Jacob, and a Scepter shall rise out of\
+Israel,\
+And shall smite the corners of Moab, and destroy all the children of\
 Sheth.”
 
 And he closed by predicting the complete destruction of Moab and Edom, of Amalek and the Kenites, thus leaving to the Moabitish king no ray of hope.

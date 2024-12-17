@@ -13,8 +13,8 @@ David's dancing in reverent joy before God has been cited by pleasure lovers in 
 
 The triumphal procession approached the capital, following the sacred symbol of their invisible King. Then a burst of song demanded of the watchers upon the walls that the gates of the Holy City should be thrown open:
 
-“Lift up your heads, O ye gates;  
-And be ye lift up, ye everlasting doors;  
+“Lift up your heads, O ye gates;\
+And be ye lift up, ye everlasting doors;\
 And the King of glory shall come in.”
 
 A band of singers and players answered:
@@ -23,13 +23,13 @@ A band of singers and players answered:
 
 From another company came the response:
 
-“The Lord strong and mighty,  
+“The Lord strong and mighty,\
 The Lord mighty in battle.”
 
 Then hundreds of voices, uniting, swelled the triumphal chorus:
 
-“Lift up your heads, O ye gates;  
-Even lift them up, ye everlasting doors;  
+“Lift up your heads, O ye gates;\
+Even lift them up, ye everlasting doors;\
 And the King of glory shall come in.”
 
 Again the joyful interrogation was heard, “Who is this King of glory?” And the voice of the great multitude, like “the sound of many waters,” was heard in the rapturous reply:

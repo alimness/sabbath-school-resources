@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: Cain and Abel Tested PP 71-79
 ---
 
-Chapter 5—Cain and Abel Tested
+### Chapter 5—Cain and Abel Tested
 
 This chapter is based on Genesis 4:1-15.
 

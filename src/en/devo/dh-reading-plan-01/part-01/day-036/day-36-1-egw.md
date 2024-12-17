@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: The Marriage of Isaac PP 171-173d
 ---
 
-Chapter 15—The Marriage of Isaac
+### Chapter 15—The Marriage of Isaac
 
 This chapter is based on Genesis 24.
 

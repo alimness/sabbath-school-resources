@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: The Plan of Redemption PP 63-67a
 ---
 
-Chapter 4—The Plan of Redemption
+### Chapter 4—The Plan of Redemption
 
 The fall of man filled all heaven with sorrow. The world that God had made was blighted with the curse of sin and inhabited by beings doomed to misery and death. There appeared no escape for those who had transgressed the law. Angels ceased their songs of praise. Throughout the heavenly courts there was mourning for the ruin that sin had wrought.
 

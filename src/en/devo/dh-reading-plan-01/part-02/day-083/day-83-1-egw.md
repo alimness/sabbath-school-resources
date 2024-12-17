@@ -17,31 +17,31 @@ The Egyptians were seized with confusion and dismay. Amid the wrath of the eleme
 
 As morning broke it revealed to the multitudes of Israel all that remained of their mighty foes—the mail-clad bodies cast upon the shore. From the most terrible peril, one night had brought complete deliverance. That vast, helpless throng—bondmen unused to battle, women, children, and cattle, with the sea before them, and the mighty armies of Egypt pressing behind—had seen their path opened through the waters and their enemies overwhelmed in the moment of expected triumph. Jehovah alone had brought them deliverance, and to Him their hearts were turned in gratitude and faith. Their emotion found utterance in songs of praise. The Spirit of God rested upon Moses, and he led the people in a triumphant anthem of thanksgiving, the earliest and one of the most sublime that are known to man.
 
-“I will sing unto Jehovah, for He hath triumphed gloriously;  
-The horse and his rider hath He thrown into the sea.  
-The Lord is my strength and my song,  
-And He is become my salvation:  
-This is my God, and I will praise Him;  
-My father's God, and I will exalt Him.  
-The Lord is a man of war:  
-Jehovah is His name. Pharaoh's chariots and his host hath He cast into the sea:  
-And his chosen captains are sunk in the Red Sea.  
-The deeps cover them:  
-They went down into the depths like a stone.  
-Thy right hand, O Lord, is glorious in power,  
-Thy right hand, O Lord, dasheth in pieces the enemy....  
-Who is like unto Thee, O Lord, among the gods?  
-Who is like Thee, glorious in holiness,  
-Fearful in praises, doing wonders? ...  
-Thou in Thy mercy hast led the people which Thou has redeemed:  
-Thou hast guided them in Thy strength to Thy holy habitation.  
-The peoples have heard, they tremble....  
-Terror and dread falleth upon them;  
-By the greatness of Thine arm they are as still as a stone;  
-Till Thy people pass over, O Lord,  
-Till the people pass over which Thou hast purchased.  
-Thou shalt bring them in, and plant them in the mountain of  
-Thine inheritance,  
+“I will sing unto Jehovah, for He hath triumphed gloriously;\
+The horse and his rider hath He thrown into the sea.\
+The Lord is my strength and my song,\
+And He is become my salvation:\
+This is my God, and I will praise Him;\
+My father's God, and I will exalt Him.\
+The Lord is a man of war:\
+Jehovah is His name. Pharaoh's chariots and his host hath He cast into the sea:\
+And his chosen captains are sunk in the Red Sea.\
+The deeps cover them:\
+They went down into the depths like a stone.\
+Thy right hand, O Lord, is glorious in power,\
+Thy right hand, O Lord, dasheth in pieces the enemy....\
+Who is like unto Thee, O Lord, among the gods?\
+Who is like Thee, glorious in holiness,\
+Fearful in praises, doing wonders? ...\
+Thou in Thy mercy hast led the people which Thou has redeemed:\
+Thou hast guided them in Thy strength to Thy holy habitation.\
+The peoples have heard, they tremble....\
+Terror and dread falleth upon them;\
+By the greatness of Thine arm they are as still as a stone;\
+Till Thy people pass over, O Lord,\
+Till the people pass over which Thou hast purchased.\
+Thou shalt bring them in, and plant them in the mountain of\
+Thine inheritance,\
 The place, O Lord, which Thou hast made for Thee to dwell in.” Exodus 15:1-16, R.V.
 
 Like the voice of the great deep, rose from the vast hosts of Israel that sublime ascription. It was taken up by the women of Israel, Miriam, the sister of Moses, leading the way, as they went forth with timbrel and dance. Far over desert and sea rang the joyous refrain, and the mountains re-echoed the words of their praise—“Sing ye to Jehovah, for He hath triumphed gloriously.”

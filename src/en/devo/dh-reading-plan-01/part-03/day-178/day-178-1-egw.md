@@ -21,35 +21,35 @@ The Feast of Tabernacles was not only commemorative but typical. It not only poi
 
 The people of Israel praised God at the Feast of Tabernacles, as they called to mind His mercy in their deliverance from the bondage of Egypt and His tender care for them during their pilgrim life in the wilderness. They rejoiced also in the consciousness of pardon and acceptance, through the service of the day of atonement, just ended. But when the ransomed of the Lord shall have been safely gathered into the heavenly Canaan, forever delivered from the bondage of the curse, under which “the whole creation groaneth and travaileth in pain together until now” (Romans 8:22), they will rejoice with joy unspeakable and full of glory. Christ's great work of atonement for men will then have been completed, and their sins will have been forever blotted out.
 
-“The wilderness and the solitary place shall be glad for them;  
-And the desert shall rejoice, and blossom as the rose.  
-It shall blossom abundantly, and rejoice even with joy and  
-singing:  
-The glory of Lebanon shall be given unto it,  
-The excellency of Carmel and Sharon;  
-They shall see the glory of the Lord, and the excellency of our  
+“The wilderness and the solitary place shall be glad for them;\
+And the desert shall rejoice, and blossom as the rose.\
+It shall blossom abundantly, and rejoice even with joy and\
+singing:\
+The glory of Lebanon shall be given unto it,\
+The excellency of Carmel and Sharon;\
+They shall see the glory of the Lord, and the excellency of our\
 God.
 
-“Then the eyes of the blind shall be opened,  
-And the ears of the deaf shall be unstopped.  
-Then shall the lame man leap as an hart,  
-And the tongue of the dumb sing:  
-“For in the wilderness shall waters break out,  
-And streams in the desert.  
-And the parched ground shall become a pool,  
-And the thirsty land springs of water: ...  
-“And an highway shall be there, and a way,  
-And it shall be called The way of holiness;  
-The unclean shall not pass over it;  
-But it shall be for those:  
+“Then the eyes of the blind shall be opened,\
+And the ears of the deaf shall be unstopped.\
+Then shall the lame man leap as an hart,\
+And the tongue of the dumb sing:\
+“For in the wilderness shall waters break out,\
+And streams in the desert.\
+And the parched ground shall become a pool,\
+And the thirsty land springs of water: ...\
+“And an highway shall be there, and a way,\
+And it shall be called The way of holiness;\
+The unclean shall not pass over it;\
+But it shall be for those:\
 The wayfaring men, though fools, shall not err therein.
 
-“No lion shall be there,  
-Nor any ravenous beast shall go up thereon,  
-It shall not be found there;  
-But the redeemed shall walk there:  
-“And the ransomed of the Lord shall return,  
-And come to Zion with songs  
-And everlasting joy upon their heads:  
-They shall obtain joy and gladness,  
+“No lion shall be there,\
+Nor any ravenous beast shall go up thereon,\
+It shall not be found there;\
+But the redeemed shall walk there:\
+“And the ransomed of the Lord shall return,\
+And come to Zion with songs\
+And everlasting joy upon their heads:\
+They shall obtain joy and gladness,\
 And sorrow and sighing shall flee away.” Isaiah 35:1, 2, 5-10.

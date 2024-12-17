@@ -9,58 +9,58 @@ God intended the history of David's fall to serve as a warning that even those w
 
 Even before the divine sentence was pronounced against David he had begun to reap the fruit of transgression. His conscience was not at rest. The agony of spirit which he then endured is brought to view in the thirty-second psalm. He says:
 
-“Blessed is he whose transgression is forgiven, whose sin is  
-covered.  
-Blessed is the man unto whom the Lord imputeth not iniquity,  
-And in whose spirit there is no guile.  
-When I kept silence, my bones waxed old  
-Through my roaring all the day long.  
-For day and night Thy hand was heavy upon me:  
+“Blessed is he whose transgression is forgiven, whose sin is\
+covered.\
+Blessed is the man unto whom the Lord imputeth not iniquity,\
+And in whose spirit there is no guile.\
+When I kept silence, my bones waxed old\
+Through my roaring all the day long.\
+For day and night Thy hand was heavy upon me:\
 My moisture was changed as with the drought of summer.” Psalm 32:1-4, R.V.
 
 And the fifty-first psalm is an expression of David's repentance, when the message of reproof came to him from God:
 
-“Have mercy upon me, O God, according to Thy loving-kindness:  
-According unto the multitude of Thy tender mercies blot out  
-my transgressions. Wash me throughly from mine iniquity, and cleanse me from  
-my sin.  
-For I acknowledge my transgressions: and my sin is ever before  
-me....  
-Purge me with hyssop, and I shall be clean: wash me, and I  
-shall be whiter than snow.  
-Make me to hear joy and gladness;  
-That the bones which Thou hast broken may rejoice.  
-Hide Thy face from my sins,  
-And blot out all mine iniquities.  
-Create in me a clean heart, O God;  
-And renew a right spirit within me.  
-Cast me not away from Thy presence;  
-And take not Thy Holy Spirit from me.  
-Restore unto me the joy of Thy salvation;  
-And uphold me with Thy free Spirit.  
-Then will I teach transgressors Thy ways;  
-And sinners shall be converted unto Thee.  
-Deliver me from bloodguiltiness, O God, Thou God of my  
-salvation:  
+“Have mercy upon me, O God, according to Thy loving-kindness:\
+According unto the multitude of Thy tender mercies blot out\
+my transgressions. Wash me throughly from mine iniquity, and cleanse me from\
+my sin.\
+For I acknowledge my transgressions: and my sin is ever before\
+me....\
+Purge me with hyssop, and I shall be clean: wash me, and I\
+shall be whiter than snow.\
+Make me to hear joy and gladness;\
+That the bones which Thou hast broken may rejoice.\
+Hide Thy face from my sins,\
+And blot out all mine iniquities.\
+Create in me a clean heart, O God;\
+And renew a right spirit within me.\
+Cast me not away from Thy presence;\
+And take not Thy Holy Spirit from me.\
+Restore unto me the joy of Thy salvation;\
+And uphold me with Thy free Spirit.\
+Then will I teach transgressors Thy ways;\
+And sinners shall be converted unto Thee.\
+Deliver me from bloodguiltiness, O God, Thou God of my\
+salvation:\
 And my tongue shall sing aloud of Thy righteousness.” Psalm 51:1-14.
 
 Thus in a sacred song to be sung in the public assemblies of his people, in the presence of the court—priests and judges, princes and men of war—and which would preserve to the latest generation the knowledge of his fall, the king of Israel recounted his sin, his repentance, and his hope of pardon through the mercy of God. Instead of endeavoring to conceal his guilt he desired that others might be instructed by the sad history of his fall.
 
 David's repentance was sincere and deep. There was no effort to palliate his crime. No desire to escape the judgments threatened, inspired his prayer. But he saw the enormity of his transgression against God; he saw the defilement of his soul; he loathed his sin. It was not for pardon only that he prayed, but for purity of heart. David did not in despair give over the struggle. In the promises of God to repentant sinners he saw the evidence of his pardon and acceptance.
 
-“For Thou desirest not sacrifice; else would I give it:  
-Thou delightest not in burnt offering.  
-The sacrifices of God are a broken spirit:  
+“For Thou desirest not sacrifice; else would I give it:\
+Thou delightest not in burnt offering.\
+The sacrifices of God are a broken spirit:\
 A broken and a contrite heart, O God, Thou wilt not despise.” Psalm 51:16, 17.
 
 Though David had fallen, the Lord lifted him up. He was now more fully in harmony with God and in sympathy with his fellow men than before he fell. In the joy of his release he sang:
 
-“I acknowledged my sin unto Thee, and mine iniquity have I  
-not hid.  
-I said, I will confess my transgressions unto the Lord;  
-And Thou forgavest the iniquity of my sin....  
-Thou art my hiding place; Thou shalt preserve me from  
-trouble;  
+“I acknowledged my sin unto Thee, and mine iniquity have I\
+not hid.\
+I said, I will confess my transgressions unto the Lord;\
+And Thou forgavest the iniquity of my sin....\
+Thou art my hiding place; Thou shalt preserve me from\
+trouble;\
 Thou shalt compass me about with songs of deliverance.” Psalm 32:5-7.
 
 Many have murmured at what they called God's injustice in sparing David, whose guilt was so great, after having rejected Saul for what appear to them to be far less flagrant sins. But David humbled himself and confessed his sin, while Saul despised reproof and hardened his heart in impenitence.

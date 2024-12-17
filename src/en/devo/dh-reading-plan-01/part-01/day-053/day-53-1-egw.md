@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: Joseph and His Brothers PP 224-227a
 ---
 
-Chapter 21—Joseph and His Brothers
+### Chapter 21—Joseph and His Brothers
 
 This chapter is based on Genesis 41:54-56; 42 to 50.
 

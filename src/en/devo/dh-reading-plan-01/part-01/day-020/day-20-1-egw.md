@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: The Literal Week PP 111-116
 ---
 
-Chapter 9—The Literal Week
+### Chapter 9—The Literal Week
 
 Like the Sabbath, the week originated at creation, and it has been preserved and brought down to us through Bible history. God Himself measured off the first week as a sample for successive weeks to the close of time. Like every other, it consisted of seven literal days. Six days were employed in the work of creation; upon the seventh, God rested, and He then blessed this day and set it apart as a day of rest for man.
 

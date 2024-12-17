@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: The Flood PP 90-92b
 ---
 
-Chapter 7—The Flood
+### Chapter 7—The Flood
 
 This chapter is based on Genesis 6 and 7.
 

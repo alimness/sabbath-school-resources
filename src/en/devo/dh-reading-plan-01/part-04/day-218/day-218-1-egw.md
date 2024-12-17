@@ -5,16 +5,16 @@ subtitle: The Magnanimity of David PP 664c-666a
 
 David could not be present at the burial of Samuel, but he mourned for him as deeply and tenderly as a faithful son could mourn for a devoted father. He knew that Samuel's death had broken another bond of restraint from the actions of Saul, and he felt less secure than when the prophet lived. While the attention of Saul was engaged in mourning for the death of Samuel, David took the opportunity to seek a place of greater security; so he fled to the wilderness of Paran. It was here that he composed the one hundred and twentieth and twenty-first psalms. In these desolate wilds, realizing that the prophet was dead, and the king was his enemy, he sang:
 
-“My help cometh from the Lord,  
-Which made heaven and earth.  
-He will not suffer thy foot to be moved:  
-He that keepeth thee will not slumber.  
-Behold, He that keepeth Israel  
-Shall neither slumber nor sleep....  
-The Lord shall preserve thee from all evil:  
-He shall preserve thy soul.  
-The Lord shall preserve thy going out and thy  
-coming in  
+“My help cometh from the Lord,\
+Which made heaven and earth.\
+He will not suffer thy foot to be moved:\
+He that keepeth thee will not slumber.\
+Behold, He that keepeth Israel\
+Shall neither slumber nor sleep....\
+The Lord shall preserve thee from all evil:\
+He shall preserve thy soul.\
+The Lord shall preserve thy going out and thy\
+coming in\
 From this time forth, and even forevermore.” Psalm 121:2-8.
 
 While David and his men were in the wilderness of Paran, they protected from the depredations of marauders the flocks and herds of a wealthy man named Nabal, who had vast possessions in that region. Nabal was a descendant of Caleb, but his character was churlish and niggardly.

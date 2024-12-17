@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: The Temptation and Fall PP 52-57a
 ---
 
-Chapter 3—The Temptation and Fall
+### Chapter 3—The Temptation and Fall
 
 This chapter is based on Genesis 3.
 

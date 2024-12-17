@@ -15,19 +15,19 @@ The young men were suspected and pursued, yet they succeeded in performing their
 
 What were the feelings of the father and king, so cruelly wronged, in this terrible peril? “A mighty valiant man,” a man of war, a king, whose word was law, betrayed by his son whom he had loved and indulged and unwisely trusted, wronged and deserted by subjects bound to him by the strongest ties of honor and fealty—in what words did David pour out the feelings of his soul? In the hour of his darkest trial David's heart was stayed upon God, and he sang:
 
-“Lord, how are they increased that trouble me!  
-Many are they that rise up against me.  
-Many there be which say of my soul,  
-There is no help for him in God.  
-But Thou, O Lord, art a shield for me;  
-My glory, and the lifter up of mine head.  
-I cried unto the Lord with my voice,  
-And He heard me out of His holy hill.  
-I laid me down and slept;  
-I awaked; for the Lord sustained me.  
-I will not be afraid of ten thousands of people,  
-That have set themselves against me round about....  
-Salvation belongeth unto the Lord:  
+“Lord, how are they increased that trouble me!\
+Many are they that rise up against me.\
+Many there be which say of my soul,\
+There is no help for him in God.\
+But Thou, O Lord, art a shield for me;\
+My glory, and the lifter up of mine head.\
+I cried unto the Lord with my voice,\
+And He heard me out of His holy hill.\
+I laid me down and slept;\
+I awaked; for the Lord sustained me.\
+I will not be afraid of ten thousands of people,\
+That have set themselves against me round about....\
+Salvation belongeth unto the Lord:\
 Thy blessing is upon Thy people.” Psalm 3:1-8.
 
 David and all his company—warriors and statesmen, old men and youth, the women and the little children—in the darkness of night crossed the deep and swift-flowing river. “By the morning light there lacked not one of them that was not gone over Jordan.”

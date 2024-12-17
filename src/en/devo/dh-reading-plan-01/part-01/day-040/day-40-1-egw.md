@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: Jacob’s Flight and Exile PP 183-188b
 ---
 
-Chapter 17—Jacob's Flight and Exile
+### Chapter 17—Jacob's Flight and Exile
 
 This chapter is based on Genesis 28 to 31.
 

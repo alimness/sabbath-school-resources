@@ -3,7 +3,7 @@ title: EGW Reading
 subtitle: The Night of Wrestling PP 195-198b
 ---
 
-Chapter 18—The Night of Wrestling
+### Chapter 18—The Night of Wrestling
 
 This chapter is based on Genesis 32 and 33.
 

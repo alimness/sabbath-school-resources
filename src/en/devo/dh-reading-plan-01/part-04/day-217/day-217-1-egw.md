@@ -7,19 +7,19 @@ Still hunted by the king, David found no place of rest or security. At Keilah hi
 
 At this time, when there were so few bright spots in the path of David, he was rejoiced to receive an unexpected visit from Jonathan, who had learned the place of his refuge. Precious were the moments which these two friends passed in each other's society. They related their varied experiences, and Jonathan strengthened the heart of David, saying, “Fear not: for the hand of Saul my father shall not find thee; and thou shalt be king over Israel, and I shall be next unto thee; and that also Saul my father knoweth.” As they talked of the wonderful dealings of God with David, the hunted fugitive was greatly encouraged. “And they two made a covenant before the Lord: and David abode in the wood, and Jonathan went to his house.”
 
-After the visit of Jonathan, David encouraged his soul with songs of praise, accompanying his voice with his harp as he sang: “In the Lord put I my trust:  
-How say ye to my soul,  
-Flee as a bird to your mountain?  
-For, lo, the wicked bend their bow,  
-They make ready their arrow upon the string,  
-That they may privily shoot at the upright in heart.  
-If the foundations be destroyed,  
-What can the righteous do?  
-The Lord is in His holy temple,  
-The Lord's throne is in heaven:  
-His eyes behold, His eyelids try, the children of men.  
-The Lord trieth the righteous:  
-But the wicked and him that loveth violence His soul  
+After the visit of Jonathan, David encouraged his soul with songs of praise, accompanying his voice with his harp as he sang: “In the Lord put I my trust:\
+How say ye to my soul,\
+Flee as a bird to your mountain?\
+For, lo, the wicked bend their bow,\
+They make ready their arrow upon the string,\
+That they may privily shoot at the upright in heart.\
+If the foundations be destroyed,\
+What can the righteous do?\
+The Lord is in His holy temple,\
+The Lord's throne is in heaven:\
+His eyes behold, His eyelids try, the children of men.\
+The Lord trieth the righteous:\
+But the wicked and him that loveth violence His soul\
 hateth.” Psalm 11:1-5.
 
 The Ziphites, into whose wild regions David went from Keilah, sent word to Saul in Gibeah that they knew where David was hiding, and that they would guide the king to his retreat. But David, warned of their intentions, changed his position, seeking refuge in the mountains between Maon and the Dead Sea.
