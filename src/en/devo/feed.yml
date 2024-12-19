@@ -11,6 +11,11 @@
     view: tile
     resources:
       - en-devo-bhp-*
+  - group: Steps to Personal Revival
+    view: folio
+    resources:
+      - en-devo-steps-to-personal-revival
+      - en-devo-abide-in-jesus
   - group: Other resources
     view: folio
     resources:
