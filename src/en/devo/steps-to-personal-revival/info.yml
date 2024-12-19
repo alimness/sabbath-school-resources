@@ -8,3 +8,12 @@ credits:
     value: Helmut Haubeil
   - name: ISBN
     value: 978-3-903002-14-2
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/steps-to-personal-revival/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/steps-to-personal-revival/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/steps-to-personal-revival/assets/cover.png
+  splash: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/steps-to-personal-revival/assets/splash.png
