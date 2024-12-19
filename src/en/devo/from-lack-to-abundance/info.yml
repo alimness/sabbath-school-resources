@@ -6,3 +6,12 @@ primaryColorDark: '#1A1A19'
 credits:
   - name: Author
     value: Helmut Haubeil
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/from-lack-to-abundance/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/from-lack-to-abundance/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/from-lack-to-abundance/assets/cover.png
+  splash: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/from-lack-to-abundance/assets/splash.png
