@@ -1,5 +1,7 @@
 title: The Daily Reading Plan. Section 4
-subtitle: "The early Christian church to the earth made new. The Acts of the Apostles and The Great Controversy"
+subtitle: >-
+  The early Christian church to the earth made new. The Acts of the Apostles and
+  The Great Controversy
 description: >-
   Daily communion with God through prayer and Bible study is the most important
   spiritual habit we can develop. The writings of Ellen G. White, as an end-time
@@ -28,3 +30,10 @@ credits:
   - name: ISBN
     value: 978-0-8280-2834-9
 preferredCover: square
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/dh-reading-plan-04/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/dh-reading-plan-04/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/dh-reading-plan-04/assets/cover.png
