@@ -48,7 +48,8 @@ This is a person, who hasn’t accepted Christ yet.
 
 “But the natural man does not receive the things of the Spirit of God, for they are foolishness to him; nor can he know them, because they are spiritually discerned.” (1 Corinthians 2:14 NKJV)
 
-![A life ruled by the ego](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![A life ruled by the ego](https://sabbath-school-resources-assets.adventech.io/en/devo/spirit-filled-coworkers-of-jesus/01-content-08-how-can-we-lead-people-to-live-in-the-power-of-god/image1.png)
 
 E = Ego, limited self on the throne
 
@@ -62,7 +63,8 @@ This is a person, who has accepted Christ and is led and empowered by the Holy S
 
 “But he who is spiritual judges all things ...” (1 Corinthians 2:15 NKJV)
 
-![A life led by Christ](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![A life led by Christ](https://sabbath-school-resources-assets.adventech.io/en/devo/spirit-filled-coworkers-of-jesus/01-content-08-how-can-we-lead-people-to-live-in-the-power-of-god/image2.png)
 
 † = Christ is on the throne of life
 
@@ -76,7 +78,8 @@ This is a person, who has accepted Christ, but often experiences defeats, becaus
 
 “And I, brethren, could not speak to you as to spiritual people but as to carnal, as to babes in Christ. I fed you with milk and not with solid food; for until now you were not able to receive it, and even now you are still not able; for you are still carnal. For where there are envy, strife, and divisions among you, are you not carnal and behaving like mere men? (1 Corinthians 3:1-3 NKJV)
 
-![A life controlled by the ego](image3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![A life controlled by the ego](https://sabbath-school-resources-assets.adventech.io/en/devo/spirit-filled-coworkers-of-jesus/01-content-08-how-can-we-lead-people-to-live-in-the-power-of-god/image3.png)
 
 E = Ego, limited self on the throne
 
@@ -96,7 +99,8 @@ Jesus said: “I have come that they may have life, and that they may have it mo
 
 “But you shall receive power when the Holy Spirit has come upon you; and you shall be witnesses to Me in Jerusalem, and in all Judea and Samaria, and to the end of the earth.” (Acts 1:8 NKJV)
 
-![The spiritual Person](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![The spiritual Person](https://sabbath-school-resources-assets.adventech.io/en/devo/spirit-filled-coworkers-of-jesus/01-content-08-how-can-we-lead-people-to-live-in-the-power-of-god/image2.png)
 
 Some traits that are characteristic of a life with God:
 
@@ -118,7 +122,8 @@ Someone, who is just starting to understand the work of the Holy Spirit, shouldn
 
 ### 2. Who cannot experience the fulfilled and fruitful Christian life?
 
-![The carnal man](image3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![The carnal man](https://sabbath-school-resources-assets.adventech.io/en/devo/spirit-filled-coworkers-of-jesus/01-content-08-how-can-we-lead-people-to-live-in-the-power-of-god/image3.png)
 
 Some or all of the following traits characterize carnal Christians, who do not completely trust God.
 
@@ -212,7 +217,8 @@ Feelings are not crucial. God’s promises in His word are vital – not our fee
 
 The following illustration should show the relationship between facts (God and His word), faith (our trust in God and His word) and feelings (result of faith and obedience) (John 14:21).
 
-![Facts, Faith, and Feelings](image4.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Facts, Faith, and Feelings](https://sabbath-school-resources-assets.adventech.io/en/devo/spirit-filled-coworkers-of-jesus/01-content-08-how-can-we-lead-people-to-live-in-the-power-of-god/image4.png)
 
 The train can travel with or without wagons. It would be futile for the wagons to pull the locomotive. Likewise, Christians are not dependent on their moods and emotions, rather they put their trust (our faith) in the reliability of God and the promises in His word.
 

@@ -81,7 +81,8 @@ Accepting Him means:
 
 Two possibilities:
 
-![Possibility 1](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Possibility 1](https://sabbath-school-resources-assets.adventech.io/en/devo/spirit-filled-coworkers-of-jesus/01-content-07-how-can-we-lead-people-to-jesus/image1.png)
 
 **My ego as the center of my life**.
 
@@ -89,7 +90,8 @@ My ego governs.
 
 The results are, for example, desire for admiration, doubt, insecurity, guilt, internal unrest, etc.
 
-![Possibility 2](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Possibility 2](https://sabbath-school-resources-assets.adventech.io/en/devo/spirit-filled-coworkers-of-jesus/01-content-07-how-can-we-lead-people-to-jesus/image2.png)
 
 **Jesus Christ as the center of my life**.
 
