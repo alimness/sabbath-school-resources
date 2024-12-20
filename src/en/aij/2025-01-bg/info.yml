@@ -1,4 +1,5 @@
-title: Creation
+title: Student YAQ1. Creation
+markdownTitle: Student YAQ1. Creation
 subtitle: Year A, Quarter 1
 primaryColor: '#39788D'
 primaryColorDark: '#1F5A6D'
@@ -26,6 +27,7 @@ credits:
 featuredResources:
   - en/aij/2025-01-bg-tg
   - en/aij/aij-training-videos
+  - en/aij/aij-training-videos-beginner
 covers:
   landscape: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/cover-landscape.png
@@ -33,8 +35,6 @@ covers:
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/cover-square.png
   portrait: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/cover.png
-  splash: >-
-    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/splash.png
 style:
   blocks:
     inline:

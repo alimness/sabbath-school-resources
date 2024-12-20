@@ -61,8 +61,20 @@ let getDocumentInfoYml = async function (document) {
     return documentInfo
 }
 
-let getSegmentInfo = async function (segment, processBlocks = false) {
-    const segmentFile = fs.readFileSync(segment, "utf8");
+let getSegmentInfo = async function (segment, processBlocks = false, append = "") {
+    let segmentFile = fs.readFileSync(segment, "utf8")
+
+    const egwNotesRegex = /\n#{2,}\s*Additional Reading[\s\S]*/g // = #### Additional Reading
+    const match = segmentFile.match(egwNotesRegex)
+
+    if (match) {
+        const foundLines = match[0]
+        const replacement = `\`\`\`=${foundLines.replace(/\n#{2,}\s*/, '').trim()}\n\`\`\``
+        segmentFile = segmentFile.replace(egwNotesRegex, replacement)
+    }
+
+    segmentFile += append
+
     const segmentInfoFrontMatter = frontMatter(segmentFile)
     const segmentPathInfo = parseResourcePath(segment)
 
@@ -253,6 +265,11 @@ let processDocuments = async function (language, resourceType, resourceGlob) {
         for (let document of documents) {
             let documentInfo = await getDocumentInfoYml(`${SOURCE_DIR}/${document}`, true)
             let documentPathInfo = parseResourcePath(document)
+            let append = ""
+
+            if (fs.pathExistsSync(`${SOURCE_DIR}/${document.replace('/info.yml', '')}/teacher-comments.md`)) {
+                append = `\n\n---\n\n{#[${documentInfo.index}/teacher-comments.md]}`
+            }
 
             documentInfo.segments = []
 
@@ -265,11 +282,11 @@ let processDocuments = async function (language, resourceType, resourceGlob) {
                 .sync();
 
             for (let segment of segments) {
-                let segmentInfo = await getSegmentInfo(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`, true)
+                let segmentInfo = await getSegmentInfo(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`, true, /^_teacher-comments\.md/.test(segment) ? "" : append)
                 let segmentPathInfo = parseResourcePath(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`)
 
                 // skipping hidden segments
-                if (!/^_/.test(segment)) {
+                if (!/^_/.test(segment) && !/teacher-comments.md$/.test(segment)) {
                     documentInfo.segments.push(segmentInfo)
                 }
                 fs.outputFileSync(`${API_DIST}/${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}${segmentPathInfo.document}/${segmentPathInfo.segment}/index.json`, JSON.stringify(segmentInfo))

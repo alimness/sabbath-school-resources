@@ -1,7 +1,12 @@
 ---
   title: Personal Ministries
   groups:
-  - group: Personal Ministries
+  - group: Global TMI
+    reverse: true
+    view: tile
+    resources:
+      - en-pm-global-tmi*
+  - group: GROW Series
     reverse: true
     view: folio
     resources:
@@ -13,5 +18,7 @@
     view: folio
     resources:
       - en-pm-keys-*
-  - group: Other resources
+  - group: Other Resources
+    reverse: true
+    view: folio
     scope: resource

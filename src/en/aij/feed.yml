@@ -5,12 +5,13 @@
     reverse: true
     resources:
       - en-aij-*-bb*
-  - group: Beginners
+  - group: Beginner
     reverse: true
     view: folio
     resources:
       - en-aij-*-bg*
-  - group: Other
+  - group: Training Videos
     view: tile
+    reverse: true
     resources:
-      - en-aij-aij-training-videos
+      - en-aij-aij-training-videos*
