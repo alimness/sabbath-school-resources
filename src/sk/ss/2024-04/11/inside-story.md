@@ -37,5 +37,5 @@ Biblický pracovník zavedl Samuela k evangelistovi, který byl také překvapen
 
 „Všechno je možné, když spolupracujeme s Bohem na jeho poslání,“ řekl evangelista Slavik Ostapenko, nyní pastor slovanského sboru církve adventistů sedmého dne ve Spokane ve státě Washington.
 
-![Slavik Ostapenko](picture11.jpg)  
+![Slavik Ostapenko](https://sabbath-school-resources-assets.adventech.io/sk/ss/2024-04/11/picture11.jpg)  
 Slavik Ostapenko

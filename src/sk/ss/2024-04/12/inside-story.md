@@ -25,5 +25,5 @@ Kingston našel sílu ve chvílích strávených s ostatními návštěvníky sb
 
 _Prosím, modlete se za Kingstona, který navštěvuje sbor téměř každou sobotu, ale ještě se nerozhodl pro křest. Děkujeme vám za dary třinácté soboty, které v tomto čtvrtletí podpoří misijní pomoc ve sboru Církve adventistů sedmého dne v obci Bethel. Jména obyvatel Bethelu byla změněna z důvodu ochrany jejich soukromí. Na fotografii je Joy Anderson._
 
-![Joy Anderson](picture12.jpg)  
+![Joy Anderson](https://sabbath-school-resources-assets.adventech.io/sk/ss/2024-04/12/picture12.jpg)  
 Joy Anderson
