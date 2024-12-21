@@ -5,7 +5,7 @@ title: Your Kingdom Come
 > <p>Luke 17:21B, NKJV</p>
 > “The kingdom of God is within you”
 
-### Salva%on Has Entered
+### Salvation Has Entered
  
 In Luke 19 Jesus offers to enter Zacchaeus’ house. Then Jesus says, “Today salvation has come to this house” (verse 9). When Jesus lives in your place, heaven is there. And before you can enter God’s kingdom, God’s kingdom must enter your heart. In John 17 Jesus prayed not that His followers would be separated physically from the world but that they would not be of the world (John 17:15, 16).
 
