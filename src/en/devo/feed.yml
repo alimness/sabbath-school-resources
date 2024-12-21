@@ -26,5 +26,6 @@
   - group: Other resources
     view: folio
     resources:
+      - en-devo-stewardship-offertory-readings-2025
       - en-devo-the-way-back-to-altar
       - en-devo-test

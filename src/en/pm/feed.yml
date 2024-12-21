@@ -5,8 +5,8 @@
     reverse: true
     view: tile
     resources:
-      - en-pm-making-disciples-101
       - en-pm-global-tmi*
+      - en-pm-making-disciples-101
   - group: GROW Series
     reverse: true
     view: folio
