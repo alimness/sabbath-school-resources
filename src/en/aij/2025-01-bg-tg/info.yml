@@ -53,6 +53,7 @@ style:
     subtitle:
       text:
         typeface: Omnes-Regular
+displaySequence: true
 fonts:
   - name: CenturyGothic-Bold
     weight: 700
