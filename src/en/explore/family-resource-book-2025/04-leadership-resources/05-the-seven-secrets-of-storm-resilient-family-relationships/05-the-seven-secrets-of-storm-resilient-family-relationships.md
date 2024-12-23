@@ -94,7 +94,7 @@ Perhaps not everyone knows what to make of the term “faith” or “spirituali
 
 We can summarize the seven factors as follows:
 
-![7 Hope Factors](image.png)
+![7 Hope Factors](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2025/04-leadership-resources-05-the-seven-secrets-of-storm-resilient-family-relationships/image.png)
 
 ### Storm-resilient Training Plan
 
