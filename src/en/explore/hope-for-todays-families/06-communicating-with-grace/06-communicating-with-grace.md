@@ -1,5 +1,6 @@
 ---
 title: Communicating With Grace
+subtitle: Chapter 6
 ---
 
 People who are intentional about communicating well with their loved ones experience great family relationships. If you think about the people you really like in your family, you would easily admit that the ones you like best are the ones who make you feel good because of the way they speak and listen to you.

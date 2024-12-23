@@ -1,5 +1,6 @@
 ---
 title: No Excuse for Abuse in the Family
+subtitle: Chapter 7
 ---
 
 In February 2013, people around the world were watching their televisions closely to hear the verdict in the trial of Oscar Pistorius, the famed Paralympic and Olympic Games runner. He was found guilty of shooting to death his girlfriend Reeva Steenkamp; he claimed he mistook her for an intruder in the apartment they shared.

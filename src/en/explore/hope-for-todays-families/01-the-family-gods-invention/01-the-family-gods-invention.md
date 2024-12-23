@@ -1,5 +1,6 @@
 ---
 title: "The Family: God’s Invention"
+subtitle: Chapter 1
 ---
 
 Family is a wonderful word that stirs up warm feelings in most people around the world. It is the first thing people think about when in danger and also when there is something good to share or celebrate. Family is the first thing in our thoughts after being away for school or work for a period. Most people think about wanting to hug loved ones and enjoy the familiar surroundings of home after being away for some time. The truth is—after God—family is consistently the most significant group of people that makes us feel safe, secure, and warm.

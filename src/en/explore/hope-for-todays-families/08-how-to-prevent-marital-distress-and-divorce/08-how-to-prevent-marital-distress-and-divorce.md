@@ -1,5 +1,6 @@
 ---
 title: How to Prevent Marital Distress and Divorce
+subtitle: Chapter 8
 ---
 
 Weddings are beautiful, delightful, and blissful occasions. When a couple stands at the altar, holding hands, gazing into each other’s eyes, reciting their vows, they are filled with joy and hope. Every couple believes their love is so special and their bond so strong that they will remain together “in sickness and in health” and “for better or worse.”

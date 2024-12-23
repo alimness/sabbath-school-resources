@@ -1,5 +1,6 @@
 ---
 title: Rock or Sand?
+subtitle: Chapter 4
 ---
 
 On a recent trip to Côte d’Ivoire (Ivory Coast) for leadership meetings with our West-Central Africa networks, our flight from Paris to Abidjan was delayed by a couple of hours. Already scheduled to arrive an hour before midnight, the delay meant the driver picking us up from the airport would be having a very long night and early morning.

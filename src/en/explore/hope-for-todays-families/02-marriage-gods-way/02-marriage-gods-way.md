@@ -1,5 +1,6 @@
 ---
 title: Marriage God’s Way
+subtitle: Chapter 2
 ---
 
 To celebrate our thirtieth marriage anniversary and create new memories to keep our marriage healthy and strong, we spent five days at the beach, enjoying the beautiful sand and clear blue water.

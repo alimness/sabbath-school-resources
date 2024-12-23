@@ -1,5 +1,6 @@
 ---
 title: Parenting for Success
+subtitle: Chapter 3
 ---
 
 Raising children today is more challenging than ever. Shaping a child’s character is even more urgent as children are confronted daily with values that seem opposite from their parents’ values. Today children are bombarded with mixed messages through the media, internet, other adults, and their peers. These confusing messages have led children down a path that desensitizes them to many societal ills such as violence, immorality, abuse, and discrimination.

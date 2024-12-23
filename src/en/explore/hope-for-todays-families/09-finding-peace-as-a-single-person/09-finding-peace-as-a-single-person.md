@@ -1,5 +1,6 @@
 ---
 title: Finding Peace as a Single Person
+subtitle: Chapter 9
 ---
 
 We recently celebrated thirty-four years of marriage. For some of you, this is longer than you have been alive. However, to us, it seems like it was just yesterday that we were exchanging marriage vows on a lovely summer afternoon in the northeastern part of the United States of America.

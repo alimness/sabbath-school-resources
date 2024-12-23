@@ -1,5 +1,6 @@
 ---
 title: Becoming Intimate Allies
+subtitle: Chapter 5
 ---
 
 Several years ago, we found a quotation by an unknown author that says: “Getting married is easy. Staying married is more difficult. Staying happily married for a lifetime would be considered among the fine arts.”
