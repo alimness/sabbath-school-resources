@@ -1,7 +1,9 @@
 title: Celebrate Creation
 kind: book
 subtitle: Marriage, Family, and the Sabbath
-description: This is the 2025 Resource Book for the Adventist Family Ministries. I Will Go is an initiative of the General Conference of Seventh-day Adventists®.
+description: >-
+  This is the 2025 Resource Book for the Adventist Family Ministries. I Will Go
+  is an initiative of the General Conference of Seventh-day Adventists®.
 primaryColor: '#404F91'
 primaryColorDark: '#283882'
 author: afm
@@ -14,3 +16,12 @@ credits:
     value: Willie and Elaine Oliver
   - name: ISBN
     value: 978-0-8127-0574-4
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2025/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2025/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2025/assets/cover.png
+  splash: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2025/assets/splash.png
