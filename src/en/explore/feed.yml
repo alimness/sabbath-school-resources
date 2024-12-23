@@ -1,0 +1,10 @@
+---
+  title: Explore
+  groups:
+  - group: Family
+    view: folio
+    resources:
+
+  - group: Other Resources
+    view: folio
+    scope: resource
