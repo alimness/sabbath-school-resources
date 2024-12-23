@@ -1,8 +1,7 @@
 title: Family to Family
 kind: book
 subtitle: Church Guide
-description: >-
-  A Winsome Plan to Help Families Witness in Their Communities
+description: A Winsome Plan to Help Families Witness in Their Communities
 primaryColor: '#818DA7'
 primaryColorDark: '#50638C'
 author: afm
@@ -13,3 +12,12 @@ credits:
       Adventists® All rights reserved
   - name: Editors
     value: Willie and Elaine Oliver
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/family-to-family-church-guide/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/family-to-family-church-guide/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/family-to-family-church-guide/assets/cover.png
+  splash: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/family-to-family-church-guide/assets/splash.png
