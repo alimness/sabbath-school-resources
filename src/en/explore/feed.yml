@@ -1,0 +1,20 @@
+---
+  title: Explore
+  groups:
+  - group: Family Ministries
+    view: folio
+    resources:
+      - en-explore-family-resource-book-2025
+      - en-explore-hope-for-todays-families
+      - en-explore-family-to-family-church-guide
+      - en-explore-family-to-family-family-guide
+      - en-explore-family-worship-kit
+      - en-explore-family-worship-memories
+  - group: Stewardship
+    view: folio
+    resources:
+      - en-explore-stewardship-offertory-readings-2025
+      - en-explore-steps-to-discipleship-leader-guide
+  - group: Other Resources
+    view: folio
+    scope: resource

@@ -1,7 +1,7 @@
 ---
-  title: Devotionals
+  title: Devotional
   groups:
-  - group: Correlated Bible Reading Plan
+  - group: Correlated Bible & EGW
     reverse: true
     view: square
     resources:
@@ -18,8 +18,19 @@
       - en-devo-abide-in-jesus
       - en-devo-spirit-filled-coworkers-of-jesus
       - en-devo-from-lack-to-abundance
+  - group: Daily Devotional
+    view: folio
+    resources:
+      - en-devo-nad-family-devo-2025
+      - en-devo-nad-health-devo-2025
+  - group: Prayer
+    view: folio
+    resources:
+      - en-devo-ten-days-of-prayer-2025
+      - en-devo-youth-week-of-prayer-2025
   - group: Other resources
     view: folio
     resources:
       - en-devo-the-way-back-to-altar
+      - en-devo-when-god-said-remember
       - en-devo-test
