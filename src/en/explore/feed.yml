@@ -4,7 +4,10 @@
   - group: Family
     view: folio
     resources:
-
+      - family-resource-book-2025
+      - family-to-family-church-guide
+      - family-worship-kit
+      - family-worship-memories
   - group: Other Resources
     view: folio
     scope: resource
