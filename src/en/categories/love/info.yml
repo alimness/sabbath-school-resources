@@ -2,10 +2,10 @@ id: love
 title: Love
 covers:
   landscape: >-
-    https://sabbath-school-stage.adventech.io/api/v2/en/categories/love/assets/cover-landscape.png
+    https://sabbath-school-stage.adventech.io/api/v3/en/categories/love/assets/cover-landscape.png
   square: >-
-    https://sabbath-school-stage.adventech.io/api/v2/en/categories/love/assets/cover-square.png
+    https://sabbath-school-stage.adventech.io/api/v3/en/categories/love/assets/cover-square.png
   portrait: >-
-    https://sabbath-school-stage.adventech.io/api/v2/en/categories/love/assets/cover.png
+    https://sabbath-school-stage.adventech.io/api/v3/en/categories/love/assets/cover.png
   splash: >-
-    https://sabbath-school-stage.adventech.io/api/v2/en/categories/love/assets/splash.png
+    https://sabbath-school-stage.adventech.io/api/v3/en/categories/love/assets/splash.png
