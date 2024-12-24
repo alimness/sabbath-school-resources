@@ -1,3 +1,4 @@
 ---
-  - group: Other resources
+  groups:
+  - group: All resources
     scope: resource
