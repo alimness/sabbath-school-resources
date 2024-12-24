@@ -1,5 +1,7 @@
 id: love
 title: Love
+primaryColor: "#cccccc"
+primaryColorDark: "#000000"
 covers:
   landscape: >-
     https://sabbath-school-stage.adventech.io/api/v3/en/categories/love/assets/cover-landscape.png

@@ -104,7 +104,7 @@ let processCategories = async function () {
             const categoryFeed = await getCategoryFeed(`${SOURCE_DIR}/${categoryPathInfo.language}/${CATEGORIES_DIRNAME}/${categoryPathInfo.title}/${CATEGORY_FEED_FILENAME}`)
 
             categoryInfoDetail.feed = {}
-            categoryInfoDetail.title = categoryInfo.title
+            categoryInfoDetail.feed.title = categoryInfo.title
             categoryInfoDetail.feed.groups = []
 
             const categoryResources = allTaggedResources.resources.filter(r => r.categories.indexOf(categoryPathInfo.title) >= 0)

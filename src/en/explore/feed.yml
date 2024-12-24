@@ -23,3 +23,8 @@
     scope: author
     authors:
       - sspm
+  - group: Categories
+    view: tile
+    scope: category
+    categories:
+      - love

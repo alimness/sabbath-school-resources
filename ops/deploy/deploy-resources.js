@@ -32,7 +32,7 @@ import {
     RESOURCE_AUDIO_FILENAME,
     RESOURCE_VIDEO_FILENAME,
     RESOURCE_PDF_FILENAME,
-    RESOURCE_COVER_PLACEHOLDER, RESOURCE_PROGRESS_TRACKING
+    RESOURCE_COVER_PLACEHOLDER, RESOURCE_PROGRESS_TRACKING, AUTHORS_DIRNAME
 } from "../helpers/constants.js"
 import { getAuthorInfo } from "./deploy-authors.js"
 import { getCategoryInfo } from "./deploy-categories.js"
@@ -220,6 +220,29 @@ let getResourceInfo = async function (resource, depth = 0) {
                 return JSON.stringify(obj) === _thing
             })
         })
+    }
+
+    if (resourceInfo.author) {
+        try {
+            if (Array.isArray(resourceInfo.author)) {
+                resourceInfo.authors = []
+
+                for (let author of resourceInfo.author) {
+                    let authorInfo = await getAuthorInfo(`${SOURCE_DIR}/${resourcePathInfo.language}/${AUTHORS_DIRNAME}/${author}/info.yml`)
+                    resourceInfo.authors.push(authorInfo)
+                }
+
+                if (!resourceInfo.authors.length) {
+                    delete resourceInfo.authors
+                }
+            } else {
+                let authorInfo = await getAuthorInfo(`${SOURCE_DIR}/${resourcePathInfo.language}/${AUTHORS_DIRNAME}/${resourceInfo.author}/info.yml`)
+                resourceInfo.authors = [authorInfo]
+            }
+        } catch (e) {
+            console.error(`Error processing ${resourceInfo.title} ${resourceInfo.author} ${e}`)
+        }
+        delete resourceInfo.author
     }
 
     return resourceInfo

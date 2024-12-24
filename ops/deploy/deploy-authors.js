@@ -51,7 +51,7 @@ let getAllTaggedResources = async function () {
     for (let resource of resources) {
         try {
             let resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${resource}`)
-            if (resourceInfo.author) {
+            if (resourceInfo.authors) {
                 allTaggedResources["resources"].push(resourceInfo)
             }
         } catch (e) {
@@ -87,7 +87,7 @@ let processAuthors = async function () {
             authorInfoDetail.feed.title = authorInfo.title
             authorInfoDetail.feed.groups = []
 
-            const authorResources = allTaggedResources.resources.filter(r => r.author === authorPathInfo.title)
+            const authorResources = allTaggedResources.resources.filter(r => r.authors.find((a) => a.id === authorInfo.id))
 
             authorFeed.groups.map((g, index) => {
                 authorInfoDetail.feed.groups.push({
