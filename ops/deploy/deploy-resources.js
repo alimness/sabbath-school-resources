@@ -240,7 +240,7 @@ let getResourceInfo = async function (resource, depth = 0) {
                 resourceInfo.authors = [authorInfo]
             }
         } catch (e) {
-            console.error(`Error processing ${resourceInfo.title} ${resourceInfo.author} ${e}`)
+            console.log(`Error processing ${resourceInfo.title} ${resourceInfo.author} ${e}`)
         }
         delete resourceInfo.author
     }
@@ -353,7 +353,7 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
 
                 fs.outputFileSync(`${API_DIST}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/index.json`, JSON.stringify(resourceInfo))
             } catch (e) {
-                console.error(`Error processing resources: ${e}`);
+                console.log(`Error processing resources: ${e}`);
             }
         }
 
@@ -382,7 +382,7 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                         groupByName.authors = sortResourcesByPattern(groupByName.authors, groupByName.authorIds)
                     }
                 } catch (e) {
-                    console.error(`Error processing categories: ${e}`);
+                    console.log(`Error processing categories: ${e}`);
                 }
             }
         }
@@ -412,7 +412,7 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                         groupByName.categories = sortResourcesByPattern(groupByName.categories, groupByName.categoryIds)
                     }
                 } catch (e) {
-                    console.error(`Error processing categories: ${e}`);
+                    console.log(`Error processing categories: ${e}`);
                 }
             }
         }
