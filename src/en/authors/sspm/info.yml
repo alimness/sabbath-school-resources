@@ -9,3 +9,12 @@ details:
     content: Markdown text here
 primaryColor: '#2F557F'
 primaryColorDark: '#183656'
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/authors/sspm/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/authors/sspm/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/authors/sspm/assets/cover.png
+logo: >-
+  https://sabbath-school-resources-assets.adventech.io/en/authors/sspm/assets/logo.png
