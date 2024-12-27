@@ -1,5 +1,5 @@
 ---
-title: 2 Corithians 7
+title: 2 Corinthians 7
 date: 02/01/2025
 ---
-[[2 Corithians 7]]
+[[2 Corinthians 7]]

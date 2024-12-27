@@ -1,5 +1,5 @@
 ---
-title: 2 Corithians 10
+title: 2 Corinthians 10
 date: 05/01/2025
 ---
-[[2 Corithians 10]]
+[[2 Corinthians 10]]
