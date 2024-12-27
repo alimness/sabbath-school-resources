@@ -37,5 +37,5 @@ Ak Ježiš pozná mená, nemali by aj jeho nasledovníci nasledovať jeho príkl
 
 _Časť darov tejto trinástej soboty pomôže otvoriť spoločenské centrum pre pôvodných obyvateľov Aljašky v meste Bethel na Aljaške. Ďakujeme, že ste si na túto sobotu pripravili štedrý dar._
 
-![Jim](picture13.jpg)  
+![Jim](https://sabbath-school-resources-assets.adventech.io/sk/ss/2024-04/13/picture13.jpg)  
 Jim

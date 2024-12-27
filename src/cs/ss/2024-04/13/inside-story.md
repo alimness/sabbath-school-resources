@@ -39,5 +39,5 @@ Jestliže Ježíš zná jména, mohlo by být pro jeho následovníky také dobr
 
 _Část darů třinácté soboty tohoto čtvrtletí pomůže otevřít centrum vlivu pro aljašské domorodce v Bethelu na Aljašce. Děkujeme vám, že tuto sobotu plánujete štědré dary._
 
-![Jim](picture13.jpg)  
+![Jim](https://sabbath-school-resources-assets.adventech.io/cs/ss/2024-04/13/picture13.jpg)  
 Jim
