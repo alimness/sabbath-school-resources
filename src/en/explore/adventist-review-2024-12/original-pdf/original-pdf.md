@@ -1,7 +1,7 @@
 ---
 title: Original PDF
 pdf:
-    - src: adventist-review-2024-12.pdf
+    - src: https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2024-12/assets/adventist-review-2024-12.pdf
       title: Original PDF
 ---
 
