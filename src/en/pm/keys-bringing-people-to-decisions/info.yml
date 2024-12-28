@@ -1,6 +1,8 @@
 title: Keys to Gaining Decisions for Christ & His Truth
 kind: book
-description: Bringing People to Decisions for Christ is created by the General Conference Sabbath School & Personal Ministries Department.
+description: >-
+  Bringing People to Decisions for Christ is created by the General Conference
+  Sabbath School & Personal Ministries Department.
 primaryColor: '#CC934D'
 primaryColorDark: '#CA760E'
 author: sspm
@@ -17,3 +19,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-579-6
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-bringing-people-to-decisions/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-bringing-people-to-decisions/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-bringing-people-to-decisions/assets/cover.png
