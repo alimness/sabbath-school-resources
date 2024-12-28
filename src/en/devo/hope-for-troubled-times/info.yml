@@ -15,3 +15,10 @@ credits:
     value: Rhonda Christiano
   - name: ISBN
     value: 978-0-8280-2870-7
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/hope-for-troubled-times/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/hope-for-troubled-times/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/hope-for-troubled-times/assets/cover.png
