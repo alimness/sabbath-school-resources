@@ -1,6 +1,8 @@
 title: Keys on Public Evangelism
 kind: book
-description: Public Evangelism is created by the General Conference Sabbath School & Personal Ministries Department
+description: >-
+  Public Evangelism is created by the General Conference Sabbath School &
+  Personal Ministries Department
 primaryColor: '#823073'
 primaryColorDark: '#661B59'
 author: sspm
@@ -17,3 +19,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-580-2
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-public-evangelism/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-public-evangelism/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-public-evangelism/assets/cover.png

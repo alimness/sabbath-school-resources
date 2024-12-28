@@ -1,6 +1,8 @@
 title: Keys to Reclaiming the Missing
 kind: book
-description: Reclaiming the Missing is created by the General Conference Sabbath School & Personal Ministries Department.
+description: >-
+  Reclaiming the Missing is created by the General Conference Sabbath School &
+  Personal Ministries Department.
 primaryColor: '#284878'
 primaryColorDark: '#163159'
 author: sspm
@@ -17,3 +19,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-690-8
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-reclaiming-the-missing/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-reclaiming-the-missing/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-reclaiming-the-missing/assets/cover.png
