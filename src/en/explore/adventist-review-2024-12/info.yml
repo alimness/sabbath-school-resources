@@ -6,7 +6,12 @@ primaryColorDark: '#8A8A8A'
 author: adventist-review
 credits:
   - name: Publishing Board
-    value: "Ted N. C. Wilson, chair. Guillermo Biaggi, vice chair. Justin Kim, secretary. Audrey Andersson, G. Alexander Bryant, Williams Costa, Paul H. Douglas, Mark A. Finley, James Howard, Erton Köhler, Peter Landless,. Geoffrey Mbwana, Magdiel Perez Schultz, Artur Stele, Ray Wahlen. Karnik Doukmetzian, legal advisor"
+    value: >-
+      Ted N. C. Wilson, chair. Guillermo Biaggi, vice chair. Justin Kim,
+      secretary. Audrey Andersson, G. Alexander Bryant, Williams Costa, Paul H.
+      Douglas, Mark A. Finley, James Howard, Erton Köhler, Peter Landless,.
+      Geoffrey Mbwana, Magdiel Perez Schultz, Artur Stele, Ray Wahlen. Karnik
+      Doukmetzian, legal advisor
   - name: Editor
     value: Justin Kim
   - name: Associate editors
@@ -35,3 +40,10 @@ credits:
     value: E. Edward Zinke
   - name: circulation/Distribution
     value: Rebecca Hilde, Sharon Tennyson
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2024-12/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2024-12/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2024-12/assets/cover.png
