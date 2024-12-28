@@ -1,6 +1,8 @@
 title: Keys on Personal Witnessing
 kind: book
-description: Personal Witnessing is created by the General Conference Sabbath School & Personal Ministries Department
+description: >-
+  Personal Witnessing is created by the General Conference Sabbath School &
+  Personal Ministries Department
 primaryColor: '#994E6B'
 primaryColorDark: '#882A4F'
 author: sspm
@@ -17,3 +19,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-672-4
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-personal-witnessing/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-personal-witnessing/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-personal-witnessing/assets/cover.png

@@ -1,6 +1,8 @@
 title: Keys to Giving Personal Bible Studies
 kind: book
-description: Personal Witnessing is created by the General Conference Sabbath School & Personal Ministries Department
+description: >-
+  Personal Witnessing is created by the General Conference Sabbath School &
+  Personal Ministries Department
 primaryColor: '#7A719A'
 primaryColorDark: '#554C76'
 author: sspm
@@ -17,3 +19,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-582-6
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-giving-personal-bible-studies/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-giving-personal-bible-studies/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-giving-personal-bible-studies/assets/cover.png
