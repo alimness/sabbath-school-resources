@@ -1,37 +1,26 @@
-title: Kasih dan Keadilan Allah
-description: >-
-  Allah adalah kasih. Demikianlah kata 1 Yohanes 4:8 dan 16. Keseluruhan Kitab
-  Suci menyaksikan fakta ini.
-human_date: Januari · Februari · Maret 2024
-start_date: 28/12/2024
-end_date: 28/03/2025
-color_primary: '#304465'
-color_primary_dark: '#032C48'
+---
+title: "Kasih dan Keadilan Allah"
+description: "Allah adalah kasih. Demikianlah kata 1 Yohanes 4:8 dan 16. Keseluruhan Kitab Suci menyaksikan fakta ini."
+human_date: "Januari · Februari · Maret 2024"
+start_date: "28/12/2024"
+end_date: "28/03/2025"
+color_primary: "#304465"
+color_primary_dark: "#032C48"
+splash: true
 credits:
   - name: Penulis Pelajaran
-    value: John C. Peckman
+    value: "John C. Peckman"
   - name: Penerjemah
-    value: Edison Takasanakeng & Henry Sitanggang
+    value: "Edison Takasanakeng & Henry Sitanggang"
   - name: Ketua Yayasan
-    value: H. Manullang
+    value: "H. Manullang"
   - name: Ketua Bidang Usaha
-    value: J. Pardede
+    value: "J. Pardede"
   - name: Pemimpin Redaksi
-    value: J. Pardede
+    value: "J. Pardede"
   - name: Redaktur Pelaksana
-    value: F. Ngantung
+    value: "F. Ngantung"
   - name: Anggota Redaksi
-    value: |-
-      S.P. Silalahi
-      F. Manurung
-      A. Tumbal
-      J. Medellu
+    value: "S.P. Silalahi, F. Manurung, A. Tumbal, J. Medellu"
   - name: Kontributor
-    value: Arter Tendean
-covers:
-  landscape: >-
-    https://sabbath-school-resources-assets.adventech.io/in/ss/2025-01/assets/cover-landscape.png
-  square: >-
-    https://sabbath-school-resources-assets.adventech.io/in/ss/2025-01/assets/cover-square.png
-  portrait: >-
-    https://sabbath-school-resources-assets.adventech.io/in/ss/2025-01/assets/cover.png
+    value: "Arter Tendean"
