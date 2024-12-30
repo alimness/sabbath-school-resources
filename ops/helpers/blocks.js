@@ -67,6 +67,7 @@ let parseBlock = async function (block, resourcePath, index, parentId, depth) {
                 && new RegExp(`^\\[${block.start}\\.`, "g").test(bibleData.text)
             ) {
                 blockType = "paragraph"
+                block.type = "paragraph"
                 block.text = block.raw
             }
         }
