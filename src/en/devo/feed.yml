@@ -17,6 +17,7 @@
     view: square
     resources:
       - en-devo-start-into-life
+  - group: Steps to Personal Revival
     view: folio
     resources:
       - en-devo-steps-to-personal-revival
