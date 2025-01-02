@@ -5,8 +5,7 @@ primaryColor: '#795848'
 primaryColorDark: '#63402F'
 credits:
   - name: Copyright
-    value: >-
-      Copyright © 2006 by Review and Herald Publishing Association
+    value: Copyright © 2006 by Review and Herald Publishing Association
   - name: Author
     value: Loron Wade
   - name: Editor
@@ -15,3 +14,10 @@ credits:
     value: James Cavil
   - name: ISBN
     value: 978-0-8280-1999-1
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/ten-commandments/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/ten-commandments/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/ten-commandments/assets/cover.png

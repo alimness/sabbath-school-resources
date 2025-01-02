@@ -15,6 +15,18 @@ credits:
   - name: Cover design
     value: Bryan Gray/Review and Herald Design Center
   - name: Contributors and Consultants
-    value: Albert Reece, Physician; Allan Handysides, Physician; Benjamin Carson, Neurosurgeon; Clifford Goldstein, Writer; Delbert W. Baker, Theologian; Duane McBride, Sociologist; Fred Hardinge, Physician; Katia Reinert, Nurse; Mark A. Finley, Pastor; Gary Fraser, Researcher; Gary Hopkins, Researcher; Peter N. Landless, Physician; Neil Nedley, Physician
+    value: >-
+      Albert Reece, Physician; Allan Handysides, Physician; Benjamin Carson,
+      Neurosurgeon; Clifford Goldstein, Writer; Delbert W. Baker, Theologian;
+      Duane McBride, Sociologist; Fred Hardinge, Physician; Katia Reinert,
+      Nurse; Mark A. Finley, Pastor; Gary Fraser, Researcher; Gary Hopkins,
+      Researcher; Peter N. Landless, Physician; Neil Nedley, Physician
   - name: ISBN
     value: 978-0-8280-2803-5
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/health-and-wellness/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/health-and-wellness/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/health-and-wellness/assets/cover.png
