@@ -20,5 +20,5 @@ Feelings can easily be influenced. They can deceive and quickly waver. You canno
 
 We can rely on Jesus and His word. Whoever believes in Jesus knows for sure, I am accepted by Him:
 
-> <callout>1 John 5:11-­13</callout>
+> <callout>1 John 5:11-13</callout>
 > 'And this is the testimony: God has given us eternal life, and this life is in His Son. He who has the Son has life; he who does not have the Son of God does not have life. I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life.'

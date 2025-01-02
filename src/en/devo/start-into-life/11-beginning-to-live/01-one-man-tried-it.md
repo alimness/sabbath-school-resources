@@ -3,7 +3,7 @@ title: One man tried it
 cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/11-beginning-to-live/WB01679559067105.jpg
 ---
 
-Zacchaeus was a tax collector – rich and unpopular. Above everything else he wanted to see this Jesus for whom a large throng of people in Jericho was waiting. Because the tax collector was so short he climbed a tree so that he could see above the heads of the crowd. Jesus saw him and said that he wanted to be his ‘guest’ that day. The crowd standing around was horrified. Jesus wanted to call on this abject villain! (Luke 19:1-­10)
+Zacchaeus was a tax collector – rich and unpopular. Above everything else he wanted to see this Jesus for whom a large throng of people in Jericho was waiting. Because the tax collector was so short he climbed a tree so that he could see above the heads of the crowd. Jesus saw him and said that he wanted to be his ‘guest’ that day. The crowd standing around was horrified. Jesus wanted to call on this abject villain! (Luke 19:1-10)
 
 In the Bible we are not told Zacchaeus’s motives for wanting to see Jesus. Perhaps he was just curious. The important thing is what this encounter meant for the tax collector. Jesus says: 
 

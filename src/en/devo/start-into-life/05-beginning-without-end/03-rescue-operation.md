@@ -16,7 +16,7 @@ By Noah’s time, the days when God could look at the planet and declare that ev
 
 The record continues in Genesis with the story of Abraham. God invited Abraham to walk away from the civilisation that had developed so strongly in Mesopotamia, and not to model his life on their lifestyle. He invited Abraham to live in close trust to God, and even allowed Abraham to have his loyalty and trust tested to the limit. In response:
 
-> <callout>Genesis 22:15­-18</callout>
+> <callout>Genesis 22:15-18</callout>
 > 'The LORD’S angel called out from heaven a second time: You were willing to offer the LORD your only son, and so he makes you this solemn promise, "I will bless you and give you such a large family, that someday your descendants will be more numerous than the stars in the sky or the grains of sand along the beach. They will defeat their enemies and take over the cities where their enemies live. You have obeyed me, and so you and your descendants will be a blessing to all nations on earth." ' 
 
 Just as Eve had been told that one of her descendants would defeat Satan, so Abraham was told that his descendants would ‘be a blessing’ to all nations on earth.

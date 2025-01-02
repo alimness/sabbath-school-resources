@@ -9,4 +9,4 @@ Now Nick is paraplegic. He feels useless and abused. Even his wife has left him 
 
 Some people – such as those wheelchair marathon athletes we admire so much – take the painful aspects of life in their stride. Others, like Nick, get very angry and disillusioned about life.
 
-Where can we start to find answers that explain why things are as they are, why they happen as they do? The Bible gives very solid answers, not just explaining the ‘Why?’ but giving hope for a pain­-free future.
+Where can we start to find answers that explain why things are as they are, why they happen as they do? The Bible gives very solid answers, not just explaining the ‘Why?’ but giving hope for a pain-free future.

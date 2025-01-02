@@ -8,7 +8,7 @@ Whoever believes in Jesus Christ and is baptised finds themselves in a new relat
 > <callout>Galatians 3:26, 27</callout>
 > 'You are all sons of God through faith in Christ Jesus, for all of you who were baptised into Christ have been clothed with Christ.'
 
-Even our own attitude to God is changed. Because I believe in Him I want to live in the way that He would wish me to live. Paul shows us in Colossians 3:1-­17 how this can happen in our everyday lives. My behaviour patterns change, I react differently to those around me:
+Even our own attitude to God is changed. Because I believe in Him I want to live in the way that He would wish me to live. Paul shows us in Colossians 3:1-17 how this can happen in our everyday lives. My behaviour patterns change, I react differently to those around me:
 
 > <callout>Colossians 3:8, 12</callout>
 > 'But now you must rid yourselves of all such things as these: anger, rage, malice, slander and filthy language from your lips. Therefore, as God’s chosen people, holy and dearly loved, clothe yourselves with compassion.'

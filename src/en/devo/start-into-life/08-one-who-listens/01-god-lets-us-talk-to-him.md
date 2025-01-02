@@ -9,7 +9,7 @@ There are many different ways of having a conversation. The essential preconditi
 
 When we pray we can kneel down, close our eyes, fold our hands, formulate our words just in our thoughts or speak out loud.
 
-What is important is not to place the form above the content. It is not enough to make a ‘pious face’, if we have nothing to say. Praying is a serious matter, but not a sad, tortuous one. It’s not a question of great words, but rather of inner attitude. The closer we tum to God the clearer He will answer (Luke 18:9-1­4).
+What is important is not to place the form above the content. It is not enough to make a ‘pious face’, if we have nothing to say. Praying is a serious matter, but not a sad, tortuous one. It’s not a question of great words, but rather of inner attitude. The closer we tum to God the clearer He will answer (Luke 18:9-14).
 
 #### Where?
 

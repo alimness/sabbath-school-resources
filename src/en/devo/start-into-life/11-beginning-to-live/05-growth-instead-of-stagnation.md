@@ -8,4 +8,4 @@ New birth is a new beginning, however, it is literally that, a beginning. Things
 > <callout>Ephesians 4:15</callout>
 > 'We will in all things grow up into him who is the Head, that is, Christ.'
 
-Certainly, this comparison is rather lame, for growth cannot be ordered, but belongs to a healthy organism. One thing must be clear to us: if growth and maturity are lacking, the most decisive thing is missing. Whoever grows, lives (John 15:2­-8).
+Certainly, this comparison is rather lame, for growth cannot be ordered, but belongs to a healthy organism. One thing must be clear to us: if growth and maturity are lacking, the most decisive thing is missing. Whoever grows, lives (John 15:2-8).

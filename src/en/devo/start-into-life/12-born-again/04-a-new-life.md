@@ -25,4 +25,4 @@ In the same way the eunuch also made a decision for Jesus. As they travelled alo
 The eunuch rejoices in his new life, but he is not the only one:
 
 > <callout>Luke 15:7</callout>
-> 'I tell you that in the same way there is more rejoicing in heaven over one sinner who repents than over ninety-­nine righteous persons who do not need to repent.'
+> 'I tell you that in the same way there is more rejoicing in heaven over one sinner who repents than over ninety-nine righteous persons who do not need to repent.'

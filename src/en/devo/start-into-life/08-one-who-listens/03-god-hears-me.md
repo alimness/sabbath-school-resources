@@ -28,5 +28,5 @@ Yet God’s will remains decisive:
 Praying also means recognising the will of God. He always hears us:
 
 > <callout>Psalms 138:3</callout>
-> 'When I called, you answered me; you made me bold and stout­-hearted.'
+> 'When I called, you answered me; you made me bold and stout-hearted.'
 

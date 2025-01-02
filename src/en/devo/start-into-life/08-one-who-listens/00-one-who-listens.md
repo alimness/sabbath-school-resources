@@ -10,4 +10,4 @@ Nevertheless we must not throw overboard our conception of the ideal. The Bible 
 > <callout>Psalm 50:15</callout>
 > 'Call upon me in the day of trouble; I will deliver you.'
 
-This is not a one-­way street, but a real conversation with God. The Bible calls it prayer.
+This is not a one-way street, but a real conversation with God. The Bible calls it prayer.

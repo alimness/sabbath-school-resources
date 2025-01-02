@@ -3,7 +3,7 @@ title: Becoming and growing (1)
 cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/07-believing-is-a-matter-of-trust/ivB1679482615936.jpg
 ---
 
-Although Jesus no longer lives among us as a man, we can still grow in our belief in Him. Again the example of the male­-female relationship can help us. Lovers talk together, listen to each other, and do things together. In this way they grow closer and closer together. If we relate this to our spiritual life, growth comes from believing. There are four points which help us here: 
+Although Jesus no longer lives among us as a man, we can still grow in our belief in Him. Again the example of the male-female relationship can help us. Lovers talk together, listen to each other, and do things together. In this way they grow closer and closer together. If we relate this to our spiritual life, growth comes from believing. There are four points which help us here: 
 
 #### Bible reading
 
@@ -17,7 +17,7 @@ Thus Jesus satisfies our hunger for spiritual fulfilment.
 > <callout>John 14:6</callout>
 > 'I am the way.'
 
-Thus Jesus frees us from the cul-­de­-sac of life.
+Thus Jesus frees us from the cul-de-sac of life.
 
 > <callout>John 14:6</callout>
 > 'I am the truth.'

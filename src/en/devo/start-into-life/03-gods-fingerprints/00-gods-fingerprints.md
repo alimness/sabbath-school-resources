@@ -5,7 +5,7 @@ cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-l
 
 A group of young people stood in the centre of a large city holding up placards with the question: _‘Can anyone prove there is no God?’_
 
-Passers­by expressed themselves in a variety of ways:
+Passersby expressed themselves in a variety of ways:
 
 - ‘I’m not interested in whether or not God exists. I want to live my life my own way.’
 - ‘I only believe what I can see with my own eyes, and I don't see God anywhere.’

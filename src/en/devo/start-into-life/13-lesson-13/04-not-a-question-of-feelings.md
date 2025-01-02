@@ -3,7 +3,7 @@ title: Not a question of feelings
 cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/13-lesson-13/iMZ1679592957448.jpg
 ---
 
-With this background I can be absolutely certain that God has accepted me. In Isaiah 43:1­4 He says it quite clearly, and because God has accepted me I can also feel some self-­worth.
+With this background I can be absolutely certain that God has accepted me. In Isaiah 43:14 He says it quite clearly, and because God has accepted me I can also feel some self-worth.
 
 Of course, even Christians are people who make mistakes and have weaknesses and guilt. Many may lose courage if they look at their own imperfection. Others are quite sure of their perfection, and feel that they are completely without fault.
 

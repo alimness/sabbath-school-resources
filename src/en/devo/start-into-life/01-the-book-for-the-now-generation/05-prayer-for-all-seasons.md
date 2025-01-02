@@ -40,7 +40,7 @@ cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-l
 
 **When things are going well**
 
-> <callout>Psalm 103:2) (see also Psalm 71:5 & Psalm 146:2c</callout>
+> <callout>Psalm 103:2, see also Psalm 71:5 and Psalm 146:2c</callout>
 > 'Praise the LORD, O my soul, and forget not all his benefits.'
 
 **When you have reason to be thankful**

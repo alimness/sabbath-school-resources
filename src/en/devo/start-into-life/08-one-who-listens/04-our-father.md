@@ -7,7 +7,7 @@ When Jesus prayed, the disciples were deeply impressed. Therefore they asked Him
 
 Jesus answered them with the Lord’s prayer:
 
-> <callout>Matthew 6:9-­13 see also KJV) </callout>
+> <callout>Matthew 6:9-13 see also KJV) </callout>
 > 'Our Father in heaven, Hallowed be your name, Your kingdom come, Your will be done on earth as it is in heaven. Give us today our daily bread. Forgive us our debts, As we also have forgiven our debtors. And lead us not into temptation, But deliver us from the evil one. For yours is the power and the glory for ever. Amen.'
 
 Let us now discuss this prayer in more detail.

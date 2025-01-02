@@ -7,4 +7,4 @@ In the example of Zacchaeus it is clear what conversion means in the practical s
 
 His relationship to his fellow beings changes. Old values waver, are thought through afresh. In this way repentance becomes an expression of experienced conversion. It liberates and is an experience which brings us joy. However, this new beginning is only possible with God. It invades the life of a person and lets them experience new birth. The first essential for this is the consciousness that rebirth is necessary. If a person believes that they are perfect, they are hardly going to realise that they need to be converted.
 
-Indeed, one can be called to repentance (Matthew 3:2, 5-­8; 4:17; Acts 2:37,38), but everyone must carry it out themself. Repentance is our one chance in life.
+Indeed, one can be called to repentance (Matthew 3:2, 5-8; 4:17; Acts 2:37,38), but everyone must carry it out themself. Repentance is our one chance in life.

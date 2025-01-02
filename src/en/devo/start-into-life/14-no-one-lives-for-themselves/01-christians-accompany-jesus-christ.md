@@ -8,4 +8,4 @@ In the New Testament the church is depicted as a group of people who have been c
 > <callout>Luke 5:27, 28</callout>
 > ‘After this, Jesus went out and saw a tax collector by the name of Levi sitting at his tax booth. “Follow me,” Jesus said to him, and Levi got up, left everything and followed him.’
 
-In this way Jesus gathered around Him a community of followers, or disciples, who travelled with them through Palestine, as He preached about God and healed the sick. After a certain period of ‘apprenticeship’ Jesus sent these men as His agents to other people to win more followers (Matthew 10:1­-15).
+In this way Jesus gathered around Him a community of followers, or disciples, who travelled with them through Palestine, as He preached about God and healed the sick. After a certain period of ‘apprenticeship’ Jesus sent these men as His agents to other people to win more followers (Matthew 10:1-15).

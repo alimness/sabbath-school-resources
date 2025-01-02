@@ -7,5 +7,5 @@ Division remains today about who Jesus was, but as we have said in previous less
 
 Most of all we must listen to what Jesus Himself promised: 
 
-> <callout>John 14:1­3</callout>
+> <callout>John 14:13</callout>
 > ‘Jesus said to his disciples, “Don’t be worried! Have faith in God and have faith in me. There are many rooms in my Father’s house. I wouldn’t tell you this, unless it was true. I am going there to prepare a place for each of you. After I have done this, I will come back and take you with me. Then we will be together.” '

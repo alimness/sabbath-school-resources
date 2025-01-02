@@ -14,7 +14,7 @@ Here we ask God to help us not to treat His name lightly. Through our words and 
 
 **Your kingdom come**
 
-God’s kingdom begins in us when we trust Jesus Christ and accept Him as our Redeemer. This is a personal process. As Christians we wait for the visible kingdom of God which Jesus will not bring until after His return when He creates a new Heaven and a new Earth (Revelation 21:1­-3). We have every reason to rejoice in this hope.
+God’s kingdom begins in us when we trust Jesus Christ and accept Him as our Redeemer. This is a personal process. As Christians we wait for the visible kingdom of God which Jesus will not bring until after His return when He creates a new Heaven and a new Earth (Revelation 21:1-3). We have every reason to rejoice in this hope.
 
 **Your will be done on earth as it is in Heaven**
 

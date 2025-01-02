@@ -7,7 +7,7 @@ For our thoughts, actions and feelings, too, the Bible recognises the experience
 
 It is discussed in a conversation between Jesus and an important man:
 
-> <callout>John 3:3­7</callout>
+> <callout>John 3:37</callout>
 > ‘ “I tell you the truth, unless a man is born again, he cannot see the kingdom of God.” “How can a man be born when he is old?” Nicodemus asked. “Surely he cannot enter a second time into his mother’s womb to be born!” Jesus answered, “I tell you the truth, unless a man is born of water and the Spirit, he cannot enter the kingdom of God. Flesh gives birth to flesh, but the Spirit gives birth to spirit. You should not be surprised at my saying, you must be born again.” ’ 
 
 Jesus says to this older man: A new beginning with God is possible and necessary, even if you are surprised at what I say. According to the words of Jesus, baptism has great significance. Only the person who consciously experiences this action, and has decided in baptism for God, can meet God.

@@ -16,7 +16,7 @@ It does not have to be a question of spectacular wrong doing. Even if our outwar
 
 #### We have every freedom
 
-Our ‘single mistakes’, either small or large, are therefore not all decisive. It is the cause which is important, our separation from God. Before God no­one can do what they want, even if contemporary society imposes no restraints upon them. Thus many use every ‘freedom’. The question is simply what they understand by this.
+Our ‘single mistakes’, either small or large, are therefore not all decisive. It is the cause which is important, our separation from God. Before God noone can do what they want, even if contemporary society imposes no restraints upon them. Thus many use every ‘freedom’. The question is simply what they understand by this.
 
 One thing is clear. Each person is responsible for his/her own actions. There is nothing we can do about that. We can see from the consequences the extent to which we enjoy this supposed freedom.
 

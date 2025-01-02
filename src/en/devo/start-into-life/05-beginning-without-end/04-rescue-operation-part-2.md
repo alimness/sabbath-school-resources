@@ -7,7 +7,7 @@ cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-l
 
 We see God following through on His commitment to Abraham during the exodus from Egypt to Canaan. The people stopped at Mount Sinai, and God spoke directly to them via Moses:
 
-> <callout>Exodus 19:4­6</callout>
+> <callout>Exodus 19:46</callout>
 > 'You saw what I did in Egypt, and you know how I brought you here to me, just as a mighty eagle carries its young. Now if you will faithfully obey me, you will be my very own people. The whole world is mine, but you will be my holy nation and serve me as priests.'
 
 God’s strategy in this was not just to show favouritism to one race, but to guide and protect one nation so that they could be a model for all the world to see the benefit of knowing and faithfully following God. In particular, it was God’s intention that, in contrast to the paganism that was sweeping the world, He would have one nation to demonstrate how to find peace, holiness and security.
