@@ -1,6 +1,6 @@
 ---
 title: Steps into life
-cover: 59n1679559331918.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/11-beginning-to-live/59n1679559331918.jpg
 ---
 
 As Jesus talks to Nicodemus He speaks of conversion in a metaphorical way:
@@ -23,7 +23,7 @@ This means through the baptism of a person who has been converted. (This will be
 
 This means that first and foremost rebirth is not a process which is visible or which can be created. Rather it is the Holy Spirit which does the most important work by showing a person what was wrong with their previous way of life and what God wants to alter.
 
-![98W1679559358084.jpg]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/11-beginning-to-live/98W1679559358084.jpg]()
 
 #### By accepting the gift of God
 

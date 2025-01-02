@@ -1,6 +1,6 @@
 ---
 title: Rescue operation (1)
-cover: 5tL1669220917540.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/05-beginning-without-end/5tL1669220917540.png
 ---
 
 #### The great flood
@@ -21,4 +21,4 @@ The record continues in Genesis with the story of Abraham. God invited Abraham t
 
 Just as Eve had been told that one of her descendants would defeat Satan, so Abraham was told that his descendants would ‘be a blessing’ to all nations on earth.
 
-![xVH1669221026390.png]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/05-beginning-without-end/xVH1669221026390.png]()

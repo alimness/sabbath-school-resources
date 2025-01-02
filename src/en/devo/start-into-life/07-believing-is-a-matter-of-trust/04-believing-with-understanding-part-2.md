@@ -1,6 +1,6 @@
 ---
 title: Believing with understanding (2)
-cover: T3g1679482590045.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/07-believing-is-a-matter-of-trust/T3g1679482590045.jpg
 ---
 
 #### Simply a question of feelings?

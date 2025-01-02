@@ -1,6 +1,6 @@
 ---
 title: Not a question of feelings
-cover: iMZ1679592957448.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/13-lesson-13/iMZ1679592957448.jpg
 ---
 
 With this background I can be absolutely certain that God has accepted me. In Isaiah 43:1­4 He says it quite clearly, and because God has accepted me I can also feel some self-­worth.

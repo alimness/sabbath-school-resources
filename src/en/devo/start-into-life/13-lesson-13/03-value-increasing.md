@@ -1,6 +1,6 @@
 ---
 title: Value increasing!
-cover: 0lt1679592908374.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/13-lesson-13/0lt1679592908374.jpg
 ---
 
 As Christians we do not remain standing in the same place. We develop in spite of all:
@@ -35,7 +35,7 @@ We have at our disposal a whole list of measures which can be used to further ou
 > <callout>Ephesians 4:25</callout>
 > 'Therefore each of you must put off falsehood and speak truthfully to his neighbour, for we are all members of one body.'
 
-![STe1679592927487.jpg]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/13-lesson-13/STe1679592927487.jpg]()
 
 #### TELLING OTHERS 
 

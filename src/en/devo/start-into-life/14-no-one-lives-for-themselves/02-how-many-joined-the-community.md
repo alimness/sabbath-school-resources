@@ -1,6 +1,6 @@
 ---
 title: How many joined the community?
-cover: 8Uo1679593514960.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/14-no-one-lives-for-themselves/8Uo1679593514960.jpg
 ---
 
 People asked how they might find God, and Peter answered as follows:

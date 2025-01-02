@@ -1,6 +1,6 @@
 ---
 title: Unrepayable
-cover: 5xC1679506262767.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/10-grace-before-justice/5xC1679506262767.jpg
 ---
 
 God turns to me. He does not simply cover up my guilt. He releases me from it. Jesus speaks about it in a parable (Matthew 18:23-­27):

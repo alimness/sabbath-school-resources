@@ -1,6 +1,6 @@
 ---
 title: It’s a matter of listening carefully!
-cover: Rd01673279727858.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/06-what-the-world-needs-now/Rd01673279727858.jpg
 ---
 
 Division remains today about who Jesus was, but as we have said in previous lessons, we must learn to get past the murk, get past the spin of the doubters, make sure we have all the pieces of the jigsaw puzzle, and think carefully for ourselves about the evidence of the eyewitnesses.

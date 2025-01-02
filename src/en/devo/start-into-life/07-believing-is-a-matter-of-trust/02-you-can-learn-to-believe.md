@@ -1,6 +1,6 @@
 ---
 title: You can learn to believe
-cover: kRt1679482469471.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/07-believing-is-a-matter-of-trust/kRt1679482469471.jpg
 ---
 
 #### For everyone

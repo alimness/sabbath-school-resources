@@ -1,6 +1,6 @@
 ---
 title: Rescue operation (2)
-cover: bxm1669221240889.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/05-beginning-without-end/bxm1669221240889.png
 ---
 
 #### The Sacrifice
@@ -22,7 +22,7 @@ A man would bring an innocent lamb, place his hand on the victim’s head and co
 > <callout>Hebrews 10:3, 4</callout>
 > 'But the blood of bulls and goats cannot take away sins. It only reminds people of their sins from one year to the next.'
 
-![mcK1669221349894.png]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/05-beginning-without-end/mcK1669221349894.png]()
 
 > <callout>Hebrews 10:12-14</callout>
 > 'But Christ offered himself as a sacrifice that is good forever. Now he is sitting at God's right side, and he will stay there until his enemies are put under his power. By his one sacrifice he has forever set free from sin the people he brings to God.'

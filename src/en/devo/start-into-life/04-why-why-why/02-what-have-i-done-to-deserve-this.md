@@ -1,6 +1,6 @@
 ---
 title: What have I done to deserve this?
-cover: eB21667921656946.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/04-why-why-why/eB21667921656946.jpg
 ---
 
 Nick despairingly reaches for the grips on his wheelchair. His face shows lines of bitterness. Once he was happy. He held a good job, had lots of friends, and was successful and appreciated. Then, unexpectedly as accidents always are, a motorist hit him as he crossed the road.

@@ -1,6 +1,6 @@
 ---
 title: On trial
-cover: Hk31679593561177.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/14-no-one-lives-for-themselves/Hk31679593561177.jpg
 ---
 
 When we choose a particular church, its size or well­formulated confession of faith should not be decisive. The central question is: What is its attitude to Christ, and the Bible? Perhaps the following considerations will help you to make the right choice:

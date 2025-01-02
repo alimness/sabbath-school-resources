@@ -1,6 +1,6 @@
 ---
 title: The Bible in its own words
-cover: 4nV1656841436175.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/01-the-book-for-the-now-generation/4nV1656841436175.png
 ---
 
 The Bible wants to introduce us to God again and to renew our personal relationship with Him. In Scripture we find the following words from God:

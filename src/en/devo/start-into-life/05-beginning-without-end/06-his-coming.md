@@ -1,6 +1,6 @@
 ---
 title: His coming
-cover: lIV1669221565494.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/05-beginning-without-end/lIV1669221565494.png
 ---
 
 Belief and trust in what Jesus achieved by His death is fundamental to the Christian faith. Equally fundamental is the belief that Jesus is coming back again. This time He will be seen and recognised by everyone – nobody will be able to avoid seeing Him:
@@ -18,7 +18,7 @@ The bad news is that those who choose to remain in rebellion to God will face an
 > <callout>Revelation 20:11­-15</callout>
 > 'I saw a great white throne with someone sitting on it. Earth and heaven tried to run away, but there was no place for them to go. I also saw all the dead people standing in front of that throne. Every one of them was there, no matter who they had once been. Several books were opened, and then the book of life was opened. The dead were judged by what those books said they had done. The sea gave up the dead people who were in it, and death and its kingdom also gave up their dead. Then everyone was judged by what they had done. Afterwards, death and its kingdom were thrown into the lake of fire. This is the second death. Anyone whose name wasn’t written in the book of life was thrown into the lake of fire.'
 
-![TmD1669221678039.png]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/05-beginning-without-end/TmD1669221678039.png]()
 
 Finally, back to the good news – the concluding jigsaw piece that completes the picture:
 

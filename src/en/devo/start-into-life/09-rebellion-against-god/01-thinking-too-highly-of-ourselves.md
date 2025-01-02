@@ -1,6 +1,6 @@
 ---
 title: Thinking too highly of ourselves
-cover: mka1679500945086.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/09-rebellion-against-god/mka1679500945086.jpg
 ---
 
 The story of sin is old, its beginning is described in Genesis 3:1­-19. Because people want to be like God they overstep the boundaries set by Him.

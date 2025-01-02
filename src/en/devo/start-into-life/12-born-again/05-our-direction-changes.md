@@ -1,6 +1,6 @@
 ---
 title: Our direction changes
-cover: 0F71679562528150.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/12-born-again/0F71679562528150.jpg
 ---
 
 When Jesus said that someone is born anew, literally, from above, from heaven, then not everything remains as it was. Baptism is an important turning point in the life of a person. Their thoughts, words and actions have taken on a new direction. Through baptism they profess this new way of life.

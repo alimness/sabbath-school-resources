@@ -1,6 +1,6 @@
 ---
 title: Immersion
-cover: 39W1679562266392.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/12-born-again/39W1679562266392.jpg
 ---
 
 Whenever the Bible speaks about baptism it is not referring to the practice of child baptism by sprinkling. The personal decision of a person is conversion to God, His burial and resurrection. All of this confirms that only the baptism of a mature person by immersion is in accordance with the New Testament requirement.
@@ -17,4 +17,4 @@ Whenever we read about ‘baptism’ in the Acts of the Apostles we must think o
 
 Finally, it should be remembered that Jesus Himself was baptised by John as an adult (Matthew 3:13­-17). The words of Jesus, **‘Let the little children come to me,’** (Mark 10:14), describe neither a baptism nor any activity close to baptism. Jesus blessed the children, but He did not baptise them!
 
-![THh1679562278057.jpg]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/12-born-again/THh1679562278057.jpg]()

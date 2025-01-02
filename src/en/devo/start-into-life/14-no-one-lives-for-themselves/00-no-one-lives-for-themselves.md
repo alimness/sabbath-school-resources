@@ -1,6 +1,6 @@
 ---
 title: Lesson 14. No one lives for themselves
-cover: i8U1679593472306.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/14-no-one-lives-for-themselves/i8U1679593472306.jpg
 ---
 
 When we deal with authorities the question so often arises, which church do we belong to? It is far less a question of what we believe than whether we are members of a particular organisation, as if it were a question of allegiance to a political club or a society. The ‘community’ of followers of Jesus Christ transcends organisational structure. It is simply a fellowship of Christians who have Jesus Christ as their focal point. 

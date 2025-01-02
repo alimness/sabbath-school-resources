@@ -1,6 +1,6 @@
 ---
 title: Shared suffering
-cover: DBS1667922636617.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/04-why-why-why/DBS1667922636617.jpg
 ---
 
 This still does not answer the natural question, ‘Why did God allow this all to happen? Surely, if He really is all­powerful, He could have stepped in to stop it long ago!’ Well, the Bible proposes safe answers for these questions too. Rebelling against God and joining sides with Satan separated us from God. All mankind became alienated and enemies to God, as demonstrated by the selfishness, hatred and bitterness that rules so many. God made a move in our direction so that the situation could be redeemed:

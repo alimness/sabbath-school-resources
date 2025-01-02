@@ -1,6 +1,6 @@
 ---
 title: Christians accompany Jesus Christ
-cover: ptR1679593491544.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/14-no-one-lives-for-themselves/ptR1679593491544.jpg
 ---
 
 In the New Testament the church is depicted as a group of people who have been called together, that is, a convocation. Their point of convergence is Jesus Christ who challenges people to walk by His side, as occurred in the case of Levi Matthew the tax collector:

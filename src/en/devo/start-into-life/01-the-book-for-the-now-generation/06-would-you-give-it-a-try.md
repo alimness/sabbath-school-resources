@@ -1,6 +1,6 @@
 ---
 title: Would you give it a try?
-cover: HvH1655822403822.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/01-the-book-for-the-now-generation/HvH1655822403822.jpg
 ---
 
 ### Take it slowly

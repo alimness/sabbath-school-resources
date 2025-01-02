@@ -1,6 +1,6 @@
 ---
 title: Our values change
-cover: z541679592881413.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/13-lesson-13/z541679592881413.jpg
 ---
 
 Whoever believes in Jesus Christ and is baptised finds themselves in a new relationship with God:

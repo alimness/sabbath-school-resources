@@ -1,6 +1,6 @@
 ---
 title: God introduces Himself (2)
-cover: L1D1667910157893.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/03-gods-fingerprints/L1D1667910157893.jpg
 ---
 
 ### In the Bible
@@ -12,7 +12,7 @@ The men and women who wrote what we find in our Bibles claim time and time again
 
 ### Through Jesus Christ
 
-![uuC1667910231020.jpg]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/03-gods-fingerprints/uuC1667910231020.jpg]()
 
 Not only has God spoken to human beings via prophets and writers of the Bible, but He has also shown Himself in human form in the person of Jesus of Nazareth. Jesus revealed God to us in the clearest possible way. Not only did He speak about Him but He showed us, through His life, what God is like.
 

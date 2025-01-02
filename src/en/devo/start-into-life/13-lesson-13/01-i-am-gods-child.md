@@ -1,6 +1,6 @@
 ---
 title: I am God’s child
-cover: KsD1679592857179.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/13-lesson-13/KsD1679592857179.jpg
 ---
 
 The Bible makes many clear statements about the characteristics which distinguish a Christian. These can all be traced back to the following underlying principles:

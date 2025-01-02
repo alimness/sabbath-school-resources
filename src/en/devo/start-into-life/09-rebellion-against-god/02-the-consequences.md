@@ -1,6 +1,6 @@
 ---
 title: The consequences
-cover: eRp1679500974898.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/09-rebellion-against-god/eRp1679500974898.jpg
 ---
 
 The relationship of humans to God was destroyed as a result of the fall into sin. This separation from God was not without its awful results. These results are indicated in the events which are portrayed in the Word of God. Read Genesis chapters 4 to 11.

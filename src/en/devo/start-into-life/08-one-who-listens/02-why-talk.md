@@ -1,6 +1,6 @@
 ---
 title: Why talk?
-cover: y421679483398234.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/08-one-who-listens/y421679483398234.jpg
 ---
 
 Surely God already knows everything! Right. We don’t pray to give God information or to try to persuade Him to fulfil our wishes. Praying comprises far more. Namely:

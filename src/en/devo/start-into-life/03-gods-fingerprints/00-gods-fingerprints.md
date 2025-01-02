@@ -1,6 +1,6 @@
 ---
 title: Lesson 3. God's Fingerprints
-cover: oWX1667909164199.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/03-gods-fingerprints/oWX1667909164199.jpg
 ---
 
 A group of young people stood in the centre of a large city holding up placards with the question: _‘Can anyone prove there is no God?’_

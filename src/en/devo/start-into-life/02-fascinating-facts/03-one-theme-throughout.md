@@ -1,6 +1,6 @@
 ---
 title: One theme throughout
-cover: wuT1656344627139.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/02-fascinating-facts/wuT1656344627139.jpg
 ---
 
 Although many people wrote at different times in different places, the Bible deals with one central theme – God’s treatment of the human race.

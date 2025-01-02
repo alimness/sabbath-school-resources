@@ -1,6 +1,6 @@
 ---
 title: A new lifestyle
-cover: vZw1679559304125.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/11-beginning-to-live/vZw1679559304125.jpg
 ---
 
 In the example of Zacchaeus it is clear what conversion means in the practical sense of the word. He repents by paying back to his victims the money which he has so unjustly acquired, and giving of his wealth to the poor. This is not imposed upon him, not something he is forced to do. Not ‘penance money’, as we might call it. This repentance is far more than an outward sign of the change which has taken place inside Zacchaeus. Something is happening, that can be seen.

@@ -1,6 +1,6 @@
 ---
 title: Attempts to get close to God
-cover: tHH1679506297734.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/10-grace-before-justice/tHH1679506297734.jpg
 ---
 
 From the beginning of time we have tried to make contact with God. Religious worship, rituals, sacrifices and altars, blood and tears, incense and candles, piety and good works are well known human efforts to find a God of grace. Behind all this lies the recognition that we cannot succeed alone. What should we do with our ruined past, with our feelings of guilt and fear of the future? Life seems like hell. Is there a way out?

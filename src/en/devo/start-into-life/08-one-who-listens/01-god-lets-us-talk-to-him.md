@@ -1,6 +1,6 @@
 ---
 title: God lets us talk to Him
-cover: WV11679483368521.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/08-one-who-listens/WV11679483368521.jpg
 ---
 
 #### How?

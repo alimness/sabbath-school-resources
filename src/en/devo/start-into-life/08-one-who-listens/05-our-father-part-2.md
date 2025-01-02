@@ -1,6 +1,6 @@
 ---
 title: Our Father (2)
-cover: QM01679483534083.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/08-one-who-listens/QM01679483534083.jpg
 ---
 
 #### Our Father
@@ -20,7 +20,7 @@ God’s kingdom begins in us when we trust Jesus Christ and accept Him as our Re
 
 As human beings we have distanced ourselves considerably from what God would like for us. As a result there arise many problems which otherwise would be avoidable. We can discover in the Bible what God’s will is.
 
-![IeD1679483557407.jpg]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/08-one-who-listens/IeD1679483557407.jpg]()
 
 **Give us today our daily bread**
 

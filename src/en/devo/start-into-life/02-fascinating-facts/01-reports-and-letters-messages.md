@@ -1,6 +1,6 @@
 ---
 title: Reports and letters — Messages
-cover: yJh1656343455346.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/02-fascinating-facts/yJh1656343455346.jpg
 ---
 
 The Bible has two sections – the larger is referred to as the ‘Old Testament’ and the smaller as the ‘New Testament’.

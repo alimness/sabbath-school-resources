@@ -1,6 +1,6 @@
 ---
 title: Who was right? (2)
-cover: cSb1673279644091.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/06-what-the-world-needs-now/cSb1673279644091.jpg
 ---
 
 • **Second**, we can note that while the Jewish teachers had some understanding, they had not taken into consideration all the predictions that had been made. They keenly pursued those that spoke of a victorious king, but they avoided those that predicted that the Messiah would suffer rejection.

@@ -1,6 +1,6 @@
 ---
 title: An intimate experience
-cover: 3tw1655820680771.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/01-the-book-for-the-now-generation/3tw1655820680771.jpg
 ---
 
 We know that many people don’t know what to make of the Bible. They believe that reading the Bible is a waste of time.

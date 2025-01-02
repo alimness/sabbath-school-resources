@@ -1,6 +1,6 @@
 ---
 title: Who was right? (1)
-cover: 50O1673280102391.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/06-what-the-world-needs-now/50O1673280102391.jpg
 ---
 
 It becomes clear from this that there was division about whether or not Jesus of Nazareth was the Messiah. Some were convinced He was, and others were equally convinced there was no way He could be. How can we now decide who was right?

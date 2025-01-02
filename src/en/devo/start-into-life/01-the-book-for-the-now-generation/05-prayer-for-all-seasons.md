@@ -1,6 +1,6 @@
 ---
 title: Prayer for all seasons
-cover: 37B1655823391629.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/01-the-book-for-the-now-generation/37B1655823391629.jpg
 ---
 
 **When you are worried**

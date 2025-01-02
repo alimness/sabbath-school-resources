@@ -1,6 +1,6 @@
 ---
 title: Lesson 4. Why? Why? Why?
-cover: 7qQ1667920718031.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/04-why-why-why/7qQ1667920718031.jpg
 ---
 
 Our ‘Why?’ questions start at the age of about two. Children are the same in every generation. Some of them drive their parents mad because their incessant ‘Why?’ questions never stop.

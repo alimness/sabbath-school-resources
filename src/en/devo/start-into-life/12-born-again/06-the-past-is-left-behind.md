@@ -1,6 +1,6 @@
 ---
 title: The past is left behind
-cover: xXz1679562551053.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/12-born-again/xXz1679562551053.jpg
 ---
 
 Yet baptism is more than simply correcting the direction of our life by putting our thoughts upon the right path. With his image of burial the apostle Paul describes a radical change of the whole life:

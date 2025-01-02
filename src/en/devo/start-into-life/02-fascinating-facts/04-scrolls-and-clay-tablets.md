@@ -1,6 +1,6 @@
 ---
 title: Scrolls and clay tablets
-cover: bBU1656344794606.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/02-fascinating-facts/bBU1656344794606.jpg
 ---
 
 #### Dead Sea scrolls & more

@@ -1,6 +1,6 @@
 ---
 title: Lesson 1. The Book for the Now Generation
-cover: 7Dc1656932710831.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/01-the-book-for-the-now-generation/7Dc1656932710831.jpg
 ---
 
 ### Our generation is insecure

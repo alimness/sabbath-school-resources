@@ -1,6 +1,6 @@
 ---
 title: Distinguishing marks
-cover: 7pH1679593583310.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/14-no-one-lives-for-themselves/7pH1679593583310.jpg
 ---
 
 The last book of the Bible speaks of the three essential characteristics of the church with a future:

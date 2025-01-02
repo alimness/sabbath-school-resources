@@ -1,6 +1,6 @@
 ---
 title: A new beginning
-cover: FDE1679562212683.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/12-born-again/FDE1679562212683.jpg
 ---
 
 For our thoughts, actions and feelings, too, the Bible recognises the experience of being ‘as if newly born’. The New Testament uses the image of being cleansed with water for the new beginning that a person makes with God. Baptism is what is meant.
@@ -14,4 +14,4 @@ Jesus says to this older man: A new beginning with God is possible and necessary
 
 Does this apply to us? Many Christians are indeed ‘baptised’, but in reality they have not experienced this beginning with God. They were ‘christened’ or ‘baptised’ as babies and were made members of a church without being asked. Yet when God makes the offer of a new beginning who would want to refuse it?
 
-![fsz1679562238116.jpg]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/12-born-again/fsz1679562238116.jpg]()

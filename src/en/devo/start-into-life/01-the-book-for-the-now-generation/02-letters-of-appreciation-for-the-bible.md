@@ -1,6 +1,6 @@
 ---
 title: Letters of appreciation for the Bible
-cover: INa1655820917023.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/01-the-book-for-the-now-generation/INa1655820917023.jpg
 ---
 
 At the Adventist Discovery Centre we received these genuine letters of appreciation for the Bible

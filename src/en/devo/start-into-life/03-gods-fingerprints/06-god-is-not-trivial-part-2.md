@@ -1,6 +1,6 @@
 ---
 title: God is not trivial (2)
-cover: DGd1667910386882.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/03-gods-fingerprints/DGd1667910386882.jpg
 ---
 
 ### God is omnipotent and omnipresent

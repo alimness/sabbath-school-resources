@@ -1,6 +1,6 @@
 ---
 title: A gift is a gift
-cover: 1ZE1679506371475.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/10-grace-before-justice/1ZE1679506371475.jpg
 ---
 
 He who has been pardoned by God can still become guilty. As long as we live we have to fight against sin. We are and remain incomplete. That should not discourage anybody. Whoever asks for forgiveness and forgives others will remain in grace. We can depend upon the fact that we will never stand alone before God in our guilt. An Intercessor always stands in for us:

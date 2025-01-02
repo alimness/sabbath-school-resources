@@ -1,6 +1,6 @@
 ---
 title: God is not trivial (1)
-cover: pVf1667910796424.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/03-gods-fingerprints/pVf1667910796424.jpg
 ---
 
 ### God cares for all people

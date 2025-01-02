@@ -1,6 +1,6 @@
 ---
 title: Stronger than ever before
-cover: hCS1679482671932.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/07-believing-is-a-matter-of-trust/hCS1679482671932.jpg
 ---
 
 In life we run the risk, with minimal hesitation, of linking ourselves with another person. Of course we know that our partner has weaknesses and faults just as we do. We rely on the firm link which we have developed with him/her. Together we’ll get by all right. Jesus Christ is perfect. We don’t need to make any excuses for Him. 

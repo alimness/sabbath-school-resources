@@ -1,6 +1,6 @@
 ---
 title: Practical help for our lives
-cover: Upv1656344929514.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/02-fascinating-facts/Upv1656344929514.jpg
 ---
 
 The message of the Bible has the potential to transform and reshape a person. In every age there have been people whose lives demonstrate this. Some have been prevented from making wrong decisions and others have done great things because they referred to the Bible.

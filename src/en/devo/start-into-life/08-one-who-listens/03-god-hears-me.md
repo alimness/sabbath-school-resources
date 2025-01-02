@@ -1,6 +1,6 @@
 ---
 title: God hears me
-cover: gbb1679483427211.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/08-one-who-listens/gbb1679483427211.jpg
 ---
 
 Sometimes we have the impression that God does not give us an answer to our requests and questions. He seems to keep silent. David gives a possible explanation:

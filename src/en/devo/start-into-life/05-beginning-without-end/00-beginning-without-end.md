@@ -1,6 +1,6 @@
 ---
 title: Lesson 5. Beginning Without End
-cover: Mkq1669220101483.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/05-beginning-without-end/Mkq1669220101483.png
 ---
 
 ### Piecing it all together

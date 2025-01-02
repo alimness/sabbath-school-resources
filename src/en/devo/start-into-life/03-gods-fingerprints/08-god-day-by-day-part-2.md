@@ -1,6 +1,6 @@
 ---
 title: God, day by day (2)
-cover: PoI1667910699448.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/03-gods-fingerprints/PoI1667910699448.jpg
 ---
 
 ### What shall we make of Him?

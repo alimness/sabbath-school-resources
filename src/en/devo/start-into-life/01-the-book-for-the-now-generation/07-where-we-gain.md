@@ -1,6 +1,6 @@
 ---
 title: Where we gain
-cover: MmP1655822747973.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/01-the-book-for-the-now-generation/MmP1655822747973.jpg
 ---
 
 It is not immediately possible to count, measure or analyse what we gain.

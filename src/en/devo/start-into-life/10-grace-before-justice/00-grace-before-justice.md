@@ -1,6 +1,6 @@
 ---
 title: Lesson 10. Grace before Justice
-cover: 27o1679506278764.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/10-grace-before-justice/27o1679506278764.jpg
 ---
 
 A man has been sitting in prison for years, sentenced for grievous bodily harm resulting in death. Two appeals for parole have been turned down. Embittered, he explains that nobody visits him. His friends have left him in the lurch.

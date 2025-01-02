@@ -1,6 +1,6 @@
 ---
 title: Lesson 9. Rebellion against God
-cover: S4Y1679500920097.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/09-rebellion-against-god/S4Y1679500920097.jpg
 ---
 
 That is, living according to our own inclinations. We think that we have everything under control. We want to decide ourselves how a person comes into the world, what genes they should have and how they should behave. We even claim responsibility for deciding the moment of death. The proverbial ‘nuclear button’ seemingly makes it possible for us to determine the end of the whole world.

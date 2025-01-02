@@ -1,6 +1,6 @@
 ---
 title: Reversal of roles
-cover: uYW1679506348457.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/10-grace-before-justice/uYW1679506348457.jpg
 ---
 
 Grace, or pardon, is an indescribably strong force which permanently changes our lives. This is not true just for our relationship with God, but of necessity also for our behaviour with our fellow human beings. The reversal of roles in the story of the servant and the king makes this clear:

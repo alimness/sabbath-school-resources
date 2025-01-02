@@ -1,6 +1,6 @@
 ---
 title: The shape of the future
-cover: 8Wz1669220646026.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/05-beginning-without-end/8Wz1669220646026.png
 ---
 
 We noticed in our previous lesson, however, that because of mankind’s rebellion, God’s perfect creation was disrupted and death, decay and deterioration became the norm. Prospects for the future were without hope, but God took the initiative and, immediately following their fall into sin, promised to rescue the human race. Addressing Satan, who had spoken to Eve via the snake, God said: 
@@ -14,7 +14,7 @@ God promised that one of the woman’s descendants would eventually strike back 
 
 You could say that this is a piece of jigsaw containing the best news ever! Satan would, in the course of time, be destroyed – by a descendant of Eve who would ‘strike’ Satan ‘on the head’. The Bible identifies that descendant as Jesus of Nazareth. 
 
-![JqP1669220779648.png]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/05-beginning-without-end/JqP1669220779648.png]()
 
 In the process of defeating Satan, that descendant would himself be wounded, for Satan would _‘strike him on the heel.’_ This strike would be fatal but not final!
 

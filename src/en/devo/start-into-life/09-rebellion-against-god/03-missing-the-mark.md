@@ -1,6 +1,6 @@
 ---
 title: Missing the mark
-cover: kZ81679501004306.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/09-rebellion-against-god/kZ81679501004306.jpg
 ---
 
 Sin means you are moving in the wrong direction. You have turned off from the right way. Your thoughts and actions miss the mark. Your relationship to God is destroyed and the distance from Him gets greater and greater, but your iniquities have separated you from your God:
@@ -22,4 +22,4 @@ One thing is clear. Each person is responsible for his/her own actions. There is
 
 There is only real freedom in our relationship with God. It is immaterial how good our deeds are or how much we might strive to be decent people: with God we remain sinners, but we can be forgiven sinners.
 
-![3z01679501048193.jpg]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/09-rebellion-against-god/3z01679501048193.jpg]()

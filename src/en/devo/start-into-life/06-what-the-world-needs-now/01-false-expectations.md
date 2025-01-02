@@ -1,6 +1,6 @@
 ---
 title: False expectations
-cover: O1l1673276344105.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/06-what-the-world-needs-now/O1l1673276344105.jpg
 ---
 
 Make no mistake about it, the Jewish nation was expecting a messiah – a redeemer who would become their king. This expectation was based on numerous predictions and promises made by the prophets. We can sample only a few, starting with Moses:
@@ -13,7 +13,7 @@ Years later Isaiah wrote:
 > <callout>Isaiah 9:6­7</callout>
 > 'A child has been born for us. We have been given a son who will be our ruler. His names will be Wonderful, Advisor and Mighty God, Eternal Father and Prince of Peace. His power will never end; peace will last forever. He will rule David’s kingdom and make it grow strong. He will always rule with honesty and justice. The LORD All­ Powerful will make certain that all of this is done.' 
 
-![wBG1673279023332.jpg]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/06-what-the-world-needs-now/wBG1673279023332.jpg]()
 
 Zechariah predicted:
 

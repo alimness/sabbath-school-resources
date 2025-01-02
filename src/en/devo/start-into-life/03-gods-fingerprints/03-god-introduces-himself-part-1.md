@@ -1,6 +1,6 @@
 ---
 title: God introduces Himself (1)
-cover: 3mO1667909963717.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/03-gods-fingerprints/3mO1667909963717.jpg
 ---
 
 ### In nature
@@ -12,7 +12,7 @@ Evidence for God and demonstrations of His character can be seen in nature. We h
 
 ### Through conscience
 
-![f7e1667910041717.jpg]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/03-gods-fingerprints/f7e1667910041717.jpg]()
 
 Every human being has a sense of what is decent and moral and what is wrong and immoral. Evolution cannot explain conscience, but belief in a Creator does. God gave us conscience to provide us with a perpetual sense of His existence and our responsibilitiy to Him.
 

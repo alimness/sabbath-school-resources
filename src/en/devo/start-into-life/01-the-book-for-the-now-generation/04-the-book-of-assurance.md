@@ -1,6 +1,6 @@
 ---
 title: The book of assurance
-cover: cv21656841732812.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/01-the-book-for-the-now-generation/cv21656841732812.png
 ---
 
 Safety and security are promised us in an insecure world:

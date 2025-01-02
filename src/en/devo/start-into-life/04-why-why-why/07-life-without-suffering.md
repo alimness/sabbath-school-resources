@@ -1,6 +1,6 @@
 ---
 title: Life without suffering
-cover: arg1667922813290.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/04-why-why-why/arg1667922813290.jpg
 ---
 
 Only the first two and the last two chapters of the Bible show human life without pain and suffering. In between lies an account of the great battle that is raging between the evil forces of Satan and the good forces of God. At Golgotha, Christ claimed victory over Satan, and now we can anticipate a life in which pain and suffering are eradicated forever!

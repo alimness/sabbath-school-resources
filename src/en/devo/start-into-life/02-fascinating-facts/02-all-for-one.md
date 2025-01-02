@@ -1,6 +1,6 @@
 ---
 title: All for one!
-cover: LsJ1656344159037.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/02-fascinating-facts/LsJ1656344159037.jpg
 ---
 
 How do we come to call the Bible the ‘Word of God’? When we said previously that a ‘long list of men wrote under inspiration’ about God, we did not mean they just recorded random whimsical ideas. They were very clear that God had personally impressed them, speaking directly to them in some thoroughly convincing and unequivocal way.

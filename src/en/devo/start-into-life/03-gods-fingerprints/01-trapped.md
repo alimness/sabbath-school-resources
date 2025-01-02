@@ -1,6 +1,6 @@
 ---
 title: Trapped?
-cover: fXW1667909588511.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/03-gods-fingerprints/fXW1667909588511.jpg
 ---
 
 Ask yourself – have your ideas about God been influenced too much by others, by your environment, by your friends, parents or teachers? It is unlikely that those external influences have not had some impact on your views.
@@ -15,7 +15,7 @@ Surely not. As one writer put it:
 
 > 'The finite cannot understand the infinite. God would not be God, but rather an idol if He allowed Himself to be subject to our 'proofs'. The assertion that the existance of God can be proved is just as senseless as the assertion that the non-existance of God can be proved.'
 
-![JFH1667909785502.jpg]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/03-gods-fingerprints/JFH1667909785502.jpg]()
 
 The same writer continues;
 

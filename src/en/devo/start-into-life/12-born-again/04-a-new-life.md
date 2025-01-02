@@ -1,6 +1,6 @@
 ---
 title: A new life
-cover: N1N1679562482625.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/12-born-again/N1N1679562482625.jpg
 ---
 
 Jesus Himself emphasises that according to Scripture the outward formality, that is, immersion, is in no way sufficient even in the case of adults:
@@ -20,7 +20,7 @@ In the same way the eunuch also made a decision for Jesus. As they travelled alo
 > <callout>Acts 8:36, 37</callout>
 > ‘ “Look, here is water. Why shouldn’t I be baptised?” And he ordered the chariot to stop. Then both Philip and the eunuch went down into the water and Philip baptised him . . . (he) went on his way rejoicing.’ 
 
-![MjD1679562505780.jpg]()
+![https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/12-born-again/MjD1679562505780.jpg]()
 
 The eunuch rejoices in his new life, but he is not the only one:
 

@@ -1,6 +1,6 @@
 ---
 title: Our Father (1)
-cover: R2g1679483500569.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/08-one-who-listens/R2g1679483500569.jpg
 ---
 
 When Jesus prayed, the disciples were deeply impressed. Therefore they asked Him, ‘Lord, teach us to pray.’ 

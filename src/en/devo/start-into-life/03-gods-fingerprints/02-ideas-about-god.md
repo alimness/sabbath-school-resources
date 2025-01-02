@@ -1,6 +1,6 @@
 ---
 title: Ideas about God
-cover: JLs1667909876614.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/03-gods-fingerprints/JLs1667909876614.jpg
 ---
 
 Although we cannot 'prove' God in a scientific sense, many people have found that they can prove Him in their daily living. They are sure that He makes a difference. He makes the difference! He is not just wishful thinking or a figment of the imagination. He is very real.

@@ -1,6 +1,6 @@
 ---
 title: Bought and paid for
-cover: B3c1679506323666.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/10-grace-before-justice/B3c1679506323666.jpg
 ---
 
 God’s compassion or us is so great that He sacrificed His Son Jesus Christ for us. In the cross we recognise the symbol for His love, justice and grace. Perhaps we find it difficult to grasp and understand this, but we can firmly believe in it.

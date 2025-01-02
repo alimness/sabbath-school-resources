@@ -1,6 +1,6 @@
 ---
 title: Winning confidence
-cover: 4xy1679482434645.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/07-believing-is-a-matter-of-trust/4xy1679482434645.jpg
 ---
 
 A young man meets a young woman. Their meeting arouses feelings in both of them. They meet more often. They get to know and understand each other. Not only do they find they like each other, but they are drawn together.

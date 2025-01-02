@@ -1,6 +1,6 @@
 ---
 title: More than just being patched up
-cover: rso1679501094058.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/09-rebellion-against-god/rso1679501094058.jpg
 ---
 
 Without fail, sin leads to death and everything that is linked to this – fear, hatred, pain, sickness and suffering of all kinds. Nobody is spared. With all the self-­determination in the world we cannot manage to free ourselves from these things.

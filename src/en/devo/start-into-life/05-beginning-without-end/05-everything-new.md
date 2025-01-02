@@ -1,6 +1,6 @@
 ---
 title: Everything new!
-cover: Zxv1669221480812.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/05-beginning-without-end/Zxv1669221480812.png
 ---
 
 With the sacrifice of Jesus, God made a new agreement (often referred to as a new ‘testament’) with humans. The basic requirement remained the same – an attitude of trust, dependence and confidence in God. The Bible generally refers to this attitude as ‘faith’:

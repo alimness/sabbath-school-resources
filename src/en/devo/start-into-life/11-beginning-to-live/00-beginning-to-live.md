@@ -1,6 +1,6 @@
 ---
 title: Lesson 11. Beginning to live
-cover: sNg1679559028931.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/11-beginning-to-live/sNg1679559028931.jpg
 ---
 
 Sometimes we say: ‘If only I could start all over again!’ How many words would we like to take back, how many deeds would we like to undo? Yet our words and actions are history which we cannot change, even the ones that we deeply regret. What would we give to be able to swap our old lives for new? If it were possible to put a line through everything, we would not make the same mistakes again. There would be no repetition of old lies, no more hurtful obstinacy, no longer constant self­centredness. Is this really possible?

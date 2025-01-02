@@ -1,6 +1,6 @@
 ---
 title: United, not uniform
-cover: Kkn1679593535597.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/14-no-one-lives-for-themselves/Kkn1679593535597.jpg
 ---
 
 The church consists of people who have their own peculiar traits of character. Therefore the church can never be 'uniform'. It lives from out of the diversity of its members. The basic foundation that everyone has in common allows us to feel at home whether we are taking part in a church service in Europe, Africa, Asia or America. Where teh church is really functioning properly no one feels that they have been left out.

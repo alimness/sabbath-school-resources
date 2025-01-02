@@ -1,6 +1,6 @@
 ---
 title: Lesson 8. One who listens
-cover: 7s41679483267575.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/08-one-who-listens/7s41679483267575.jpg
 ---
 
 Openness, goodness, love, understanding, strength, trustworthiness. These are terms which, for many, are linked with the idea of a ‘a good father’. In recent years the structure of the family has altered, and very few children are lucky enough to have such a father. Problems are discussed with friends or completely suppressed because their own father either has no time or lacks understanding.

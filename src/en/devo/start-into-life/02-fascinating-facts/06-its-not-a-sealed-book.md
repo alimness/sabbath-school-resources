@@ -1,6 +1,6 @@
 ---
 title: It's not a sealed book
-cover: JkX1656345075853.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/02-fascinating-facts/JkX1656345075853.jpg
 ---
 
 We cannot always understand, at first reading, what a particular text in the Bible means. This may leave you with the impression that the Bible is a sealed book, too obscure for everyday folk. Don’t worry. Just relax and let the words filter through your mind, and in time you will see the clear, simple message it contains. As one Bible passage puts it;

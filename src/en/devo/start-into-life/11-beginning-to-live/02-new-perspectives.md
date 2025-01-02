@@ -1,6 +1,6 @@
 ---
 title: New perspectives
-cover: m3k1679559258371.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/11-beginning-to-live/m3k1679559258371.jpg
 ---
 
 For Zacchaeus, the experience with Jesus led to change. A fundamental change takes place in him. Of his own accord he promises:

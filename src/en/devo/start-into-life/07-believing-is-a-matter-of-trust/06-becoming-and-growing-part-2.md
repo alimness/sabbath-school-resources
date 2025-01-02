@@ -1,6 +1,6 @@
 ---
 title: Becoming and growing (2)
-cover: Wmw1679482640511.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/07-believing-is-a-matter-of-trust/Wmw1679482640511.jpg
 ---
 
 #### Fellowship

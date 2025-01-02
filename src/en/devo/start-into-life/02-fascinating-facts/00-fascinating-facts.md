@@ -1,6 +1,6 @@
 ---
 title: Lesson 2. Fascinating Facts
-cover: 2Ou1656343332657.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/02-fascinating-facts/2Ou1656343332657.jpg
 ---
 
 ### A world's best-seller

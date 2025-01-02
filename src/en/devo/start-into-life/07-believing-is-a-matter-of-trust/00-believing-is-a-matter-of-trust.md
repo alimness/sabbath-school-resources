@@ -1,6 +1,6 @@
 ---
 title: Lesson 7. Believing is a Matter of Trust
-cover: a9J1679482381308.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/07-believing-is-a-matter-of-trust/a9J1679482381308.jpg
 ---
 
 ‘I believe that the sun will shine tomorrow.’ ‘I believe it’s half past seven.’

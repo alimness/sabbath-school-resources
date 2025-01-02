@@ -1,6 +1,6 @@
 ---
 title: Cause and effect
-cover: JuO1667920830296.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/04-why-why-why/JuO1667920830296.jpg
 ---
 
 The Bible makes a point of explaining that when God created the planet, He did a perfect job! There was no suffering on the planet at that stage:

@@ -1,6 +1,6 @@
 ---
 title: Lesson 12. Born  again
-cover: hA01679562186036.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/12-born-again/hA01679562186036.jpg
 ---
 
 Water. For us in Western Europe water is something we take for granted. We turn the tap on, we bathe or shower, water the lawn, have dishwashers and washing machines plumbed in. Our children splash round in swimming pools.

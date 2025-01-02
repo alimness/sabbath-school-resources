@@ -1,6 +1,6 @@
 ---
 title: God, day by day (1)
-cover: j2P1667910848824.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/03-gods-fingerprints/j2P1667910848824.jpg
 ---
 
 ### God is our Father

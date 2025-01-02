@@ -1,6 +1,6 @@
 ---
 title: Casting blame!
-cover: jhB1667921735916.jpg
+cover: https://sabbath-school-resources-assets.adventech.io/en/devo/start-into-life/04-why-why-why/jhB1667921735916.jpg
 ---
 
 When God created human beings, He endowed us with characteristics that we should deeply appreciate. He gave us minds with the power to learn and to reason. He gave us freedom to use our intelligence to make our own decisions. He gave us a sense of right and wrong, and with that, a sense of shame and guilt.
