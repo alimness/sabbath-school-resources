@@ -99,7 +99,8 @@ God gave a pattern of the ark to Moses, with special directions how to make it. 
 
 Moses was required to place the tablets of stone in the earthly ark. These were called the tablets of the testimony, and the ark was called the ark of the testimony, because they contained God’s testimony in the Ten Commandments.
 
-![Tabernacle](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Tabernacle](https://sabbath-school-resources-assets.adventech.io/en/pm/story-of-hope/06-chapter/image.png)
 
 **Two Apartments**—The tabernacle was composed of two apartments, or rooms, separated by a curtain. All the furniture of the tabernacle was made of solid gold or was plated with gold. The curtains of the tabernacle were of various colors, most beautifully arranged, and in these curtains cherubim were woven, using threads of gold and silver. These were to represent the myriads of angels, who are connected with the work of the heavenly sanctuary and who are ministering angels to God’s people on the earth.
 
