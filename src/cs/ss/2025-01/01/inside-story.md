@@ -21,5 +21,5 @@ Jiný přeběhlík nemohl spát, protože myslel na svou ženu a děti na Severu
 
 _Modlete se za Severní Koreu. Děkujeme, že 29. března plánujete štědré dary třinácté soboty na další šíření evangelia v severní asijsko-pacifické divizi._
 
-![Čang-Seop Lee](picture01.jpg)  
+![Čang-Seop Lee](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-01/01/picture01.jpg)  
 Čang-Seop Lee

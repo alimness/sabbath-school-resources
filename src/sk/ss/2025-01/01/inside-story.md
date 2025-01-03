@@ -21,5 +21,5 @@ Iný utečenec zasa nemohol spávať, pretože stále myslel na svoju manželku 
 
 _Modlite sa za Severnú Kóreu. Ďakujeme za vaše štedré dary trinástej soboty na konci marca, ktoré pomôžu šíriť evanjelium v rámci Severnej ázijsko-pacifickej divízie._
 
-![Čang-Seop Lee](picture01.jpg)  
+![Čang-Seop Lee](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-01/01/picture01.jpg)  
 Čang-Seop Lee
