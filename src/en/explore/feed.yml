@@ -1,6 +1,11 @@
 ---
   title: Explore
   groups:
+  - group: Featured
+    direction: vertical
+    view: square
+    resources:
+      - en-devo-ten-days-of-prayer-2025
   - group: Adventist Review
     view: folio
     resources:
