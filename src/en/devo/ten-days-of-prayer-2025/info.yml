@@ -5,6 +5,7 @@ primaryColor: '#31516A'
 primaryColorDark: '#134061'
 startDate: 08/01/2025
 endDate: 18/01/2025
+progressTracking: automatic
 credits:
   - name: Author
     value: Pavel Goia
