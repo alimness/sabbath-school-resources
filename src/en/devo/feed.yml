@@ -3,7 +3,7 @@
   groups:
   - group: Featured
     direction: vertical
-    view: square
+    view: banner
     resources:
       - en-devo-ten-days-of-prayer-2025
   - group: "Discipleship Handbook: Correlated Bible & EGW"
