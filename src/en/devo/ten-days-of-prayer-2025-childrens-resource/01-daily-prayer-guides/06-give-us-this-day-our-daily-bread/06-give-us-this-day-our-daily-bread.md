@@ -21,11 +21,13 @@ Daddy opened his Bible to the Lord’s Prayer. “Jesus taught us to pray, ‘Gi
 
 - Create a set of placemats or cards for your dinner table. Write on them your favorite prayers of thanks for the food.
 
-![Placemats](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Placemats](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025-childrens-resource/01-daily-prayer-guides-06-give-us-this-day-our-daily-bread/image1.png)
 
 - Make a food parcel to take to a family who might need food today. Be an answer to their prayer for daily bread.
 
-![Food Parcel](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Food Parcel](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025-childrens-resource/01-daily-prayer-guides-06-give-us-this-day-our-daily-bread/image2.png)
 
 ### Let’s Pray
 

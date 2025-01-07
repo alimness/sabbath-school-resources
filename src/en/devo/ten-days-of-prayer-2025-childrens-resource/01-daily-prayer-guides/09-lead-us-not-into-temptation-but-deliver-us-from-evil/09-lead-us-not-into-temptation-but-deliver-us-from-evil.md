@@ -18,7 +18,7 @@ That evening Katie and Kenny sat on Daddy’s lap for worship. He read them the 
 - What are you tempted to do. Choose a “resisting temptation” Bible verse to help you be strong with God.
 - Write your “resisting temptation” Bible verse on a small card and decorate it. Keep it as a special prayer reminder.
 
-[Resisting Temptation Card](image.png)
+[Resisting Temptation Card](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025-childrens-resource/01-daily-prayer-guides-09-lead-us-not-into-temptation-but-deliver-us-from-evil/image.png)
 
 ### Let’s Pray
 

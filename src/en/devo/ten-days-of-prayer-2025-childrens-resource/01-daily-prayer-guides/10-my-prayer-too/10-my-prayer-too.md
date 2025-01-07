@@ -21,7 +21,8 @@ Mommy taught them some beautiful actions for the Lord’s Prayer that she learnt
 - Draw pictures to illustrate each phrase of the Lord’s Prayer.
 - Write each phrase on a paper footprint, make a trail, and walk along it. Repeat the walk several times, turning some footprints over each time, to hide the words as you memorize them.
 
-![Footprints](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Footprints](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025-childrens-resource/01-daily-prayer-guides-10-my-prayer-too/image.png)
 
 ### Let’s Pray
 

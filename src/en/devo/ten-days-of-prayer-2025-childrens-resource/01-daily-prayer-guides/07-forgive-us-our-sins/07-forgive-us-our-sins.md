@@ -23,11 +23,13 @@ That evening the twins climbed into Daddy’s lap. “You know, our Father in he
 
 - Blow some bubbles. Watch them pop. Can you find them again? Can you return them to the pot of bubble mixture? No! they are gone forever, just like our forgiven sins!
 
-![Bubbles](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Bubbles](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025-childrens-resource/01-daily-prayer-guides-07-forgive-us-our-sins/image1.png)
 
 - Sprinkle a tray with fine sand. Write something you have done wrong in the sand. Shake the tray gently as you pray for forgiveness and watch your mistakes disappear forever.
 
-![Sand Prayer](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Sand Prayer](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025-childrens-resource/01-daily-prayer-guides-07-forgive-us-our-sins/image2.png)
 
 ### Let’s Pray
 

@@ -24,7 +24,8 @@ Daddy sat in his comfy chair and held out his arms for Katie and Kenny. They ran
 - Make a list of God’s many different names. Discover more about His names and what they tell you about His loving character. (e.g. _Saviour, Redeemer, Yahweh_)
 - If you were to give God a name that describes your experience of Him, like Hagar, what would you call Him?
 
-![God’s different names](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![God’s different names](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025-childrens-resource/01-daily-prayer-guides-03-hallowed-be-your-name/image.png)
 
 ### Let’s Pray
 

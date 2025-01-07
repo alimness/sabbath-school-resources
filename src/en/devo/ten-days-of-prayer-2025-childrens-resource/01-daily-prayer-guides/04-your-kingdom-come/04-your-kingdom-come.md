@@ -25,7 +25,8 @@ Daddy was telling Katie and Kenny a Bible story about King David. He explained t
 - Make a crown out of paper or cardstock. Before you stick the ends together, lay it flat on the table and write some of God’s kingdom values on the crown, such as love, peace, joy, patience, kindness, goodness, faithfulness, gentleness, and self-control (Galatians 5:22- 23)
 - [**Paper crown template**](https://superstarworksheets.com/wp-content/uploads/2024/02/KingCrownTemplate.pdf)
 
-![Paper Crown](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Paper Crown](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025-childrens-resource/01-daily-prayer-guides-04-your-kingdom-come/image.png)
 
 ### Let’s Pray
 

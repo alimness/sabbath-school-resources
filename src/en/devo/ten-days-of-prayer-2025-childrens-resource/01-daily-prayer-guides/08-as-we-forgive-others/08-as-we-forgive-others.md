@@ -34,7 +34,8 @@ Katie took a huge mouthful of ice cream. It was so cold it hurt! “Katie, slow 
 - Think of someone who has hurt you. Maybe you could also think of a way to be kind to them.
 - Put an edible treat in a paper bag with “Forgiveness” written on it. Sit in a circle. Give this gift of “Forgiveness” to the person on your left. Ask them to take out the treat and give a piece to you. Then ask them to pass the gift to the next person and receive a piece of treat from them. Repeat this activity, so that every person receives the gift of “forgiveness” and gives a piece back to the giver. Discuss how this illustrates forgiveness.
 
-![Forgiveness Treats](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Forgiveness Treats](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025-childrens-resource/01-daily-prayer-guides-08-as-we-forgive-others/image.png)
 
 ### Let’s Pray
 

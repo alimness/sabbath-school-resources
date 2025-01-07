@@ -24,7 +24,8 @@ Miss Peterson, their teacher, called Daddy’s cell-phone. She reminded Daddy th
 - How do you picture your Father in heaven when you pray to Him? We all imagine Him in different ways, and that’s fine! Draw a picture of how you see God.
 - God has been described as “Love – loving”. “We love because He first loved us!” 1 John 4:19. Talk with your family about the times when you have experienced God’s loving care.
 
-![Draw a picture](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Draw a picture](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025-childrens-resource/01-daily-prayer-guides-02-our-father-in-heaven/image.png)
 
 ### Let’s Pray
 

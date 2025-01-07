@@ -27,11 +27,13 @@ Kenny agreed. “Yes! Let’s do it! It will be the best birthday ever!”
 
 - Whenever we are kind, we are doing God’s will on earth as it is done in heaven. Do something kind for each person in your family. Cut paper hearts and write “Kindness was here!” on each one. Leave a kindness heart in the places where you were kind.
 
-![Kindness hearts](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Kindness hearts](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025-childrens-resource/01-daily-prayer-guides-05-your-will-be-done-on-earth-as-it-is-in-heaven/image1.png)
 
 - Offer to help an adult in your family for 15 or 20 minutes. Listen carefully to their instructions and cheerfully do whatever they ask you to do.
 
-![Helping](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Helping](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025-childrens-resource/01-daily-prayer-guides-05-your-will-be-done-on-earth-as-it-is-in-heaven/image2.png)
 
 ### Let’s Pray
 

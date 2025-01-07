@@ -26,7 +26,8 @@ Daddy hugged them as they prayed. “You know how we hug and talk together every
 - Read Psalm 23, 103, 145, 1 Corinthians 13, and 1 John 4:7-21 and make a list of all the ways that God loves you! Cut out a large paper heart and write your list on this big heart. Keep adding new ideas! We will learn more and more about God’s love throughout eternity.
 - Click [**here**](https://artfulparent.com/how-to-cut-out-hearts/) for a tutorial for paper hearts
 
-![Paper Heart Craft](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Paper Heart Craft](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025-childrens-resource/01-daily-prayer-guides-01-talking-to-daddy/image.png)
 
 ### Let’s Pray
 
