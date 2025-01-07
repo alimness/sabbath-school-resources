@@ -1,8 +1,8 @@
-title: "Discipleship Handbook: Appendix A"
+title: 'Discipleship Handbook: Appendix A'
 subtitle: The Discipleship Plan
-description: The Discipleship
-  Handbook is part of the GROW Your Church series of Personal Ministries
-  resources.
+description: >-
+  The Discipleship Handbook is part of the GROW Your Church series of Personal
+  Ministries resources.
 kind: book
 primaryColor: '#7A0119'
 primaryColorDark: '#1A1A19'
@@ -23,3 +23,10 @@ credits:
     value: 978-0-8280-2834-9
 featuredResources:
   - en/pm/discipleship-handbook
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/discipleship-handbook-appendix-a/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/discipleship-handbook-appendix-a/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/discipleship-handbook-appendix-a/assets/cover.png
