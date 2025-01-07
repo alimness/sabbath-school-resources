@@ -1,6 +1,5 @@
-title: Discipleship Handbook
-subtitle: >-
-  A Resource for Seventh-day Adventist Church Members.
+title: "Discipleship Handbook: Appendix A"
+subtitle: The Discipleship Plan
 description: The Discipleship
   Handbook is part of the GROW Your Church series of Personal Ministries
   resources.
@@ -23,13 +22,4 @@ credits:
   - name: ISBN
     value: 978-0-8280-2834-9
 featuredResources:
-  - en/pm/discipleship-handbook-appendix-a
-  - en/pm/spread-the-word
-  - en/pm/fundamentals-of-faith
-covers:
-  landscape: >-
-    https://sabbath-school-resources-assets.adventech.io/en/pm/discipleship-handbook/assets/cover-landscape.png
-  square: >-
-    https://sabbath-school-resources-assets.adventech.io/en/pm/discipleship-handbook/assets/cover-square.png
-  portrait: >-
-    https://sabbath-school-resources-assets.adventech.io/en/pm/discipleship-handbook/assets/cover.png
+  - en/pm/discipleship-handbook
