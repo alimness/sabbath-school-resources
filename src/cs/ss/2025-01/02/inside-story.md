@@ -23,5 +23,5 @@ Dnes je Melvin Madriz 24letým studentem pastorace na Středoamerické adventist
 
 _Modlete se za to, aby byl Bůh Bible zvěstován Cabécarům a všem domorodým lidem na celém světě. Děkujeme vám za vaše misijní dary, které pomáhají sdílet evangelium s nedosaženými a nedostatečně oslovenými skupinami lidí._
 
-![Melvin Madriz](picture02.jpg)  
+![Melvin Madriz](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-01/02/picture02.jpg)  
 Melvin Madriz

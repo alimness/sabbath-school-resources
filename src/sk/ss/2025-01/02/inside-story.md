@@ -23,5 +23,5 @@ Melvin sa vtedy rozhodol, že sa stane kazateľom. Už od svojho krstu cítil, �
 
 _Modlite sa za to, aby mohol byť Boh Biblie hlásaný nielen v kmeni Cabécar, ale aj v ostatných domorodých kmeňoch sveta. Ďakujeme za vaše misijné dary, ktoré pomáhajú šíriť evanjelium aj tam, kde sa ešte nedostalo._
 
-![Melvin Madriz](picture02.jpg)  
+![Melvin Madriz](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-01/02/picture02.jpg)  
 Melvin Madriz
