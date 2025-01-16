@@ -23,5 +23,5 @@ Aj keď Nanum v kaviarni nikdy nepočula meno Ježiš, stretla sa tam s ním pro
 
 _Časť darov trinástej soboty pomôže šíriť evanjelium v Južnej Kórei. Ďakujeme, že ich štedro podporíte._
 
-![Jong-Moon Yoon](picture03.jpg)  
+![Jong-Moon Yoon](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-01/03/picture03.jpg)  
 Jong-Moon Yoon

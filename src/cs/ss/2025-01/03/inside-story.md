@@ -23,5 +23,5 @@ I když Nanum v kavárně nikdy nezaslechla Ježíšovo jméno, skrze Jong-Moono
 
 _Část darů třinácté soboty v tomto čtvrtletí pomůže šířit evangelium v Jižní Koreji. Děkujeme vám, že 29. března plánujete štědré dary._
 
-![Jong-Moon Yoon](picture03.jpg)  
+![Jong-Moon Yoon](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-01/03/picture03.jpg)  
 Jong-Moon Yoon
