@@ -23,5 +23,5 @@ Zrazu muži zbledli, otočili sa a utiekli preč. Joanne sa obzerala okolo seba,
 
 _Tento misijný príbeh nám ponúka pohľad do života americkej misionárky Joanne Park Kim, ktorá stála pri zrode Cirkvi adventistov siedmeho dňa v post-komunistickom Mongolsku a potom tam pokračovala v misijnej práci. Aj vy sa môžete stať súčasťou tejto misie prostredníctvom darov trinástej soboty. Časť z nich poslúži na otvorenie komunitného centra určeného pre duchovný, mentálny, sociálny aj fyzický rast detí v Ulanbátare, hlavnom meste Mongolska. O Joanne sa dočítate viac budúci týždeň v ďalšom misijnom príbehu._
 
-![Joanne Kim](picture04.jpg)  
+![Joanne Kim](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-01/04/picture04.jpg)  
 Joanne Kim
