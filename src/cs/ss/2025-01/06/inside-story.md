@@ -27,5 +27,5 @@ I nyní ji čas od času napadají opilci, ale její láska k Bohu a jeho lidem 
 
 _Na misijní práci v Mongolsku se můžete podílet také prostřednictvím darů třinácté soboty tohoto čtvrtletí, jejíž část pomůže otevřít v mongolském Ulánbátaru rekreační středisko, kde mohou děti duchovně, duševně, společensky i fyzicky růst._
 
-![Joanne Kim](picture06.jpg)  
+![Joanne Kim](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-01/06/picture06.jpg)  
 Joanne Kim

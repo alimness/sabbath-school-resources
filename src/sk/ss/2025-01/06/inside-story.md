@@ -25,5 +25,5 @@ Aj teraz sa stane, že ju napadne nejaký opitý cudzinec. Jej láska k Bohu a j
 
 _Aj vy môžete podporiť misijnú prácu prostredníctvom darov trinástej soboty. Časť z nich poslúži na otvorenie komunitného centra určeného pre duchovný, mentálny, sociálny aj fyzický rozvoj detí v Ulanbátare, hlavnom meste Mongolska._
 
-![Joanne Kim](picture06.jpg)  
+![Joanne Kim](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-01/06/picture06.jpg)  
 Joanne Kim
