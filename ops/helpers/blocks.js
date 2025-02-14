@@ -32,8 +32,6 @@ let parseBlock = async function (block, resourcePath, index, parentId, depth) {
         documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/content/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}/${resourcePath.segment}`
     }
 
-    console.log(documentIndex)
-
     block.id = crypto.createHash("sha256").update(
         `${documentIndex}-${parentId}-${block.type}-${index}`
     ).digest("hex")
