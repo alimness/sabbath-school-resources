@@ -31,5 +31,5 @@ Zdvihla zrak. Do očí jej padol obrázok z omaľovánky, ktorý mala pripnutý 
 
 _Tento misijný príbeh dokumentuje jeden z projektov financovaných z darov trinástej soboty. Grace Babcocková učí žiakov na Základnej škole Cirkvi adventistov s. d. Holbrook v Indii, ktorej boli určené prostriedky zo zbierky v roku 2021. Ďakujeme, že aj tento štvrťrok budete podporovať šírenie evanjelia prostredníctvom darov trinástej soboty._
 
-![Grace Babcock](picture07.jpg)  
+![Grace Babcock](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-01/07/picture07.jpg)  
 Grace Babcock

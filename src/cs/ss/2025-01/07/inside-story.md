@@ -35,5 +35,5 @@ Když se podívala nahoru, uviděla na lednici obrázek z omalovánky. Obrázek 
 
 _Tento misijní příběh nabízí pohled na předchozí projekt třinácté soboty. Grace Babcock učí žáky americké adventistické indiánské základní školy v Holbrook, která obdržela část darů ze sbírky třinácté soboty v roce 2021. Děkujeme, že 29. března podpoříte šíření evangelia prostřednictvím darů třinácté soboty v tomto čtvrtletí._
 
-![Grace Babcock](picture07.jpg)  
+![Grace Babcock](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-01/07/picture07.jpg)  
 Grace Babcock

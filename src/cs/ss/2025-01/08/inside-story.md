@@ -33,5 +33,5 @@ Dnes je třicetiletý Nelson Silva adventistickým hudebníkem, který už nehra
 
 _Modlete se za hlásání evangelia všem kulturám a skupinám lidí na celém světě. Děkujeme za vaše misijní dary, které pomáhají sdílet evangelium s nedosaženými a nedostatečně oslovenými skupinami lidí. Video, na kterém Nelson hraje na akordeon, si můžete prohlédnout na YouTube na adrese [bit.ly/Nelson-Silva](https://bit.ly/Nelson-Silva)._
 
-![Nelson Silva](picture08.jpg)  
+![Nelson Silva](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-01/08/picture08.jpg)  
 Nelson Silva
