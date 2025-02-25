@@ -43,4 +43,4 @@ _Tento misijní příběh nabízí pohled na předchozí projekt Třinácté sob
 
 _Více o Colette a Matroně se dozvíte příští týden._
 
-![Colette and Matrona](picture09.jpg)
+![Colette and Matrona](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-01/09/picture09.jpg)
