@@ -35,4 +35,4 @@ Pripomenula tiež, že Boh použil Colette, aby zmenil jej život. „To, ako ma
 
 _Tento misijný príbeh nám ponúka pohľad do života zboru Bethel Cirkvi adventistov siedmeho dňa, ktorému boli určené dary trinástej soboty v roku 2024. Ďakujeme, že pomôžete šíriť evanjelium aj prostredníctvom darov v tomto štvrťroku, ktoré budú vyzbierané 29. marca._
 
-![Colette and Matrona](picture11.jpg)
+![Colette and Matrona](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-01/11/picture11.jpg)

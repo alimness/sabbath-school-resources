@@ -35,4 +35,4 @@ Matrona vyjádřila vděčnost za vytrvalé telefonáty Colette a nyní i za jej
 
 _Tento misijní příběh nabízí pohled do sboru Církve adventistů sedmého dne v Bethel na Aljašce, který obdržel část darů třinácté soboty v roce 2024.  Děkujeme vám, že pomůžete šířit evangelium prostřednictvím sbírky třinácté soboty, která se uskuteční 29. března._
 
-![Colette and Matrona](picture11.jpg)
+![Colette and Matrona](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-01/11/picture11.jpg)
