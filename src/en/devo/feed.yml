@@ -23,6 +23,12 @@
       - en-devo-ten-days-of-prayer-2025
       - en-devo-ten-days-of-prayer-2025-childrens-resource
       - en-devo-youth-week-of-prayer-2025
+  - group: Devotional Resources
+    view: folio
+    resources:
+      - en-devo-as-light-lingers
+      - en-devo-the-way-back-to-altar
+      - en-devo-test
   - group: Steps to Personal Revival
     view: folio
     resources:
@@ -30,9 +36,3 @@
       - en-devo-abide-in-jesus
       - en-devo-spirit-filled-coworkers-of-jesus
       - en-devo-from-lack-to-abundance
-  - group: Devotional Resources
-    view: folio
-    resources:
-      - en-devo-as-light-lingers
-      - en-devo-the-way-back-to-altar
-      - en-devo-test
