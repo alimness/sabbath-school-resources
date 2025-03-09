@@ -21,7 +21,7 @@ A sensory box is filled with sand or water, depending on the Creation day you ar
 - Toy doctor kit
 - Fabric, felt, or small baskets
 
-!v[sand.mp4]
+!v[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/sand.mp4]
 
 {"style": {"block": {"backgroundColor": "#E4E4E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **WATER FILL**
@@ -35,7 +35,7 @@ A sensory box is filled with sand or water, depending on the Creation day you ar
 - Small sieve or net
 - Towels to dry hands
 
-!v[water.mp4]
+!v[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/water.mp4]
 
 {"style": {"text": {"color": "#58b0e3"}}}
 **What is a sensory box?**
