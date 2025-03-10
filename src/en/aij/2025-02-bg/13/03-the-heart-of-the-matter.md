@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/13/hm-background.png
 ---
 
 In all He did on earth Jesus showed His heart of love—a heart that overflowed with boundless love for everyone He met. His love for us is just as personal and limitless. “So Christ, the heavenly Shepherd, cares for His flock that is scattered throughout the world. He knows us all by name. He knows the very house in which we live, and the name of each inmate. He cares for each one as if there were not another in the whole world” (Ellen G. White, _The Story of Jesus_, pp. 75, 76).

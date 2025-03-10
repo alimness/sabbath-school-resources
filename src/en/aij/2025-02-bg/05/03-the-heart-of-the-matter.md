@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/05/hm-background.png
 ---
 
 Have you ever been completely and utterly overwhelmed? Maybe it was finding out you were about to become a parent. Perhaps it was those first few hazy weeks of your new baby’s life. The disciples were a little overwhelmed on the Galilee hillside that day. Faced with a hungry crowd, Jesus told them, “You give them something to eat” (Luke 9:13). They couldn’t fathom where to begin to find enough food for the crowd, or how they’d pay for it. Again and again, Jesus proves that He is big enough to deal with the overwhelming facts, the impossibilities, and the clouds of doubt that we face. 

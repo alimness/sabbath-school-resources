@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/07/hm-background.png
 ---
 
 Jesus’ first miracle was all about joy and compassion for human need. He is, after all, the Giver and Creator of joy. He desires for us to be filled with joy, overflowing with His love and peace. For His first miracle He could have marched into the temple and healed everyone in sight, or freed His people from their Roman oppressors, but instead He chose a humble Cana wedding to show “His sympathy with men, and His desire to minister to their happiness” (Ellen G. White, _The Desire of Ages_, p. 144).

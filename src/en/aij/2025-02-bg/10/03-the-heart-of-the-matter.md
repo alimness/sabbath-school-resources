@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/10/hm-background.png
 ---
 
 Another storm, another lesson. Jesus again proves that He is the God of love and peace. He hears the cries of help from the disciples and rescues them in a way that they would never forget. The doubt and discouragement they felt was replaced with wonder and awe. 

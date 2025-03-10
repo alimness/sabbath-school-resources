@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/03/hm-background.png
 ---
 
 Bartimaeus knew he needed a Savior, and he sought after Jesus with his whole heart. He did not give up at the first roadblock. He called out to Jesus with determination and faith! What an example for us each busy day. Do we recognize our need for Christ? Are we filled with a burning desire to really know Him? Do we make room in our schedules for Him, no matter the obstacles?

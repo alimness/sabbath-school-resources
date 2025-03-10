@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/02/hm-background.png
 ---
 
 Worry. Oh, how it can consume, and drain, and steal. It has a habit of making the present look bleak and stormy. How much of our lives do we spend at the mercy of worry? Finances, schooling, technology, homes, mortgages, work, the future, the current world climate, and of course, are we being good enough parents who are giving our children what they need? 

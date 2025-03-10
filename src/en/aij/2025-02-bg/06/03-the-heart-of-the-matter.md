@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/06/hm-background.png
 ---
 
 Being thankful is good for you! It makes you happy and well. In this story 10 men were healed physically, but Jesus said to the one who said thank You, “Your faith has made you well” (Luke 17:19). What a wonderful response! Jesus wants us to give thanks so we can be whole too! 

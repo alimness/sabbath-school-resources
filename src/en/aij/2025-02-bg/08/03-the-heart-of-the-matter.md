@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/08/hm-background.png
 ---
 
 Parenting is hard work. Some of us parent in couples, some supported by extended families, others by loyal friends. But none of us need to parent alone. Jesus promises to be our Helper. 

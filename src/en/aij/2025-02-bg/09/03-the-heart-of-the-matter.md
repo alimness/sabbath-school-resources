@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/09/hm-background.png
 ---
 
 Stormy weather can strike us at any moment. One minute it’s bright skies and smooth sailing; the next, you’re in a chaotic storm! Sometimes all it takes is a child with a cold or a new tooth to tip the boat. It’s in these moments that God longs to bring you peace—real peace.

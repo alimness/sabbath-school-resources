@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/11/hm-background.png
 ---
 
 Jairus was just like you—a loving and dedicated parent who wanted the best for his child. His love was wrapped up in his little daughter. When she became sick, there seemed to be no cure. But this father had hope. When things spiraled out of his control, he turned his panic over to Jesus and put his trust in Him. His worry dissolved into worship, and he fell at Jesus’ feet. He knew that a miracle was possible, and he came to Jesus with a heart full of faith.  

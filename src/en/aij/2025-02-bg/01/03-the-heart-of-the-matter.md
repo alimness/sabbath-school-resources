@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/01/hm-background.png
 ---
 
 Jesus is calling you to follow Him, just as He called His disciples. Will you, like Peter, jump in feet first?

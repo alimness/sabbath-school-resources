@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/04/hm-background.png
 ---
 
 How blessed the man with paralysis was, to have four good friends. These friends were so invested in his life, health, and happiness that they personally carried him to Jesus. They didn’t just stop at the first roadblock. No! They thought outside the box and created a solution that would allow their friend to come close to the Savior. Then they watched with joy as Jesus healed him—wholly and fully. His life was changed forever. They too would never be the same. 
