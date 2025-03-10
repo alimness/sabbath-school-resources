@@ -15,7 +15,7 @@ audio:
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}
 ![](01.png)
-{"style":{"text":{"color": "#76533F"}}, "block":{"backgroundColor": "#d8d8d8ad"}}}
+{"style":{"text":{"color": "#76533F"}, "block":{"backgroundColor": "#d8d8d8ad"}}}
 Bartimaeus sat on the side of the dusty road. The sky was clear and blue. Green trees waved in the gentle breeze. But Bartimaeus could not see the sky, or the trees, or the people walking past. He couldn’t see anything. He was blind (close your eyes; what do you see?). Bartimaeus didn’t have a job. He called out to people to give him coins. They put them in a little bowl beside him. Clink, clink. But most people just walked by. Plod-plod, shuffle-shuffle, went their sandals. They were too busy to notice him. They were too busy to care. Bartimaeus heard Jesus walking down the road. Jesus! He had heard of this Man. He heard that Jesus did miracles! Bartimaeus got excited (clap hands). He listened very carefully (cup ear). Was Jesus close by? He was sure that Jesus would care. He was sure that Jesus would help. Bartimaeus started shouting, “Jesus . . . please help me!” The people around him told him to be quiet, but he only shouted louder. Again and again Bartimaeus called out to Jesus. He wanted to meet Jesus! 
 ^^^
 ^^^
