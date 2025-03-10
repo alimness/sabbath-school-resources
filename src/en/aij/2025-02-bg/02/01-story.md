@@ -9,12 +9,12 @@ audio:
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/02/00.png)
-{"style":{"text":{"color": "#ffffff", "typeface": "Omnes-Bold", "align": "center"}}}
+{"style":{"text":{"color": "#ffffff", "typeface": "Omnes-Bold", "align": "center"}, "block": {"backgroundColor": "#181818ad"}}}
 A Coin\
 ^[and a]({"style":{"text":{"color": "#dde56d", "typeface": "Omnes-BoldItalic"}}}) Fish
 ^^^
 ^^^
-{"style":{"image":{"storyTextAlign": "top"}}}
+{"style":{"image":{"storyTextAlign": "top"}, "block": {"backgroundColor": "#181818ad"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/02/01.png)
 {"style":{"text":{"color": "#284145"}}}
 Splish-splash went the water on the sparkling Sea of Galilee. All was still. Then splish-splash went the water again. What made the water splish and splash? It was a fish! A fish jumped through the water. What fun! This fish would be Jesus’ special helper today. Peter smiled (smile) as he walked through his town by the sea. He felt happy that Jesus had come to visit! He couldn’t wait for everyone to meet his friend Jesus. But some men who collected money came toward him. Maybe they would like to meet Jesus too. But the men frowned at Peter (frown). Clink-clink went their money bags. They asked Peter if Jesus paid money to the temple. Peter nodded (nod). Yes, Jesus did what was right.   
