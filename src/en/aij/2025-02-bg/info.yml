@@ -82,3 +82,10 @@ fonts:
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Regular.ttf
     attributes: regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/cover.png
