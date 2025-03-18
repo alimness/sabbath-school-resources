@@ -272,8 +272,6 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                     (f) => {
                         const p = parseResourcePath(f.replace(/\.?\/?src\//, ''))
 
-                        console.log(p)
-
                         if (p.section === RESOURCE_ASSETS_DIRNAME || (!p.section && !p.segment && !p.document.length)) {
                             invalidationList.add(`/api/v3/${p.language}/${p.type}/${p.title}/index.json`)
                             invalidationList.add(`/api/v3/${p.language}/${p.type}/${p.title}/sections/index.json`)
@@ -670,6 +668,8 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
 
                 delete resourceFeed.fromOther
                 invalidationList.add(`/api/v3/${language}/${resourceFeedForType}/index.json`)
+                invalidationList.add(`/api/v3/${language}/authors/*`)
+                invalidationList.add(`/api/v3/${language}/categories/*`)
                 fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/index.json`, JSON.stringify(resourceFeed))
             }
         }
