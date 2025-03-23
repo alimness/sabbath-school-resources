@@ -265,9 +265,18 @@ let processDocuments = async function (language, resourceType, resourceGlob) {
             let documentInfo = await getDocumentInfoYml(`${SOURCE_DIR}/${document}`, true)
             let documentPathInfo = parseResourcePath(document)
             let append = ""
+            let appended = []
 
             if (fs.pathExistsSync(`${SOURCE_DIR}/${document.replace('/info.yml', '')}/teacher-comments.md`)) {
-                append = `\n\n---\n\n{#[${documentInfo.index}/teacher-comments.md]}`
+                appended.push(`{#[${documentInfo.index}/teacher-comments.md]}`)
+            }
+
+            if (fs.pathExistsSync(`${SOURCE_DIR}/${document.replace('/info.yml', '')}/_talking-points.md`)) {
+                appended.push(`{#[${documentInfo.index}/_talking-points.md]}`)
+            }
+
+            if (appended.length > 0) {
+                append = `\n\n---\n\n` + appended.join('\n\n')
             }
 
             documentInfo.segments = []
@@ -281,7 +290,7 @@ let processDocuments = async function (language, resourceType, resourceGlob) {
                 .sync();
 
             for (let segment of segments) {
-                let segmentInfo = await getSegmentInfo(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`, true, /^teacher-comments\.md/.test(segment) ? "" : append)
+                let segmentInfo = await getSegmentInfo(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`, true, /^(teacher-comments|_talking-points)\.md/.test(segment) ? "" : append)
                 let segmentPathInfo = parseResourcePath(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`)
 
                 // skipping hidden segments
