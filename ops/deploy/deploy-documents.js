@@ -20,6 +20,9 @@ import {
     DOCUMENT_INFO_FILENAME, MEDIA_URL, SEGMENT_FILENAME_EXTENSION, RESOURCE_ASSETS_DIRNAME, MEDIA_PDF_URL_LEGACY
 } from "../helpers/constants.js"
 import { SEGMENT_DEFAULT_BLOCK_STYLES } from "../helpers/styles.js"
+import { getLanguageInfo } from "./deploy-languages.js"
+
+let replacements = {}
 
 let getDocumentInfoYml = async function (document) {
     const documentInfo = yaml.load(fs.readFileSync(document, "utf8"));
@@ -67,14 +70,22 @@ let getSegmentInfo = async function (segment, processBlocks = false, append = ""
     const segmentInfoFrontMatter = frontMatter(segmentFile)
     const segmentPathInfo = parseResourcePath(segment)
 
-    const egwNotesRegex = /\n#{2,}\s*Additional Reading[\s\S]*/g // = #### Additional Reading
-    const match = segmentInfoFrontMatter.body.match(egwNotesRegex)
-
-    if (match) {
-        const foundLines = match[0]
-        const replacement = `\n\`\`\`=${foundLines.replace(/\n#{2,}\s*/, '').trim()}\n\`\`\``
-        segmentInfoFrontMatter.body = segmentInfoFrontMatter.body.replace(egwNotesRegex, replacement)
+    if (!replacements[segmentPathInfo.language]) {
+        const languageInfo = await getLanguageInfo(segmentPathInfo.language)
+        replacements[segmentPathInfo.language] = languageInfo?.deploymentReplacements?.collapse ?? []
     }
+
+    for (let collapseReplacement of replacements[segmentPathInfo.language]) {
+        const collapseReplacementRegExp = new RegExp(collapseReplacement, "g")
+        const collapseReplacementMatch = segmentInfoFrontMatter.body.match(collapseReplacementRegExp)
+
+        if (collapseReplacementMatch) {
+            const foundLines = collapseReplacementMatch[0]
+            const replacement = `\n\`\`\`=${foundLines.replace(/\n#{2,}\s*/, '').trim()}\n\`\`\``
+            segmentInfoFrontMatter.body = segmentInfoFrontMatter.body.replace(collapseReplacementRegExp, replacement)
+        }
+    }
+
     segmentInfoFrontMatter.body += append
 
     const segmentInfo = {
