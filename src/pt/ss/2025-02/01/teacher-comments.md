@@ -29,7 +29,7 @@ O texto bíblico é a base de qualquer discussão sobre a profecia bíblica. A p
 
 3. _Ler com apreciação estética:_ As formas literárias do texto (sua estrutura e paralelismos) ajudarão a decifrar a mensagem da profecia. A profecia da imagem em Daniel 2 é esclarecida pelo seu paralelo com a profecia sobre os quatro animais em Daniel 7. Há também paralelos entre as profecias de Daniel e do Apocalipse. Veja o quadro a seguir, no qual a visão apocalíptica em Apocalipse 13 e 14 é paralela, em muitos aspectos, à profecia de Daniel 7, que também é paralela à profecia de Daniel 8, como segue:
 
-![Auxiliar Professor](Auxiliar.png)
+![Auxiliar Professor](https://sabbath-school-resources-assets.adventech.io/pt/ss/2025-02/01/Auxiliar.png)
 
 Esses paralelos mostram que o Dia da Expiação/Dia do Juízo celestial, em Daniel 7 e 8, corresponde e é contemporâneo da proclamação terrena das três mensagens angélicas, em Apocalipse 14.
 
