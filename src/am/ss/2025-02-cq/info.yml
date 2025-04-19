@@ -1,8 +1,16 @@
----
-  title: "ወደ መሰዊያው መመለሥ"
-  description: "change the description later HERE"
-  human_date: "ሚያዝያ · ግንቦት · ሰኔ 2017 ዓ.ም."
-  start_date: "29/03/2025"
-  end_date: "27/06/2025"
-  color_primary: "#537392"
-  color_primary_dark: "#3C5976"
+title: ወደ መሰዊያው መመለሥ
+description: change the description later HERE
+human_date: ሚያዝያ · ግንቦት · ሰኔ 2017 ዓ.ም.
+start_date: 29/03/2025
+end_date: 27/06/2025
+color_primary: '#537392'
+color_primary_dark: '#3C5976'
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/am/ss/2025-02-cq/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/am/ss/2025-02-cq/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/am/ss/2025-02-cq/assets/cover.png
+  splash: >-
+    https://sabbath-school-resources-assets.adventech.io/am/ss/2025-02-cq/assets/splash.png
