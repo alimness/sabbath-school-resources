@@ -3,7 +3,7 @@ title: An Impossible Dream
 date: 15/02/2025
 ---
 
-![Eegii](image7.png)
+![Eegii](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01/02-readings-02-february-2025-03-february-2025/image7.png)
 
 _Editor’s note: Eegii was among the first teachers who taught at Mongolia’s only Seventh-day Adventist school when it opened in 2009. She had just graduated from a Mongolian university and had no experience teaching at an Adventist school. She and the other teachers led the first year’s group of 13 children with prayer and passion. Today, Tusgal School has 250 students. This is Eegii’s story._
 

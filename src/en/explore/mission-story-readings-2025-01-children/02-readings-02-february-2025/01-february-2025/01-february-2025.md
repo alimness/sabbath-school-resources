@@ -3,7 +3,7 @@ title: Sticking Out Ears
 date: 01/02/2025
 ---
 
-![Javkhaa](image5.png)
+![Javkhaa](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01-children/02-readings-02-february-2025-01-february-2025/image5.png)
 
 Javkhaa’s ears stuck out. His ears stuck out really far. He didn’t think anything about his ears until other boys began to tease him — and he didn’t like it.
 

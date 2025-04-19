@@ -3,7 +3,7 @@ title: Giving Bible a Chance, Part 3
 date: 08/02/2025
 ---
 
-![Bold Batsukh](image6.png)
+![Bold Batsukh](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01/02-readings-02-february-2025-02-february-2025/image6.png)
 
 _Editor’s note: This is the story of how Bold Batsukh, Mongolia’s first Seventh-day Adventist pastor, gave his heart to God in the early 1990s. The story picks up with Bold struggling to study English at a university in Mongolia. He asks his twin sister to introduce him to some Americans who are teaching her English and about God. He is determined to learn English from them and, if necessary, show them that Christianity has no place in Mongolia._
 

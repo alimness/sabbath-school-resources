@@ -3,7 +3,7 @@ title: An Annoying Girl
 date: 11/01/2025
 ---
 
-![Elberel](image2.png)
+![Elberel](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01/01-readings-01-january-2025-02-january-2025/image2.png)
 
 Elberel grew annoyed during the Covid-19 lockdown. He studied at Tusgal School, the only Seventh-day Adventist school in Mongolia, and it was among the first to go to online classes. He didn’t enjoy sitting in front of the computer screen every day while children who went to public school were laughing and having fun.
 

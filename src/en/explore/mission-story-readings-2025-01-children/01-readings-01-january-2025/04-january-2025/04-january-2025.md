@@ -3,7 +3,7 @@ title: Bullied Missionary Kid
 date: 25/01/2025
 ---
 
-![Ninjin](image4.png)
+![Ninjin](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01-children/01-readings-01-january-2025-04-january-2025/image4.png)
 
 When Ninjin was 8, she and her parents moved far away from their home in Mongolia to live as missionaries in a foreign land.
 

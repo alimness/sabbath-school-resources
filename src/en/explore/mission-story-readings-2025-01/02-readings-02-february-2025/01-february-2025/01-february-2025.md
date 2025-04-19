@@ -3,7 +3,7 @@ title: Teacher’s Helper, Part 2
 date: 01/02/2025
 ---
 
-![Bold Batsukh](image5.png)
+![Bold Batsukh](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01/02-readings-02-february-2025-01-february-2025/image5.png)
 
 _Editor’s note: This is the story of how Bold Batsukh, Mongolia’s first Seventh-day Adventist pastor, gave his heart to God in the early 1990s. The story picks up with 13-year-old Bold bitterly seeking answers to why his father died unexpectedly. He noticed that his mother was finding answers to her own questions from a teacher from a traditional Mongolian religion. Mother agreed to take the boy to meet the teacher._
 

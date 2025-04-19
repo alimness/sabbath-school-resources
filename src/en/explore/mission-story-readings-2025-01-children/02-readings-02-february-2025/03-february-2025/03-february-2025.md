@@ -3,7 +3,7 @@ title: Who Dressed First?
 date: 15/02/2025
 ---
 
-![Tae-Hyung](image7.png)
+![Tae-Hyung](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01-children/02-readings-02-february-2025-03-february-2025/image7.png)
 
 Eleven-year-old Tae-Hyung likes school, and he likes to get good grades in South Korea. But to get good grades, he has to know the correct answers. To know the correct answers, he carefully does all of his schoolwork.
 

@@ -3,7 +3,7 @@ title: Seeking Answers, Part 1
 date: 25/01/2025
 ---
 
-![Bold Batsukh](image4.png)
+![Bold Batsukh](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01/01-readings-01-january-2025-04-january-2025/image4.png)
 
 _Editor’s note: This is the story of how Bold Batsukh, Mongolia’s first Seventh-day Adventist pastor, gave his heart to God in the early 1990s._
 

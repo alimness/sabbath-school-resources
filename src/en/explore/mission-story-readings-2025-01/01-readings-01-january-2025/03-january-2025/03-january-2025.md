@@ -3,7 +3,7 @@ title: “They’re Spies”
 date: 18/01/2025
 ---
 
-![Tserenjav Danzan](image3.png)
+![Tserenjav Danzan](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01/01-readings-01-january-2025-03-january-2025/image3.png)
 
 Mom was upset when her 22-year-old daughter, Debbie, started going to the Seventh-day Adventist church in Mongolia.
 

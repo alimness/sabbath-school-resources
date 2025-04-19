@@ -3,7 +3,7 @@ title: A Persistent Girl
 date: 22/02/2025
 ---
 
-![Ee-un](image8.png)
+![Ee-un](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01-children/02-readings-02-february-2025-04-february-2025/image8.png)
 
 Ee-un was happy when she learned that a fun Bible club would open at her church every day after school in South Korea. She loved Jesus, and she wanted her friends to love Jesus, too. But she felt kind of shy. What if she invited them to the Bible club and they said no? What if they refused to come?
 

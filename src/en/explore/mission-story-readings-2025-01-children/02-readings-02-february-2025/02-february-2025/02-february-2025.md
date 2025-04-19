@@ -3,7 +3,7 @@ title: A Tale of Two Schools
 date: 08/02/2025
 ---
 
-![Anar](image6.png)
+![Anar](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01-children/02-readings-02-february-2025-02-february-2025/image6.png)
 
 When Anar was old enough for first grade, he started going to the Seventh-day Adventist school in Mongolia’s capital, Ulaanbaatar. His family wasn’t Adventist, but his mom decided that Tusgal School was the best place for him. Then Mom and Dad moved to the United States to work and left Anar with an aunt.
 

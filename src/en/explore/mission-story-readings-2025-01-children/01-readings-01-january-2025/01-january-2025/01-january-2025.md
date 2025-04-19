@@ -3,7 +3,7 @@ title: Happy Butterflies
 date: 04/01/2025
 ---
 
-![Tamir](image1.png)
+![Tamir](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01-children/01-readings-01-january-2025-01-january-2025/image1.png)
 
 Five-year-old Tamir was bored. He was waiting for Mom to finish her work at the Seventh-day Adventist school in Mongolia. Mom worked as an accountant, which meant she counted money for the school. Tamir went to the school’s preschool. Now his classes were over, and he was sitting on a chair, waiting to go home.
 

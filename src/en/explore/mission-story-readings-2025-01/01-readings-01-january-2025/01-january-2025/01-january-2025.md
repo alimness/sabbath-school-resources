@@ -3,7 +3,7 @@ title: Something Different
 date: 04/01/2025
 ---
 
-![Tsomo](image1.png)
+![Tsomo](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01/01-readings-01-january-2025-01-january-2025/image1.png)
 
 Tsomo never had any interest in Christianity. It was not Mongolia’s traditional religion. Moreover, he didn’t believe in any God. He was an atheist.
 

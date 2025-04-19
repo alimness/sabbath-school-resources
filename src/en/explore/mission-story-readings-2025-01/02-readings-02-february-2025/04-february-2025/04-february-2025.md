@@ -3,7 +3,7 @@ title: Book Worth Reading
 date: 22/02/2025
 ---
 
-![Yu Jin](image8.png)
+![Yu Jin](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01/02-readings-02-february-2025-04-february-2025/image8.png)
 
 When Yu Jin was 9 years old, her mom gave her a book to read.
 

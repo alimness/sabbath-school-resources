@@ -3,7 +3,7 @@ title: The Biggest Decision
 date: 18/01/2025
 ---
 
-![Michelle](image3.png)
+![Michelle](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01-children/01-readings-01-january-2025-03-january-2025/image3.png)
 
 Thirteen-year-old Michelle was talking with her best friend, Enkhjin, at a Pathfinder club meeting, and Enkhjin told her that she planned to get baptized on Sabbath.
 

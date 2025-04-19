@@ -3,7 +3,7 @@ title: Prayer of Faith
 date: 11/01/2025
 ---
 
-![Itgel](image2.png)
+![Itgel](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-01-children/01-readings-01-january-2025-02-january-2025/image2.png)
 
 Itgel is a 10-year-old boy in Mongolia. His name, Itgel, means “faith” in the Mongolian language. Itgel has a lot of faith.
 
