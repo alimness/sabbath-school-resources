@@ -23,4 +23,4 @@ _Tento misijní příběh nabízí pohled do nitra toho, jak Bůh zázračně p�
 
 _Více se o Dianě dozvíte příští týden._
 
-![Diana Fish](picture5.jpg)
+![Diana Fish](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-02/05/picture5.jpg)
