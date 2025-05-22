@@ -21,4 +21,4 @@ _Tento misijný príbeh rozpráva o tom, ako Boh zázračne pôsobil v živote D
 
 _Pokračovanie nabudúce._
 
-![Diana a Loren Fish](picture8.jpg)
+![Diana a Loren Fish](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-02/08/picture8.jpg)
