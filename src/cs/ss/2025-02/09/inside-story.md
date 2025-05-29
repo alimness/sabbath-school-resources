@@ -27,4 +27,4 @@ _Tento misijní příběh nabízí pohled do nitra toho, jak Bůh zázračně p�
 
 _Více se o Dianě dozvíte příští týden._
 
-![Diana a Loren Fish](picture9.jpg) 
+![Diana a Loren Fish](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-02/09/picture9.jpg) 
