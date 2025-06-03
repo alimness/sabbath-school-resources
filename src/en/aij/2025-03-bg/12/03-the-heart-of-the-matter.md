@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/12/hm-background.png
 ---
 
 The battle of Jericho was indeed a test of faith for the Israelites. The Commander of the Lord’s army appeared to Joshua alone and told him the plan to take the city. It was up to the Israelites to fully trust and obey the commands given to Joshua by God Himself.

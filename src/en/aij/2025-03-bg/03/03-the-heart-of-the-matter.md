@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/03/hm-background.png
 ---
 
 It happened in a desert, on a dusty, ordinary track that Moses walked on, in the middle of nowhere. There, in a scrawny desert bush, God showed up in a dazzling, mighty, out-of-the-ordinary way. God turned the cracked dirt into holy ground, and He spoke to Moses, calling him by name. God showed up in the midst of Moses’ daily, common routine, and He captured Moses’ attention.

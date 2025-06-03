@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/01/hm-background.png
 ---
 
 How amazing is the love that sweeps over you as you hold your new baby for the first time! You gaze into those sleepy eyes and wrap their tiny hand around your finger, and you wonder how life can be any sweeter! Time seems to stand still, and the worries of the world fade away.

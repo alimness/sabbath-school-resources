@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/02/hm-background.png
 ---
 
 Do you ever get stuck in the day-to-day of parenting and lose sight of the big picture? Sometimes the dishes pile up, the laundry still needs to be folded, and crumbs from last night’s dinner are still on the floor. The days go by slowly, toddlers have tantrums, and toys never quite seem to be put away. Sometimes you wonder if you’re doing anything significant or eternal. It’s easy to forget that, as parents, we play the biggest role in bringing our little ones to Jesus.

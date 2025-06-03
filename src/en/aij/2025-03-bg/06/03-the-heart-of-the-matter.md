@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/06/hm-background.png
 ---
 
 God’s fire and cloud illuminate the loving protectiveness of our God. But God wanted more. He wanted to be even closer to His people. He desired an intimate relationship with them. He wants to have this with you too. When the people arrived at Mount Sinai, they were to prepare to meet Him. Here was a chance to learn more about the God who had freed and saved them.

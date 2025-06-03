@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/09/hm-background.png
 ---
 
 Isn’t it amazing that all 12 spies had exactly the same experience in scouting out the land and yet they had such different responses to what they saw? Two men were filled with hope and excitement for the adventure ahead. They chose to have faith that God would fulfill His promise. The other 10 were determined to focus on the impossible, and were full of doubt and negativity. “In their unbelief they limited the power of God and distrusted the hand that had hitherto safely guided them” (Ellen G. White, _Patriarchs and Prophets,_ p. 388).

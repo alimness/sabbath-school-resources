@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/04/hm-background.png
 ---
 
 The Red Sea spread out in front of them as a great, impassable obstacle. Behind them, in a cloud of dust, came the known and dreaded army of Pharaoh. There they stood, 1 million scared people, facing two impossibilities: two potential disasters.

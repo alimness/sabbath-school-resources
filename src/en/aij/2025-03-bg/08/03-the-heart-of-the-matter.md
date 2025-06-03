@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/08/hm-background.png
 ---
 
 God wants to be close to you. Let that sink in. He desires more than anything to be your closest friend, your encourager, and your leader. How blessed the Israelites were to have physical evidence of God’s closeness and guidance in their lives.

@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/05/hm-background.png
 ---
 
 How easy it is to look back in disbelief on the Israelites’ journey and wonder at how they could be so quick to forget God’s leading. They could see Him in fire and cloud, and in the morning miracle of manna. But still they complained and doubted that He would provide.

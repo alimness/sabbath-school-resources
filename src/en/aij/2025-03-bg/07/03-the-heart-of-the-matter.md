@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/07/hm-background.png
 ---
 
 Like Moses and Bezalel, God has tasked us with our own special job: to open our children’s hearts and minds to be dwelling places for the King. The time and talent we invest in bringing them into God’s presence is the greatest work we can do!

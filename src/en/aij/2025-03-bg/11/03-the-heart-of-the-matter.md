@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/11/hm-background.png
 ---
 
 Imagine you are Joshua, the new leader of Israel. You know these people well—you’ve spent 40 years in the desert because of the disobedience of their parents. You have seen how they squabble and complain, like tired children on a long car trip. Moses needed great patience to lead them. Now it is your turn to lead. Imagine the huge weight and responsibility this role would bring.

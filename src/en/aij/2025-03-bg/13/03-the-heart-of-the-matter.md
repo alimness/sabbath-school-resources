@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/13/hm-background.png
 ---
 
 God keeps His promises. Do you believe it? Have you experienced this in your own life?

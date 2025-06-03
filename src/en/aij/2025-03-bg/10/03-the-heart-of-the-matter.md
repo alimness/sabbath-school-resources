@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/10/hm-background.png
 ---
 
 Rahab was a woman of faith. She risked her life in taking the two spies into her home; she treated them with great kindness and quite literally saved their lives. She had heard about the God of the Israelites, and unlike everyone in her wicked city, she wanted to know more. She felt the beckoning of God in her life. Not only did He save her when the Israelites captured the city—He included her in the lineage of Jesus! (Matthew 1.) No one is beyond the reach of God’s family. His arms are open and waiting for all!
