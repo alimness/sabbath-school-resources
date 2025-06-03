@@ -4,7 +4,7 @@ title: Music and Podcasts
 
 ### Scripture song
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/scripture-song-1-pet-5-7.mp3]
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/2025-03-bg-scripture-song.mp3] Philippians 4:19
 
 ### Week 1 Podcast
 
