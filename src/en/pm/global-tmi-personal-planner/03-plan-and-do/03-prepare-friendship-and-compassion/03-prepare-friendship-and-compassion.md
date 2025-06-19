@@ -14,10 +14,10 @@ Use this ^[prepare]({"style":{"text":{"color": "#2A3D78", "typeface": "Gibson-Se
 
 | ^[ACTIVITY OR INTERACTION]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) |
 | --- | --- |
-| ^[Invite neighbors, Mike and Lindsey, to dinner]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[1/1]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) |
-| ^[Go hiking with coworker Sam at state park]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[2/2]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) |
-| ^[Invite cousin Julio to cooking school]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[3/3]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) |
-| ^[Deliver food baskets to needy families]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[4/4]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) |
-| ^[Care for the Nelsons’ children one evening to relieve their stress]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[5/5]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) |
-| ^[Give Christmas cookies to next-door neighbors]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[12/12]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) |
-| ^[Go caroling and invite church neighborhood to Christmas program]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[12/12]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) |
+| ^[Invite neighbors, Mike and Lindsey, to dinner]({"style":{"text":{"typeface": "BradleyHandITC"}}}) | ^[1/1]({"style":{"text":{"typeface": "BradleyHandITC"}}}) |
+| ^[Go hiking with coworker Sam at state park]({"style":{"text":{"typeface": "BradleyHandITC"}}}) | ^[2/2]({"style":{"text":{"typeface": "BradleyHandITC"}}}) |
+| ^[Invite cousin Julio to cooking school]({"style":{"text":{"typeface": "BradleyHandITC"}}}) | ^[3/3]({"style":{"text":{"typeface": "BradleyHandITC"}}}) |
+| ^[Deliver food baskets to needy families]({"style":{"text":{"typeface": "BradleyHandITC"}}}) | ^[4/4]({"style":{"text":{"typeface": "BradleyHandITC"}}}) |
+| ^[Care for the Nelsons’ children one evening to relieve their stress]({"style":{"text":{"typeface": "BradleyHandITC"}}}) | ^[5/5]({"style":{"text":{"typeface": "BradleyHandITC"}}}) |
+| ^[Give Christmas cookies to next-door neighbors]({"style":{"text":{"typeface": "BradleyHandITC"}}}) | ^[12/12]({"style":{"text":{"typeface": "BradleyHandITC"}}}) |
+| ^[Go caroling and invite church neighborhood to Christmas program]({"style":{"text":{"typeface": "BradleyHandITC"}}}) | ^[12/12]({"style":{"text":{"typeface": "BradleyHandITC"}}}) |
