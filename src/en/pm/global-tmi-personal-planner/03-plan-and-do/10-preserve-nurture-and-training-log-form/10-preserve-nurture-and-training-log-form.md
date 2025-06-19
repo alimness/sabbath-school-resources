@@ -1,6 +1,6 @@
 ---
-title: "PRESERVE: Nurture and Training Log"
-subtitle: Form
+title: 'Nurture and Training Log Form'
+subtitle: Preserve
 ---
 
 {"style":{"image":{"aspectRatio":1.778}}}
@@ -12,17 +12,17 @@ subtitle: Form
 | --- | --- | --- | --- |
 | [_]() | [_]() | [_]() | [_]() |
 
-| ^[ACTIVITY OR INTERACTION]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | - [ ] |
+| ^[ACTIVITY OR INTERACTION]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) |
 | --- | --- |
-| [_]() | [_]() | - [ ] |
-| [_]() | [_]() | - [ ] |
-| [_]() | [_]() | - [ ] |
-| [_]() | [_]() | - [ ] |
-| [_]() | [_]() | - [ ] |
-| [_]() | [_]() | - [ ] |
-| [_]() | [_]() | - [ ] |
-| [_]() | [_]() | - [ ] |
-| [_]() | [_]() | - [ ] |
-| [_]() | [_]() | - [ ] |
-| [_]() | [_]() | - [ ] |
-| [_]() | [_]() | - [ ] |
+| [_]() | [_]() |
+| [_]() | [_]() |
+| [_]() | [_]() |
+| [_]() | [_]() |
+| [_]() | [_]() |
+| [_]() | [_]() |
+| [_]() | [_]() |
+| [_]() | [_]() |
+| [_]() | [_]() |
+| [_]() | [_]() |
+| [_]() | [_]() |
+| [_]() | [_]() |

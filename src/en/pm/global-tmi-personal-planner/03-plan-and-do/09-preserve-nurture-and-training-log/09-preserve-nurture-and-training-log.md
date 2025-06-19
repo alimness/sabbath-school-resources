@@ -1,6 +1,6 @@
 ---
-title: "PRESERVE: Nurture and Training Log"
-subtitle: Sample
+title: 'Nurture and Training Log Sample'
+subtitle: Preserve
 ---
 
 Use one of these ^[preserve]({"style":{"text":{"color": "#BE353A", "typeface": "Gibson-SemiBold"}}}) logs when you mentor a newly baptized member. Record the new member’s participation in any series of discipleship studies (after baptism) using the study trackers on the first page. Use the second page to plan and record activities to nurture spiritual habits, integrate the new member into the life and mission of the church, and train him or her to win souls.
@@ -23,12 +23,12 @@ Use one of these ^[preserve]({"style":{"text":{"color": "#BE353A", "typeface": "
 
 ^[Sample Log:]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) The sample activities below are to inspire you with ideas and to demonstrate how to record entries in this log. Your entries may be much fewer initially, but grow over time.
 
-| ^[ACTIVITY OR INTERACTION]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | - [ ] |
+| ^[ACTIVITY OR INTERACTION]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) |
 | --- | --- |
-| ^[Arrange Sabbath lunch with two church member families]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[6/6]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | - [ ] |
-| ^[Introduce Bible and Spirit of Prophecy reading plan]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[7/7]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | - [ ] |
-| ^[Invite Sam to Friday evening family worship and share ways to make Sabbath special]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[7/7]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | - [ ] |
-| ^[Give Sam a missionary tool kit with tracts, books, and Bible studies for sharing]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[8/8]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | - [ ] |
-| ^[Take Sam with me as my outreach partner for literature distribution or Bible studies]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[8/8]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | - [ ] |
-| ^[Arrange for Sam to greet or read Scripture on a Sabbath morning]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[9/9]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | - [ ] |
-| ^[Register Sam for soul-winning training weekend]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[10/10]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | - [ ] |
+| ^[Arrange Sabbath lunch with two church member families]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[6/6]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) |
+| ^[Introduce Bible and Spirit of Prophecy reading plan]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[7/7]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) |
+| ^[Invite Sam to Friday evening family worship and share ways to make Sabbath special]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[7/7]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) |
+| ^[Give Sam a missionary tool kit with tracts, books, and Bible studies for sharing]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[8/8]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) |
+| ^[Take Sam with me as my outreach partner for literature distribution or Bible studies]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[8/8]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) |
+| ^[Arrange for Sam to greet or read Scripture on a Sabbath morning]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[9/9]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) |
+| ^[Register Sam for soul-winning training weekend]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) | ^[10/10]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}}) |

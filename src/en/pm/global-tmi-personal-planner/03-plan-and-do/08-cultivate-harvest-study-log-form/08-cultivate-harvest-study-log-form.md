@@ -1,6 +1,6 @@
 ---
-title: "CULTIVATE/HARVEST: Study Log"
-subtitle: Form
+title: 'Study Log Form'
+subtitle: Cultivate/Harvest
 ---
 
 ^[Study Log for:]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) [_]()

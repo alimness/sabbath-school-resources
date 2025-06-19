@@ -18,6 +18,30 @@ credits:
     value: >-
       Copyright © 2025 by the General Conference Corporation of Seventh-day
       Adventists®
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: Gibson-Regular
+    nested:
+      all:
+        text:
+          typeface: Gibson-Regular
+  resource:
+    title:
+      text:
+        typeface: Gibson-SemiBold
+    subtitle:
+      text:
+        typeface: Gibson-Regular
+    description:
+      text:
+        typeface: Gibson-Regular
+  segment:
+    title:
+      text:
+        typeface: Gibson-SemiBold
 covers:
   landscape: >-
     https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-personal-planner/assets/cover-landscape.png

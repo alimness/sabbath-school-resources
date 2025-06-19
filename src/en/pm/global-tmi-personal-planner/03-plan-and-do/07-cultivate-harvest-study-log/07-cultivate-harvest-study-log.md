@@ -1,6 +1,6 @@
 ---
-title: "CULTIVATE/HARVEST: Study Log"
-subtitle: Sample
+title: 'Study Log Sample'
+subtitle: Cultivate/Harvest
 ---
 
 Use one of these [cultivate]({"style":{"text":{"color": "#3C8249", "typeface": "Gibson-SemiBold"}}})/^[harvest]({"style":{"text":{"color": "#EFAF44", "typeface": "Gibson-SemiBold"}}}) logs when you support someone through a full-message series of Bible studies, evangelistic meetings, or baptismal preparation studies, whether led by you or someone else. Always aim to be working with at least one person who is engaged in Bible studies. Record your study interest’s attendance at each Bible study, evangelistic meeting, or baptismal preparation study, using the study series tracker on the first page. Use the second page to record interactions, reminders, and helpful notes about your friend and his or her spiritual journey.

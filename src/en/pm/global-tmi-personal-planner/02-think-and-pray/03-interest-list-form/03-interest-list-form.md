@@ -1,6 +1,5 @@
 ---
-title: Interest List
-subtitle: Form
+title: Interest List Form
 ---
 
-`Name`
+`Names`
