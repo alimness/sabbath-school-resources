@@ -6,6 +6,8 @@ Global TMI asks every local church around the world to launch an ongoing, cultur
 
 To assist members in their task of making disciples, church pastors and leaders in every church should ensure that active and ongoing ministries are taking place in each phase of the disciple-making journey. The table below highlights these essential ministries:
 
+|   |   |
+|---|---|
 | ^[PREPARE:]({"style":{"text":{"color": "#2A3D78", "typeface": "Gibson-SemiBold"}}}) | Health and Friendship Building Ministries |
 | ^[PLANT:]({"style":{"text":{"color": "#694121", "typeface": "Gibson-SemiBold"}}}) | Literature, Media, and Invitation Ministries |
 | ^[CULTIVATE:]({"style":{"text":{"color": "#3C8249", "typeface": "Gibson-SemiBold"}}}) | Bible Study Ministry |
