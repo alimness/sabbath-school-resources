@@ -48,13 +48,11 @@
       target: en/pm/global-tmi-personal-planner/03-plan-and-do/10-preserve-nurture-and-training-log-form
     - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-24.pdf
       target: en/pm/global-tmi-personal-planner/04-reflect/01-reflect
-    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-25.pdf
-      target: en/pm/global-tmi-personal-planner/04-reflect/02-testimonies-and-reflections-form
     - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-26.pdf
-      target: en/pm/global-tmi-personal-planner/08-other/05-be-of-good-courage
+      target: en/pm/global-tmi-personal-planner/04-reflect/02-testimonies-and-reflections-form
     - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-27.pdf
-      target: en/pm/global-tmi-personal-planner/08-other/06-global-tmi-in-every-local-church
+      target: en/pm/global-tmi-personal-planner/08-other/05-be-of-good-courage
     - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-28.pdf
-      target: en/pm/global-tmi-personal-planner/08-other/07-references
+      target: en/pm/global-tmi-personal-planner/08-other/06-global-tmi-in-every-local-church
     - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-29.pdf
-      target: en/pm/global-tmi-personal-planner/08-other/08-original-pdf
+      target: en/pm/global-tmi-personal-planner/08-other/07-references
