@@ -1,0 +1,15 @@
+title: My Disciple-Making Journal
+kind: book
+subtitle: A Global Total Member Involvement Personal Planner
+description: "Global Total Member Involvement (Global TMI) is an initiative of the General Conference of Seventh-day Adventists. It calls on every church and every member to become actively involved in making disciples using Christ's method."
+primaryColor: '#62879B'
+primaryColorDark: '#2A6585'
+author: sspm
+preferredCover: landscape
+featuredResources:
+  - en/pm/global-tmi-church-planner
+  - en/pm/global-tmi-disciple-making-evangelism-plan
+featuredResourcesView: tile
+credits:
+  - name: Copyright
+    value: Copyright © 2025 by the General Conference Corporation of Seventh-day Adventists®
