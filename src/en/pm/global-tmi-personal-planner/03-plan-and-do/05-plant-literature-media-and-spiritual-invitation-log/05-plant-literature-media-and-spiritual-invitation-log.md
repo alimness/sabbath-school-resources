@@ -9,7 +9,8 @@ This log is also the place to plan and record spiritual invitations—to Sabbath
 
 ### Literature, Media, and Spiritual Invitation Log
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-personal-planner/03-plan-and-do-05-plant-literature-media-and-spiritual-invitation-log/image.png)
 
 ^[Sample Log:]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) The sample activities below are to inspire you with ideas and to demonstrate how to record entries in this log. Your entries may be much fewer initially, but grow over time.
 

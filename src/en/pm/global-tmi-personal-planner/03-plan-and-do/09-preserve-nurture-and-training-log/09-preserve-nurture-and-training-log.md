@@ -7,11 +7,13 @@ Use one of these ^[preserve]({"style":{"text":{"color": "#BE353A", "typeface": "
 
 ^[NOTE:]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) See the appendices of the _Discipleship Handbook_ for a correlated Bible and Spirit of Prophecy reading plan and for recommended activities to mentor new members. A digital version of _Discipleship Handbook_ is available on the official Sabbath School and Personal Ministries mobile app.
 
-![The official Sabbath School and Personal Ministries mobile app](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![The official Sabbath School and Personal Ministries mobile app](https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-personal-planner/03-plan-and-do-09-preserve-nurture-and-training-log/image1.png)
 
 ^[Nurture and Training Log for:]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) ^[Sam Sample]({"style":{"text":{"typeface": "Bradley-Hand-ITC"}}})
 
-![](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-personal-planner/03-plan-and-do-09-preserve-nurture-and-training-log/image2.png)
 
 #### DISCIPLESHIP STUDIES
 
