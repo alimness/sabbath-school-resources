@@ -22,7 +22,8 @@ Therefore, Global TMI calls for every church to compile and maintain a dynamic i
 {"style":{"block":{"backgroundColor": "#F5F5F3","rounded": true, "padding": {"top":"base","bottom":"base","start":"base","end":"base"}}}}
 “^[Encourage the interest coordinator to ensure that every interest is personally and promptly followed up by assigned laypersons]({"style":{"text":{"typeface": "Gibson-SemiBold"}}})” (”Work of the Board,” _Church Manual_, p. 138).
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-church-planner-revised/02-disciple-making-strategy-01-how-to-get-started/image.png)
 
 ### 3. PROVIDE PERSONAL EVANGELISM TRAINING
 

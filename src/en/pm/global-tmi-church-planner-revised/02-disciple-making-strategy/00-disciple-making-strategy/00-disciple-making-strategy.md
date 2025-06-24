@@ -20,6 +20,7 @@ Because Jesus likened making disciples to the harvest cycle (see Matt. 9:37, 38;
 4. ^[Evangelistic Reaping Ministry]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) . . . to ^[HARVEST]({"style":{"text":{"color": "#EFAF44", "typeface": "Gibson-SemiBold"}}}) decisions for Christ
 5. ^[New Member Discipleship Ministry]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) . . . to ^[PRESERVE]({"style":{"text":{"color": "#BE353A", "typeface": "Gibson-SemiBold"}}}) the harvest
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-church-planner-revised/02-disciple-making-strategy-00-disciple-making-strategy/image.png)
 
 These ministries should inspire, equip, and involve members in personal labor in each phase of disciple- making. They should also plan events and programs that minister to members’ friends and interests, as well as to new interests in the community. Each ministry should have a leader, a budget, and annual action plans.
