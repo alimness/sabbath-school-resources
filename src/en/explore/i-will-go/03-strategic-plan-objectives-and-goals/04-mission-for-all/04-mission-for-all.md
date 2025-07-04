@@ -21,7 +21,7 @@ _Responsible Parties:_ [_]()
 - 4.6 The use of traditional and new media to proclaim the Three Angels’ Messages and connect people to Adventist worshiping groups\
 _Responsible Parties:_ [_]()
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/i-will-go/03-strategic-plan-objectives-and-goals-04-mission-for-all/image.png)
 
 ---
 

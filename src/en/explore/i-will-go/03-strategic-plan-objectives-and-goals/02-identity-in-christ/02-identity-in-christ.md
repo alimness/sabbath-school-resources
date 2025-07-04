@@ -17,7 +17,7 @@ _Responsible Parties:_ [_]()
 - 2.4 Knowledge and affirmation of Adventist identity and the Lord’s leading throughout Adventist history<sup>11</sup>\
 _Responsible Parties:_ [_]()
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/i-will-go/03-strategic-plan-objectives-and-goals-02-identity-in-christ/image.png)
 
 ---
 

@@ -24,7 +24,7 @@ _Responsible Parties:_ [_]()
 - 1.7 Practicing the stewardship principles of time, talents, tithe, offerings, and health\
 _Responsible Parties:_ [_]()
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/i-will-go/03-strategic-plan-objectives-and-goals-01-communion-with-god/image.png)
 
 ---
 
