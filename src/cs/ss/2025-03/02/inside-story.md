@@ -29,4 +29,4 @@ Jeff řekl, že změna v Mitchově životě byla revoluční.
 
 _Program pomoci domorodým Američanům ve Wapato a okolním regionu státu Washington byl zahájen v roce 1990 s pomocí darů třinácté soboty. Vrcholem tohoto programu je komunita církve adventistů All Nations Center (na obrázku), která byla otevřena v roce 2001._
 
-![All Nations Center](picture2.jpg) 
+![All Nations Center](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-03/02/picture2.jpg) 

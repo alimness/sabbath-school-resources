@@ -19,4 +19,4 @@ Mitch začal vidieť naplnenie biblických zasľúbení. Lekári, ktorí mu tvrd
 
 Raz v sobotu jeden mladý človek s radosťou povedal Jeffovi: „Vieš čo? Keď si nám hovoril o Biblii, vôbec sme ťa nechceli počúvať. Ale teraz ju chceme študovať.“ Jeff povedal, že zmena v Mitchovom živote bola revolučná. „Keď prijal Boha do svojho života, ľudia ho už nespoznávali,“ povedal. „Z človeka, ktorý bol tvrdý a mal poškodený mozog, sa stal služobník evanjelia. Dotkol sa mnohých mladých ľudí.Boh pracuje cez nás napriek nám samotným.“
 
-![All Nations Center](picture2.jpg) 
+![All Nations Center](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-03/02/picture2.jpg) 
