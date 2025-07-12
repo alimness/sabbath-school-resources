@@ -3,7 +3,7 @@ title: “I Don’t Know Jesus”
 date: 27/09/2025
 ---
 
-![Karuuparerue](image.png)
+![Karuuparerue](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-03-children/03-readings-09-september-2025-04-september-2025/image.png)
 
 Karuuparerue (pictured to the right in the photo) is like any 7-year-old. She is happiest when she is playing; she is saddest when she is scolded; and she likes to eat macaroni. But she has never heard of Jesus.
 
@@ -53,7 +53,7 @@ Grandma first heard about Jesus when a Seventh-day Adventist pastor visited the 
 
 _Pray that Karuuparerue and many other children will know Jesus in Namibia and in the other countries of the Southern Africa-Indian Ocean Division. Today’s Thirteenth Sabbath Offering will help many children know Jesus by giving them their very own Adventurer’s Bibles. Children like Karuuparerue who cannot read may be able to learn about Jesus through a new series of short children’s videos about the fruit of the Spirit. Other Thirteenth Sabbath projects that we are supporting today include a center of influence in South Africa; and two hospitals, a new school, and a mission boat in Zambia. Thank you for your generous offering._
 
-![Karuuparerue, right; Grandma, seated front; and Mom, seated back; talk with Andrew McChesney.](image2.png)
+![Karuuparerue, right; Grandma, seated front; and Mom, seated back; talk with Andrew McChesney.](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-03-children/03-readings-09-september-2025-04-september-2025/image2.png)
 
 ```=Story Tips
 

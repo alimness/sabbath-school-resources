@@ -3,7 +3,7 @@ title: Making It With God
 date: 20/09/2025
 ---
 
-![Emmanuel](image.png)
+![Emmanuel](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-03-children/03-readings-09-september-2025-03-september-2025/image.png)
 
 Emmanuel was only 10 years old. But he felt like a useless nobody. He felt like he was good for nothing. You see, he could not see. Emmanuel was born blind.
 
@@ -41,7 +41,7 @@ _Emmanuel is able to study at Solusi Adventist High School and learn about God t
 
 The national symbol of Zimbabwe is the golden bird called _hungwe_ and appears on the flag as well as coins. Stone carvings of the _hungwe_ have been found set on pedestals in the ruins of Great Zimbabwe. It probably represents the bateleur eagle or the African fish eagle.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-03-children/03-readings-09-september-2025-03-september-2025/image2.png)
 
 ```=Story Tips
 

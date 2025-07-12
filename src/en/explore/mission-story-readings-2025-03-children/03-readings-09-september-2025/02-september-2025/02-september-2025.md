@@ -3,7 +3,7 @@ title: Prayer of Faith
 date: 13/09/2025
 ---
 
-![Emmaculate](image.png)
+![Emmaculate](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-03-children/03-readings-09-september-2025-02-september-2025/image.png)
 
 Mommy was scared when Emmaculate was born. The nurses were scared. The doctor was scared. Everyone was scared because the little baby girl didn’t make a peep when she was born.
 
@@ -59,7 +59,7 @@ _A Thirteenth Sabbath Offering has helped Emmaculate grow closer to God. Part of
 
 Zimbabwe is home to some of Africa’s largest game reserves, but species such as impala, kudu, warthog (pictured), and wildebeest are at risk from poaching.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-03-children/03-readings-09-september-2025-02-september-2025/image2.png)
 
 ```=Story Tips
 

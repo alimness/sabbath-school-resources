@@ -3,7 +3,7 @@ title: Singing With Soapsuds
 date: 06/09/2025
 ---
 
-![Angel](image.png)
+![Angel](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-03-children/03-readings-09-september-2025-01-september-2025/image.png)
 
 Angel opened her mouth and sang with her whole heart as she washed the dishes in soapy water at home. As she sang about God’s love, she felt like she was standing at the throne of God in heaven. Then Mom walked into the kitchen with a very angry look on her face. She opened her mouth and roared, “Don’t sing those songs while you’re at home! You are only a Seventh-day Adventist at school. At home, you belong to my church.”
 

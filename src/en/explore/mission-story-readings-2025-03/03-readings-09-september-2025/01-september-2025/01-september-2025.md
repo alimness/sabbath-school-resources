@@ -3,7 +3,7 @@ title: Drinking, Theft, and God
 date: 06/09/2025
 ---
 
-![Bethel](image.png)
+![Bethel](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-03/03-readings-09-september-2025-01-september-2025/image.png)
 
 Bethel enrolled in Rusangu University in Zambia because he wanted to stop drinking. He hoped that being at the Seventh-day Adventist university would change his life.
 
