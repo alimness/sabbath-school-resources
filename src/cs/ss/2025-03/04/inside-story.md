@@ -29,4 +29,4 @@ Kokila si nikdy nestěžovala, ale hodně plakala. Otec viděl její slzy a rozh
 
 _Děkujeme za vaše misijní dary, které podporují školy Církve adventistů sedmého dne po celém světě. E. D. Thomas Memorial Higher Secondary School obdržela část darů třinácté soboty v roce 2020._
 
-![Kokila](picture4.jpg)
+![Kokila](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-03/04/picture4.jpg)

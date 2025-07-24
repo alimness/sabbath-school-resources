@@ -15,4 +15,4 @@ Keď sa jej otec odmietol vzdať svojej viery, susedia sa stali násilnými. Roz
 
 Sedem rokov prežívala Kokila v hrozných podmienkach. Tri z piatich rodín, ktoré prijali sobotu spolu s jej otcom, zmenili názor a opustili cirkev. Verné zostali len dve z piatich rodín, vrátane Kokilinej rodiny. Kokila sa nikdy nesťažovala, ale veľa plakala. Otec videl jej slzy a rozhodol sa poslať ju do adventistickej internátnej školy. Pre dievča to bolo ako kúsok neba na zemi. „Učitelia boli veľmi láskaví a milí,“ spomínala Kokila, ktorá má dnes 39 rokov a pracuje ako sekretárka na internátnej škole – E. D. Thomas Memorial Higher Secondary School v indickom meste Thanjavur. „Učitelia sa so mnou rozprávali! Deti sa so mnou rozprávali! Bolo to také pekné mať opäť priateľov.“
 
-![Kokila](picture4.jpg)
+![Kokila](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-03/04/picture4.jpg)
