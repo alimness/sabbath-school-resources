@@ -19,4 +19,4 @@ Počas dvoch týždňov v nemocnici rozdal Dmitrij 20 výtlačkov knihy Veľký 
 
 „Zasialo sa mnoho semien a modlím sa, aby priniesli ovocie,“ povedal. „Pracujeme pod Božím vedením a výsledky nechávame na Neho.“
 
-![Dmitrij Bagal](picture6.jpg)
+![Dmitrij Bagal](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-03/06/picture6.jpg)

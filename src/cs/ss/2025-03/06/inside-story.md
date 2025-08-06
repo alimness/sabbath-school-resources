@@ -19,4 +19,4 @@ Během dvou týdnů v nemocnici Dmitrij rozdal 20 výtisků knihy Velký spor a 
 
 „Bylo zaseto mnoho semen a modlím se, aby přinesla ovoce,“ řekl. „Pracujeme pod Božím vedením a výsledky necháváme na Něm.“
 
-![Dmitrij Bagal](picture6.jpg)
+![Dmitrij Bagal](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-03/06/picture6.jpg)
