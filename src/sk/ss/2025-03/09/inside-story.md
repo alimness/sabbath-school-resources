@@ -23,4 +23,4 @@ Takmer desať rokov po mŕtvici môže povedať, že životy sa zmenili práve v
 
 „Uvidím ľudí v nebi, pretože som mal túto mŕtvicu,“ povedal Carl. „Budú tam ľudia, ktorí tam inak neboli. Takže všetko naozaj pracuje spolu pre dobro tým, ktorí milujú Boha.“
 
-![Carl Casey](picture9.jpg)
+![Carl Casey](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-03/09/picture9.jpg)

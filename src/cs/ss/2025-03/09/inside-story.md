@@ -27,4 +27,4 @@ Téměř deset let po mrtvici může říci, že se životy změnili právě dí
 
 „Díky této mrtvici uvidím lidi v nebi,“ řekl Carl. „Budou tam lidé, kteří by tam jinak nebyli. Takže všechno napomáhá k dobrému těm, kdo milují Boha.“
 
-![Carl Casey](picture9.jpg)
+![Carl Casey](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-03/09/picture9.jpg)
