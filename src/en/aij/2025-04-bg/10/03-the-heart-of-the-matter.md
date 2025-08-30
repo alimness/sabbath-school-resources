@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/10/hm-background.png
 ---
 
 What would you do if Jesus knocked on your front door today? Would you ask Him to come back later? Would you politely host Him as you would a stranger, or would you invite Him to help himself to the fridge and the comfy couch, as you would a dear, faithful friend?

@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/05/hm-background.png
 ---
 
 Ruth’s life was not easy. She lost her husband, her family, and her cultural identity, and she moved to a foreign place. She was poor and had to work hard to get life’s basic needs. There were many times she could have given up, gone home, or abandoned Naomi and her God. But she was faithful.

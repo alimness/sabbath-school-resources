@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/04/hm-background.png
 ---
 
 Wherever you go, I will go; and wherever you lodge, I will lodge; your people shall be my people, and your God, my God” (Ruth 1:16). You may have heard this famous speech countless times, but have you ever stopped to ponder the amazing strength and determination behind these words?

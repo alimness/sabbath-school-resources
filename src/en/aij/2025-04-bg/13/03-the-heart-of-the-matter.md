@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/13/hm-background.png
 ---
 
 The Wise Men were from a different land, far from Israel. Yet their hearts were open to God. With every step the Wise Men followed God’s leading. They were obedient to their calling. They diligently followed the star. They searched the Scriptures. They even stopped to ask for help. What an example! God’s own children didn’t know enough about Him to even take the short trip of 5.6 miles (9 kilometers) from Jerusalem to Bethlehem.

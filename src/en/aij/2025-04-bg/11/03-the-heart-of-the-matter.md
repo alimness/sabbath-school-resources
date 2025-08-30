@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/11/hm-background.png
 ---
 
 Our God wants to be known by us, and so He sent Jesus to reveal His loving, merciful, true, and just character to humanity, to restore us back into a close relationship with Him. Jesus came down to change the trajectory of our future. No matter what our circumstances or backgrounds, nothing should stop us from knowing Jesus personally. He didn’t come just for the rich or educated. He came for us all!

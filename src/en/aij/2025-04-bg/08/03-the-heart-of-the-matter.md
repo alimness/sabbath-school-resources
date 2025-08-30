@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/08/hm-background.png
 ---
 
 God has given you the most important role there is—that of a God-loving parent. It can be easy to lose sight of that amidst the chaos, chatter, and delightful mess of parenting. But it is an opportunity not to miss. He wants you to serve Him faithfully by bringing up your children to love and honor Him. Consider:

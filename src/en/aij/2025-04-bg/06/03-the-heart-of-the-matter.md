@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/06/hm-background.png
 ---
 
 What is the secret to a happy family? Society loves to tell us it’s all about big houses, material wealth, and lots of possessions. The latest toys and technology are sure to keep parents and children happy! And yet never has our world been filled with so much anxiety, selfishness, depression, separation, and hurt.

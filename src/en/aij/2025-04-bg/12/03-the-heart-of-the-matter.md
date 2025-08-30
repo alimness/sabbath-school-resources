@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/12/hm-background.png
 ---
 
 The shepherds were the lowest in society; the outcasts. But they were the ones watching for Jesus to come. They were alert and waiting while they looked after their sheep. “Through the silent hours they talked together of the promised Savior, and prayed for the coming of the King to David’s throne” (Ellen G. White, _The Desire of Ages_, p. 47).

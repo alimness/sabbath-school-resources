@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/07/hm-background.png
 ---
 
 We are all woven together in the great web of humanity, and whatever we can do to benefit and uplift others will reflect in blessing upon ourselves” (Ellen G. White, _Patriarchs and Prophets_, p. 534). Isn’t that a beautiful, unifying thought? We are not on our own. Our similarities and differences do not set us apart. We are all God’s children. He is designing us to be a beautiful work of art that ultimately shows His love for all.

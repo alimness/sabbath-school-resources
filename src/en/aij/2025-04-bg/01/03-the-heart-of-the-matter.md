@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/01/hm-background.png
 ---
 
 Hannah’s example of seeking God earnestly in prayer is a great witness to the power of a praying parent. God hears. His heart is ever attuned to ours. He is mighty and sovereign, and He is more than able to answer our prayers. Even when it seems like He is silent or His answer differs from what we would like, we can trust that He is still working all things together for good (Romans 8:28).

@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/09/hm-background.png
 ---
 
 Imagine for a moment that you’ve been chosen to parent the God of the universe. What would your response be? What would the days, weeks, and months look like after hearing the news?

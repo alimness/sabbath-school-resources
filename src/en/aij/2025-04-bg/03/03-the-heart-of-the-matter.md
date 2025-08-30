@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/03/hm-background.png
 ---
 
 Have you ever overheard your child, in the midst of their play, worshipping God with their own little song? What a delight it is to hear children respond to Jesus in their own special way. This stage of their faith journey is all about them and their growing friendship with Jesus, expressed in worship. This is their own way of being attentive to God and responding to their very real heavenly Father. How lovely to imagine God singing back to us! It says in His Word that “He will rejoice over you with gladness, He will quiet you with His love, He will rejoice over you with singing” (Zephaniah 3:17).

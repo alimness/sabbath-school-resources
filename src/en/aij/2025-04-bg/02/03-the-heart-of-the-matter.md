@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: hm-background.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/02/hm-background.png
 ---
 
 No doubt, your hands are constantly in motion as helping hands. Clasp them together now. What a gift from God! You have been wonderfully created to be a contributor. God knows that we will find purpose and joy in giving and doing for others. “To perform every duty as unto the Lord throws a charm around the humblest employment and links the workers on earth with the holy beings who do God’s will in heaven” (Ellen G. White, _Patriarchs and Prophets_, p. 574).
