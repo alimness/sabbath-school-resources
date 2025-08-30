@@ -1,6 +1,6 @@
 title: 'Student YAQ4: I Can Be God’s Helper'
 markdownTitle: 'Student YAQ4: I Can Be God’s Helper'
-subtitle: "Year A, Quarter 4"
+subtitle: Year A, Quarter 4
 primaryColor: '#54505A'
 primaryColorDark: '#423C4B'
 credits:
@@ -81,3 +81,10 @@ fonts:
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Regular.ttf
     attributes: regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/cover.png
