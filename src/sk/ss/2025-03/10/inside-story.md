@@ -11,4 +11,4 @@ Iqbal nič nevedel o Ježišovi, keď precestoval viac než 600 míľ zo svojho 
 
 Po ukončení školy získal Iqbal bakalársky titul v odbore počítačové aplikácie na Lowry Adventist College v Bengaluru v Indii a stal sa členom jej personálu, kde sa venuje aktivitám duchovnej služby na kampuse. Ježiš je jeho životom. „Teraz som šťastný, že žijem s Ježišom,“ povedal. „Deň za dňom ma Ježiš vedie a stará sa o mňa. Kedykoľvek čelím problémom, Ježiš Kristus je mojím útočiskom a vyvádza ma z problémov.“ Iqbal bol ohromený vševedúcou povahou Ježiša, myšlienkou, že Ježiš nielen poznal jeho predtým, než ho utvoril v matkinom lone, ale že pozná aj jeho potreby skôr, než si ich sám uvedomí. „Ďakujem Ježišovi, že sa stará o moje potreby dávno predtým, než si ich uvedomujem,“ povedal. „Skôr než sa opýtam, On vie, čo mi má dať a cez koho mi to má dať. Preto Mu dôverujem a každý deň Ho mám viac rád.“
 
-![Iqbal](picture10.jpg)
+![Iqbal](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-03/10/picture10.jpg)

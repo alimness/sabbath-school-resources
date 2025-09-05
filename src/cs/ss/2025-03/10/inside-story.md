@@ -27,4 +27,4 @@ Iqbal vyjádřil údiv nad vševědoucností Ježíše, nad myšlenkou, že Jež
 
 _Lowry Adventist College obdržela v roce 2024 část darů třinácté soboty na otevření anglického sboru. Děkujeme za vaše misijní dary, které podporují důležité projekty po celém světě._
 
-![Iqbal](picture10.jpg)
+![Iqbal](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-03/10/picture10.jpg)
