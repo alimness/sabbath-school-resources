@@ -8,15 +8,15 @@ Cut a circle piece of fabric with a diameter of 6 inches (15 centimeters). Trace
 
 **^[What you need:]({"style": {"text": {"color":"#418fcd"}}})** week 1 printable, cardboard cylinder, colored pencils, scissors, glue, circle piece of fabric.
 
-**[Download Craft file](2025-04-bg-craft-file-01.pdf)**
+**[Download Craft file](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2025-04-bg-craft-file-01.pdf)**
 
-![](1a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/1a.jpg)
 
-![](1b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/1b.jpg)
 
-![](1c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/1c.jpg)
 
-![](1d.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/1d.jpg)
 
 ```
 
@@ -26,19 +26,19 @@ Cut out a paper circle with a diameter of roughly 4 inches (10 centimeters). Fol
 
 **^[What you need:]({"style": {"text": {"color":"#418fcd"}}})** paper circle 4 inches (10 cm diameter), craft stick, small paper rectangle, scissors, glue
 
-![](2a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2a.jpg)
 
-![](2b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2b.jpg)
 
-![](2c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2c.jpg)
 
-![](2d.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2d.jpg)
 
-![](2e.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2e.jpg)
 
-![](2f.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2f.jpg)
 
-![](2g.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2g.jpg)
 
 ```
 
@@ -48,11 +48,11 @@ On a white piece of cardstock, write the child’s name in large letters using a
 
 **^[What you need:]({"style": {"text": {"color":"#418fcd"}}})** white piece of cardstock, white crayon, paint brush, watercolor paints, water.
 
-![](3a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/3a.jpg)
 
-![](3b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/3b.jpg)
 
-![](3c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/3c.jpg)
 
 ```
 
@@ -62,11 +62,11 @@ Cut out and glue two oval pieces of brown paper onto two colored semicircles. At
 
 **^[What you need:]({"style": {"text": {"color":"#418fcd"}}})** 2 brown paper ovals, 2 colored paper semi-circles, pieces of yarn, 4 googly eyes, 2 craft sticks, black pen/marker, glue.
 
-![](4a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/4a.jpg)
 
-![](4b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/4b.jpg)
 
-![](4c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/4c.jpg)
 
 ```
 
@@ -76,15 +76,15 @@ Draw a horizontal line in the center of two paper plates. Cut out the top half o
 
 **^[What you need:]({"style": {"text": {"color":"#418fcd"}}})** 2 paper plates, scissors, plastic fork, orange/brown paint, stapler, grass stalks.
 
-![](5a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/5a.jpg)
 
-![](5b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/5b.jpg)
 
-![](5c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/5c.jpg)
 
-![](5d.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/5d.jpg)
 
-![](5e.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/5e.jpg)
 
 ```
 
@@ -94,13 +94,13 @@ Cut out a beak and two feet from orange paper, an oval shape from white paper, a
 
 **^[What you need:]({"style": {"text": {"color":"#418fcd"}}})** cardboard cylinder (or paper cup); black, white and orange paper; googly eyes; pencil; scissors; glue; cotton ball.
 
-![](6a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/6a.jpg)
 
-![](6b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/6b.jpg)
 
-![](6c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/6c.jpg)
 
-![](6d.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/6d.jpg)
 
 ```
 
@@ -112,17 +112,17 @@ Cut out a nose from black paper and ears from white felt. On the back of a paper
 
 **^[What you need:]({"style": {"text": {"color":"#418fcd"}}})** paper plate, pencil, two pieces of felt, black circle for nose, craft stick, scissors, glue, sticky tape.
 
-![](7a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/7a.jpg)
 
-![](7b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/7b.jpg)
 
-![](7c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/7c.jpg)
 
-![](7d.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/7d.jpg)
 
-![](7e.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/7e.jpg)
 
-![](7f.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/7f.jpg)
 
 ```
 
@@ -132,13 +132,13 @@ Decorate a paper cup, using markers and stickers. Poke holes in the bottom of th
 
 **^[What you need:]({"style": {"text": {"color":"#418fcd"}}})** paper cup, colored markers, stickers, pen, flower seeds, soil.
 
-![](8a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/8a.jpg)
 
-![](8b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/8b.jpg)
 
-![](8c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/8c.jpg)
 
-![](8d.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/8d.jpg)
 
 ```
 
@@ -148,21 +148,21 @@ Print Week 9 printable, and cut out shapes. Fold large circle in half, and then 
 
 **^[What you need:]({"style": {"text": {"color":"#418fcd"}}})** week 9 printable, scissors, glue, glitter glue, star stickers, battery-operated candle.
 
-**[Download Craft file](2025-04-bg-craft-file-09.pdf)**
+**[Download Craft file](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2025-04-bg-craft-file-09.pdf)**
 
-![](9a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/9a.jpg)
 
-![](9b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/9b.jpg)
 
-![](9c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/9c.jpg)
 
-![](9d.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/9d.jpg)
 
-![](9e.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/9e.jpg)
 
-![](9f.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/9f.jpg)
 
-![](9g.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/9g.jpg)
 
 ```
 
@@ -172,15 +172,15 @@ Draw or print a donkey’s body onto cardstock. Glue pieces of black yarn for th
 
 **^[What you need:]({"style": {"text": {"color":"#418fcd"}}})** week 10 printable, cardboard, pencil, black yarn, googly eye, piece of fabric, 2 wooden clothespins, glue, black and brown markers.
 
-**[Download Craft file](2025-04-bg-craft-file-10.pdf)**
+**[Download Craft file](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2025-04-bg-craft-file-10.pdf)**
 
-![](10a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10a.jpg)
 
-![](10b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10b.jpg)
 
-![](10c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10c.jpg)
 
-![](10d.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10d.jpg)
 
 ```
 
@@ -190,15 +190,15 @@ Precut a yellow triangle, a colored oval, and a small brown circle shape. Adults
 
 **^[What you need:]({"style": {"text": {"color":"#418fcd"}}})** dark blue or black cardstock, yellow triangle, colored oval, brown paper circle, 5 craft sticks, glue, glitter, black marker.
 
-![](11a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11a.jpg)
 
-![](11b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11b.jpg)
 
-![](11c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11c.jpg)
 
-![](11d.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11d.jpg)
 
-![](11e.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11e.jpg)
 
 ```
 
@@ -208,11 +208,11 @@ Precut a small angel shape out of thick cardstock, as well as hills out of green
 
 **^[What you need:]({"style": {"text": {"color":"#418fcd"}}})** small cardboard angel shape, black piece of cardstock, green paper, cotton balls, white chalk, glue stick, glitter glue.
 
-![](12a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12a.jpg)
 
-![](12b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12b.jpg)
 
-![](12c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12c.jpg)
 
 ```
 
@@ -222,16 +222,16 @@ Print out star and Wise Man shapes onto cardstock. Children can decorate the sha
 
 **^[What you need:]({"style": {"text": {"color":"#418fcd"}}})** week 13 printable, scissors, crayons, pieces of yarn/string, sticky-tape, glitter glue, plastic coat hanger.
 
-**[Download Craft file](2025-04-bg-craft-file-13.pdf)**
+**[Download Craft file](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2025-04-bg-craft-file-13.pdf)**
 
-![](13a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13a.jpg)
 
-![](13b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13b.jpg)
 
-![](13c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13c.jpg)
 
-![](13d.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13d.jpg)
 
-![](13e.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13e.jpg)
 
 ```

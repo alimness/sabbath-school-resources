@@ -23,7 +23,7 @@ A sensory box is filled with sand or water, depending on the Creation day you ar
 - Angels
 - Cotton balls
 
-!v[sand.mp4]
+!v[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/sand.mp4]
 
 {"style": {"text": {"color": "#58b0e3"}}}
 **What is a sensory box?**
