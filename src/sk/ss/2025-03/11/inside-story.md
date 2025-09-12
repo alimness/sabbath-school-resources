@@ -15,4 +15,4 @@ Raz, keď mal 30 rokov, zapol rádio a počul hlas, ktorý hovoril: „Teraz bud
 
 Emmanuel a jeho manželka prišli k Domenicovi domov s knihou. Emmanuel otvoril Bibliu, aby odpovedal na Domenicove otázky, a na jeho želanie mu porozprával o histórii Cirkvi adventistov siedmeho dňa. Túžiac poznať históriu kresťanstva, Domenico potom prečítal The Great Controversy. Po siedmich mesiacoch biblických štúdií sa Domenico cítil obklopený Božou láskou a bol pokrstený. „Som vďačný za adventistické rádio, pretože mi zmenilo život,“ povedal Domenico Civardi, teraz 68-ročný.
 
-![Domenico Civardi](picture11.jpg) 
+![Domenico Civardi](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-03/11/picture11.jpg) 

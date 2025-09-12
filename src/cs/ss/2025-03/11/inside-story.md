@@ -33,4 +33,4 @@ Po sedmi měsících studia Bible se Domenico cítil obklopen Boží láskou a n
 
 _Děkujeme vám za vaše misijní dary, které pomáhají šířit evangelium prostřednictvím rozhlasových vysílání po celém světě._
 
-![Domenico Civardi](picture11.jpg) 
+![Domenico Civardi](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-03/11/picture11.jpg) 
