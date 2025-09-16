@@ -35,4 +35,4 @@ Baatka, který je ženatý a má dvě děti, řekl, že kdysi si myslel, že Bů
 
 _Děkujeme za vaše modlitby za průkopníky globální misie, kteří stejně jako Baatka čelí obrovským výzvám při zakládání sborů mezi nedosaženými skupinami lidí po celém světě. Více informací o průkopnících globální misie najdete na anglicky psaných webových stránkách Adventist Mission: bit.ly/GMPioneers._
 
-![Baatka Orgil](picture12.jpg)
+![Baatka Orgil](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-03/12/picture12.jpg)

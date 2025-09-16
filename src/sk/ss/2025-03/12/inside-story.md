@@ -13,4 +13,4 @@ Baatka premýšľal, či je Boh skutočný. Nevidím Ho. Môže byť mojím pria
 
 Dnes má Baatka Orgil 31 rokov a je novým človekom v Bohu. Z kedysi tichého a nesmelého chlapca sa stal priekopník globálnej misie, ktorý zakladá zbory v oblastiach Mongolska, kde ešte nie sú. „Rád rozprávam o tom, ako sa môj život zmenil,“ hovorí. „Chcem pomáhať ľuďom, ako som bol ja. Preto som sa stal misionárom.“ Baatka, dnes už ženatý a otec dvoch detí, si kedysi myslel, že Boh si za misionárov vyberá len talentovaných ľudí. „Teraz však chápem, že si vyberá tých, ktorí sú na to pripravení.“ „Aj keď som neveril sám v seba, Boh vo mňa veril,“ povedal. „A keď On veril vo mňa, chcem aj ja veriť v Neho.“
 
-![Baatka Orgil](picture12.jpg)
+![Baatka Orgil](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-03/12/picture12.jpg)
