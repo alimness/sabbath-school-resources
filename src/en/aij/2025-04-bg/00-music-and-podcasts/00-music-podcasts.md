@@ -2,7 +2,7 @@
 title: Music and Podcasts
 ---
 
-### Scripture songs
+### Scripture Songs
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/scripture-song-heb-13-16.mp3] “Hebrews 13:16”
 
