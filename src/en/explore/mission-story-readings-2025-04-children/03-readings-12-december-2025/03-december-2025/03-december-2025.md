@@ -3,7 +3,7 @@ title: Life Is Good With God
 date: 20/12/2025
 ---
 
-![Anderson](image1.png)
+![Anderson](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/03-readings-12-december-2025-03-december-2025/image1.png)
 
 Life was good when Mom worked at Northeastern Adventist School in Brazil. The family always had enough food.
 
@@ -57,7 +57,7 @@ _Part of this quarter’s Thirteenth Sabbath Offering, also known as the Quarter
 
 By the middle of the 1700s, cane sugar was Brazil’s most important export, while African slaves to work in the sugarcane plantations were its largest import.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/03-readings-12-december-2025-03-december-2025/image2.png)
 
 ```=Story Tips
 

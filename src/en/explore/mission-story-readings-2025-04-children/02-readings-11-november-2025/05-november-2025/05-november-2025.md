@@ -3,7 +3,7 @@ title: Scary Television News
 date: 29/11/2025
 ---
 
-![Andrielle](image1.png)
+![Andrielle](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/02-readings-11-november-2025-05-november-2025/image1.png)
 
 Watching television news scared 10-year-old Andrielle.
 
@@ -69,7 +69,7 @@ Pray that many people in Brazil will prepare for Jesus’ coming with the help o
 
 The word “Brazil” comes from brazilwood (“red like an ember”), which grows along the coast and makes a red dye.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/02-readings-11-november-2025-05-november-2025/image2.png)
 
 ```=Story Tips
 

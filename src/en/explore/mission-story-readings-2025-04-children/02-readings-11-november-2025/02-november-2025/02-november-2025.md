@@ -3,7 +3,7 @@ title: Clapping for Jesus
 date: 08/11/2025
 ---
 
-![Antony](image1.png)
+![Antony](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/02-readings-11-november-2025-02-november-2025/image1.png)
 
 Clap your hands. Clap your hands again.
 
@@ -77,7 +77,7 @@ _Pray that many people in Brazil will know Jesus with the help of this quarterâ€
 
 In addition to beaches, landmarks in Rio de Janeiro, Brazil, include the giant statue of Christ the Redeemer, one of the New Seven Wonders of the World, on top of Corcovado Mountain.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/02-readings-11-november-2025-02-november-2025/image2.png)
 
 ```=Story Tips
 

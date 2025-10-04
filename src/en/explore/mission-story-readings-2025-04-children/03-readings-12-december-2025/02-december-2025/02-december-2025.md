@@ -3,7 +3,7 @@ title: Boy’s Biggest Dream
 date: 13/12/2025
 ---
 
-![Kaue](image1.png)
+![Kaue](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/03-readings-12-december-2025-02-december-2025/image1.png)
 
 Kaue had only one dream. He wished to read and write.
 
@@ -61,7 +61,7 @@ Today, Kaue is eleven years old. Just a few months ago, he gave his heart to Jes
 
 _Pray that many children in Brazil will learn to read and write at Pernambucano Adventist Academy, an elementary school and high school located in the region of Brazil where Kaue lives. Part of this quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering, will help open a church at the academy. Thank you for planning a generous offering for this important project._
 
-![Nayane, Suzicleide, and Elyffas](image2.png)
+![Nayane, Suzicleide, and Elyffas](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/03-readings-12-december-2025-02-december-2025/image2.png)
 
 ```=Story Tips
 

@@ -3,7 +3,7 @@ title: God’s Online Call
 date: 08/11/2025
 ---
 
-![Samuel](image.png)
+![Samuel](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/02-readings-11-november-2025-02-november-2025/image.png)
 
 Samuel couldn’t understand why he was failing his university classes in Chile. He had always done well in high school. But in his first semester at the university, he failed algebra, calculus, physics, and chemistry — the very classes that he needed to pass to become an electrical engineer.
 

@@ -3,7 +3,7 @@ title: Life-Changing Ride
 date: 29/11/2025
 ---
 
-![Varinnia](image.png)
+![Varinnia](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/02-readings-11-november-2025-05-november-2025/image.png)
 
 It was an Uber ride that changed many lives.
 

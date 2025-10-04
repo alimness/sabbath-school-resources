@@ -3,7 +3,7 @@ title: From Rapper to Preacher
 date: 13/12/2025
 ---
 
-![Sebastían](image.png)
+![Sebastían](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/03-readings-12-december-2025-02-december-2025/image.png)
 
 Sebastían lived two lives in Chile.
 

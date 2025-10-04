@@ -3,7 +3,7 @@ title: God Hears Everything
 date: 25/10/2025
 ---
 
-![Tane Tau](image1.png)
+![Tane Tau](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/01-readings-10-october-2025-04-october-2025/image1.png)
 
 Mom told 11-year-old Tane Tau that a Pathfinder club was opening at the Seventh-day Adventist church on Easter Island.
 
@@ -71,7 +71,7 @@ _Tane Tau joined a Pathfinder club that was opened by missionaries with Adventis
 
 On the long coastline of Chile, you can see penguins, pelicans, and sea lions, and in the water you can see whales as they swim to and from feeding and breeding grounds.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/01-readings-10-october-2025-04-october-2025/image2.png)
 
 ```=Story Tips
 

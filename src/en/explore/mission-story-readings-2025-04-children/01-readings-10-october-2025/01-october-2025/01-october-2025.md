@@ -3,7 +3,7 @@ title: 3-Year-Old Missionary
 date: 04/10/2025
 ---
 
-![Catalina](image.png)
+![Catalina](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/01-readings-10-october-2025-01-october-2025/image.png)
 
 Three-year-old Catalina liked being a missionary kid on Easter Island.
 

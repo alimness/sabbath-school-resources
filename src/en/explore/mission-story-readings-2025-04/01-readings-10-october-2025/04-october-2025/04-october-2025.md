@@ -3,7 +3,7 @@ title: Light and a Voice
 date: 25/10/2025
 ---
 
-![Andrielle ](image.png)
+![Andrielle ](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/01-readings-10-october-2025-04-october-2025/image.png)
 
 The house didn’t look promising.
 

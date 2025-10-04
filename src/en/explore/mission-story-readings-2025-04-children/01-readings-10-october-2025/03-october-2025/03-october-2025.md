@@ -3,7 +3,7 @@ title: Missing Frying Pan
 date: 18/10/2025
 ---
 
-![Kala](image1.png)
+![Kala](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/01-readings-10-october-2025-03-october-2025/image1.png)
 
 Kala is six years old, and she lives in one of the loneliest places in the world. Kala lives on Easter Island.
 
@@ -65,7 +65,7 @@ _Kala learned about Jesus from missionaries with Adventist Volunteer Service. On
 
 Chilean Rodeo is Chile’s national sport. Two cowboys (_huasos_), wearing traditional garb, try to stop a young bull, charging it with the chests of the horses. The regulations state that only Chilean horses may be ridden in Rodeo.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/01-readings-10-october-2025-03-october-2025/image2.png)
 
 ```=Story Tips
 

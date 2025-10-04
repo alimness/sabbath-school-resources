@@ -3,7 +3,7 @@ title: Faithful Amazon Boy
 date: 27/12/2025
 ---
 
-![Glauco](image1.png)
+![Glauco](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/03-readings-12-december-2025-04-december-2025/image1.png)
 
 Glauco had six brothers and five sisters, and he felt rejected by them all. He felt rejected by his mother, and he felt rejected by his father, who had abandoned the family.
 
@@ -79,7 +79,7 @@ Now Glauco is preparing to spend a year as a missionary. He couldn’t be happie
 
 “It doesn’t matter what people say to you,” he said. “Just do what Jesus commands in the Bible.”
 
-![Pastor Antonio Cassi Nascimento dos Santos, who baptized Glauco, standing outside the floating church, which was obtained with the help of a 2016 mission offering.](image2.png)
+![Pastor Antonio Cassi Nascimento dos Santos, who baptized Glauco, standing outside the floating church, which was obtained with the help of a 2016 mission offering.](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/03-readings-12-december-2025-04-december-2025/image2.png)
 
 _The floating church that visited Glauco’s village on the Amazon River was purchased with the help of a 2016 Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering. This quarter, the offering will help another important project in Brazil: the construction of a church for children at Pernambucano Adventist Academy. The offering will also go to three projects in Chile: the opening of 100 children’s Sabbath School classrooms in low-income churches; new dormitories for 50 more students at Chile Adventist University; and an new Adventist Volunteer Service center at Chile Adventist University that will send 30 missionaries into the world each year. Thank you for your generous offering for these important projects._
 

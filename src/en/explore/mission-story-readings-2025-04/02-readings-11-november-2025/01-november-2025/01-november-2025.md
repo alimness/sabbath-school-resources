@@ -3,7 +3,7 @@ title: Teaching for Eternity
 date: 01/11/2025
 ---
 
-![Washington](image1.png)
+![Washington](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/02-readings-11-november-2025-01-november-2025/image1.png)
 
 Washington’s whole life revolved around Northeast Brazil Academy in Brazil.
 
@@ -57,7 +57,7 @@ Washington beamed as he spoke about his love for the school, whose full name is 
 
 “I think Pernambucano Adventist Academy teaches for eternity,” he said. “I believe it puts children on the path to heaven.”
 
-![Washington’s son, 10-year-old Igor, on his first day of school at Pernambucano Adventist Academy.](image2.png)
+![Washington’s son, 10-year-old Igor, on his first day of school at Pernambucano Adventist Academy.](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/02-readings-11-november-2025-01-november-2025/image2.png)
 
 _Part of this quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering, will help Pernambucano Adventist Academy finally open a large church with seating for 500 people. Thank you for planning a generous offering for this important project._
 

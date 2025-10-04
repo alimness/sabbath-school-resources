@@ -3,7 +3,7 @@ title: Hope on the Amazon
 date: 04/10/2025
 ---
 
-![Cassi](image.png)
+![Cassi](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/01-readings-10-october-2025-01-october-2025/image.png)
 
 Some pastors live in parsonages attached to a church. Others buy or rent homes located away from the churches where they minister. Pastor Cassi lives on a boat that is also a church.
 

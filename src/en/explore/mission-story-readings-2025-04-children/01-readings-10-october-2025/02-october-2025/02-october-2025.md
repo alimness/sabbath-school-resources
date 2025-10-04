@@ -3,7 +3,7 @@ title: Power of Heaven
 date: 11/10/2025
 ---
 
-![Mana](image1.png)
+![Mana](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/01-readings-10-october-2025-02-october-2025/image1.png)
 
 Mana Henua’s name means “Power of the Earth.” Mana means “power” and Henua means “earth.” But everyone calls him simply Mana.
 
@@ -61,7 +61,7 @@ _Mana joined Pathfinders at the invitation of missionaries from Adventist Volunt
 
 Easter Island is famous for its more than 600 giant stone heads (_moai_), erected between 1050–1680 C.E. The statues stand about 10–20 feet (3–6 m) high, but the largest statue still standing is about 37 feet (11 m) tall.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/01-readings-10-october-2025-02-october-2025/image2.png)
 
 ```=Story Tips
 

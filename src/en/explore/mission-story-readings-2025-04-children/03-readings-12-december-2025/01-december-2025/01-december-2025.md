@@ -3,7 +3,7 @@ title: Baby Talk, Jesus Talk
 date: 06/12/2025
 ---
 
-![Hadassa](image.png)
+![Hadassa](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/03-readings-12-december-2025-01-december-2025/image.png)
 
 Hadassa is eight years old, and she has already been telling people about Jesus for eight years.
 

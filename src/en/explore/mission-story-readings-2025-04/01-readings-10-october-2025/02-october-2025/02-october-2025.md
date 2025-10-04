@@ -3,7 +3,7 @@ title: Forgiveness and Hair
 date: 11/10/2025
 ---
 
-![Cassi](image.png)
+![Cassi](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/01-readings-10-october-2025-02-october-2025/image.png)
 
 _These are the stories of four lives touched by a floating church, a boat named Hope of the Amazon, that sails on the Amazon River in Brazil. The floating church was acquired with a 2016 Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering_
 

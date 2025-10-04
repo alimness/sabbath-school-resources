@@ -3,7 +3,7 @@ title: Adventure in Ecuador
 date: 22/11/2025
 ---
 
-![Maria](image.png)
+![Maria](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/02-readings-11-november-2025-04-november-2025/image.png)
 
 Maria embarked on a new path of faith after her little sister, Angel, recovered from liver cancer. She believed that the God of the Seventh-day Adventists had answered her prayers, and she and her family joined the Adventist Church.
 

@@ -3,7 +3,7 @@ title: Praying for a Tumor
 date: 15/11/2025
 ---
 
-![Maria](image.png)
+![Maria](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/02-readings-11-november-2025-03-november-2025/image.png)
 
 Maria grew up in a devout Christian family in Chile. They celebrated all of their church’s holidays. But no one ever prayed to God until the day that a doctor found a large tumor in the liver of 5-year-old Angel.
 

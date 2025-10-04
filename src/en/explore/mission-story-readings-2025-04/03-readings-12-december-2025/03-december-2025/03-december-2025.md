@@ -3,7 +3,7 @@ title: A Dream Job
 date: 20/12/2025
 ---
 
-![Jenny](image1.png)
+![Jenny](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/03-readings-12-december-2025-03-december-2025/image1.png)
 
 Jenny never planned to move to Chile from the United States. When she graduated from Andrews University, she volunteered to teach English for a year in Chile. She thought that she would return to the United States at the end of the year. But five years later, she found herself teaching Bible classes at Chile Adventist University.
 
@@ -41,7 +41,7 @@ Jenny, who is 28 years old, couldn’t be happier. Being a missionary with Adven
 
 “I meant to come to Chile for one year and now it has been more than six years,” she said. “I feel like it was here that God wanted me.”
 
-![A dormitory at Chile Adventist University that will benefit from this quarter’s offering.](image2.png)
+![A dormitory at Chile Adventist University that will benefit from this quarter’s offering.](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/03-readings-12-december-2025-03-december-2025/image2.png)
 _This quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering, will go toward two projects at Chile Adventist University in Chillán, Chile. One project is to open an Adventist Volunteer Service center that will send 30 missionaries into the world every year. The center will have five classrooms for training students to be missionaries and an auditorium with 250 seats. In the second university project, dormitories will be expanded to allow 50 more students to study on the campus. Currently, the university has about 3,000 students, the vast majority of whom are not Adventist and live off campus. The new dorm rooms will be open to all but are especially needed by Adventist theology and education students who come to the university from far-off places and are studying to work in Adventist churches and schools. Thank you for your generous offering_
 
 ```=Story Tips

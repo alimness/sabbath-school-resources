@@ -71,7 +71,7 @@ _Pray that many people in Brazil will know Jesus with the help of this quarterâ€
 
 Brazil contains 60% of the Amazon rainforest.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/02-readings-11-november-2025-03-november-2025/image2.png)
 
 ```=Story Tips
 

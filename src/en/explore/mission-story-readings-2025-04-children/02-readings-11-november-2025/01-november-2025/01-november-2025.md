@@ -3,7 +3,7 @@ title: Bringing Family to Church
 date: 01/11/2025
 ---
 
-![Ana](image.png)
+![Ana](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/02-readings-11-november-2025-01-november-2025/image.png)
 
 Little Ana walked up to Mom in their home in Brazil on a Wednesday afternoon.
 

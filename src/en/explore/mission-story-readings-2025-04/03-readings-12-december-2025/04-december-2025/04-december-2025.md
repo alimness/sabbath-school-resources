@@ -3,7 +3,7 @@ title: Adventists Everywhere
 date: 27/12/2025
 ---
 
-![Jonaton](image.png)
+![Jonaton](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/03-readings-12-december-2025-04-december-2025/image.png)
 
 Jonaton couldn’t seem to get away from Seventh-day Adventists. Originally from Ecuador, he had never met an Adventist before moving to Chile as a teen. But after his arrival, Adventists seemed to be everywhere.
 

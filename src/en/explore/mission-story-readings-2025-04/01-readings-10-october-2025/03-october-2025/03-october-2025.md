@@ -3,7 +3,7 @@ title: Stranger on a Boat
 date: 18/10/2025
 ---
 
-![Jamilly](image.png)
+![Jamilly](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/01-readings-10-october-2025-03-october-2025/image.png)
 
 Jamilly felt a little scared when the stranger showed up outside her house and called out, “Hello!”
 

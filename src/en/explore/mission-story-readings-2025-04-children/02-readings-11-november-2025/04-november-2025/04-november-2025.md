@@ -46,7 +46,7 @@ _Pray that many people in Brazil will know Jesus with the help of this quarter�
 Brazilian cuisine varies greatly by region, reflecting the country’s varying mix of indigenous and immigrant populations.
 Brazil’s national dish is feijoada, a bean stew often made with meat.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04-children/02-readings-11-november-2025-04-november-2025/image2.png)
 
 ```=Story Tips
 

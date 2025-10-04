@@ -3,7 +3,7 @@ title: Unexpected Missionaries
 date: 06/12/2025
 ---
 
-![Alvaro, Natalia, and Catalina](image.png)
+![Alvaro, Natalia, and Catalina](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2025-04/03-readings-12-december-2025-01-december-2025/image.png)
 
 Alvaro and Natalia never planned to become missionaries on a far-off island.
 
