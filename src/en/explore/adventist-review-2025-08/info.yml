@@ -9,9 +9,9 @@ credits:
     value: >-
       Ted N. C. Wilson, chair; Guillermo Biaggi, vice chair; Justin Kim,
       secretary; Audrey Andersson, G. Alexander Bryant, Zeno Charles-Marcel,
-      Williams Costa, Paul H. Douglas, Mark A. Finley, James Howard, Erton Köhler,
-      Geoffrey Mbwana, Magdiel Perez Schultz, Artur Stele, Ray Wahlen, Karnik
-      Doukmetzian, legal advisor
+      Williams Costa, Paul H. Douglas, Mark A. Finley, James Howard, Erton
+      Köhler, Geoffrey Mbwana, Magdiel Perez Schultz, Artur Stele, Ray Wahlen,
+      Karnik Doukmetzian, legal advisor
   - name: Management Board based in Seoul, Korea
     value: >-
       Yo Han Kim, chair; Justin Kim, secretary; Karnik Doukmetzian; SeongJun
@@ -47,3 +47,10 @@ credits:
     value: E. Edward Zinke
   - name: Distribution
     value: Sharon Tennyson
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2025-08/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2025-08/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2025-08/assets/cover.png
