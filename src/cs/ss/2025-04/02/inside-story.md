@@ -35,4 +35,4 @@ _Jedním z misijních projektů třinácté soboty pro toto čtvrtletí je sbor 
 
 _Podívejte se na krátké YouTube video Inácia: https://bit.ly/Inacio-Brazil._
 
-![Inácio Manoel](picture2.jpg)
+![Inácio Manoel](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-04/02/picture2.jpg)

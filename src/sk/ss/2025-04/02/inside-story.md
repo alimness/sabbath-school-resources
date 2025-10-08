@@ -31,4 +31,4 @@ Inácio, dnes 68-ročný, už 36 rokov vedie každý rok ku krstu štyroch až j
 
 „Môžem žiť bez čohokoľvek na svete, ale nie bez štúdia Biblie,“ povedal.
 
-![Inácio Manoel](picture2.jpg)
+![Inácio Manoel](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-04/02/picture2.jpg)
