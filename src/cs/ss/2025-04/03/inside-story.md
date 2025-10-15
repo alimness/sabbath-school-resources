@@ -31,4 +31,4 @@ Tsitsi nechápe, jak Bůh působí, ale nepochybuje o tom, že vždy zajišťuje
 
 _Podívejte se na krátké YouTube video Tsitsi Zondo: https://bit.ly/Tsitsi._
 
-![Tsitsi Zondo](picture3.jpg)
+![Tsitsi Zondo](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-04/03/picture3.jpg)
