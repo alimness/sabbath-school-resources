@@ -12,7 +12,7 @@ title: Music
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/04-im-a-little-helper.mp3] “I’m a Little Helper” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 1990 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him. #293. Used by permission."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/05-lets-put-all-our-toys-away.mp3] “Let’s Put All Our Toys Away”} {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 1990 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him. #294. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/05-lets-put-all-our-toys-away.mp3] “Let’s Put All Our Toys Away” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 1990 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him. #294. Used by permission."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/06-when-a-mother-calls.mp3] “When a Mother Calls” {"credits":[{"key":"Writer","value":"Kathryn B. Myers"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 1958 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him. #274. Used by permission."}
 
@@ -40,13 +40,13 @@ title: Music
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3] “When It’s Time to Pray” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #17. Used by permission."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3] “I Open My Bible Carefully.” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #28. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3] “I Open My Bible Carefully” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #28. Used by permission."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3] “Here Is My Money” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #32. Used by permission."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3] “Nature Box” {"credits":[{"key":"Writer","value":"Carolin Schmitz"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Ukulelist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3] “Sabbath School Is Over.” {"credits":[{"key":"Writer","value":"Unknown"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public domain. From Little Voices Praise Him, #46."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3] “Sabbath School Is Over” {"credits":[{"key":"Writer","value":"Unknown"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public domain. From Little Voices Praise Him, #46."}
 
 ```
 
