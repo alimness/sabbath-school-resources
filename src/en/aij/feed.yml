@@ -1,6 +1,17 @@
 ---
   title: Alive in Jesus
   groups:
+  - group: Primary
+    view: folio
+    resources:
+      - en-aij-*-04-pr
+      - en-aij-*-04-pr*
+      - en-aij-*-03-pr
+      - en-aij-*-03-pr*
+      - en-aij-*-02-pr
+      - en-aij-*-02-pr*
+      - en-aij-*-01-pr
+      - en-aij-*-01-pr*
   - group: Kindergarten
     view: folio
     resources:
