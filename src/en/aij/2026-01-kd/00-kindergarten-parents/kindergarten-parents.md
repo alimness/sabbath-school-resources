@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Dear Parents
 markdownTitle: '^[Dear Parents,]({"style": {"text": {"color": "#6ebae6", "typeface": "DKWhaleSong-Regular"}}})'
 titleBelowCover: true
 ---
