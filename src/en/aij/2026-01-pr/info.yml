@@ -100,3 +100,10 @@ fonts:
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/fonts/Trashbone-Regular.ttf
     attributes: regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/cover.png
