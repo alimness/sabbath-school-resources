@@ -1,6 +1,7 @@
 ---
 title: Dear Primary Friends
 markdownTitle: '^[Dear Primary Friends,]({"style": {"text": {"color": "#496934", "typeface": "Trashbone-Regular"}}})'
+titleBelowCover: true
 ---
 
 Just imagine how fun it would have been to watch God create our world! I wonder how much time and thought God and Jesus and the Holy Spirit gave to thinking and talking about things like eyelids and daffodils and cat’s fur. I’m sure they would have smiled to dream up the beautiful Garden of Eden and all the animals and beautiful plants to make it colorful, joyful, and alive. I wonder when They thought of making you? I know God had you in mind when He made our earth.
