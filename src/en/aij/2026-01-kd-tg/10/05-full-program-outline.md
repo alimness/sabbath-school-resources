@@ -14,11 +14,11 @@ subtitle: Week 10
 
 **^[PLAY:]({"style": {"text": {"color":"#4d4d4f"}}})** Invite the children to follow a piece of string to find a selection of books, puzzles, or other quiet resources for them to engage with. Listen to **“It’s About Love”** in the background.
 
-!a[its-about-love.mp3] “It’s About Love”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/its-about-love.mp3] “It’s About Love”
 
 **^[SING:]({"style": {"text": {"color":"#4d4d4f"}}})** Transition into the Sabbath School program by singing **“Pack It Up.”**
 
-!a[pack-it-up.mp3] “Pack It Up”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/pack-it-up.mp3] “Pack It Up”
 
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **WELCOME AND SONGS** (5 MINUTES)
@@ -35,11 +35,11 @@ subtitle: Week 10
 
 ```=Praise Songs
 
-!a[a-big-hello.mp3] “A Big Hello”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/a-big-hello.mp3] “A Big Hello”
 
-!a[gods-big-family.mp3] “God’s Big Family”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/gods-big-family.mp3] “God’s Big Family”
 
-!a[missionary-missionary.mp3] “Missionary, Missionary”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/missionary-missionary.mp3] “Missionary, Missionary”
 
 ```
 
@@ -50,21 +50,21 @@ subtitle: Week 10
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
-!a[for-jesus.mp3] “For Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/for-jesus.mp3] “For Jesus”
 
 **^[PRAY:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Let’s Pray.”** Pray that God will take the offering to be used where it is most needed and ask Him to help the children understand the special story you will learn about today.
 
-!a[lets-pray.mp3] “Let’s Pray”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/lets-pray.mp3] “Let’s Pray”
 
 **^[SING and DISCUSS:]({"style": {"text": {"color":"#E6B349"}}})** Invite a child to hold the special class Bible. Sing **“The Greatest Treasure.”**
 
-!a[the-greatest-treasure.mp3] “The Greatest Treasure”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/the-greatest-treasure.mp3] “The Greatest Treasure”
 
 Show the children how to find the **memory verse, Psalm 37:23. Say it together**: “The steps of a good man are ordered by the Lord, and He delights in his way.”
 
 Listen to, and sing, the **Psalm 37:23 Scripture Song**.
 
-!a[10-psalm-37-23.mp3] “Psalm 37:23”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/10-psalm-37-23.mp3] “Psalm 37:23”
 
 Invite the children to stand up and follow your instructions:
 
@@ -128,6 +128,6 @@ Say the **Big Idea** together: **God is loving. I will follow Him.**
 
 **^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will be learning about kind Abram and his nephew Lot.
 
-!a[goodbye-song.mp3] “Goodbye Song”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 
 **^[PRAY:]({"style": {"text": {"color":"#F4793B"}}})** Pray, thanking God for being our friend, and for helping our faith in Him to grow. For any children who would like to thank God for His friendship, pause in your prayer for them to say, “Thank You, God, for being my friend!”

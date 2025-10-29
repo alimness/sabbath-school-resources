@@ -6,7 +6,8 @@ markdownTitle: '^[Resources]({"style": {"text": {"color": "#F4793B"}}})'
 {"style": {"text": {"color": "#58b0e3"}}}
 **Greyfriars Bobby**
 
-![](resource.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/07/resource.png)
 
 A policeman named John Gray got a little dog to keep him company on his rounds on cold winter nights in the city of Edinburgh.
 

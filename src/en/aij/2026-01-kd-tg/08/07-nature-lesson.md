@@ -14,7 +14,7 @@ markdownTitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 
 ```=Sea Creatures
 
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/08/nature-lesson.png)
 
 ```
 

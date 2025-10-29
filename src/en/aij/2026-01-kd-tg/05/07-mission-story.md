@@ -9,7 +9,8 @@ markdownTitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
 {"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
 **William’s Hard Lesson**
 
-![William](mission-story.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![William](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/05/mission-story.png)
 
 **Location:** Help a child locate **New Guinea** on your **globe** or world **map**.
 

@@ -14,11 +14,11 @@ subtitle: Week 6
 
 **^[DO:]({"style": {"text": {"color":"#4d4d4f"}}})** Invite the children to create a **play-dough face** that shows how they are feeling today without telling you the emotion. Invite the children to guess each other’s feelings. Encourage and acknowledge all their feelings and share that the people in our story today felt lots of different feelings. Listen to **“It’s About Love”** in the background.
 
-!a[its-about-love.mp3] “It’s About Love”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/its-about-love.mp3] “It’s About Love”
 
 **^[SING:]({"style": {"text": {"color":"#4d4d4f"}}})** Sing **“Pack It Up”** as you transition into the program.
 
-!a[pack-it-up.mp3] “Pack It Up”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/pack-it-up.mp3] “Pack It Up”
 
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **WELCOME AND SONGS** (5 MINUTES)
@@ -35,11 +35,11 @@ subtitle: Week 6
 
 ```=Praise Songs
 
-!a[good-morning-jesus.mp3] “Good Morning, Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/good-morning-jesus.mp3] “Good Morning, Jesus”
 
-!a[gods-big-family.mp3] “God’s Big Family”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/gods-big-family.mp3] “God’s Big Family”
 
-!a[god-is-our-loving-father.mp3] “God is Our Loving Father”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/god-is-our-loving-father.mp3] “God is Our Loving Father”
 
 ```
 
@@ -50,15 +50,15 @@ subtitle: Week 6
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
-!a[for-jesus.mp3] “For Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/for-jesus.mp3] “For Jesus”
 
 **^[PRAY:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Let’s Pray.”** Read **Zephaniah 3:17**, “The Lord will be happy with you. . . . He will sing and be joyful about you” (ICB). Invite the children to kneel as you pray and thank God for being with you and loving you always. Pray that God will use the offering to help others choose Him.
 
-!a[lets-pray.mp3] “Let’s Pray”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/lets-pray.mp3] “Let’s Pray”
 
 **^[SING and DISCUSS:]({"style": {"text": {"color":"#E6B349"}}})** Invite a child to hold the special class Bible. Sing **“The Greatest Treasure.”**
 
-!a[the-greatest-treasure.mp3] “The Greatest Treasure”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/the-greatest-treasure.mp3] “The Greatest Treasure”
 
 - **What can we do to show God how much we love Him?**
 
@@ -66,7 +66,7 @@ Explain that this week’s memory verse from the Bible gives us an answer to thi
 
 Listen to, and sing, the **John 14:23 Scripture Song**. Explain that God invites us to listen to His words in the Bible because He knows that we’ll be so much happier when we do.
 
-!a[6-john-14-23.mp3] “John 14:23”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/6-john-14-23.mp3] “John 14:23”
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **SECRET SURPRISE BOX** (7 MINUTES)
@@ -130,6 +130,6 @@ Ask the children to repeat the **Big Idea** with you: Today we’ve learned that
 
 **^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will learn about Noah building a big boat.
 
-!a[goodbye-song.mp3] “Goodbye Song”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 
 **^[PRAY:]({"style": {"text": {"color":"#215E9E"}}})** Pray, thanking God for helping us to obey with love in our hearts. Ask God to help us to ask for His help to be strong and learn from our mistakes when we disobey.

@@ -21,8 +21,11 @@ Paper people cutouts, craft glue, craft sticks, fabric/colored paper, tape, scis
 - Stick on fabrics and/or colored paper to “dress” the paper people (2).
 - Attach a craft stick to the back of the people with tape (3).
 
-![1](9a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/09/9a.png)
 
-![2](9b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/09/9b.png)
 
-![3](9c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/09/9c.png)

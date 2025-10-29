@@ -14,7 +14,7 @@ markdownTitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 
 ```=Globe Skimmer
 
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/10/nature-lesson.png)
 
 ```
 

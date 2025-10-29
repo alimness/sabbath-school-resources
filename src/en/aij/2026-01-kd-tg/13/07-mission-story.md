@@ -9,9 +9,11 @@ markdownTitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
 {"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
 **Mother and the King Cobra**
 
-![Lakshmi](mission-story-01.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Lakshmi](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/13/mission-story-01.png)
 
-![Snake](mission-story-02.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Snake](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/13/mission-story-02.png)
 
 **Location:** Help a child locate **southern India** on your **globe** or world **map**.
 

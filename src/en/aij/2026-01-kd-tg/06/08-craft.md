@@ -23,8 +23,11 @@ Lettersize (A4) cardstock, watercolor paints or markers, paper towel or napkin s
 - While the children are painting, talk about things that can help to keep us calm, pointing to Jesus as our helper.
 - Alternatively, if you do not want to use paints, use colored markers, and other decorative craft items.
 
-![1](6a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/06/6a.png)
 
-![2](6b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/06/6b.png)
 
-![3](6c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/06/6c.png)

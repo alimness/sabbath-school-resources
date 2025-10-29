@@ -14,11 +14,11 @@ subtitle: Week 3
 
 **^[PLAY:]({"style": {"text": {"color":"#4d4d4f"}}})** Invite the children to draw things that God made during Creation week, or something they enjoy about Sabbath. **Note**: Lay the drawings aside to be shared later in the program. Listen to **“It’s About Love”** in the background.
 
-!a[its-about-love.mp3] “It’s About Love”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/its-about-love.mp3] “It’s About Love”
 
 **^[SING:]({"style": {"text": {"color":"#4d4d4f"}}})** Transition into the Sabbath School program by singing the **“Pack It Up”** song.
 
-!a[pack-it-up.mp3] “Pack It Up”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/pack-it-up.mp3] “Pack It Up”
 
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **WELCOME AND SONGS** (5 MINUTES)
@@ -35,11 +35,11 @@ subtitle: Week 3
 
 ```=Praise Songs
 
-!a[good-morning-jesus.mp3] “Good Morning, Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/good-morning-jesus.mp3] “Good Morning, Jesus”
 
-!a[gods-big-family.mp3] “God’s Big Family”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/gods-big-family.mp3] “God’s Big Family”
 
-!a[our-god-is-amazing.mp3] “Our God is Amazing”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/our-god-is-amazing.mp3] “Our God is Amazing”
 
 ```
 
@@ -52,17 +52,17 @@ subtitle: Week 3
 
 **^[PRAY:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
-!a[for-jesus.mp3] “For Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/for-jesus.mp3] “For Jesus”
 
 **^[SING and DISCUSS:]({"style": {"text": {"color":"#E6B349"}}})** Invite a child to hold the special class Bible. Sing **“The Greatest Treasure.”**
 
-!a[the-greatest-treasure.mp3] “The Greatest Treasure”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/the-greatest-treasure.mp3] “The Greatest Treasure”
 
 - **How many times do you think the Bible uses the word “Sabbath”?** (Children guess.)
 
 Share that the word “Sabbath” is in the Bible **155 times** (NKJV). That tells us God’s special day is very important! Our memory verse is one of the Sabbath verses in the Bible. Show the children how to find the memory verse, **Exodus 20:8. Say it together:** “Remember the Sabbath day, to keep it holy.” Listen to, and sing, the **Exodus 20:8 Scripture Song**.
 
-!a[3-exodus-20-8.mp3] “Exodus 20:8”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/3-exodus-20-8.mp3] “Exodus 20:8”
 
 - **Why does God tell us to “remember” the Sabbath?**
 
@@ -133,6 +133,6 @@ Invite children to say what makes them happy about the Sabbath. After each sugge
 
 **^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will learn about Lucifer’s sad choice.
 
-!a[goodbye-song.mp3] “Goodbye Song”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 
 **^[PRAY:]({"style": {"text": {"color":"#F4793B"}}})** Pray, thanking God for His love and for all He created in the very first week of our world. Ask God to be close to the children this Sabbath and every day this coming week.

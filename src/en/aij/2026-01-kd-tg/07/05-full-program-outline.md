@@ -18,11 +18,11 @@ subtitle: Week 7
 
 As they do this, encourage discussion about the process. For example: Do you like building/making things? What do you like about it? Share that in today’s story you will learn about someone who built something. This person did exactly what God said. Listen to **“It’s About Love”** in the background.
 
-!a[its-about-love.mp3] “It’s About Love”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/its-about-love.mp3] “It’s About Love”
 
 **^[SING:]({"style": {"text": {"color":"#4d4d4f"}}})** Transition into the Sabbath School program by singing **“Pack It Up.”**
 
-!a[pack-it-up.mp3] “Pack It Up”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/pack-it-up.mp3] “Pack It Up”
 
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **WELCOME AND SONGS** (5 MINUTES)
@@ -33,11 +33,11 @@ As they do this, encourage discussion about the process. For example: Do you lik
 
 ```=Praise Songs
 
-!a[a-big-hello.mp3] “A Big Hello”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/a-big-hello.mp3] “A Big Hello”
 
-!a[gods-big-family.mp3] “God’s Big Family”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/gods-big-family.mp3] “God’s Big Family”
 
-!a[missionary-missionary.mp3] “Missionary, Missionary”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/missionary-missionary.mp3] “Missionary, Missionary”
 
 ```
 
@@ -48,15 +48,15 @@ As they do this, encourage discussion about the process. For example: Do you lik
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
-!a[for-jesus.mp3] “For Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/for-jesus.mp3] “For Jesus”
 
 **^[PRAY:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Let’s Pray.”** Invite a child to pray. Then pray that God will take the offering to be used where it is most needed, and ask Him to help the children understand the special stories you will learn about today.
 
-!a[lets-pray.mp3] “Let’s Pray”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/lets-pray.mp3] “Let’s Pray”
 
 **^[SING and DISCUSS:]({"style": {"text": {"color":"#E6B349"}}})** Invite a child to hold the special class Bible. Sing **“The Greatest Treasure.”**
 
-!a[the-greatest-treasure.mp3] “The Greatest Treasure”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/the-greatest-treasure.mp3] “The Greatest Treasure”
 
 - **What do you think it means to be faithful?** (Allow time for children to respond.)
 - **What does Jesus say about those who are faithful?**
@@ -65,7 +65,7 @@ The Bible tells us the answer. Show the children how to find the memory verse, *
 
 Listen to, and sing, the **Matthew 25:21 Scripture Song.** Share that Jesus loves to see our faithful choices. He will say these beautiful words to us when we get to heaven.
 
-!a[7-matthew-25-21.mp3] “Matthew 25:21”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/7-matthew-25-21.mp3] “Matthew 25:21”
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **SECRET SURPRISE BOX** (7 MINUTES)
@@ -141,6 +141,6 @@ Invite the children to repeat the **Big Idea** with you: **God is loving. I can 
 
 **^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will learn about the Flood and God’s rainbow promise.
 
-!a[goodbye-song.mp3] “Goodbye Song”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 
 **^[PRAY:]]({"style": {"text": {"color":"#215E9E"}}})** Pray, thanking God for the story of Noah. Ask Him to help us to become more faithful every day.

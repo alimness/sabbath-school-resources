@@ -10,7 +10,7 @@ markdownTitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 
 ```=Seeds
 
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/04/nature-lesson.png)
 
 ```
 

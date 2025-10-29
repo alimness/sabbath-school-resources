@@ -26,10 +26,14 @@ glue, and scissors (1).
 - Glue on the cotton ball for the beard (4).
 - Children can move the craft stick, with the red paper on it, up and down inside the tube to make it look as if “Noah” is talking!
 
-![1](7a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/07/7a.png)
 
-![2](7b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/07/7b.png)
 
-![3](7c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/07/7c.png)
 
-![4](7d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![4](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/07/7d.png)

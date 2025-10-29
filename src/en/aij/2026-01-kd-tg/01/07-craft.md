@@ -24,10 +24,14 @@ Cardboard heart shape, string, a variety of nature items you have collected, tap
 - Children will use the nature items you have collected to glue and/or weave onto their cardboard hearts (4).
 - The nature heart can be hung up in their home as a reminder of their amazing Creator.
 
-![1](1a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/01/1a.png)
 
-![2](1b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/01/1b.png)
 
-![3](1c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/01/1c.png)
 
-![4](1d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![4](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/01/1d.png)

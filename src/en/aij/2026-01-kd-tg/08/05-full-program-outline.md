@@ -23,11 +23,11 @@ As the children work, ask:
 - **What feeling could each color remind you of?** (Yellow: happy, Green: growing, Blue: sad, Purple: brave, Red: angry.)
 - **Which colors remind you of Noah in last week’s story? Why?**
 
-!a[its-about-love.mp3] “It’s About Love”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/its-about-love.mp3] “It’s About Love”
 
 **^[SING:]({"style": {"text": {"color":"#4d4d4f"}}})** Transition into the Sabbath School program by singing **“Pack It Up.”**
 
-!a[pack-it-up.mp3] “Pack It Up”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/pack-it-up.mp3] “Pack It Up”
 
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **WELCOME AND SONGS** (5 MINUTES)
@@ -44,11 +44,11 @@ As the children work, ask:
 
 ```=Praise Songs
 
-!a[good-morning-jesus.mp3] “Good Morning, Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/good-morning-jesus.mp3] “Good Morning, Jesus”
 
-!a[our-god-is-amazing.mp3] “Our God is Amazing”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/our-god-is-amazing.mp3] “Our God is Amazing”
 
-!a[missionary-missionary.mp3] “Missionary, Missionary”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/missionary-missionary.mp3] “Missionary, Missionary”
 
 ```
 
@@ -59,21 +59,21 @@ As the children work, ask:
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
-!a[for-jesus.mp3] “For Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/for-jesus.mp3] “For Jesus”
 
 **^[PRAY:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Let’s Pray.”** Then pray that God will take the offering to be used where it is most needed and ask Him to help the children understand the special story you will learn about today.
 
-!a[lets-pray.mp3] “Let’s Pray”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/lets-pray.mp3] “Let’s Pray”
 
 **^[SING and DISCUSS:]({"style": {"text": {"color":"#E6B349"}}})** Invite a child to hold the special class Bible. Sing **“The Greatest Treasure.”**
 
-!a[the-greatest-treasure.mp3] “The Greatest Treasure”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/the-greatest-treasure.mp3] “The Greatest Treasure”
 
 - **How do we know that God is always with us?** (The Bible tells us!)
 
 Show the children how to find the **memory verse, Hebrews 13:5b. Say it together**: “I will never leave you nor forsake you.” Listen to, and then sing, the **Hebrews 13:b5 Scripture Song** together.
 
-!a[8-hebrews-13-5b.mp3] “Hebrews 13:5b”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/8-hebrews-13-5b.mp3] “Hebrews 13:5b”
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **SECRET SURPRISE BOX** (7 MINUTES)
@@ -132,6 +132,6 @@ Repeat the **Big Idea: God is loving. He is always with me.**
 
 **^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will be learning about some proud people who built a tall tower.
 
-!a[goodbye-song.mp3] “Goodbye Song”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 
 **^[PRAY:]({"style": {"text": {"color":"#215E9E"}}})** Invite a child to pray from their heart in response to what has been learned this week. As the children leave, **blow colorful bubbles over them** as a reminder to trust God’s promises.

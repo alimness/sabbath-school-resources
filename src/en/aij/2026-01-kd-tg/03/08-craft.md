@@ -27,16 +27,22 @@ markdownTitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Option 1:**
 
-![](3a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/03/3a.png)
 
-![](3b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/03/3b.png)
 
-![](3c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/03/3c.png)
 
-![](3d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/03/3d.png)
 
 **Option 2:**
 
-![](3a2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/03/3a2.png)
 
-![](3b2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/03/3b2.png)

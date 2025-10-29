@@ -23,12 +23,17 @@ Week 5 craft template, cardboard tube, two small paper plates, green and brown c
 - Make a small cut on either side of the cardboard tube.
 - Slide the secured plates in to create the tree (5).
 
-![1](5a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/05/5a.png)
 
-![2](5b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/05/5b.png)
 
-![3](5c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/05/5c.png)
 
-![4](5d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![4](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/05/5d.png)
 
-![5](5e.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![5](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/05/5e.png)

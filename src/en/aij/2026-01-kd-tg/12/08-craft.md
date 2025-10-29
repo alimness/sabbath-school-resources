@@ -23,12 +23,17 @@ Sheet of colored paper, stickers and colored shapes, markers, tape, scissors and
 - Tape a ribbon to the top of the envelope so it can be hung in a special place (5).
 - While the children are making the envelopes, talk to them about why we give.
 
-![1](12a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/12/12a.png)
 
-![2](12b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/12/12b.png)
 
-![3](12c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/12/12c.png)
 
-![4](12d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![4](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/12/12d.png)
 
-![5](12e.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![5](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/12/12e.png)

@@ -7,7 +7,7 @@ markdownTitle: '^[Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 Print the template from the Alive in Jesus website, www.aliveinjesus.info.
 
-![](picture-cards.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/09/picture-cards.png)
 
 ```
 
@@ -15,6 +15,6 @@ Print the template from the Alive in Jesus website, www.aliveinjesus.info.
 
 Print the template from the Alive in Jesus website, www.aliveinjesus.info.
 
-![](paper-hearts.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/09/paper-hearts.png)
 
 ```

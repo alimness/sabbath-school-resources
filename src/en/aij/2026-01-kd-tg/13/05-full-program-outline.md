@@ -16,11 +16,11 @@ the past week.
 
 Listen to **“It’s About Love”** in the background.
 
-!a[its-about-love.mp3] “It’s About Love”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/its-about-love.mp3] “It’s About Love”
 
 **^[SING:]({"style": {"text": {"color":"#4d4d4f"}}})** Transition into the Sabbath School program by singing **“Pack It Up.”**
 
-!a[pack-it-up.mp3] “Pack It Up”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/pack-it-up.mp3] “Pack It Up”
 
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **WELCOME AND SONGS** (5 MINUTES)
@@ -37,11 +37,11 @@ Listen to **“It’s About Love”** in the background.
 
 ```=Praise Songs
 
-!a[good-morning-jesus.mp3] “Good Morning, Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/good-morning-jesus.mp3] “Good Morning, Jesus”
 
-!a[god-is-our-loving-father.mp3] “God is Our Loving Father”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/god-is-our-loving-father.mp3] “God is Our Loving Father”
 
-!a[missionary-missionary.mp3] “Missionary, Missionary”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/missionary-missionary.mp3] “Missionary, Missionary”
 
 ```
 
@@ -52,21 +52,21 @@ Listen to **“It’s About Love”** in the background.
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
-!a[for-jesus.mp3] “For Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/for-jesus.mp3] “For Jesus”
 
 **^[PRAY:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Let’s Pray.”** Invite a child to pray. Then pray over the offering and for God to bless the children and your Sabbath School time together today.
 
-!a[lets-pray.mp3] “Let’s Pray”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/lets-pray.mp3] “Let’s Pray”
 
 **^[SING and DISCUSS:]({"style": {"text": {"color":"#E6B349"}}})** Invite a child to hold the special class Bible. Sing **“The Greatest Treasure.”**
 
-!a[the-greatest-treasure.mp3] “The Greatest Treasure”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/the-greatest-treasure.mp3] “The Greatest Treasure”
 
 - **Why should we trust in God?**
 
 Explain that the Bible gives us a very good reason to trust God! Show the children how to find the **memory verse, Deuteronomy 7:9. Say it together**: “Know that the Lord your God, He is God, the faithful God.” Listen to, and sing, the **Deuteronomy 7:9 Scripture Song**.
 
-!a[13-deuteronomy-7-9.mp3] “Deuteronomy 7:9”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/13-deuteronomy-7-9.mp3] “Deuteronomy 7:9”
 
 God keeps His promises. He is faithful. We can trust His Word and trust Him to do the impossible!
 
@@ -137,6 +137,6 @@ God is amazing to have created such faithful little penguin families that love a
 
 **^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will be learning about Isaac’s own sons—two twins who were very different.
 
-!a[goodbye-song.mp3] “Goodbye Song”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 
 **^[PRAY:]({"style": {"text": {"color":"#215E9E"}}})** Pray, thanking God for faithfully keeping His promises. Ask Him to help the children remember that He can do impossible things for us.

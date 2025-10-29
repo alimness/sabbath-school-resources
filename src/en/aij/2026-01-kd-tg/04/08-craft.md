@@ -18,8 +18,11 @@ Paper plate, large craft stick or cardboard tube, yellow and green paint or cray
 - Use nontoxic glue to stick sunflower seeds onto the paper plate (3).
 - Tape craft stick to the back of the paper plate, to serve as a handle/stem (3).
 
-![1](4a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/04/4a.png)
 
-![2](4b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/04/4b.png)
 
-![3](4c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/04/4c.png)

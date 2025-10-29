@@ -9,7 +9,8 @@ markdownTitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
 {"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
 **Shanker’s New Life**
 
-![Shanker](mission-story.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Shanker](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/09/mission-story.png)
 
 **Location:** Help a child locate **India** on your **globe** or world **map**.
 

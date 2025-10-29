@@ -23,10 +23,14 @@ Extra-large paper plates, scissors, markers, craft glue, sticker jewels or print
 - Stick the four jewels to each other’s crown while saying something kind to each other (4).
 - Continue decorating the crown with markers and shapes.
 
-![1](11a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/11/11a.png)
 
-![2](11b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/11/11b.png)
 
-![3](11c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/11/11c.png)
 
-![4](11d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![4](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/11/11d.png)

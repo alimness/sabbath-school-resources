@@ -14,11 +14,11 @@ subtitle: Week 4
 
 **^[DO:]({"style": {"text": {"color":"#4d4d4f"}}})** Decorate **paper angels** with your chosen resources. Add a craft stick to these and place them aside for the children to use as props in the story. As the children work on their craft, talk about what God’s beautiful angels in heaven might look like. Share that the Bible tells us angels sing to God on Sabbath in heaven (Isaiah 6:3). Listen to **“It’s About Love”** in the background.
 
-!a[its-about-love.mp3] “It’s About Love”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/its-about-love.mp3] “It’s About Love”
 
 **^[SING:]({"style": {"text": {"color":"#4d4d4f"}}})** Transition into the Sabbath School program by singing **“Pack It Up.”**
 
-!a[pack-it-up.mp3] “Pack It Up”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/pack-it-up.mp3] “Pack It Up”
 
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **WELCOME AND SONGS** (5 MINUTES)
@@ -35,11 +35,11 @@ subtitle: Week 4
 
 ```=Praise Songs
 
-!a[a-big-hello.mp3] “A Big Hello”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/a-big-hello.mp3] “A Big Hello”
 
-!a[jesus-loves-me-and-i-love-jesus.mp3] “Jesus Loves Me and I Love Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/jesus-loves-me-and-i-love-jesus.mp3] “Jesus Loves Me and I Love Jesus”
 
-!a[our-god-is-amazing.mp3] “Our God is Amazing”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/our-god-is-amazing.mp3] “Our God is Amazing”
 
 ```
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
@@ -49,15 +49,15 @@ subtitle: Week 4
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
-!a[for-jesus.mp3] “For Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/for-jesus.mp3] “For Jesus”
 
 **^[PRAY:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Let’s Pray.”** Then pray that God will take the offering to be used where it is most needed, and ask Him to help the children understand the special story you will learn about today.
 
-!a[lets-pray.mp3] “Let’s Pray”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/lets-pray.mp3] “Let’s Pray”
 
 **^[SING and DISCUSS:]({"style": {"text": {"color":"#E6B349"}}})** Invite a child to choose another child to hold the special class Bible. Sing **“The Greatest Treasure.”**
 
-!a[the-greatest-treasure.mp3] “The Greatest Treasure”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/the-greatest-treasure.mp3] “The Greatest Treasure”
 
 - **How do you feel when you really want something, but you can’t have it?**
 
@@ -65,7 +65,7 @@ Explain that God knows how we feel! His Word, the Bible, tells us something help
 
 Listen to, and sing, the **Hebrews 13:5a Scripture Song**.
 
-!a[4-hebrews-13-5a.mp3] “Hebrews 13:5a”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/4-hebrews-13-5a.mp3] “Hebrews 13:5a”
 
 - **How content do you think the angels are in heaven? How content do you think you will be when you get there?**
 
@@ -133,6 +133,6 @@ God hopes we will be content and make good choices. Invite the children to ask G
 
 **^[SING:]({"style": {"text": {"color":"#F4793B"}}})** Say together, “Thank You, God, for letting me choose!” Then Sing **^[“Goodbye Song.”]({"style": {"text": {"color":"#F4793B"}}})**
 
-!a[goodbye-song.mp3] “Goodbye Song”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 
 **^[PRAY:]({"style": {"text": {"color":"#F4793B"}}})** Pray, thanking God that He loves us and lets us choose. Ask Him to help the children be content with what they have and to make good choices.

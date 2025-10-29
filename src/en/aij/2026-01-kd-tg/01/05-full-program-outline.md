@@ -12,13 +12,13 @@ subtitle: Week 1
 
 **^[CONNECT:]({"style": {"text": {"color":"#4d4d4f"}}})** **Warmly welcome** each child by name as they arrive, showing them how happy you are to see them at Sabbath School. Play the song **“It’s About Love”** quietly in the background as the children arrive.
 
-!a[its-about-love.mp3] “It’s About Love”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/its-about-love.mp3] “It’s About Love”
 
 **^[PLAY:]({"style": {"text": {"color":"#4d4d4f"}}})** Invite the children to play a guessing game. Have them take turns to secretly choose a **creature** from a **bag** and offer clues to other children so they may guess it. After it has been correctly guessed, invite the child to place the animal in the right **habitat**, somewhere in the room.
 
 **^[SING:]({"style": {"text": {"color":"#4d4d4f"}}})** Transition into the Sabbath School program by singing the **“Pack It Up”** song.
 
-!a[pack-it-up.mp3] “Pack It Up”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/pack-it-up.mp3] “Pack It Up”
 
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **WELCOME AND SONGS** (5 MINUTES)
@@ -27,9 +27,9 @@ subtitle: Week 1
 
 **^[SING:]({"style": {"text": {"color":"#D34D5E"}}})** Introduce the song **“Good Morning, Jesus”** so that the children can become familiar with it. **Sing “Our God is Amazing”** or a worship **song** of your choice that talks about God’s love and His creation. Share that this quarter you’ll be learning that **God is loving**. Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
-!a[good-morning-jesus.mp3] “Good Morning, Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/good-morning-jesus.mp3] “Good Morning, Jesus”
 
-!a[our-god-is-amazing.mp3] “Our God is Amazing”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/our-god-is-amazing.mp3] “Our God is Amazing”
 
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **OFFERING, PRAYER, MEMORY VERSE** (6 MINUTES)
@@ -38,15 +38,15 @@ subtitle: Week 1
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
-!a[for-jesus.mp3] “For Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/for-jesus.mp3] “For Jesus”
 
 **^[PRAY:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Let’s Pray.”** Invite a child to pray. Then pray that God will take the offering to be used where it is most needed.
 
-!a[lets-pray.mp3] “Let’s Pray”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/lets-pray.mp3] “Let’s Pray”
 
 **^[SING:]({"style": {"text": {"color":"#E6B349"}}})** Invite one child to come to the front to sit on a chair and hold the special class Bible. Talk about how special thev Bible is, and how everything written in the Bible is true. Sing **“The Greatest Treasure,”** and talk about how we can trustv the Bible, which tells us about God’s great love for us.
 
-!a[the-greatest-treasure.mp3] “The Greatest Treasure”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/the-greatest-treasure.mp3] “The Greatest Treasure”
 
 - **Does anyone know how our loving God created the heavens and the earth? How did our world come to be?** Explain that the Bible answers this question in the very first verse. Show the children how to find the **memory verse, Genesis 1:1. Say it together:** “In the beginning, God created the heavens and the earth” (Genesis 1:1). Listen to, and sing, the **Genesis 1:1 Scripture Song.**
 - **What was our earth like to begin with?**
@@ -107,7 +107,7 @@ As the sun sets each day, we can remember how our loving God created everything 
 
 **^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week you will find out how God finished creating everything in our big, beautiful world!
 
-!a[goodbye-song.mp3] “Goodbye Song”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 
 **^[APPLY:]({"style": {"text": {"color":"#215E9E"}}})** Hold your **Bible** and invite the children to share what they’d like to thank God for from this beautiful, true **Creation story** in the Bible. Children can say, **“I’d love to thank God for ______. It is very _______.”**
 

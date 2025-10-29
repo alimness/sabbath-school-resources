@@ -24,14 +24,20 @@ Week 8 craft templates, sheet of blue cardstock, colored markers, scissors, and 
 - Open the card and glue the ends of the rainbow fan to either side of the card (6).
 - Glue the promise clouds inside the card (6).
 
-![1](8a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/08/8a.png)
 
-![2](8b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/08/8b.png)
 
-![3](8c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/08/8c.png)
 
-![4](8d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![4](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/08/8d.png)
 
-![5](8e.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![5](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/08/8e.png)
 
-![6](8f.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![6](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/08/8f.png)

@@ -16,11 +16,11 @@ subtitle: Week 9
 
 **^[PLAY:]({"style": {"text": {"color":"#4d4d4f"}}})** Challenge the children to build the tallest tower they can. Encourage them to work together while building, or just use one hand for an extra challenge. Listen to **“It’s About Love”** in the background.
 
-!a[its-about-love.mp3] “It’s About Love”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/its-about-love.mp3] “It’s About Love”
 
 **^[SING:]({"style": {"text": {"color":"#4d4d4f"}}})** Transition into the Sabbath School program by singing **“Pack It Up.”**
 
-!a[pack-it-up.mp3] “Pack It Up”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/pack-it-up.mp3] “Pack It Up”
 
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **WELCOME AND SONGS** (5 MINUTES)
@@ -37,11 +37,11 @@ subtitle: Week 9
 
 ```=Praise Songs
 
-!a[good-morning-jesus.mp3] “Good Morning, Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/good-morning-jesus.mp3] “Good Morning, Jesus”
 
-!a[gods-big-family.mp3] “God’s Big Family”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/gods-big-family.mp3] “God’s Big Family”
 
-!a[god-is-our-loving-father.mp3] “God is Our Loving Father”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/god-is-our-loving-father.mp3] “God is Our Loving Father”
 
 ```
 
@@ -52,21 +52,21 @@ subtitle: Week 9
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
-!a[for-jesus.mp3] “For Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/for-jesus.mp3] “For Jesus”
 
 **^[PRAY:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Let’s Pray”** song. If possible, invite **someone from another country** to pray in **your language**, then their **own**.
 
-!a[lets-pray.mp3] “Let’s Pray”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/lets-pray.mp3] “Let’s Pray”
 
 **^[SING and DISCUSS:]({"style": {"text": {"color":"#E6B349"}}})** Invite a child to hold the special class Bible. Sing **“The Greatest Treasure.”**
 
-!a[the-greatest-treasure.mp3] “The Greatest Treasure”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/the-greatest-treasure.mp3] “The Greatest Treasure”
 
 Show the children how to find the memory verse, **Proverbs 3:1. Say it together**: “My son, do not forget my law, but let your heart keep my commands.”
 
 Listen to, and sing, the **Proverbs 3:1 Scripture Song** together.
 
-!a[9-proverbs-3-1.mp3] “Proverbs 3:1”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/9-proverbs-3-1.mp3] “Proverbs 3:1”
 
 - **What do you think it might mean to “let your heart keep my commands”?** (Have God’s love in our hearts and want to follow His ways.)
 - **What could happen when people don’t keep God’s love in their hearts?**
@@ -154,6 +154,6 @@ Repeat **Big Idea: God is loving. He is never proud.**
 
 **^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will learn about a friend of God named Abram.
 
-!a[goodbye-song.mp3] “Goodbye Song”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 
 **^[PRAY:]({"style": {"text": {"color":"#F4793B"}}})** Pray, thanking God for loving everybody in the world, including the children. Ask God to help the children follow His ways and not be proud.

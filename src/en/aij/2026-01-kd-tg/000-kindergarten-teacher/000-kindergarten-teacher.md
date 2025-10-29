@@ -3,8 +3,8 @@ title: Dear Kindergarten Sabbath School Teacher,
 markdownTitle: '^[Dear Kindergarten Sabbath School Teacher,]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
-{"style": {"image": {"expandable": false},"block": {"rounded": false,  "padding": {"start": "none", "end": "none"}}, "wrapper": {"padding": {"start": "none", "end": "none"}}}}
-![](cover-g.png)
+{"style":{"image":{"expandable":false,"aspectRatio":1.778},"block":{"rounded":false,"padding":{"start":"none","end":"none"}},"wrapper":{"padding":{"start":"none","end":"none"}}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/000-kindergarten-teacher/cover-g.png)
 
 Thank you so much for being willing to teach your group of Kindergarten children this year! May their innocence, energy, and rapid learning development, and most of all their simple love for Jesus, inspire you and remind you of what it is to “become like little children.”
 
@@ -22,13 +22,17 @@ As you pray and plan from this new curriculum, may God lead you to know just how
 - We have provided **^[music]({"style": {"text": {"color": "#58b0e3"}}})** suggestions in the program and recorded music on our Alive in Jesus website. You might also like to invite the children to choose songs and lead the singing time. Where possible, choose songs that apply to the weekly theme. If possible, display the words of the songs so that everyone can learn the songs together. Keep in mind the importance of choosing songs that share spiritual truths, as music will linger in our minds for years to come.
 - Make an **^[Offering Chart]({"style": {"text": {"color": "#58b0e3"}}})** at the beginning of each quarter from the template provided on our website. Together with the children, write weekly offering goals at the bottom of the page to encourage children to give to God’s work. Each week after the offering has been collected, invite one child to color the new section to indicate the offering goal has been achieved. Display the Offering Chart in a prominent place in your Sabbath School room.
 
-![](Offering-Chart-1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/000-kindergarten-teacher/Offering-Chart-1.png)
 
-![](Offering-Chart-2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/000-kindergarten-teacher/Offering-Chart-2.png)
 
-![](Offering-Chart-3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/000-kindergarten-teacher/Offering-Chart-3.png)
 
-![](Offering-Chart-4.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/000-kindergarten-teacher/Offering-Chart-4.png)
 
 - Make special mention of **^[birthdays]({"style": {"text": {"color": "#58b0e3"}}})** by singing a birthday song and giving a small gift to the child. If appropriate in your culture, encourage children to bring a birthday thank offering to your mission project.
 - Also be sure to acknowledge **^[visitors]({"style": {"text": {"color": "#58b0e3"}}})** and make them feel welcome in your Sabbath School.

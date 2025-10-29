@@ -9,9 +9,9 @@ Resources
 
 Print the template from the Alive in Jesus website, www.aliveinjesus.info.
 
-![](animal-footprints-01.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/animal-footprints-01.png)
 
-![](animal-footprints-02.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/animal-footprints-02.png)
 
 ```
 
@@ -19,15 +19,15 @@ Print the template from the Alive in Jesus website, www.aliveinjesus.info.
 
 Print the posters from the Alive in Jesus website, www.aliveinjesus.info.
 
-![](creation-poster-01.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/creation-poster-01.png)
 
-![](creation-poster-02.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/creation-poster-02.png)
 
-![](creation-poster-03.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/creation-poster-03.png)
 
-![](creation-poster-04.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/creation-poster-04.png)
 
-![](creation-poster-05.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/creation-poster-05.png)
 
 ```
 
@@ -35,20 +35,20 @@ Print the posters from the Alive in Jesus website, www.aliveinjesus.info.
 
 Print the pictures from the Alive in Jesus website, www.aliveinjesus.info.
 
-![](baby-animal-pictures-01.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/baby-animal-pictures-01.png)
 
-![](baby-animal-pictures-02.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/baby-animal-pictures-02.png)
 
-![](baby-animal-pictures-03.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/baby-animal-pictures-03.png)
 
-![](baby-animal-pictures-04.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/baby-animal-pictures-04.png)
 
-![](baby-animal-pictures-05.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/baby-animal-pictures-05.png)
 
-![](baby-animal-pictures-06.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/baby-animal-pictures-06.png)
 
-![](baby-animal-pictures-07.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/baby-animal-pictures-07.png)
 
-![](baby-animal-pictures-08.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/baby-animal-pictures-08.png)
 
 ```

@@ -14,11 +14,11 @@ subtitle: Week 12
 
 **^[PLAY:]({"style": {"text": {"color":"#4d4d4f"}}})** Invite the children to a table where the **puzzle pieces** are spread out. Encourage them to work together and assemble all pieces together to make the picture. As the children work, talk about what it is like to have special friends that work together. Listen to **“It’s About Love”** in the background.
 
-!a[its-about-love.mp3] “It’s About Love”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/its-about-love.mp3] “It’s About Love”
 
 **^[SING:]({"style": {"text": {"color":"#4d4d4f"}}})** Transition into the Sabbath School program by singing **“Pack It Up.”**
 
-!a[pack-it-up.mp3] “Pack It Up”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/pack-it-up.mp3] “Pack It Up”
 
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **WELCOME AND SONGS** (5 MINUTES)
@@ -35,11 +35,11 @@ subtitle: Week 12
 
 ```=Praise Songs
 
-!a[a-big-hello.mp3] “A Big Hello”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/a-big-hello.mp3] “A Big Hello”
 
-!a[gods-big-family.mp3] “God’s Big Family”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/gods-big-family.mp3] “God’s Big Family”
 
-!a[missionary-missionary.mp3] “Missionary, Missionary”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/missionary-missionary.mp3] “Missionary, Missionary”
 
 ```
 
@@ -50,15 +50,15 @@ subtitle: Week 12
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
-!a[for-jesus.mp3] “For Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/for-jesus.mp3] “For Jesus”
 
 **^[PRAY:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Let’s Pray.”** Pray, asking God to take the offering to be used where it is most needed. Also ask Him to help the children understand the special story and lesson you will learn about today.
 
-!a[lets-pray.mp3] “Let’s Pray”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/lets-pray.mp3] “Let’s Pray”
 
 **^[SING and DISCUSS:]({"style": {"text": {"color":"#E6B349"}}})** Invite a child to hold the special class Bible. Sing **“The Greatest Treasure.”**
 
-!a[the-greatest-treasure.mp3] “The Greatest Treasure”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/the-greatest-treasure.mp3] “The Greatest Treasure”
 
 - **What do you think makes a good friend?** (Accept ideas; discuss.)
 
@@ -66,7 +66,7 @@ Explain that the Bible gives us a short answer to this question. Show the childr
 
 Listen to, and sing, the **Proverbs 17:17 Scripture Song**.
 
-!a[12-proverbs-17-17.mp3] “Proverbs 17:17”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/12-proverbs-17-17.mp3] “Proverbs 17:17”
 
 - **Have you ever heard the word “loyal” to describe a friend?** Let’s find out a little more about what it means to be loyal.
 
@@ -134,6 +134,6 @@ Repeat the **Big Idea: God is loving. He can help me to be a loyal friend.**
 
 **^[PRAY:]({"style": {"text": {"color":"#215E9E"}}})** Invite the children to link arms if they’d like to invite God to help them to be a loyal friend.
 
-!a[goodbye-song.mp3] “Goodbye Song”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 
 Invite a child to pray. Pray also and ask God to help the children to be loyal friends. Thank Him for always being their special loyal friend no matter what.

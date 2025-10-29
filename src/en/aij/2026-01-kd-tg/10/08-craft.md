@@ -24,8 +24,11 @@ Sheet of paper, narrow leaves you have collected, two craft sticks, markers, cra
 - Use markers to draw “flight paths” for the dragonflies (3).
 - Encourage children to share what they learned about the globe skimmer dragonfly with a friend, pointing to Jesus as the Creator.
 
-![1](10a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/10/10a.png)
 
-![2](10b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/10/10b.png)
 
-![3](10c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/10/10c.png)

@@ -7,9 +7,9 @@ markdownTitle: '^[Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 Print the pictures from the Alive in Jesus website, www.aliveinjesus.info.
 
-![](childrens-faces-01.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/06/childrens-faces-01.png)
 
-![](childrens-faces-02.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/06/childrens-faces-02.png)
 
 ```
 
@@ -17,6 +17,6 @@ Print the pictures from the Alive in Jesus website, www.aliveinjesus.info.
 
 Print the template from the Alive in Jesus website, www.aliveinjesus.info.
 
-![](template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/06/template.png)
 
 ```

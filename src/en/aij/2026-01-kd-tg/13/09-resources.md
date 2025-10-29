@@ -5,12 +5,12 @@ markdownTitle: '^[Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 ```=Memory Verse Stars
 
-![](memory-verse-stars.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/13/memory-verse-stars.png)
 
 ```
 
 ```=Abraham and Sarah Pictures
 
-![](template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/13/template.png)
 
 ```

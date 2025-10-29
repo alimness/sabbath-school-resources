@@ -21,8 +21,11 @@ Blue and green play-dough, paper or plastic plates and nature items (e.g., small
 - Pat down and roll out the play-dough onto the plate (2).
 - Create Adam and Eve in the Garden with the nature/craft items, pressing them into the play-dough to create the scene (3).
 
-![1](2a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/2a.png)
 
-![2](2b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/2b.png)
 
-![3](2c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/2c.png)

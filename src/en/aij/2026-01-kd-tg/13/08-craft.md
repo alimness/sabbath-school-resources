@@ -25,8 +25,11 @@ Black paper, chalk, colored paper, silver star stickers (if available), week 13 
 - Color in memory verse star and glue onto page (3).
 - Add silver star stickers (if using) (3).
 
-![1](13a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/13/13a.png)
 
-![2](13b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/13/13b.png)
 
-![3](13c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/13/13c.png)

@@ -22,6 +22,6 @@ Read the following scenarios and have children identify whether it was a good ch
 
 Print the template from the Alive in Jesus website, www.aliveinjesus.info.
 
-![](face-emotions.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/05/face-emotions.png)
 
 ```

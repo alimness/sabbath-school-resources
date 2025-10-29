@@ -40,16 +40,16 @@ Thank You, God, for making us so special!
 
 ```=Posters
 
-![](nature-lesson-01.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/nature-lesson-01.png)
 
-![](nature-lesson-02.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/nature-lesson-02.png)
 
-![](nature-lesson-03.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/nature-lesson-03.png)
 
-![](nature-lesson-04.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/nature-lesson-04.png)
 
-![](nature-lesson-05.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/nature-lesson-05.png)
 
-![](nature-lesson-06.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/02/nature-lesson-06.png)
 
 ```

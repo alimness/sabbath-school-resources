@@ -17,7 +17,7 @@ Show the photo of the ground squirrel.
 
 ```=Ground Squirrel
 
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/12/nature-lesson.png)
 
 ```
 

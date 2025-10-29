@@ -7,7 +7,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 Hanging Heart Nature Mobile
 
-![Sample](1d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/003-quarterly-crafts/1d.png)
 
 Resources/supplies: Cardboard heart shape, string, a variety of nature items you have collected, tape, scissors, craft glue (optional).
 
@@ -17,7 +17,7 @@ Resources/supplies: Cardboard heart shape, string, a variety of nature items you
 
 Play-dough Garden Scene With Adam and Eve
 
-![Sample](2c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/003-quarterly-crafts/2c.png)
 
 Resources/supplies: Blue and green playdough, paper or plastic plates, nature items (e.g., small sticks, tree nuts, small stones, leaves, flowers). If unable to access nature items, use craft supplies such as craft sticks, felt, pipe cleaners, paper.
 
@@ -27,7 +27,7 @@ Resources/supplies: Blue and green playdough, paper or plastic plates, nature it
 
 Sabbath Vase Picture
 
-![Sample](3d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/003-quarterly-crafts/3d.png)
 
 Resources/supplies: White cardstock, green paper strips, colored fabrics, colored tissue paper, craft glue, and scissors. Option 2: small glass jars, acrylic paints, paintbrush, water, and smocks (to cover clothing).
 
@@ -37,7 +37,7 @@ Resources/supplies: White cardstock, green paper strips, colored fabrics, colore
 
 Sunflower
 
-![Sample](4d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/003-quarterly-crafts/4d.png)
 
 Resources/supplies: Paper plate, large craft stick or cardboard tube, yellow and green paint or crayons, nontoxic craft glue, tape, sunflower seeds.
 
@@ -47,7 +47,7 @@ Resources/supplies: Paper plate, large craft stick or cardboard tube, yellow and
 
 Standing Trees (Before Sin/After Sin)
 
-![Sample](5e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/003-quarterly-crafts/5e.png)
 
 Resources/supplies: Week 5 craft template, cardboard tube, two small paper plates, green and brown crepe/tissue paper, colored pencils, scissors, and glue/stapler.
 
@@ -57,7 +57,7 @@ Resources/supplies: Week 5 craft template, cardboard tube, two small paper plate
 
 Card
 
-![Sample](6d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/003-quarterly-crafts/6d.png)
 
 Resources/supplies: Cardstock, watercolor paints or markers, paper towel or napkin squares, paintbrush.
 
@@ -67,7 +67,7 @@ Resources/supplies: Cardstock, watercolor paints or markers, paper towel or napk
 
 Talking Noah
 
-![Sample](7d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/003-quarterly-crafts/7d.png)
 
 Resources/supplies: Cardboard tube, colored fabric, rubber band, ribbon or string, red paper, cotton ball, craft stick, googly eyes, craft glue, and scissors.
 
@@ -77,7 +77,7 @@ Resources/supplies: Cardboard tube, colored fabric, rubber band, ribbon or strin
 
 Rainbow Pop-up
 
-![Sample](8f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/003-quarterly-crafts/8f.png)
 
 Resources/supplies: Week 8 craft template, sheet of blue cardstock, colored markers, scissors, glue.
 
@@ -87,7 +87,7 @@ Resources/supplies: Week 8 craft template, sheet of blue cardstock, colored mark
 
 Paper People From Different Countries
 
-![Sample](9c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/003-quarterly-crafts/9c.png)
 
 Resources/supplies: Paper people cutouts, craft glue, scissors, craft sticks, fabric/colored paper, tape, scissors, pictures of children from different countries for inspiration.
 
@@ -97,7 +97,7 @@ Resources/supplies: Paper people cutouts, craft glue, scissors, craft sticks, fa
 
 Globe Skimmer Dragonfly
 
-![Sample](10c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/003-quarterly-crafts/10c.png)
 
 Resources/supplies: Sheet of paper, narrow leaves you have collected, two craft sticks, markers, craft glue, googly eyes (if available), pipe cleaner/chenille stem.
 
@@ -107,7 +107,7 @@ Resources/supplies: Sheet of paper, narrow leaves you have collected, two craft 
 
 Paper Plate Honoring Crown
 
-![Sample](11d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/003-quarterly-crafts/11d.png)
 
 Resources/supplies: Extra-large paper plates, scissors, markers, craft glue, sticker jewels or printable jewels and shapes cut out of paper or contact paper.
 
@@ -117,7 +117,7 @@ Resources/supplies: Extra-large paper plates, scissors, markers, craft glue, sti
 
 Create and Decorate a Tithe Envelope
 
-![Sample](12e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/003-quarterly-crafts/12e.png)
 
 Resources/supplies: Sheet of colored paper, stickers and colored shapes, markers, tape, scissors, and ribbon or string.
 
@@ -127,7 +127,7 @@ Resources/supplies: Sheet of colored paper, stickers and colored shapes, markers
 
 Starry Sky Picture
 
-![Sample](13c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/003-quarterly-crafts/13c.png)
 
 Resources/supplies: Black paper, chalk, colored paper, silver star stickers (if available), week 13 craft templates, glue.
 
