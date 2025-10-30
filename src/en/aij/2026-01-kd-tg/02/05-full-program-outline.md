@@ -80,7 +80,7 @@ Invite a few children to follow the footprints to find the **Creation Posters** 
 - **Do you remember what God created on the first five days?** (Point to each of the five posters.)
 - **Why did God create all these amazing things?** (Our loving God created them as gifts to be enjoyed by the people He was about to create.)
 
-**[SHARE:]({"style": {"text": {"color":"#649B7C"}}})** On Day 6 God created something more. Do you know what He created? Let’s find out . . .
+**^[SHARE:]({"style": {"text": {"color":"#649B7C"}}})** On Day 6 God created something more. Do you know what He created? Let’s find out . . .
 
 {"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **TELL THE STORY** (10 MINUTES)

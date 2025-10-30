@@ -33,7 +33,7 @@ subtitle: Week 3
 - Share a **^[Mission Fast Fact]({"style": {"text": {"color":"#E6B349"}}})**.
 - Collect offering and sing **^[“For Jesus.”]({"style": {"text": {"color":"#E6B349"}}})** Show and color **^[Offering Chart]({"style": {"text": {"color":"#E6B349"}}})**.
 - Sing **^[“Let’s Pray”]({"style": {"text": {"color":"#E6B349"}}})** before praying.
-- **^-“The Greatest Treasure.”({"style": {"text": {"color":"#E6B349"}}})** Child holds class Bible.
+- **^[“The Greatest Treasure.”]({"style": {"text": {"color":"#E6B349"}}})** Child holds class Bible.
 - **^[Memory Verse]({"style": {"text": {"color":"#E6B349"}}})** and **^[Scripture Song]({"style": {"text": {"color":"#E6B349"}}})**: “Remember the Sabbath day, to keep it holy” (Exodus 20:8).
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}

@@ -34,6 +34,7 @@ Print **^[Nature Card 2: Our Amazing Bodies]({"style": {"text": {"color": "#58B0
 
 {"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 Source a **ball of blue or green play-dough** for each child, as well as **paper or plastic plates, nature items** (e.g., small sticks, tree nuts, small stones, leaves, and flowers).
+
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
