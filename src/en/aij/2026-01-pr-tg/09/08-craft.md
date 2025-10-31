@@ -14,7 +14,7 @@ Week 9 template (ideally printed on white cardstock), orange and brown paper (cu
 
 ```=Craft Template
 
-![](craft-template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/09/craft-template.png)
 
 ```
 

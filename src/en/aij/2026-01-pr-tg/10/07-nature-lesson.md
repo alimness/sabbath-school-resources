@@ -11,6 +11,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58b0e3"}}})'
 - **Have you ever wondered how much fun it would be to fly from tree to tree?**
 - **Let’s find out about a little animal called a sugar glider that can do just that.** ^[(Show picture.)]({"style": {"text": {"color":"#d34d5e"}}})
 
+{"style":{"image":{"aspectRatio":1.563}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/10/nature-lesson.png)
 
 Sugar gliders are clever little tree-dwelling mammals that look a bit like flying possums. When the trees are too far apart for them to scramble between the branches, they hurl themselves into the air and spread out their legs. A flap of loose skin between their front and back legs creates a cupped surface that catches the air and helps the glider sail to another tree. It can glide as far as 150 feet (almost 46 meters).

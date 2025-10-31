@@ -11,6 +11,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58b0e3"}}})'
 - **Have you ever seen a full moon in the night sky?**
 - **Let’s find out what an eclipse of the moon is and what it can teach us.** ^[(Show picture.)]({"style": {"text": {"color":"#d34d5e"}}})
 
+{"style":{"image":{"aspectRatio":1.272}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/06/nature-lesson.png)
 
 Elaine Egbert stepped outside to check the full moon. This is what she saw.

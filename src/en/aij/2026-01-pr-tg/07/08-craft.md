@@ -27,7 +27,8 @@ Week 7 craft template on white cardstock, four split pins, colored pencils, scis
 
 - Color pictures and cut out.
 
-![](7b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/07/7b.png)
 
 - Carefully poke holes through each dot, using a pen or sharp pencil.
 - Attach split pin through each hole as shown.
@@ -37,7 +38,8 @@ Week 7 craft template on white cardstock, four split pins, colored pencils, scis
 
 - Glue the people to the background, only up to the middle of the log and under the holes.
 
-![](7d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/07/7d.png)
 
 - Move the tab up and down to make the men saw the log!
 
