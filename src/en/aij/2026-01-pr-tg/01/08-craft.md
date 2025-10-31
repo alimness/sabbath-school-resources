@@ -12,7 +12,7 @@ Week 1 craft template on white cardstock, crayons, nature stickers, marker, penc
 
 ```=Craft Template
 
-![](craft-template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/01/craft-template.png)
 
 ```
 
@@ -24,14 +24,20 @@ Week 1 craft template on white cardstock, crayons, nature stickers, marker, penc
 - Carefully push a sharp pencil through the center of your circle (4).
 - Play a game with your spinner. Take turns with a friend to spin (5). Whatever number the pencil is pointing to when it stops (6), share something that God made on that day of Creation!
 
-![](1a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/01/1a.png)
 
-![](1b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/01/1b.png)
 
-![](1c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/01/1c.png)
 
-![](1d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/01/1d.png)
 
-![](1e.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/01/1e.png)
 
-![](1f.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/01/1f.png)

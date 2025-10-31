@@ -10,7 +10,7 @@ Creation Bookmark
 
 ```=Craft Template
 
-![](craft-template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/02/craft-template.png)
 
 ```
 
@@ -24,14 +24,20 @@ Creation Bookmark
 
 Alternatively, have the children use play-dough or modeling clay to sculpt something (object or scene) to represent each of the six days of Creation.
 
-![1](2a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/02/2a.png)
 
-![2](2b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/02/2b.png)
 
-![3](2c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/02/2c.png)
 
-![4](2d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![4](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/02/2d.png)
 
-![5](2e.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![5](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/02/2e.png)
 
-![6](2f.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![6](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/02/2f.png)

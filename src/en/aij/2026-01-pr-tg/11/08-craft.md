@@ -12,13 +12,13 @@ Choosing First Pop-up
 
 ```=Craft Template
 
-![](craft-template-01.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/11/craft-template-01.png)
 
-![](craft-template-02.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/11/craft-template-02.png)
 
-![](craft-template-03.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/11/craft-template-03.png)
 
-![](craft-template-04.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/11/craft-template-04.png)
 
 ```
 
@@ -29,18 +29,25 @@ Choosing First Pop-up
 - Glue the tabs on the right-hand side of each picture and stick to the card, as shown (4).
 - Then glue the tabs on the left-hand side and close the card to stick (5).
 
-![1](11a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/11/11a.png)
 
-![2](11b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/11/11b.png)
 
-![3](11c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/11/11c.png)
 
-![4](11d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![4](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/11/11d.png)
 
-![5](11e.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![5](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/11/11e.png)
 
-![6](11f.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![6](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/11/11f.png)
 
-![](11g.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/11/11g.png)
 
 _Craft by Kimanh le Roux, A Sketch of Faith. www.asketchoffaith.com. Used by permission._

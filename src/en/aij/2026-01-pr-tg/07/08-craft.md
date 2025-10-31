@@ -10,9 +10,9 @@ Ark Builders
 
 ```=Craft Template
 
-![](craft-template-01.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/07/craft-template-01.png)
 
-![](craft-template-02.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/07/craft-template-02.png)
 
 ```
 
@@ -24,15 +24,18 @@ Ark Builders
 - Glue the people to the background, only up to the middle of the log and under the holes (4).
 - Move the tab up and down to make the men saw the log!
 
-![1](7a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/07/7a.png)
 
 ![2](7b.jppg)
 
-![3](7c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/07/7c.png)
 
 ![4](7d.png)
 
-![](7e.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/07/7e.png)
 
 _Craft by Kimanh le Roux, A Sketch of Faith. www.asketchoffaith.com. Used by permission._
 
@@ -52,8 +55,11 @@ Craft Stick Ark
 - Build your ark 10-15 craft sticks high, making sure to overlap each time, so there is a slight gap between each craft stick above and below (3).
 - Once dry, cut the excess cardboard off around the base and enjoy playing with your ark! (3)
 
-![1](7b1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/07/7b1.png)
 
-![2](7b2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/07/7b2.png)
 
-![3](7b3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/07/7b3.png)

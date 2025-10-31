@@ -12,7 +12,7 @@ subtitle: Week 1
 
 **^[LISTEN:]({"style": {"text": {"color":"#4d4d4f"}}})** Play the song **“When God Speaks”** or worship songs of your choice quietly in the background.
 
-!a[when-god-speaks.mp3] “When God Speaks”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/when-god-speaks.mp3] “When God Speaks”
 
 **^[CONNECT:]({"style": {"text": {"color":"#4d4d4f"}}})** Warmly acknowledge children by name as they arrive. Interact with them in a personal way.
 
@@ -29,19 +29,19 @@ subtitle: Week 1
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Sing **“God Is Our Creator.”** Introduce the song **“Be Still, Be Silent”** and explain that you will sing it each week before you pray. Listen to it and follow along with the words (printed or displayed digitally).
 
-!a[god-is-our-creator.mp3] “God Is Our Creator”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-our-creator.mp3] “God Is Our Creator”
 
-!a[be-still-be-silent.mp3] “Be Still, Be Silent”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/be-still-be-silent.mp3] “Be Still, Be Silent”
 
 **^[PRAY:]({"style": {"text": {"color":"#d34d5e"}}})** Ask God to be close to you and the children as you learn more about Him in Sabbath School this quarter.
 
 **^[BIBLE FOCUS:]({"style": {"text": {"color":"#d34d5e"}}})** Introduce and listen to **“The Books of the Bible”** song. Display a list of the books of the Bible as the children listen. This song will be sung each week this quarter. Explain that learning the books of the Bible in order helps us find Bible verses quickly when we use our Bibles. Share a **Bible Fast Fact**. The Bible has two parts: the Old Testament and the New Testament. “Testament” means agreement, or covenant. The Old Testament was written before Jesus came to earth, and the New Testament was written after Jesus went back to heaven. They show the agreement God has made with us, His people.
 
-!a[books-of-the-bible.mp3] “The Books of the Bible”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3] “The Books of the Bible”
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering as you all sing **“Thank You, Jesus.”** Later, after the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter. Then share this week’s **Mission Fast Fact** about this quarter’s mission project. Say a short prayer for God to bless and take the offering to where it’s most needed.
 
-!a[thank-you-jesus.mp3] “Thank You Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3] “Thank You Jesus”
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
@@ -101,7 +101,7 @@ Everything God created tells us of Him in some way.
 
 **^[MEMORY VERSE:]({"style": {"text": {"color":"#a771b0"}}})** Give each child **Character Card 1: Creator God** to place in their container (or on their key ring). Explain that they will receive one card each week they come to Sabbath School. Discuss the picture and have the children recite the memory verse. Then sing the **Scripture Song: “Romans 1:20.”**
 
-!a[1-romans-1-20.mp3] “Romans 1:20”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3] “Romans 1:20”
 
 - **What does the memory verse tell you about God? What helps us to understand what He is like?**
 
@@ -118,11 +118,11 @@ Everything God created tells us of Him in some way.
 
 Quietly play **“When God Speaks”** while children complete their craft. Draw attention to the parts that relate to the creation story.
 
-!a[when-god-speaks.mp3] “When God Speaks”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/when-god-speaks.mp3] “When God Speaks”
 
 **^[SING:]({"style": {"text": {"color":"#a771b0"}}})** Bring children back together and sing the closing song **“God Bless You.”**
 
-!a[god-bless-you.mp3] “God Bless You”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3] “God Bless You”
 
 **^[MISSION CHALLENGE:]({"style": {"text": {"color":"#a771b0"}}}) Use the color wheel spinner you made at Sabbath School to tell your parents/caregivers about what you’ve learned about Creation.**
 

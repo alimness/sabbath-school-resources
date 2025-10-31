@@ -10,13 +10,13 @@ Christian Hospitality Coloring Book
 
 ```=Craft Template
 
-![](craft-template-01.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/13/craft-template-01.png)
 
-![](craft-template-02.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/13/craft-template-02.png)
 
-![](craft-template-03.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/13/craft-template-03.png)
 
-![](craft-template-04.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/13/craft-template-04.png)
 
 ```
 
@@ -26,18 +26,25 @@ Christian Hospitality Coloring Book
 - Cut around each rectangle (4).
 - Arrange in order and staple together (4-5).
 
-![1](13a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/13/13a.png)
 
-![2](13b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/13/13b.png)
 
-![3](13c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/13/13c.png)
 
-![4](13d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![4](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/13/13d.png)
 
-![5](13e.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![5](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/13/13e.png)
 
-![6](13f.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![6](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/13/13f.png)
 
-![](13g.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/13/13g.png)
 
 _Craft by Kimanh le Roux, A Sketch of Faith. www.asketchoffaith.com. Used by permission._

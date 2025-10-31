@@ -12,7 +12,7 @@ subtitle: Week 3
 
 **^[LISTEN:]({"style": {"text": {"color":"#4d4d4f"}}})** Play the song **“When God Speaks”** or worship songs of your choice quietly in the background.
 
-!a[when-god-speaks.mp3] “When God Speaks”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/when-god-speaks.mp3] “When God Speaks”
 
 **^[CONNECT:]({"style": {"text": {"color":"#4d4d4f"}}})** Greet the children warmly as they arrive. Introduce church members who have brought in different nature treasures.
 
@@ -25,17 +25,17 @@ subtitle: Week 3
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Sing **“God Is Our Creator”** and “Be Still, Be Silent.”
 
-!a[god-is-our-creator.mp3] “God Is Our Creator”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-our-creator.mp3] “God Is Our Creator”
 
 **^[PRAY:]({"style": {"text": {"color":"#d34d5e"}}})** Invite two children to pray, thanking God for the Sabbath.
 
 **^[BIBLE FOCUS:]({"style": {"text": {"color":"#d34d5e"}}})** Listen to and learn **“The Books of the Bible”** song. Share the **Bible Fast Fact:** Moses wrote the first five books of the Bible. **Ask:** Who can name them in order? (Genesis; Exodus; Leviticus; Numbers; Deuteronomy.) These books are called the Torah or the Pentateuch.
 
-!a[books-of-the-bible.mp3] “The Books of the Bible”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3] “The Books of the Bible”
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering as you all sing **“Thank You, Jesus.”** Later, after the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter. Then share this week’s **Mission Fast Fact** about this quarter’s mission project. Say a short prayer for God to bless and take the offering to where it’s most needed.
 
-!a[thank-you-jesus.mp3] “Thank You, Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3] “Thank You, Jesus”
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
@@ -78,7 +78,7 @@ Read the **Big Idea** together: **God gave us the Sabbath, a very special day to
 
 **^[MEMORY VERSE:]({"style": {"text": {"color":"#a771b0"}}})** Give each child **Character Card 3: The Sabbath** to place in their container. Discuss the picture and recite the memory verse together. Then sing the longer **Scripture Song, “Exodus 20:8-11.”**
 
-!a[3-exodus-20-8-11.mp3] “Exodus 20:8-11”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3] “Exodus 20:8-11”
 
 - **What’s special about the Sabbath day and why?** Invite children to stand and share their answer to this question with two other people. (Ring a bell after one minute to indicate they should swap partners, and then again after the second minute to bring the children back together.)
 
@@ -97,7 +97,7 @@ If time allows, show the children several ways we can **find out what time the s
 
 **^[SING:]({"style": {"text": {"color":"#a771b0"}}})** Bring children back together to sing the closing song, **“God Bless You.”** Remind the children that we’ll worship God and celebrate Sabbath together in heaven. Won’t that be awesome?!
 
-!a[god-bless-you.mp3] “God Bless You”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3] “God Bless You”
 
 **^[RESPOND:]({"style": {"text": {"color":"#a771b0"}}})** Our loving God has given us a very special invitation to spend time with Him today and every Sabbath.
 

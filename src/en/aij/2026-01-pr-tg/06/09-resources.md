@@ -5,6 +5,6 @@ markdownTitle: '^[Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 ```=Lamb Cards
 
-![](lamb-cards.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/06/lamb-cards.png)
 
 ```

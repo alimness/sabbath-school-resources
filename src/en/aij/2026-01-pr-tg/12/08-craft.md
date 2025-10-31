@@ -18,14 +18,20 @@ Frog Puppet
 - Frog tongue: cut a strip of red paper and wind around your finger to create a coil. Glue inside the mouth, half sticking out (4).
 - Frog legs: cut four strips of green paper, folding each one both ways so they “spring.” Glue to the bottom of the puppet (5).
 
-![1](12a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/12/12a.png)
 
-![2](12b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/12/12b.png)
 
-![3](12c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/12/12c.png)
 
-![4](12d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![4](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/12/12d.png)
 
-![5](12e.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![5](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/12/12e.png)
 
-![6](12f.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![6](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/12/12f.png)

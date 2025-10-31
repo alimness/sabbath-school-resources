@@ -13,7 +13,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58b0e3"}}})'
 
 ```=Cheetah
 
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/08/nature-lesson.png)
 
 ```
 

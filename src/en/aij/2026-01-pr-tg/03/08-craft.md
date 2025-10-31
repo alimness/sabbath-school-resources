@@ -12,9 +12,9 @@ Week 3 craft template on white cardstock, colored pencils, split pin, scissors (
 
 ```=Craft Template
 
-![](craft-template-01.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/craft-template-01.png)
 
-![](craft-template-02.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/craft-template-02.png)
 
 ```
 
@@ -25,14 +25,19 @@ Week 3 craft template on white cardstock, colored pencils, split pin, scissors (
 - Place the Sabbath circle over the full circle and push a split pin through the center (3).
 - Rotate them to show the passing of time—from sunset to sunset (4).
 
-![1](3a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/3a.png)
 
-![2](3b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/3b.png)
 
-![3](3c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/3c.png)
 
-![4](3d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![4](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/3d.png)
 
-![](3e.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/3e.png)
 
 _Craft by Kimanh le Roux, A Sketch of Faith. www.asketchoffaith.com. Used by permission._

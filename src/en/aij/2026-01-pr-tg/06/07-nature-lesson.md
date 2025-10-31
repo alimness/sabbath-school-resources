@@ -13,7 +13,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58b0e3"}}})'
 
 ```=Eclipse of the Moon
 
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/06/nature-lesson.png)
 
 ```
 

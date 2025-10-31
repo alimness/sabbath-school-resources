@@ -7,7 +7,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 Color Wheel
 
-![Sample](1f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/002-craft-resources/1f.png)
 
 Resources/supplies: Week 1 craft template on white cardstock, crayons, nature stickers, marker, pencil, scissors.
 
@@ -17,7 +17,7 @@ Resources/supplies: Week 1 craft template on white cardstock, crayons, nature st
 
 Creation Bookmark
 
-![Sample](2f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/002-craft-resources/2f.png)
 
 Resources/supplies: Week 2 craft template on white cardstock, colored pencils, scissors, glue.
 
@@ -27,7 +27,7 @@ Resources/supplies: Week 2 craft template on white cardstock, colored pencils, s
 
 Sunset-to Sunset-Spinner
 
-![Sample](3d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/002-craft-resources/3d.png)
 
 Resources/supplies: Week 3 craft template on white cardstock, colored pencils, split pins, scissors.
 
@@ -37,7 +37,7 @@ Resources/supplies: Week 3 craft template on white cardstock, colored pencils, s
 
 Good Choices Chatterbox
 
-![Sample](4f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/002-craft-resources/4f.png)
 
 Resources/supplies: Week 4 craft template, colored pencils, scissors.
 
@@ -47,7 +47,7 @@ Resources/supplies: Week 4 craft template, colored pencils, scissors.
 
 Storytelling Cube
 
-![Sample](5c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/002-craft-resources/5c.png)
 
 Resources/supplies: Week 5 craft template on white cardstock, scissors, glue.
 
@@ -57,7 +57,7 @@ Resources/supplies: Week 5 craft template on white cardstock, scissors, glue.
 
 Stone Altar
 
-![Sample](6c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/002-craft-resources/6c.png)
 
 Resources/supplies: Week 6 craft template, colored pencils/crayons, cotton balls, orange cellophane/tissue paper, glue.
 
@@ -67,13 +67,13 @@ Resources/supplies: Week 6 craft template, colored pencils/crayons, cotton balls
 
 **Option 1:** Ark Builders
 
-![Sample](7e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/002-craft-resources/7e.png)
 
 Resources/supplies: Week 7 craft template on white cardstock, split pins, colored pencils, scissors, glue.
 
 **Option 2:** Craft Stick Ark
 
-![Sample](7b3.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/002-craft-resources/7b3.png)
 
 Resources/supplies: A piece of thick cardboard, craft sticks, craft glue, scissors.
 
@@ -83,7 +83,7 @@ Resources/supplies: A piece of thick cardboard, craft sticks, craft glue, scisso
 
 Promise and Protection Spinner
 
-![Sample](8c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/002-craft-resources/8c.png)
 
 Resources/supplies: Week 8 craft template, colored pencils, split pins, scissors.
 
@@ -93,7 +93,7 @@ Resources/supplies: Week 8 craft template, colored pencils, split pins, scissors
 
 Tower of Babel
 
-![Sample](9f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/002-craft-resources/9f.png)
 
 Resources/supplies: Week 9 craft template (ideally printed on white cardstock), orange and brown paper (cut into small rectangles), scissors, glue.
 
@@ -103,7 +103,7 @@ Resources/supplies: Week 9 craft template (ideally printed on white cardstock), 
 
 Starry Sky Picture
 
-![Sample](10d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/002-craft-resources/10d.png)
 
 Resources/supplies: A sheet of white cardstock, black paper, white crayon, watercolor paints, paintbrush, water, scissors, glue.
 
@@ -113,7 +113,7 @@ Resources/supplies: A sheet of white cardstock, black paper, white crayon, water
 
 Choosing First Pop-up
 
-![Sample](11f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/002-craft-resources/11f.png)
 
 Resources/supplies: Week 11 craft template on white cardstock, colored pencils/crayons, scissors, glue.
 
@@ -123,7 +123,7 @@ Resources/supplies: Week 11 craft template on white cardstock, colored pencils/c
 
 Frog Puppet
 
-![Sample](12f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/002-craft-resources/12f.png)
 
 Resources/supplies: Two paper plates, stapler, green cellophane/tissue paper, colored paper (white, black, red, and green), scissors, glue, marker.
 
@@ -133,7 +133,7 @@ Resources/supplies: Two paper plates, stapler, green cellophane/tissue paper, co
 
 Christian Hospitality Coloring Book
 
-![Sample](13f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/002-craft-resources/13f.png)
 
 Week 13 craft template (two pages printed double-sided), colored pencils, scissors, stapler.
 

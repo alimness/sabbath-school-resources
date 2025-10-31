@@ -17,14 +17,20 @@ Week 9 template (ideally printed on white cardstock), orange and brown paper (cu
 - Cut along each dotted line (5).
 - Unfold the page, then refold every second row in the middle and along the edges. This will make each second row stand out (6).
 
-![1](9a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/09/9a.png)
 
-![2](9b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/09/9b.png)
 
-![3](9c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/09/9c.png)
 
-![4](9d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![4](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/09/9d.png)
 
-![5](9e.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![5](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/09/9e.png)
 
-![6](9f.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![6](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/09/9f.png)

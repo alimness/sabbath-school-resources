@@ -12,7 +12,7 @@ Week 6 craft template, colored pencils/crayons, cotton balls, red or orange cell
 
 ```=Craft Template
 
-![](craft-template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/06/craft-template.png)
 
 ```
 
@@ -22,8 +22,11 @@ Week 6 craft template, colored pencils/crayons, cotton balls, red or orange cell
 - Glue cotton balls onto the lamb (3).
 - Glue orange cellophane or scrunched-up tissue paper above the lamb (3).
 
-![1](6a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/06/6a.png)
 
-![2](6b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/06/6b.png)
 
-![3](6c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/06/6c.png)

@@ -14,31 +14,31 @@ subtitle: Week 8
 
 ```=Scripture Songs
 
-!a[1-romans-1-20.mp3] “Romans 1:20”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3] “Romans 1:20”
 
-!a[2-genesis-1-27.mp3] “Genesis 1:27”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3] “Genesis 1:27”
 
-!a[3-exodus-20-8-11.mp3] “Exodus 20:8-11”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3] “Exodus 20:8-11”
 
-!a[4-job-34-4.mp3] “Job 34:4”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/4-job-34-4.mp3] “Job 34:4”
 
-!a[5-psalm-86-5.mp3] “Psalm 86:5”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/5-psalm-86-5.mp3] “Psalm 86:5”
 
-!a[6-john-14-23.mp3] “John 14:23”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/6-john-14-23.mp3] “John 14:23”
 
-!a[7-deuteronomy-7-9.mp3] “Deuteronomy 7:9”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/7-deuteronomy-7-9.mp3] “Deuteronomy 7:9”
 
-!a[8-psalm-57-1.mp3] “Psalm 57:1”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/8-psalm-57-1.mp3] “Psalm 57:1”
 
-!a[9-psalm-71-1.mp3] “Psalm 71:1”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/9-psalm-71-1.mp3] “Psalm 71:1”
 
-!a[10-isaiah-30-21.mp3] “Isaiah 30:21”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/10-isaiah-30-21.mp3] “Isaiah 30:21”
 
-!a[11-jeremiah-31-14.mp3] “Jeremiah 31:14”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/11-jeremiah-31-14.mp3] “Jeremiah 31:14”
 
-!a[12-galatians-6-9.mp3] “Galatians 6:9”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/12-galatians-6-9.mp3] “Galatians 6:9”
 
-!a[13-hebrews-10-23.mp3] “Hebrews 10:23”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/13-hebrews-10-23.mp3] “Hebrews 10:23”
 
 ```
 
@@ -53,19 +53,19 @@ subtitle: Week 8
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Sing **“God Is My Faithful Friend.”** Sing the prayer song **“Sabbath Song.”**
 
-!a[god-is-my-faithful-friend.mp3] “God Is My Faithful Friend”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-my-faithful-friend.mp3] “God Is My Faithful Friend”
 
-!a[sabbath-song.mp3] “Sabbath Song”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/sabbath-song.mp3] “Sabbath Song”
 
 **^[PRAY:]({"style": {"text": {"color":"#d34d5e"}}})** Have the children form a **circle** and each thank God for one thing in a group prayer. Close by thanking God for the children and their grateful hearts.
 
 **^[BIBLE FOCUS:]({"style": {"text": {"color":"#d34d5e"}}})** Sing **“The Books of the Bible.”** Share the **Bible Fast Fact:** The Bible writers came from many different backgrounds: a shepherd, a king, people who worked in a palace, fishermen, a doctor, and many others. God used all kinds of people to share His messages, and He still does this today.
 
-!a[books-of-the-bible.mp3] “The Books of the Bible”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3] “The Books of the Bible”
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering as you all sing **“Thank You, Jesus.”** Later, after the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter. Then share this week’s **Mission Fast Fact** about this quarter’s mission project. Say a short prayer for God to bless and take the offering to where it’s most needed.
 
-!a[thank-you-jesus.mp3] “Thank You, Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3] “Thank You, Jesus”
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
@@ -105,7 +105,7 @@ His many colorful blessings.
 
 **^[MEMORY VERSE:]({"style": {"text": {"color":"#a771b0"}}})** Give each child **Character Card 8: Rainbow Promise** to place in their container. Discuss the picture and have the children recite the **memory verse** together. Sing the **Scripture Song, “Psalm 57:1.”** Invite them to stand and create actions to accompany the verse.
 
-!a[8-psalm-57-1.mp3] “Psalm 57:1”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/8-psalm-57-1.mp3] “Psalm 57:1”
 
 **^[APPLY:]({"style": {"text": {"color":"#a771b0"}}})**
 
@@ -123,37 +123,37 @@ Play the quarterly **Scripture Song playlist** quietly in the background as the 
 
 ```=Scripture Songs
 
-!a[1-romans-1-20.mp3] “Romans 1:20”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3] “Romans 1:20”
 
-!a[2-genesis-1-27.mp3] “Genesis 1:27”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3] “Genesis 1:27”
 
-!a[3-exodus-20-8-11.mp3] “Exodus 20:8-11”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3] “Exodus 20:8-11”
 
-!a[4-job-34-4.mp3] “Job 34:4”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/4-job-34-4.mp3] “Job 34:4”
 
-!a[5-psalm-86-5.mp3] “Psalm 86:5”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/5-psalm-86-5.mp3] “Psalm 86:5”
 
-!a[6-john-14-23.mp3] “John 14:23”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/6-john-14-23.mp3] “John 14:23”
 
-!a[7-deuteronomy-7-9.mp3] “Deuteronomy 7:9”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/7-deuteronomy-7-9.mp3] “Deuteronomy 7:9”
 
-!a[8-psalm-57-1.mp3] “Psalm 57:1”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/8-psalm-57-1.mp3] “Psalm 57:1”
 
-!a[9-psalm-71-1.mp3] “Psalm 71:1”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/9-psalm-71-1.mp3] “Psalm 71:1”
 
-!a[10-isaiah-30-21.mp3] “Isaiah 30:21”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/10-isaiah-30-21.mp3] “Isaiah 30:21”
 
-!a[11-jeremiah-31-14.mp3] “Jeremiah 31:14”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/11-jeremiah-31-14.mp3] “Jeremiah 31:14”
 
-!a[12-galatians-6-9.mp3] “Galatians 6:9”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/12-galatians-6-9.mp3] “Galatians 6:9”
 
-!a[13-hebrews-10-23.mp3] “Hebrews 10:23”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/13-hebrews-10-23.mp3] “Hebrews 10:23”
 
 ```
 
 **^[SING:]({"style": {"text": {"color":"#a771b0"}}})** Bring children back together to sing **“God Bless You.”**
 
-!a[god-bless-you.mp3] “God Bless You”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3] “God Bless You”
 
 **^[MISSION CHALLENGE:]({"style": {"text": {"color":"#a771b0"}}}) Share last week’s lesson story and your craft spinner with a younger child this week.**
 

@@ -10,7 +10,7 @@ Good Choices Chatterbox
 
 ```=Craft Template
 
-![](craft-template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/04/craft-template.png)
 
 ```
 
@@ -20,14 +20,20 @@ Good Choices Chatterbox
 - Cut around your chatterbox and fold according to instructions (3-6).
 - Invite someone to choose which word/number they want and read what’s inside. Then swap!
 
-![1](4a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/04/4a.png)
 
-![2](4b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/04/4b.png)
 
-![3: Fold opposite corners together, then unfold.](4c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3: Fold opposite corners together, then unfold.](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/04/4c.png)
 
-![4: Fold each corner into the middle.](4d.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![4: Fold each corner into the middle.](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/04/4d.png)
 
-![5: Flip over and fold each corner into the middle again.](4e.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![5: Flip over and fold each corner into the middle again.](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/04/4e.png)
 
-![6](4f.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![6](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/04/4f.png)

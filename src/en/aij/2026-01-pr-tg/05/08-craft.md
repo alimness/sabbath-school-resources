@@ -10,9 +10,9 @@ Storytelling Cube
 
 ```=Craft template
 
-![](craft-template-01.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/05/craft-template-01.png)
 
-![](craft-template-02.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/05/craft-template-02.png)
 
 ```
 
@@ -21,8 +21,11 @@ Storytelling Cube
 - Cut out your cube template (2).
 - Fold along the dotted lines and glue the flaps to create a cube (3).
 
-![1](5a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/05/5a.png)
 
-![2](5b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/05/5b.png)
 
-![3](5c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/05/5c.png)

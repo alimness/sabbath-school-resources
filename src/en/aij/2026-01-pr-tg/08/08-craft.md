@@ -10,7 +10,7 @@ Promise and Protection Spinner
 
 ```=Craft Template
 
-![](craft-template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/08/craft-template.png)
 
 ```
 
@@ -20,8 +20,11 @@ Promise and Protection Spinner
 - Cut out each circle (2).
 - Fasten the ark on top of the rainbow with a split pin or brad, so that it’s able to spin (2).
 
-![1](8a.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/08/8a.png)
 
-![2](8b.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/08/8b.png)
 
-![3](8c.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/08/8c.png)
