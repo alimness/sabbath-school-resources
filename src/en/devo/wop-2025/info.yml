@@ -1,7 +1,7 @@
 title: 2025 Week of Prayer
 kind: devotional
-subtitle: "Stargazing"
-description: "I Will Go and Proclaim Christ’s Second Coming!"
+subtitle: Stargazing
+description: I Will Go and Proclaim Christ’s Second Coming!
 primaryColor: '#192D41'
 primaryColorDark: '#112335'
 startDate: 01/11/2025
@@ -12,3 +12,12 @@ credits:
     value: John Bradshaw
   - name: Original Publication
     value: Adventist Review, Vol. 202, No. 17
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/wop-2025/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/wop-2025/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/wop-2025/assets/cover.png
+  splash: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/wop-2025/assets/splash.png
