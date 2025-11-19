@@ -27,4 +27,4 @@ _Kim Sun je nyní zástupcem ředitele organizace "1000 Missionary Movement", je
 
 _Více se dočtete příští týden._
 
-![Kim Sun](picture8.jpg)
+![Kim Sun](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-04/08/picture8.jpg)
