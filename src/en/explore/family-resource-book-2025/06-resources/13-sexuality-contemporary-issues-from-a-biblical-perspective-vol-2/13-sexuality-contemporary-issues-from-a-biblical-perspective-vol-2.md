@@ -2,6 +2,8 @@
 title: "Sexuality: Contemporary Issues from a Biblical Perspective, Vol 2"
 ---
 
+![](image.png)
+
 _Ekkehardt Mueller and Elias Brasil De Souza, Editors_
 
 _Biblical Research Insititute, 2022 643 pages_

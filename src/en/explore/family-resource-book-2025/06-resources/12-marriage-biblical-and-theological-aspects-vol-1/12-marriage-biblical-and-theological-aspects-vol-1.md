@@ -2,6 +2,8 @@
 title: "Marriage: Biblical and Theological Aspects, Vol 1"
 ---
 
+![](image.png)
+
 _Ekkehardt Mueller and Elias Brasil De Souza, Editors_
 
 _Biblical Research Institute. Review and Herald Publishing, 2015 304 pages_

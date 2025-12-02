@@ -2,6 +2,8 @@
 title: Humansexuality.org
 ---
 
+![](image.png)
+
 General Conference of Seventh-day Adventists
 
 Human sexuality is one of the most beautiful gifts ever given by God to His creation. Join us as we explore the magnificent beauty and profoundness of this gift to discover God’s love, truth, and life.

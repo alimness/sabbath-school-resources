@@ -2,6 +2,8 @@
 title: "Real Family Talk: Answers to Questions About Love, Marriage and Sex"
 ---
 
+![](image.png)
+
 _By Willie and Elaine Oliver_
 
 _Pacific Press® Publishing Association Nampa, Idaho, 2015_
