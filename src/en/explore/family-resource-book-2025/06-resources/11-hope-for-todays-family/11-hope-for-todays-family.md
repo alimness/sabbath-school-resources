@@ -2,8 +2,6 @@
 title: Hope for Today's Family
 ---
 
-![](image.png)
-
 _By Willie and Elaine Oliver_
 
 _Review and Herald Publishing Association, 2018 94 pages_

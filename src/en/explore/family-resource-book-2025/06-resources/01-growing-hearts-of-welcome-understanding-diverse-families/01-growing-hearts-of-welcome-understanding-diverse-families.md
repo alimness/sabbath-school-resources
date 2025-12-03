@@ -2,8 +2,6 @@
 title: "Growing Hearts of Welcome: Understanding Diverse Families"
 ---
 
-![](image.png)
-
 _Willie and Elaine Oliver, Editors_
 
 _Karen Holford, Principal Contributor_

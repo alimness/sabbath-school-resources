@@ -2,8 +2,6 @@
 title: Couple's Bible
 ---
 
-![](image.png)
-
 _Safeliz, 2019, 1,500 pages_
 
 The Couple’s Bible is designed to help build and nurture relationships. There are more than 170 topics that are divided into five sections focusing on how to strengthen marriage, and parenting relationships, as well as how to overcome challenges that couples face. Special features include:

@@ -2,8 +2,6 @@
 title: Living Fruitful Love
 ---
 
-![](image.png)
-
 _By Willie and Elaine Oliver, With Karen Holford_
 
 _Review and Herald® Publishing Association July, 2021, 26 pages_

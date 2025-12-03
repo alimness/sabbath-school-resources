@@ -2,8 +2,6 @@
 title: "Connected: Devotionals Readings for an Intimate Marriage"
 ---
 
-![](image.png)
-
 _By Willie and Elaine Oliver_
 
 _The Stanbourough Press Ltd., 2020 162 pages_

@@ -2,8 +2,6 @@
 title: "Family: With Contemporary Issues on Marriage and Parenting, Vol 3"
 ---
 
-![](image.png)
-
 _Ekkehardt Mueller and Elias Brasil De Souza, Editors_
 
 _Biblical Research Institute. Review and Herald Publishing, 2023 689 pages_
