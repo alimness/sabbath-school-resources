@@ -1,8 +1,8 @@
 title: Kindergarten Training Videos
 kind: blog
 subtitle: >-
-  For information about how to implement the Alive in Jesus Kindergarten Curriculum,
-  take a look at these training videos.
+  For information about how to implement the Alive in Jesus Kindergarten
+  Curriculum, take a look at these training videos.
 primaryColor: '#7D665F'
 primaryColorDark: '#6A4842'
 featuredResources:
@@ -12,3 +12,12 @@ featuredResources:
 featuredResourcesView: tile
 cta:
   text: WATCH
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos-kindergarten/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos-kindergarten/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos-kindergarten/assets/cover.png
+  splash: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos-kindergarten/assets/splash.png
