@@ -2,7 +2,7 @@
 title: Couple's Bible
 ---
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-06-couples-bible/image.png)
 
 _Safeliz, 2019, 1,500 pages_
 

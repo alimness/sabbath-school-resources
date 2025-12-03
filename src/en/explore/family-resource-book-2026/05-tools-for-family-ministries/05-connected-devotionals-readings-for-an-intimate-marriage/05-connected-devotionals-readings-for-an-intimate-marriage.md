@@ -2,7 +2,7 @@
 title: "Connected: Devotionals Readings for an Intimate Marriage"
 ---
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-05-connected-devotionals-readings-for-an-intimate-marriage/image.png)
 
 _By Willie and Elaine Oliver_
 

@@ -2,7 +2,7 @@
 title: "Real Family Talk: Adventist Review Online Column"
 ---
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-09-real-family-talk-adventist-review-online-column/image.png)
 
 _Willie and Elaine Oliver_
 

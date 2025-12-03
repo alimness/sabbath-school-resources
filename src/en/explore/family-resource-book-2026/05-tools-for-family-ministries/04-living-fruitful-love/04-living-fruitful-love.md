@@ -3,7 +3,7 @@ title: Living Fruitful Love
 subtitle: 2021 Family Togetherness Week Of Prayer
 ---
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-04-living-fruitful-love/image.png)
 
 _By Willie and Elaine Oliver, With Karen Holford_
 

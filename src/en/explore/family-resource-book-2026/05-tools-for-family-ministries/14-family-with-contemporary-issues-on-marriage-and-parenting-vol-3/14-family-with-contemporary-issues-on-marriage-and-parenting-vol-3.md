@@ -2,7 +2,7 @@
 title: "Family: With Contemporary Issues on Marriage and Parenting, Vol 3"
 ---
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-14-family-with-contemporary-issues-on-marriage-and-parenting-vol-3/image.png)
 
 _Ekkehardt Mueller and Elias Brasil De Souza, Editors_
 

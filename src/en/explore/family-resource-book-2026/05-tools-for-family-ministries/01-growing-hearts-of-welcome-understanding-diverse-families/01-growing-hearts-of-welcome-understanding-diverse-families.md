@@ -3,7 +3,7 @@ title: "Growing Hearts of Welcome: Understanding Diverse Families"
 subtitle: 2024 Family Togetherness Week Of Prayer
 ---
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-01-growing-hearts-of-welcome-understanding-diverse-families/image.png)
 
 _Willie and Elaine Oliver, Editors_
 

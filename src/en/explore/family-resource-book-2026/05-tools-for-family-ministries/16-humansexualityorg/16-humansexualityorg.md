@@ -2,7 +2,7 @@
 title: Humansexuality.org
 ---
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-16-humansexualityorg/image.png)
 
 General Conference of Seventh-day Adventists
 

@@ -3,7 +3,7 @@ title: God’s Great Gifts
 subtitle: 2025 Family Togetherness Week Of Prayer
 ---
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-00-gods-great-gifts/image.png)
 
 _Willie and Elaine Oliver, Editors_
 

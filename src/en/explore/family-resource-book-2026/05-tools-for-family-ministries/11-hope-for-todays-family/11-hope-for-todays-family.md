@@ -2,7 +2,7 @@
 title: Hope for Today's Family
 ---
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-11-hope-for-todays-family/image.png)
 
 _By Willie and Elaine Oliver_
 

@@ -2,7 +2,7 @@
 title: "Marriage: Biblical and Theological Aspects, Vol 1"
 ---
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-12-marriage-biblical-and-theological-aspects-vol-1/image.png)
 
 _Ekkehardt Mueller and Elias Brasil De Souza, Editors_
 

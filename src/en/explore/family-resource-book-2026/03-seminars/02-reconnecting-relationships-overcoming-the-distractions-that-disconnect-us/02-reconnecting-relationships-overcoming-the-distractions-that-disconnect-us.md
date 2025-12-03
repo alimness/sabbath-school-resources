@@ -104,7 +104,7 @@ Couples face many stressors and are often pulled in many directions - experienci
 
 A relationship between two partners is based upon interaction patterns. These interaction patterns can include communication sequences, and these sequences can include intimacy and support. Other sequences can include conflict and distress (Sullaway & Christensen, 1983). According to Gottman & Silver (2022), there are multiple ways in which couples communicate in both healthy (functional) and unhealthy (dysfunctional) sequences. Dysfunctional communication sequences have been found to be highly associated with marital distress (Broderick, 1981; Gordon, et al., 2007). Most couples often do not realize that their communication sequences are hurtful or harmful toward their spouse or partner, and “communication” is the most common relational “problem” identified by couples. Figure 1 identifies The Four Horseman (The Gottman Institute, n.d.) - communication patterns that are dysfunctional alongside their respective antidotes for more functional communication patterns.
 
-![Figure 1. The Four Horsemen](image1.png)
+![Figure 1. The Four Horsemen](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/03-seminars-02-reconnecting-relationships-overcoming-the-distractions-that-disconnect-us/image1.png)
 
 With the above details in mind, consider the additional descriptors in Table 1 which indicates how The Four Horsemen can appear when individuals are engaged in dialogue with their partner or spouse.
 
@@ -284,7 +284,7 @@ The following worksheet gives prompts for you to use with your partner to spark 
 
 ```=EMOTIONAL BIDS AND THE 5:1 RATIO
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/03-seminars-02-reconnecting-relationships-overcoming-the-distractions-that-disconnect-us/image2.png)
 
 Examples of Emotional Bids and Turning Towards Responses
 
@@ -460,7 +460,7 @@ Pick three words and give an example of a time your partner demonstrated this qu
 
 CREATE SPACE FOR THE INDIVIDUAL DREAMS AND THE DREAMS FOR THE RELATIONSHIP
 
-![](image3.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/03-seminars-02-reconnecting-relationships-overcoming-the-distractions-that-disconnect-us/image3.png)
 
 Gridlocked problems result from unmet or unappreciated dreams, apologize as needed and remember to address the dreams within conflict.
 
