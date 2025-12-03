@@ -3,7 +3,7 @@ title: Storytelling Strategies
 video:
   - src: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/en-aij-kd-pr-03-storytelling-strategies.mp4
     title: Storytelling Strategies
-    thumbnail: cover.png
+    thumbnail: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos-primary/03-storytelling-strategies/cover.png
     hls: https://player.vimeo.com/external/1136840331.m3u8?s=1aa6e508f7fcb477bb36bb8609e986dc0f4ffaaf&logging=false
 ---
 

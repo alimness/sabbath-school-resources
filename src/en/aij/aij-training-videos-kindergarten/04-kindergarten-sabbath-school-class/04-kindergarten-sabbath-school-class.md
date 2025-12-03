@@ -3,7 +3,7 @@ title: Kindergarten Sabbath School Class
 video:
   - src: 
     title: Kindergarten Sabbath School Class
-    thumbnail: cover.png
+    thumbnail: https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos-kindergarten/04-kindergarten-sabbath-school-class/cover.png
     hls: https://vimeo.com/1136854094
 ---
 
