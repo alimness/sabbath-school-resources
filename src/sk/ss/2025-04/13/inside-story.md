@@ -21,4 +21,4 @@ Dnes je Sun misionárom na plný úväzok. Pracuje ako zástupca riaditeľa orga
 
 _Rovnako ako 13. sobotná zbierka z roku 1996 stále rezonuje v Južnej ázijsko-tichomorskej divízii a mimo nej prostredníctvom práce hnutia 1000 Missionary Movement, aj 13. sobotná zbierka tohto štvrťroka môže s Božím požehnaním mať dlhodobý vplyv. Ďakujeme vám za vaše štedré príspevky v túto sobotu._
 
-![Kim Sun](picture13.jpg)
+![Kim Sun](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-04/13/picture13.jpg)

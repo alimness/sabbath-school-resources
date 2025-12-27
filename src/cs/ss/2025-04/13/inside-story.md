@@ -21,4 +21,4 @@ Dnes je Sun misijním pracovníkem na plný úvazek. Pracuje jako zástupce řed
 
 _Stejně jako je sbírka třinácté soboty z roku 1996 stále cítit v celé Jižní asijsko-pacifické divizi a mimo ni díky práci hnutí 1000 Missionary Movement, i sbírka třinácté soboty tohoto čtvrtletí může s Božím požehnáním mít dlouhodobý dopad. Děkujeme vám za vaše štědré dary v tuto sobotu._
 
-![Kim Sun](picture13.jpg)
+![Kim Sun](https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-04/13/picture13.jpg)
