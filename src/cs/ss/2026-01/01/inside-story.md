@@ -29,4 +29,4 @@ Všechny členy církve povzbuzuje, aby na projekty Třinácté soboty přispív
 
 _Misijní projekty třinácté soboty v tomto čtvrtletí se týkají Jižní tichomořské divize, jejíž území zahrnuje Marileninu domovskou zemi Austrálii. Děkujeme, že plánujete štědrý příspěvek na 28. března._
 
-![Marilene Stevensonová](picture1.jpg)
+![Marilene Stevensonová](https://sabbath-school-resources-assets.adventech.io/cs/ss/2026-01/01/picture1.jpg)

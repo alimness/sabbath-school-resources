@@ -29,4 +29,4 @@ Povzbudzuje všetkých členov cirkvi, aby štedro prispievali na projekty trin�
 
 _Tento štvrťrok sú misijné projekty trinástej soboty realizované v Juho-pacifickej divízii, ktorej územie zahŕňa aj domovinu Marilene, Austráliu. Ďakujeme, že plánujete štedrý dar na 28. marca._
 
-![Marilene Stevenson](picture1.jpg)
+![Marilene Stevenson](https://sabbath-school-resources-assets.adventech.io/sk/ss/2026-01/01/picture1.jpg)
