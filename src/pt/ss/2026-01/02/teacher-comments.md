@@ -23,7 +23,7 @@ A lição desta semana enfatiza dois temas principais:
 
 Um elemento característico nas cartas de Paulo é a seção de ações de graças, que funciona essencialmente como um ato de oração. Essa ideia pode ser ilustrada de forma mais clara na tabela a seguir.
 
-![](Auxiliar.png)
+![](https://sabbath-school-resources-assets.adventech.io/pt/ss/2026-01/02/Auxiliar.png)
 
 Três observações principais podem ser extraídas da tabela anterior. Primeiro, para Paulo, dar graças é um ato de oração, uma vez que a ação de graças está constantemente entrelaçada com a oração. Segundo, mesmo quando a seção de agradecimento em algumas cartas de Paulo não menciona explicitamente o termo “oração”, é importante perceber que sua gratidão é dirigida a Deus (2Ts 1:3; 1Tm 1:12). Terceiro, a repetição do termo “sempre” sugere que tanto a oração quanto a ação de graças eram componentes constantes e, inclusive, essenciais na vida de Paulo.
 
