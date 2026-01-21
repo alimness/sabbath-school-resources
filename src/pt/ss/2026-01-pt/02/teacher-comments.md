@@ -29,7 +29,7 @@ O psicólogo Robert A. Emmons cita um belo pensamento de Meister Eckhart: "Se a 
 
 Uma característica habitual nas cartas de Paulo é a secção de ação de graças, que essencialmente funciona como um ato de oração. Esta ideia pode ser mais claramente ilustrada na seguinte tabela:
 
-![](Auxiliar.png)
+![](https://sabbath-school-resources-assets.adventech.io/pt/ss/2026-01-pt/02/Auxiliar.png)
 
 Três observações-chave podem ser extraídas desta tabela. Primeiro, para Paulo, dar graças é um ato de oração, pois a ação de graças está constantemente entrelaçada com a oração. Segundo, mesmo quando a secção de ação de graças em certas cartas de Paulo não menciona o termo "oração", e importante perceber que a sua gratidão é dirigida a Deus (II Tessalonicenses 1:3; 1 Timóteo 1:12). Terceiro, a repetição do termo "sempre" sugere que tanto a oração como a ação de graças eram componentes consistentes e integrais na vida de Paulo.
 
