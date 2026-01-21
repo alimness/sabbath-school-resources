@@ -29,4 +29,4 @@ Někdy je Alvan v pokušení koupit si oříšky nebo zmrzlinu, ale připomíná
 
 „Připomínám si, že Boží dílo je lepší než to, co chci já,“ řekl.
 
-![Alvan Harold](picture4.jpg)
+![Alvan Harold](https://sabbath-school-resources-assets.adventech.io/cs/ss/2026-01/04/picture4.jpg)

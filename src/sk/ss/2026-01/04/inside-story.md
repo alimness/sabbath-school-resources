@@ -31,4 +31,4 @@ Niekedy je Alvan v pokušení kúpiť si orechy alebo zmrzlinu, ale pripomína s
 
 „Pripomínam si, že Božie dielo je lepšie ako to, čo chcem ja,“ povedal.
 
-![Alvan Harold](picture4.jpg)
+![Alvan Harold](https://sabbath-school-resources-assets.adventech.io/sk/ss/2026-01/04/picture4.jpg)
