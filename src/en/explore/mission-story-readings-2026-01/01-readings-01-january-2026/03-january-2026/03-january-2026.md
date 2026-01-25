@@ -4,7 +4,7 @@ date: 17/01/2026
 subtitle: By Hyacinthe Santino
 ---
 
-![Théodore](image.png)
+![Théodore](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01/01-readings-01-january-2026-03-january-2026/image.png)
 
 Théodore lives on the tropical island of Lifou. It is a part of the French territory of New Caledonia in the Pacific Ocean. Théodore is from a small tribal village and is the youngest of twelve children born into a large, loving Christian home.
 

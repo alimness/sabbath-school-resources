@@ -4,7 +4,7 @@ date: 07/02/2026
 subtitle: As told to Maika Tuima by Stacey Joel
 ---
 
-![Stacey](image1.png)
+![Stacey](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01-children/02-readings-02-february-2026-01-february-2026/image1.png)
 
 My name is Stacey. I come from Vanuatu, a country made up of many islands in the South Pacific Ocean. When I was little, I lived in Beverly Hills—not the famous Beverly Hills in the United States, but a small neighborhood in my country. I grew up surrounded by my family, friends, and church.
 
@@ -40,7 +40,7 @@ Part of the Thirteenth Sabbath Offering for the first quarter of 2013 helped pro
 
 Fruits like mangoes, papayas, and pineapples are found throughout the country, and coconut is used in many traditional dishes.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01-children/02-readings-02-february-2026-01-february-2026/image2.png)
 
 ```=Story Tips
 

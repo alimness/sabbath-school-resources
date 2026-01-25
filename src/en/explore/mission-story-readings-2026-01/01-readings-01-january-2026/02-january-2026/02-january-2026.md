@@ -4,7 +4,7 @@ date: 10/01/2026
 subtitle: By Hyacinthe Santino
 ---
 
-![Stanislas](image.png)
+![Stanislas](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01/01-readings-01-january-2026-02-january-2026/image.png)
 
 Stanislas was raised in a Christian home rich in culture, faith, and tradition. He was the second of eight children, and his early memories were filled with love and the rhythms of family life. But tragedy struck when his father died in a car accident. At the time, Stanislas’ mother was pregnant with his youngest sibling.
 

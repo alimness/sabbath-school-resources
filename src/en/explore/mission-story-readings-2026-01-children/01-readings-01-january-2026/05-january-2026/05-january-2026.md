@@ -4,7 +4,7 @@ date: 31/01/2026
 subtitle: As told to Maika Tuima by Morris Veah
 ---
 
-![Mr. Veah](image1.png)
+![Mr. Veah](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01-children/01-readings-01-january-2026-05-january-2026/image1.png)
 
 My name is Mr. Veah. I grew up on a small island called Paama in the country of Vanuatu. Vanuatu is made up of many beautiful islands in the South Pacific Ocean. The sea sparkles in shades of blue, and colorful fish swim in the coral reefs. It sounds lovely, doesn’t it? But life on our island wasn’t easy.
 
@@ -50,7 +50,7 @@ Vanuatu is an archipelago made up of 83 islands.
 
 Only 14 of the 83 islands of Vanuatu have an area of more than 60 square miles (100 sq km).
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01-children/01-readings-01-january-2026-05-january-2026/image2.png)
 
 ```=Story Tips
 

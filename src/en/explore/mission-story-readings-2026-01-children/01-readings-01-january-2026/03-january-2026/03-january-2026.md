@@ -4,7 +4,7 @@ date: 17/01/2026
 subtitle: By Hélène Luvant
 ---
 
-![Mrs. Luvant](image1.png)
+![Mrs. Luvant](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01-children/01-readings-01-january-2026-03-january-2026/image1.png)
 
 Mrs. Luvant had a big dream. She wanted to open a sewing shop, and one day, her dream came true! She thought her shop would bring her money and success, but something even better happened. She found Jesus.
 
@@ -44,7 +44,7 @@ Your Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Of
 
 Wood carving is popular in New Caledonia and often reflects the tribal society in totems, masks, and flèche faîtière, a carved finial placed on the top of traditional houses.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01-children/01-readings-01-january-2026-03-january-2026/image2.png)
 
 ```=Story Tips
 

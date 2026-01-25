@@ -24,4 +24,4 @@ This quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Missio
 - Children’s health project, Vanuatu
 - Center of influence, Wallis Island
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01/00-introduction/image.png)

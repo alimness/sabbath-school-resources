@@ -4,7 +4,7 @@ date: 21/02/2026
 subtitle: By Maika Tuima
 ---
 
-![Fulton Adventist University College](image.png)
+![Fulton Adventist University College](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01-children/02-readings-02-february-2026-03-february-2026/image.png)
 
 Fulton Adventist University College had been in the green hills of Tailevu for more than 70 years. On campus, students crossed rivers in little boats, hiked up muddy paths, and slept in old wooden dormitories. The wind made the buildings creak at night! But students still came because Fulton College helped them learn to think big and serve others.
 

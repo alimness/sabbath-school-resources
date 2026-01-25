@@ -4,7 +4,7 @@ date: 10/01/2026
 subtitle: By Louisa Terebo
 ---
 
-![Mrs. Terebo](image1.png)
+![Mrs. Terebo](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01-children/01-readings-01-january-2026-02-january-2026/image1.png)
 
 Mrs. Terebo was walking home from work when she heard something beautiful. It was music—people were singing hymns through loudspeakers in her neighborhood. As she listened, a song about trusting Jesus touched her heart.
 
@@ -40,7 +40,7 @@ Your Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Of
 
 The New Caledonian crow is known for its intelligence and its ability to use tools. It will poke grubs in crevices with twigs until the grub bites the twig, and then the crow will pull the twig out with the grub attached.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01-children/01-readings-01-january-2026-02-january-2026/image2.png)
 
 ```=Story Tips
 

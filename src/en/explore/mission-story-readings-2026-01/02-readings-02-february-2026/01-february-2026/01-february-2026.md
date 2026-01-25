@@ -4,7 +4,7 @@ date: 07/02/2026
 subtitle: As told to Maika Tuima by Sera Wilson
 ---
 
-![Sera](image.png)
+![Sera](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01/02-readings-02-february-2026-01-february-2026/image.png)
 
 My name is Sera, and I am from the beautiful islands of Fiji. I’m a second-year education student at Fulton Adventist University College. My journey here has been anything but easy.
 

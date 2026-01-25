@@ -4,7 +4,7 @@ date: 28/02/2026
 subtitle: As told to Maika Tuima by Jordan Weatherall
 ---
 
-![Jordan](image.png)
+![Jordan](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01/02-readings-02-february-2026-04-february-2026/image.png)
 
 It all began with a fire in my heart, a calling I couldn’t ignore. In 2023, after sharing my story on a podcast, I believed I was on the cusp of something great. Just months later, I graduated with a degree in theology, hopeful and eager to serve wherever God would send me.
 

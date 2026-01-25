@@ -4,7 +4,7 @@ date: 28/02/2026
 subtitle: As told to Maika Tuima by Pasepa Finau
 ---
 
-![Mrs. Finau](image1.png)
+![Mrs. Finau](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01-children/02-readings-02-february-2026-04-february-2026/image1.png)
 
 My name is Mrs. Finau. I’m 37 years old, married, and a proud mother of three beautiful children. I was raised in a Christian home. My parents and grandparents were strong in their faith and helped me love the Lord.
 
@@ -40,7 +40,7 @@ Part of the Thirteenth Sabbath Offering for the third quarter of 2006 helped bui
 
 A popular dish in Fiji is a raw fish salad known as kokoda. The fish is “cooked” by marinating it in lemon and lime juice.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01-children/02-readings-02-february-2026-04-february-2026/image2.png)
 
 ```=Story Tips
 

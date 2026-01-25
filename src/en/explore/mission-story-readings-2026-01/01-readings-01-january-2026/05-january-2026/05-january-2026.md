@@ -4,7 +4,7 @@ date: 31/01/2026
 subtitle: As told to Maika Tuima by Moape Vuloaloa
 ---
 
-![Moape](image.png)
+![Moape](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01/01-readings-01-january-2026-05-january-2026/image.png)
 
 Moape rises with the sun. Even at 77, his morning routine is the same: feet on the floor before dawn, a whispered prayer, then straight to his desk.
 

@@ -4,7 +4,7 @@ date: 03/01/2026
 subtitle: By Sapolina Valao
 ---
 
-![Mrs. Valao](image.png)
+![Mrs. Valao](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01-children/01-readings-01-january-2026-01-january-2026/image.png)
 
 Mrs. Valao is a loving mother of four children and a proud grandmother of four more. She has a heart full of love for kids and has spent 39 years teaching in Christian schools—she started teaching when she was just 16 years old!
 

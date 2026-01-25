@@ -4,7 +4,7 @@ date: 24/01/2026
 subtitle: As told to Maika Tuima by John Joseph
 ---
 
-![John](image.png)
+![John](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01/01-readings-01-january-2026-04-january-2026/image.png)
 
 My name is John, and I come from a tiny island called Maskelyne off the coast of Vanuatu. Vanuatu is a small island country in the South Pacific Ocean. I grew up surrounded by the sparkling sea and lush rainforests.
 

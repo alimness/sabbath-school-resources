@@ -4,7 +4,7 @@ date: 14/02/2026
 subtitle: As told to Maika Tuima by Vilikesa and Neomai
 ---
 
-![Vilikesa and Neomai](image.png)
+![Vilikesa and Neomai](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01-children/02-readings-02-february-2026-02-february-2026/image.png)
 
 One sunny Sabbath morning in a small village in Fiji, a brother and sister sat quietly in church. Their names were Vilikesa, who was 15, and Neomai, who was 12.
 

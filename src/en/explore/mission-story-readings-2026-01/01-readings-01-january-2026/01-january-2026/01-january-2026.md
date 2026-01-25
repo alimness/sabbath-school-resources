@@ -4,7 +4,7 @@ date: 03/01/2026
 subtitle: By Hyacinthe Santino
 ---
 
-![Hyacinthe](image.png)
+![Hyacinthe](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01/01-readings-01-january-2026-01-january-2026/image.png)
 
 Mom, can we please come back tomorrow?” our two youngest children asked with big smiles.
 

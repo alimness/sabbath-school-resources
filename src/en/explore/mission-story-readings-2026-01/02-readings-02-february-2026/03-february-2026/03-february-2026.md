@@ -4,7 +4,7 @@ date: 21/02/2026
 subtitle: As told to Maika Tuima by Alice Rore
 ---
 
-![Alice](image.png)
+![Alice](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01/02-readings-02-february-2026-03-february-2026/image.png)
 
 My name is Alice, and I’m from the Solomon Islands. I spent many years as a high school teacher, but I work as a freelance educator and researcher today. I love planning youth programs and reaching out to my community. And in all I do, I carry a deep gratitude for a place that helped shape my faith—the Pacific Tertiary Evangelistic Centre or PTEC.
 

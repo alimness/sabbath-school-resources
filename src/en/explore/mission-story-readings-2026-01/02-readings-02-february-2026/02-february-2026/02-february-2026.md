@@ -4,7 +4,7 @@ date: 14/02/2026
 subtitle: As told to Maika Tuima by Milo Ethanie Fevaaiai
 ---
 
-![Milo](image.png)
+![Milo](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-01/02-readings-02-february-2026-02-february-2026/image.png)
 
 My name is Milo, and I come from the beautiful islands of Samoa in the South Pacific Ocean. Growing up wasn’t easy for me. I was raised in a home where love was often hidden behind pain. My father struggled with alcohol, and many times, small disagreements would end in violence. I remember how he would hurt my mother over the tiniest issues. My siblings and I grew up in an atmosphere of fear and confusion. It wasn’t just hard—it broke something inside me.
 
