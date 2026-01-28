@@ -21,4 +21,4 @@ Kata Ragoso zemřel v roce 1964 ve věku 62 let, poté co sloužil církvi 37 le
 
 _Dary třinácté soboty v tomto čtvrtletí půjdou na misijní projekty v Jižní tichomořské divizi, jejíž území zahrnuje Šalamounovy ostrovy. Děkujeme vám, že na březen plánujete štědré dary._
 
-![Kata Ragoso](picture5.jpg)
+![Kata Ragoso](https://sabbath-school-resources-assets.adventech.io/cs/ss/2026-01/05/picture5.jpg)
