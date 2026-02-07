@@ -35,4 +35,4 @@ Tento misijný príbeh znázorňuje cieľ „Misia pre všetkých“ strategick�
 
 „Kristus sa stretával s ľuďmi, prejavoval súcit, slúžil potrebám, získaval dôveru a potom pozval ľudí, aby Ho nasledovali. Cieľom je prejaviť úprimný záujem o ľudí, priviesť ich ku Kristovi a pozývať ich, aby sa spojili s Cirkvou adventistov siedmeho dňa ako Kristovi učeníci, ktorí robia učedníkov.“
 
-![Gilbert Fimaka](picture6.jpg)
+![Gilbert Fimaka](https://sabbath-school-resources-assets.adventech.io/sk/ss/2026-01/06/picture6.jpg)
