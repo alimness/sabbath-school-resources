@@ -55,4 +55,4 @@ _Rene Tucaldo je finančním ředitelem hnutí 1000 Missionary Movement, jehož 
 
 _Více se dozvíte příští týden._
 
-![Rene Tucaldo](picture7.jpg) 
+![Rene Tucaldo](https://sabbath-school-resources-assets.adventech.io/cs/ss/2026-01/07/picture7.jpg) 
