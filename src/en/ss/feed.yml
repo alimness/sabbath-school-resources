@@ -34,6 +34,10 @@ groups:
   - group: Mission Spotlight
     view: tile
     resources:
+      - en-explore-mission-spotlight-2026-04*
+      - en-explore-mission-spotlight-2026-03*
+      - en-explore-mission-spotlight-2026-02*
+      - en-explore-mission-spotlight-2026-01*
       - en-explore-mission-spotlight-*-04*
       - en-explore-mission-spotlight-*-03*
       - en-explore-mission-spotlight-*-02*
