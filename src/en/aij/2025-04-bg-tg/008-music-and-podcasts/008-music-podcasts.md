@@ -44,7 +44,7 @@ title: Music
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3] “Here Is My Money” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #32. Used by permission."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3] “Nature Box” {"credits":[{"key":"Writer","value":"Carolin Schmitz"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Ukulelist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3] “Nature Box” {"credits":[{"key":"Writer","value":"Carolin Schmitz"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3] “Sabbath School Is Over” {"credits":[{"key":"Writer","value":"Unknown"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public domain. From Little Voices Praise Him, #46."}
 

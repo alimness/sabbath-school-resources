@@ -28,7 +28,7 @@ Here, you'll find a playlist which includes all songs in the order they will be 
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/into-my-heart.mp3] “Into My Heart” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, Noah Jovinov"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/into-my-heart.mp3] “Into My Heart” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena and Noah Jovinov"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/i-will-go.mp3] “I Will Go” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Unknown"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
