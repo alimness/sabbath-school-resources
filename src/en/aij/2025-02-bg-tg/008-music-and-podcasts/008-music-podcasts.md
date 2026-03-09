@@ -18,7 +18,7 @@ title: Music
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/05-big-blue-ocean.mp3] “The Big Blue Ocean” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #113. Used by permission."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/07-the-loaves-and-the-fishes.mp3] “The Loaves and the Fishes” {"credits":[{"key":"Writer","value":"Janet Sage"}],"title": "Credits","copyright":"Copyright © 1990, North America Division Corporation of Seventh-day Adventists ®. From Little Voices Praise Him, #55. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/07-the-loaves-and-the-fishes.mp3] “The Loaves and the Fishes” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 1990, North America Division Corporation of Seventh-day Adventists ®. From Little Voices Praise Him, #55. Used by permission."}
 
 !a[jesus-cares-for-you.mp3] “Jesus Cares For You” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
