@@ -20,7 +20,7 @@ title: Music
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/07-the-loaves-and-the-fishes.mp3] “The Loaves and the Fishes” {"credits":[{"key":"Writer","value":"Janet Sage"}],"title": "Credits","copyright":"Copyright © 1990, North America Division Corporation of Seventh-day Adventists ®. From Little Voices Praise Him, #55. Used by permission."}
 
-!a[jesus-cares-for-you.mp3] “Jesus Cares For You” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/jesus-cares-for-you.mp3] “Jesus Cares For You” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/09-the-sabbath.mp3] “The Sabbath” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
@@ -40,9 +40,9 @@ title: Music
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/13-nature-box.mp3] “Nature Box” {"credits":[{"key":"Writer","value":"Carolin Schmitz"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[we-have-a-visitor.mp3] “We Have a Visitor” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #24. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/we-have-a-visitor.mp3] “We Have a Visitor” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #24. Used by permission."}
 
-!a[happy-birthday.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/happy-birthday.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/14-sabbath-school-is-over.mp3] “Sabbath School Is Over” {"credits":[{"key":"Writer","value":"Unknown"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public domain. From Little Voices Praise Him, #46."}
 
