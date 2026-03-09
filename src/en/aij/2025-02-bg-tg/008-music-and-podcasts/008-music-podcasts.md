@@ -2,6 +2,10 @@
 title: Music
 ---
 
+### Scripture Song
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/scripture-song-1-pet-5-7.mp3] “1 Peter 5:7” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Anna and Yelena Jovinov, TVAC Choir"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+
 ```=Praise Time Songs
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/01-shake-a-little-hand.mp3] “Shake a Little Hand and Say Good Morning” {"credits":[{"key":"Writer","value":"Unknown"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public domain. Adapted words by Noelene Johnsson. From Little Voices Praise Him, #6."}

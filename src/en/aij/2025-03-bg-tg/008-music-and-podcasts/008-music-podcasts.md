@@ -2,6 +2,10 @@
 title: Music
 ---
 
+### Scripture Song
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/2025-03-bg-scripture-song.mp3] “Philippians 4:19” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Rosie and Khloe Smith"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+
 ```=Praise Time Songs
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/01-tick-tock.mp3] “Tick-tock Song” {"credits":[{"key":"Writer","value":"Clara Lee Parker"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public Domain. From Little Voices Praise Him, #2."}

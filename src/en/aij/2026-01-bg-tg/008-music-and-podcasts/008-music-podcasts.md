@@ -4,7 +4,7 @@ title: Music
 
 ### Scripture Song
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/2025-01-bg-scripture-song.mp3] “Genesis 1:1”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/2025-01-bg-scripture-song.mp3] “Genesis 1:1” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, Noah Jovinov"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 ```=Praise Time Songs
 
