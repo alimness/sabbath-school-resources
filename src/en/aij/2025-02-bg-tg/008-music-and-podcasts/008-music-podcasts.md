@@ -25,3 +25,19 @@ title: Music
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/09-the-sabbath.mp3] “The Sabbath” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 ```
+
+```=Program Songs
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/10-when-its-time-to-pray.mp3] “When It’s Time to Pray” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #17. Used by permission."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/11-i-open-my-bible-carefully.mp3] “I Open My Bible Carefully.” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #28. Used by permission."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/scripture-song-1-pet-5-7.mp3] “1 Peter 5:7” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Anna and Yelena Jovinov, TVAC Choir"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/12-here-is-my-money.mp3] “Here Is My Money” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #32. Used by permission."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/13-nature-box.mp3] “Nature Box” {"credits":[{"key":"Writer","value":"Carolin Schmitz"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg-tg/assets/14-sabbath-school-is-over.mp3] “Sabbath School Is Over.” {"credits":[{"key":"Writer","value":"Unknown"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public domain. From Little Voices Praise Him, #46."}
+
+```

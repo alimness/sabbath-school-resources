@@ -25,3 +25,17 @@ title: Music
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/08-into-my-heart.mp3] “Into My Heart” {"credits":[{"key":"Writer","value":"Bernice Batt"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 1952 Hope Publishing Company. From Little Voices Praise Him, #195. Used by permission."}
 
 ```
+
+```=Program Songs
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/09-when-its-time-to-pray.mp3] “When It’s Time to Pray” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #17. Used by permission."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/10-i-open-my-bible-carefully.mp3] “I Open My Bible Carefully.” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #28. Used by permission."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/11-here-is-my-money.mp3] “Here Is My Money” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #32. Used by permission."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/12-nature-box.mp3] “Nature Box” {"credits":[{"key":"Writer","value":"Carolin Schmitz"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/13-sabbath-school-is-over.mp3] “Sabbath School Is Over.” {"credits":[{"key":"Writer","value":"Unknown"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public domain. From Little Voices Praise Him, #46."}
+
+```
