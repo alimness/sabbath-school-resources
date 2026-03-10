@@ -7,10 +7,16 @@ author: adventist-review
 credits:
   - name: Publishing Board
     value: >-
-      Erton Köhler, chair; Pierre E. Omeler, vice chair; Justin Kim, secretary; Audrey Andersson, G. Alexander Bryant, Zeno Charles-Marcel, Sabrina DeSouza, Paul H. Douglas, Mark A. Finley, James Howard, Leonard Johnson, Mario Martinelli, Richard E. McEdward, Magdiel Perez Schultz, Artur Stele, Alyssa Truman, Ray Wahlen, Karnik Doukmetzian, legal advisor
+      Erton Köhler, chair; Pierre E. Omeler, vice chair; Justin Kim, secretary;
+      Audrey Andersson, G. Alexander Bryant, Zeno Charles-Marcel, Sabrina
+      DeSouza, Paul H. Douglas, Mark A. Finley, James Howard, Leonard Johnson,
+      Mario Martinelli, Richard E. McEdward, Magdiel Perez Schultz, Artur Stele,
+      Alyssa Truman, Ray Wahlen, Karnik Doukmetzian, legal advisor
   - name: Management Board based in Seoul, Korea
     value: >-
-      Soon Gi Kang, chair; Justin Kim, secretary; Karnik Doukmetzian; SeongJun Byun; Toshio Shibata; Tae Seung Kim; Ray Wahlen Ex-officio: Paul H. Douglas; Erton Köhler; Richard E. McEdward
+      Soon Gi Kang, chair; Justin Kim, secretary; Karnik Doukmetzian; SeongJun
+      Byun; Toshio Shibata; Tae Seung Kim; Ray Wahlen Ex-officio: Paul H.
+      Douglas; Erton Köhler; Richard E. McEdward
   - name: Editor
     value: Justin Kim
   - name: Associate Editors
@@ -41,3 +47,10 @@ credits:
     value: E. Edward Zinke
   - name: Distribution
     value: Sharon Tennyson
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-02/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-02/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-02/assets/cover.png
