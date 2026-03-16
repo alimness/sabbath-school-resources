@@ -1,7 +1,9 @@
 title: 'Student YAQ2: God Is With Me'
 markdownTitle: 'Student YAQ2: God Is With Me'
 subtitle: Year A, Quarter 2
-description: "These 13 programs explore the stories of Isaac, Jacob, Joseph, and Naomi and Ruth while teaching children that no matter what we face, God is with us."
+description: >-
+  These 13 programs explore the stories of Isaac, Jacob, Joseph, and Naomi and
+  Ruth while teaching children that no matter what we face, God is with us.
 primaryColor: '#545088'
 primaryColorDark: '#36316D'
 credits:
@@ -99,3 +101,10 @@ fonts:
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/fonts/Trashbone-Regular.ttf
     attributes: regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/cover.png
