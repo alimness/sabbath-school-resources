@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58b0e3"}}})'
 **Focus:** Trickery and dishonesty have sad consequences.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/02/nature-lesson.png)
 
 The European common cuckoo bird is known as a brood parasite. A brood parasite is a bird that will trick another bird into raising its young. For example, the female cuckoo will spy on the nest of a small bird, like a reed warbler. At just the right moment the cuckoo hen flies down to the reed warbler’s nest, pushes one of its eggs out of the nest, lays its own egg, and flies off.
 

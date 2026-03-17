@@ -10,11 +10,11 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Week 4 craft template, paper cup or foam ball, cotton balls, scissors, glue, black marker, googly eyes (optional).
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](4a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/04/4a.png)
 
 ```=Craft Template
 
-![](craft-template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/04/craft-template.png)
 
 ```
 
@@ -23,22 +23,22 @@ Week 4 craft template, paper cup or foam ball, cotton balls, scissors, glue, bla
 - Cut out the sheep, then draw or glue on the eyes.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](4b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/04/4b.png)
 
 - Glue the head and legs onto a paper cup or foam ball.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](4c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/04/4c.png)
 
 - Draw on spots with a black marker.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](4d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/04/4d.png)
 
 - Pull apart cotton balls and glue them around the paper cup or foam ball to make your sheep fluffy.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](4e.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/04/4e.png)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](4f.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/04/4f.png)

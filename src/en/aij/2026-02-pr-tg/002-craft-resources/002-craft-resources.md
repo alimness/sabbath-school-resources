@@ -7,7 +7,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Pot of Stew**
 
-![Sample](1h.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/002-craft-resources/1h.png)
 
 Resources/supplies: Black strips of paper; paper cups; craft sticks; chenille sticks or pipe cleaners; yellow, orange, and red tissue paper; brown crepe paper; scissors; craft glue.
 
@@ -17,7 +17,7 @@ Resources/supplies: Black strips of paper; paper cups; craft sticks; chenille st
 
 **Banner of Truth**
 
-![Sample](2e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/002-craft-resources/2e.png)
 
 Resources/supplies: Week 2 craft template, watercolor paints, paintbrushes, water, black markers, long dowels or sticks, tape, scissors, stickers (optional).
 
@@ -27,7 +27,7 @@ Resources/supplies: Week 2 craft template, watercolor paints, paintbrushes, wate
 
 **Jacob’s Ladder**
 
-![Sample](3d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/002-craft-resources/3d.png)
 
 Resources/supplies: Week 3 craft template, extra-large craft sticks, small craft sticks, yellow markers, scissors, craft glue, gold glitter glue.
 
@@ -37,7 +37,7 @@ Resources/supplies: Week 3 craft template, extra-large craft sticks, small craft
 
 **Spotted Sheep**
 
-![Sample](4f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/002-craft-resources/4f.png)
 
 Resources/supplies: Week 4 craft template, paper cups or foam balls, cotton balls, scissors, glue, black markers, googly eyes (optional).
 
@@ -47,7 +47,7 @@ Resources/supplies: Week 4 craft template, paper cups or foam balls, cotton ball
 
 **Wrestle**
 
-![Sample](5i.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/002-craft-resources/5i.png)
 
 Resources/supplies: Bridge-Building Challenge
 
@@ -59,7 +59,7 @@ Recycled cardboard, blue paper, craft sticks, paper cups, cardboard cylinders, m
 
 **Joseph’s Colorful Coat**
 
-![Sample](6f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/002-craft-resources/6f.png)
 
 Resources/supplies: Week 6 craft template (on white cardstock), colorful yarn, colored pencils/markers, scissors.
 
@@ -69,7 +69,7 @@ Resources/supplies: Week 6 craft template (on white cardstock), colorful yarn, c
 
 **Joseph in a Pit**
 
-![Sample](7f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/002-craft-resources/7f.png)
 
 Resources/supplies: Week 7 craft template, colored pencils, craft sticks, paper cups, black paper, brown paper, scissors, glue, tape.
 
@@ -79,7 +79,7 @@ Resources/supplies: Week 7 craft template, colored pencils, craft sticks, paper 
 
 **Joseph in Jail**
 
-![Sample](8d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/002-craft-resources/8d.png)
 
 Resources/supplies: Week 8 craft template (on white cardstock), craft sticks, craft glue, scissors, twine or string, tape.
 
@@ -89,7 +89,7 @@ Resources/supplies: Week 8 craft template (on white cardstock), craft sticks, cr
 
 **Joseph the Interpreter**
 
-![Sample](9d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/002-craft-resources/9d.png)
 
 Resources/supplies: Week 9 craft template, scissors, markers, split pins.
 
@@ -99,7 +99,7 @@ Resources/supplies: Week 9 craft template, scissors, markers, split pins.
 
 **Joseph the Governor**
 
-![Sample](10c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/002-craft-resources/10c.png)
 
 Resources/supplies: Week 10 craft template, crayons, scissors, split pins.
 
@@ -109,7 +109,7 @@ Resources/supplies: Week 10 craft template, crayons, scissors, split pins.
 
 **Fan-Fold Booklet**
 
-![Sample](11d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/002-craft-resources/11d.png)
 
 Resources/supplies: Week 11 craft template, markers, scissors, glue.
 
@@ -119,7 +119,7 @@ Resources/supplies: Week 11 craft template, markers, scissors, glue.
 
 **Medical Kit**
 
-![Sample](12e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/002-craft-resources/12e.png)
 
 Resources/supplies: Week 12 craft template, (medical kit printed on red paper), crayons/colored pencils, scissors, glue, Band-aids or plasters (optional).
 
@@ -129,7 +129,7 @@ Resources/supplies: Week 12 craft template, (medical kit printed on red paper), 
 
 **Ruth’s Basket**
 
-![Sample](13f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/002-craft-resources/13f.png)
 
 Resources/supplies: Week 13 craft template on cardstock, twine or yarn, scissors, pictures of grain/stalks of grain.
 

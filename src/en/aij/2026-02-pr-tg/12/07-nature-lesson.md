@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58b0e3"}}})'
 **Focus:** God is committed to His children and wants us to commit our lives to Him.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/12/nature-lesson.png)
 
 The bald eagle is a magnificent bird of prey that lives in North America near seas, rivers, large lakes, and oceans. It is a large bird with a huge wingspan that allows it to fly super-fast. It can move at speeds of 34 to 43 miles per hour (56 to 70 kilometers per hour)!
 

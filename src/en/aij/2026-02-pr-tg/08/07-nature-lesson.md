@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58b0e3"}}})'
 **Focus:** Just as elephants honor the leaders of their herd, we can learn how to show honor to those around us. By doing so, we also honor God.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/08/nature-lesson.png)
 
 Elephants are the largest land mammals. They are social creatures who live in herds. An elephant herd is usually made up of:
 

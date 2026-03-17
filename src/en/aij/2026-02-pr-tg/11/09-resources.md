@@ -7,10 +7,10 @@ markdownTitle: '^[Resources]({"style": {"text": {"color": "#F4793B"}}})'
 **Jigsaw Pieces**
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](jigsaw.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/11/jigsaw.png)
 
 {"style": {"text": {"color": "#58b0e3"}}}
 **Write Your Name in Hieroglyphics**
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](hieroglyphics.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/11/hieroglyphics.png)

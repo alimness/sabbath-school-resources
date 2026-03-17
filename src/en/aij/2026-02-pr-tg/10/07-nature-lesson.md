@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58b0e3"}}})'
 **Focus:** Nature reveals God’s love, giving everyone the opportunity to know Him.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/10/nature-lesson.png)
 
 **“Then God saw everything that He had made, and indeed it was very good” (Genesis 1:31).**
 

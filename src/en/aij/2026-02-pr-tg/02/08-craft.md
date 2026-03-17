@@ -10,11 +10,11 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Week 2 craft template, watercolor paints, paintbrush, water, black marker, a long dowel or stick, tape, scissors, stickers (optional).
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](2a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/02/2a.png)
 
 ```=Craft Template
 
-![](craft-template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/02/craft-template.png)
 
 ```
 
@@ -24,18 +24,18 @@ Week 2 craft template, watercolor paints, paintbrush, water, black marker, a lon
 - Use watercolor paints to decorate the banner.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](2b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/02/2b.png)
 
 - Once dry, use a marker to write “God delights in us when we are truthful” and decorate with stickers.
 - Poke a hole through the top and bottom of the banner.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](2c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/02/2c.png)
 
 - Slide a dowel/stick through the holes and secure with tape.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](2d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/02/2d.png)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](2e.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/02/2e.png)

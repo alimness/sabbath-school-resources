@@ -12,13 +12,13 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Week 13 craft template, twine or yarn, scissors.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/13/13a.png)
 
 ```=Craft Template
 
-![](craft-template-a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/13/craft-template-a.png)
 
-![](craft-template-b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/13/craft-template-b.png)
 
 ```
 
@@ -28,24 +28,24 @@ Week 13 craft template, twine or yarn, scissors.
 - Tie a piece of twine or yarn around one of the tabs.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/13/13b.png)
 
 - Bend the bottom of each tab slightly inward, along the fold lines.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/13/13c.png)
 
 - Wind the string under and over each tab, alternating each time.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/13/13d.png)
 
 - When you get to the top, cut the string and loop the end through a couple of times before tying a knot.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13e.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/13/13e.png)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13f.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/13/13f.png)
 
 - Use your basket to collect “grain stalks” hidden around the room.
