@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** Dennis discovers a turtle in his backyard and welcomes him into his family.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/13/nature-lesson.png)
 
 Dennis loved God’s creatures. He enjoyed watching the tiny little ants climbing their anthills. He liked carefully looking into a busy bee’s nest to see inside. He climbed up high and peeked into a bird’s nest to look at some tiny, speckled eggs. Dennis loved exploring in his backyard and especially the little creek behind his house.
 

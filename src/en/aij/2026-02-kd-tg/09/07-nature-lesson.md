@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** The caterpillar shows how amazing our Creator God is.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/09/nature-lesson.png)
 
 - **Can you make a little caterpillar with your finger?**
 - **Have you had a caterpillar climb over your finger, or perhaps your toes?**

@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** We can be brave like the baby goslings, for God watches over us.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/07/nature-lesson.png)
 
 This big, strong bird is called a Canada goose. **Can anyone guess where the Canada geese live?** They live in North America. ^[(Help a child locate on a map.)]({"style": {"text": {"color":"#d34d5e"}}})
 

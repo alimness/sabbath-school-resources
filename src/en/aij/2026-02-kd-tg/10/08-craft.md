@@ -10,13 +10,13 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Week 10 craft template, scissors, glue.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](10a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/10/10a.png)
 
 ```=Craft Template
 
-![](craft-template-a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/10/craft-template-a.png)
 
-![](craft-template-b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/10/craft-template-b.png)
 
 ```
 
@@ -29,31 +29,31 @@ Prepare a craft in advance to show as an example.
 - Fold the first page in half along the line.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](10b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/10/10b.png)
 
 - Cut two vertical slits along the lines indicated.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](10c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/10/10c.png)
 
 - Fold the page inward, while folding the horizontal lines above and below the cuts. This will create a pop-out section.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](10d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/10/10d.png)
 
 - Cut out the pictures.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](10e.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/10/10e.png)
 
 - Glue Joseph onto the foldout section, then glue the rest of the pictures onto the background.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](10f.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/10/10f.png)
 
 - Open the pop-up to show Joseph’s brothers bowing.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](10g.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/10/10g.png)
 
 - Use this craft to retell this part of Joseph’s story in your own words to a friend.

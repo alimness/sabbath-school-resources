@@ -10,11 +10,11 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Week 4 craft template, blue paper, white and black paint, cotton ball, cotton swab, googly eyes, scissors, glue, paper plate or paint palette, if available.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](4a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/04/4a.png)
 
 ```=Craft Template
 
-![](craft-template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/04/craft-template.png)
 
 ```
 
@@ -27,16 +27,16 @@ Pour some white and black paint onto paper plate/paint palette.
 - Use a cotton ball to sponge white paint onto a blue piece of paper, as shown.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](4b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/04/4b.png)
 
 - Cut out the sheep’s head and legs and glue onto the sheep’s body.
 - Glue on the googly eyes.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](4c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/04/4c.png)
 
 - Sponge on white paint for woolly hair.
 - Use a cotton swab to make black dots on the sheep.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](4d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/04/4d.png)

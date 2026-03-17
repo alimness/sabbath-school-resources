@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** The African jacana bird reminds us of God’s loving care for us.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/03/nature-lesson.png)
 
 - **Do you see something strange about this bird?**
 - **How many legs does it have? How many legs do birds usually have?**

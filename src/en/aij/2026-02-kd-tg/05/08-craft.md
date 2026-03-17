@@ -19,18 +19,18 @@ Paper plate, paper circle, scissors, glue, marker, stickers, glitter glue, cheni
 - Cut out a wedge from a paper plate and glue to the opposite side of the plate.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](5a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/05/5a.png)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](5b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/05/5b.png)
 
 - Draw a face on a small paper circle and glue in the center of the plate.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](5c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/05/5c.png)
 
 - Decorate the peace angel with stickers and glitter glue.
 - Loop a chenille stick or pipe cleaner and tape to the back so it can hang.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](5d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/05/5d.png)

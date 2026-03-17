@@ -10,11 +10,11 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Week 12 craft template on cardstock, zipper bag, black cardstock, black permanent marker, scissors.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](12a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/12/12a.png)
 
 ```=Craft Template
 
-![](craft-template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/12/craft-template.png)
 
 ```
 
@@ -28,12 +28,12 @@ Cut a piece of black cardstock to fit inside a zipper bag.
 - Use a permanent marker to draw Ruth and Orpah on a zipper bag.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](12b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/12/12b.png)
 
 - Slip the black cardstock inside the bag, then slide the light on top of the cardstock to show how Naomi shined God’s love to her daughters-in-law.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](12c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/12/12c.png)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](12d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/12/12d.png)

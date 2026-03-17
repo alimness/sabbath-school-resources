@@ -10,7 +10,7 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 White cardstock, black pen, large six-inch (15-centimeter) craft sticks, various colors of paint, craft glue, wipes, paper plate or paint palette, if available.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/13/13a.png)
 
 **Preparation instructions:**
 
@@ -22,17 +22,17 @@ White cardstock, black pen, large six-inch (15-centimeter) craft sticks, various
 - Have each person in your Sabbath School class make a thumbprint on each cardstock.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/13/13b.png)
 
 - Glue four craft sticks around the edge of the card to make a frame.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/13/13c.png)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/13/13d.png)
 
 - Once the paint dries, draw faces on each of the thumbprints to represent your Sabbath School family. Talk about how God welcomes all of us into His family! Say the **Big Idea** together again.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13e.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/13/13e.png)

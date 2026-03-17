@@ -10,7 +10,7 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Smooth rocks, silver or gold permanent marker, heart or angel stickers, glitter glue, gems, craft glue.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/03/3a.png)
 
 **Preparation instructions:**
 
@@ -21,9 +21,9 @@ Collect some smooth rocks for children to decorate.
 - Decorate a rock using permanent markers, stickers, gems and/or glitter glue (2 and 3).
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/03/3b.png)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/03/3c.png)
 
 - If time allows, each child can show their rock to the class and share how it relates to the story.

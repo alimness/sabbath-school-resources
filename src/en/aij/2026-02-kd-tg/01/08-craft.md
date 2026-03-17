@@ -10,13 +10,13 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Week 1 craft template, blue and green paper, brown paper or brown paper bag, scissors, glue, pencil.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](1a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/01/1a.png)
 
 ```=Craft Template
 
-![](craft-template-a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/01/craft-template-a.png)
 
-![](craft-template-b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/01/craft-template-b.png)
 
 ```
 
@@ -30,15 +30,15 @@ Week 1 craft template, blue and green paper, brown paper or brown paper bag, sci
 - Gently scrunch the brown paper tree and glue in the center of a blue piece of paper.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](1b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/01/1b.png)
 
 - Make fringe cuts along a green strip of paper and glue below the tree, ruffling the edges.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](1c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/01/1c.png)
 
 - Cut out the colored hearts and glue onto the tree branches like leaves.
 - An adult can help write words that reflect kindness inside each of the hearts.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](1d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/01/1d.png)

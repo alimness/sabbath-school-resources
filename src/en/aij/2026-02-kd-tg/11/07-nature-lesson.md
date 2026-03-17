@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** A young sunflower is guided toward the sun to help it grow and thrive.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/11/nature-lesson.png)
 
 ^[(Use a sunflower seed and a cardboard sun as Storytelling Props.)]({"style": {"text": {"color":"#d34d5e"}}})
 
