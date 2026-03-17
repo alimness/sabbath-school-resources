@@ -1,7 +1,7 @@
 title: 'Student YAQ2: Miracles by the Sea'
 markdownTitle: 'Student YAQ2: Miracles by the Sea'
 subtitle: Year A, Quarter 2
-description: "Jesus did many miracles to show that He cared for everyone He met."
+description: Jesus did many miracles to show that He cared for everyone He met.
 primaryColor: '#6FAACD'
 primaryColorDark: '#4A83A6'
 credits:
@@ -83,3 +83,10 @@ fonts:
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Regular.ttf
     attributes: regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-bg/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-bg/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-bg/assets/cover.png
