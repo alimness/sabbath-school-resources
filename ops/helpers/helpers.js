@@ -434,7 +434,7 @@ let buildInvalidationJson = function (items) {
             Quantity: items.length,
             Items: items,
         },
-        CallerReference: `deploy-resources.js (${Date.now()})`,
+        CallerReference: `deploy-resources.js (${Date.now()}-${Math.random().toString(36).slice(2, 7)})`,
     }
 }
 
