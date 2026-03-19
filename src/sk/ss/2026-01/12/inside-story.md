@@ -31,4 +31,4 @@ _Ústredie Hnutia 1000 misionárov v Silangu na Filipínach bolo postavené s po
 
 _Ďakujeme vám za váš štedrý dar budúcu sobotu. Pozrite si krátke video s Renem na YouTube na adrese bit.ly/Rene-1000MM._
 
-![Rene Tucaldo](picture12.jpg) 
+![Rene Tucaldo](https://sabbath-school-resources-assets.adventech.io/sk/ss/2026-01/12/picture12.jpg) 

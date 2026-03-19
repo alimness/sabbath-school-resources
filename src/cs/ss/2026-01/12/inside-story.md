@@ -23,4 +23,4 @@ _Ústředí hnutí 1000 Missionary Movement  v Silangu na Filipínách bylo post
 
 _Podívejte se na krátké youtube video s Renem na https://youtu.be/pifakaeDak8 ._
 
-![Rene Tucaldo](picture12.jpg) 
+![Rene Tucaldo](https://sabbath-school-resources-assets.adventech.io/cs/ss/2026-01/12/picture12.jpg) 
