@@ -42,7 +42,7 @@ jobs:
           git commit -m "chore: autopublish ${timestamp}"
           
           for i in $(seq 1 5); do
-            git pull --no-rebase "${remote_repo}" HEAD:"stage" && git push "${remote_repo}" HEAD:"stage" && break
+            git pull --no-rebase "${remote_repo}" stage && git push "${remote_repo}" HEAD:"stage" && break
             echo "Retry $i..."
             sleep $((RANDOM % 5 + 1))
           done
