@@ -39,7 +39,7 @@ jobs:
           git config http.sslVerify false
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git commit -m "chore: autopublish ${timestamp}"
+          git commit -m "chore: autopublish ${timestamp}" || exit 0
           
           for i in $(seq 1 5); do
             git pull --no-rebase "${remote_repo}" stage && git push "${remote_repo}" HEAD:"stage" && break
