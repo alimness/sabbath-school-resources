@@ -29,4 +29,4 @@ Pastor Neheza je ohromen tím, že kmenové boje a ukradená Bible vedly k zalo�
 
 _Vaše misijní dary podporují zakládání sborů v Papui-Nové Guineji a po celém světě. Sbírka třinácté soboty v tomto čtvrtletí poputuje do Jiho-tichomořské divize, jejíž území zahrnuje Papuu-Novou Guineu. Děkujeme vám za vaše štědré dary v tuto sobotu._
 
-![Abuni Ane](picture13.jpg) 
+![Abuni Ane](https://sabbath-school-resources-assets.adventech.io/cs/ss/2026-01/13/picture13.jpg) 

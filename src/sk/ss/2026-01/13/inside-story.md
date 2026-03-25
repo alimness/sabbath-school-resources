@@ -31,4 +31,4 @@ _Vaše pravidelné misijné dary podporujú zakladanie zborov v Papue-Novej Guin
 
 _Ďakujeme vám za váš štedrý dar túto sobotu._
 
-![Abuni Ane](picture13.jpg) 
+![Abuni Ane](https://sabbath-school-resources-assets.adventech.io/sk/ss/2026-01/13/picture13.jpg) 
