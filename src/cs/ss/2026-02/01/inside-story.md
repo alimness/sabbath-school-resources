@@ -23,4 +23,4 @@ Jak se snažil být požehnáním pro druhé, požehnání se mu vždy vracelo. 
 
 _Část darů 13. soboty v tomto čtvrtletí, známé také jako čtvrtletní dary na misijní projekty, podpoří projekty v Demokratické republice Kongo a na dalších místech Východo-středoafrické divize. Děkujeme vám za vaše štědré dary, které pomáhají hlásat brzký Ježíšův příchod._
 
-![Kasereka](picture1.jpg) 
+![Kasereka](https://sabbath-school-resources-assets.adventech.io/cs/ss/2026-02/01/picture1.jpg) 

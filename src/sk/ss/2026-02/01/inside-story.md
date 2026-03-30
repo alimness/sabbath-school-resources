@@ -23,4 +23,4 @@ Keď sa snažil požehnať druhých, požehnanie sa mu vždy vrátilo. Pomohol v
 
 _Časť tohtoročnej obety trinástej sobotnej, známej aj ako štvrťročná misijná obeta, podporí projekty v Konžskej demokratickej republike a inde v divízii stredovýchodnej Afriky. Ďakujeme vám za vašu štedrú obetu, ktorá pomáha ohlasovať Ježišov skorý príchod._
 
-![Kasereka](picture1.jpg) 
+![Kasereka](https://sabbath-school-resources-assets.adventech.io/sk/ss/2026-02/01/picture1.jpg) 
