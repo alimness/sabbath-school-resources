@@ -37,4 +37,4 @@ Jolanda Xavier, 86letá prababička, věří, že nic není důležitější ne�
 
 _Část darů z 13. soboty v minulém čtvrtletí, byla použita na otevření sboru na Adventistické akademii Pernambuco v brazilském státě Pernambuco, kde Jolanda žije. Děkujeme, že plánujete štědré dary pro projekty tohoto čtvrtletí. Podívejte se na video s Jolandou na YouTube: https://youtu.be/DLoixSojhF4?si=vZjdDEM1oOyuDIVF ._
 
-![Jolanda](picture3.jpg) 
+![Jolanda](https://sabbath-school-resources-assets.adventech.io/cs/ss/2026-02/03/picture3.jpg) 
