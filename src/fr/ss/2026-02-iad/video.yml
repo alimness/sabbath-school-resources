@@ -11,6 +11,12 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2026-02-03.mp4
           target: fr/ss/2026-02-iad/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2026-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2026-02-04.mp4
+          target: fr/ss/2026-02-iad/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2026-02-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2026-02-05.mp4
+          target: fr/ss/2026-02-iad/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2026-02-05.webp
     - artist: Espoir Médias
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2026-02-01.mp4
@@ -22,6 +28,12 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2026-02-03.mp4
           target: fr/ss/2026-02-iad/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2026-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2026-02-04.mp4
+          target: fr/ss/2026-02-iad/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2026-02-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2026-02-05.mp4
+          target: fr/ss/2026-02-iad/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2026-02-05.webp
     - artist: An Ti Kozé
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2026-02-01.mp4
@@ -30,6 +42,12 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2026-02-02.mp4
           target: fr/ss/2026-02-iad/02
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2026-02-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2026-02-03.mp4
+          target: fr/ss/2026-02-iad/03
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2026-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2026-02-04.mp4
+          target: fr/ss/2026-02-iad/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2026-02-04.webp
     - artist: Autrement Dit
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2026-02-01.mp4
@@ -38,3 +56,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2026-02-02.mp4
           target: fr/ss/2026-02-iad/02
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2026-02-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2026-02-03.mp4
+          target: fr/ss/2026-02-iad/03
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2026-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2026-02-04.mp4
+          target: fr/ss/2026-02-iad/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2026-02-04.webp
