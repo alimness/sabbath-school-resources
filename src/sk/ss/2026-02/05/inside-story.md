@@ -35,4 +35,4 @@ _Časť tohtoročnej obety trinástej sobotnej, známej aj ako štvrťročná mi
 
 _Viac si o Rompasovi prečítate na budúci týždeň a video s ním si môžete pozrieť na YouTube na bit.ly/Rompas-IS._
 
-![Rompas ](picture5.jpg) 
+![Rompas ](https://sabbath-school-resources-assets.adventech.io/sk/ss/2026-02/05/picture5.jpg) 

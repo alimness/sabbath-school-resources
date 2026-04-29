@@ -35,4 +35,4 @@ _Část z letošních darů třinácté soboty, známé také jako čtvrtletní 
 
 _Více si o Rompasovi přečtěte příští týden. Podívejte se na jeho video na YouTube: https://youtu.be/bap3Avkh-5c ._
 
-![Rompas ](picture5.jpg) 
+![Rompas ](https://sabbath-school-resources-assets.adventech.io/cs/ss/2026-02/05/picture5.jpg) 
