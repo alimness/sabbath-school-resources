@@ -29,4 +29,4 @@ Dnes je Rompas Josphat Lekishon adventistickým pastorom so srdcom pre misijnú 
 
 _Časť tohtoročnej obety trinástej sobotnej, známej aj ako štvrťročná misijná obeta, podporí projekty v Keni a inde v divízii stredovýchodnej Afriky. Pozrite si video o Rompasovi na YouTube na https://youtu.be/bap3Avkh-5c ._
 
-![Rompas](picture7.jpg) 
+![Rompas](https://sabbath-school-resources-assets.adventech.io/sk/ss/2026-02/07/picture7.jpg) 
