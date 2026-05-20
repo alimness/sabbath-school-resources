@@ -33,4 +33,4 @@ Dnes má Lindsay Chikanda 24 rokov a končí prvý ročník štúdia. Je priprav
 
 _Vaše misijné príspevky zo sobotnej školy podporujú vzdelávanie adventistov siedmeho dňa po celom svete. Ďakujeme za vaše príspevky na misiu. Pozrite si krátke video s Lindsay na YouTube na bit.ly/Lindsay-IS._
 
-![Lindsay](picture8.jpg) 
+![Lindsay](https://sabbath-school-resources-assets.adventech.io/sk/ss/2026-02/08/picture8.jpg) 

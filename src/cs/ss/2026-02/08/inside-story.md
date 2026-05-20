@@ -35,4 +35,4 @@ _Vaše misijní dary v rámci sobotní školy podporují vzdělávání od Círk
 
 _Podívejte se na krátké video s Lindsay na YouTube na adrese https://youtu.be/zLLaqk3Yyh8 ._
 
-![Lindsay](picture8.jpg) 
+![Lindsay](https://sabbath-school-resources-assets.adventech.io/cs/ss/2026-02/08/picture8.jpg) 
