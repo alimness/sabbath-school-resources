@@ -31,4 +31,4 @@ Tarsisa, dnes 42-ročného dôstojníka vojenskej polície v brazílskom Recife,
 
 _Pozrite si video o Tarsisovi na bit.ly/Tarsis-IS._
 
-![Tarsis Gomes](picture9.jpg)
+![Tarsis Gomes](https://sabbath-school-resources-assets.adventech.io/sk/ss/2026-02/09/picture9.jpg)

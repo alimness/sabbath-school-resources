@@ -31,4 +31,4 @@ Tarsisovi je nyní 42 let a slouží jako vojenský policista v brazilském Reci
 
 _Podívejte se na YouTube video s Tarsisem na adrese: https://youtu.be/4aLDPRzMxZs ._
 
-![Tarsis Gomes](picture9.jpg)
+![Tarsis Gomes](https://sabbath-school-resources-assets.adventech.io/cs/ss/2026-02/09/picture9.jpg)
