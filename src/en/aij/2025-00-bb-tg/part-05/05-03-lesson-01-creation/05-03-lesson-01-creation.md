@@ -43,7 +43,7 @@ Say: **Today we will learn about our wonderful God who made our world! He loves 
 **^[LIGHT]({"style":{"text":{"color": "#a65726"}}})**\
 Show a light (flashlight, lamp, or other). Say: **Look at the light! God made the light. He made the day** (turn on the light/room light) **and He made the night** (turn off the light/room light) **because God loves us**. Repeat a few times (sing while moving the flashlight or turning it on and off).
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[God Made the Light, Wind, Water"]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 1: light).\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“God Made the Light, Wind, Water”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 1: light).\
 \
 Who made the light you can see?\
 God made the light, for you and me.\
@@ -55,7 +55,7 @@ God made the light, for you and me.
 **^[WIND]({"style":{"text":{"color": "#a65726"}}})**\
 Blow softly or use a fan to make a breeze. Say: **Can you feel the wind?** Blow gently and have every parent blow on their baby’s head. **God made the wind and the air we can feel**.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[God Made the Light, Wind, Water"]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 2: wind).\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“God Made the Light, Wind, Water”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 2: wind).\
 \
 Who made the wind you can hear?\
 God made the wind, for you and me.\
@@ -73,7 +73,7 @@ Say: **God made the clouds up very high. He made the great big sky!** Gently mov
 **^[WATER]({"style":{"text":{"color": "#a65726"}}})**\
 Show water by moving and pouring water from a cup into another cup or container. Say: **Look! God also made the water. Hmmm! To drink, and wash, and play. Hmmm! Water is fun!** (Let your baby touch the water.) **God made the water.**
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[God Made the Light, Wind, Water"]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 3: water).\
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“God Made the Light, Wind, Water”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 3: water).\
 \
 Who made the water you feel?\
 God made the water, for you and me.\
