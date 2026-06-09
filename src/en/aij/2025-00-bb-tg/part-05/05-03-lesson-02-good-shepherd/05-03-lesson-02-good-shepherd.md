@@ -169,7 +169,7 @@ Here is my money for Jesus,\
 I give my money to Him.\
 (repeat)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-10-here-is-my-money.mp3] Here is my money. {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #32. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-10-here-is-my-money.mp3] Here Is My Money {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #32. Used by permission."}
 
 **^[PRAY]({"style":{"text":{"color": "#a65726"}}})**\
 Pray for the offering to be a blessing to God’s work. Pray also for the babies and parents in your class. Then transition to Parent Time. You will find weekly handouts at www.aliveinjesus.info.

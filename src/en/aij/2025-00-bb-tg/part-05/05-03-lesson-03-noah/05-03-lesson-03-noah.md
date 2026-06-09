@@ -50,7 +50,7 @@ Friend of God, friend of God.\
 Noah was a friend of God. He loved God.\
 (repeat)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-02-noah-was-a-friend-of-god.mp3] Noah was a friend of God {"credits":[{"key":"Writer","value":"Adapted from 'London Bridge is Falling Down.'"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Music: public domain. Words: copyright © 2002 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-02-noah-was-a-friend-of-god.mp3] Noah Was a Friend of God {"credits":[{"key":"Writer","value":"Adapted from 'London Bridge is Falling Down.'"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Music: public domain. Words: copyright © 2002 General Conference Corporation® of Seventh-day Adventists."}
 
 **^[WOOD-BOAT BUILDING]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **Noah looked for trees and wood. Saw, saw, saw . . . he sawed the wood**. Make noise with a toy saw on blocks, bump two wooden blocks together softly. **Bam, bam, bam . . . he hammered the wood**. Use a toy hammer on some wood. (Be careful not to scare the babies with loud noises, so do these actions gently and softly to make your point.)

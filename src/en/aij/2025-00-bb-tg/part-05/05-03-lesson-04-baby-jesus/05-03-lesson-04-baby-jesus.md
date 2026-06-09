@@ -130,7 +130,7 @@ Jesus was a little Baby just like me.\
 \
 Say: **It was nighttime. Shhhh . . . Everyone is sleeping. Ohhh . . . Look at the Baby. The Baby is sleeping. See Him sleep? Let’s sing softly.**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-08-baby-jesus-hug.mp3]  Baby Jesus (verse 3: hug) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-08-baby-jesus-hug.mp3] Baby Jesus (verse 3: hug) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Baby Jesus”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 4: sleep).\
 \
@@ -142,7 +142,7 @@ Jesus was a little Baby just like me.\
 \
 Say: **Your mommy and daddy love you very much too. They care for you like Mommy Mary cared for Baby Jesus. Can you pretend that it’s time to go to sleep now, like Baby Jesus?** Add the names of the babies to the song as you sing.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-09-baby-jesus-sleep.mp3]  Baby Jesus (verse 4: sleep) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-09-baby-jesus-sleep.mp3] Baby Jesus (verse 4: sleep) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 **^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Baby Jesus”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 5: you).\
 \
@@ -152,7 +152,7 @@ Time to sleep,\
 Goodnight, baby _______ (child’s name).\
 Jesus was a little Baby just like you.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-10-baby-jesus-you.mp3]  Baby Jesus (verse 5: you) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-10-baby-jesus-you.mp3] Baby Jesus (verse 5: you) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 **^[FAMILY]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **Babies make families happy. Families love babies.**
