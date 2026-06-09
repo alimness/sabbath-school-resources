@@ -2,7 +2,7 @@
 title: Music and Podcasts
 ---
 
-### Scripture song
+### Scripture Song
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/2025-03-bg-scripture-song.mp3] Philippians 4:19
 
