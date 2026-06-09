@@ -67,7 +67,7 @@ Jesus made you soft and woolly.\
 **^[FOOD]({"style":{"text":{"color": "#a65726"}}})**\
 Show your baby some green fabric or real grass. Say: **Each day the shepherd takes the sheep to find good food. The sheep like the grass**. (If you have a toddler, they can pretend to feed the sheep.)
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[Jesus Is the Good Shepherd”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 1: grass).
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Jesus Is the Good Shepherd”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 1: grass).
 \
 Jesus is the Good Shepherd,\
 He made grass to feed the sheep,\
@@ -81,7 +81,7 @@ If your baby is older than 6 months, show them other foods that they may like to
 **^[WATER]({"style":{"text":{"color": "#a65726"}}})**\
 Pour water from one cup to another. Your baby may like to touch the water. “Walk” a toy sheep to the “water.” You may like to give some water to your babies if they are older than 6 months. Say: **Sheep need to drink water. The shepherd takes them to a place with fresh water to drink. Let’s take our sheep to drink**. Toddlers can take the toy sheep to “drink” some water, or you can model this if your baby is younger.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[Jesus Is the Good Shepherd”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 2: water).
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Jesus Is the Good Shepherd”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 2: water).
 \
 Jesus is the Good Shepherd,\
 He made water for thirsty sheep,\
@@ -95,7 +95,7 @@ Say: **It’s important for us to drink clean water every day. Jesus made water 
 **^[HURT SHEEP]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **Sometimes the sheep get hurt. Ouch! They might get scratched or cut. The shepherd cleans and puts medicine on their wounds. The shepherd cares for them**. Rub a drop of baby lotion or baby oil into your baby’s hand or cover it with a bandage or Band-Aid. If you have a toddler, they can put the Band-Aid on the sheep.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[Jesus Is the Good Shepherd”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 3: care).
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Jesus Is the Good Shepherd”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 3: care).
 \
 Jesus is the Good Shepherd,\
 He takes care of all the sheep,\
@@ -114,7 +114,7 @@ Place a cloth over your head and tell the children you are like a shepherd. Say:
 
 Say: **The shepherd is very happy and loves all of the sheep. The shepherd takes them to a safe place. Let’s bring our sheep to the sheepfold.** Show how the toy sheep go inside while you sing the final verse of the song. Older toddlers can “walk” the sheep inside by themselves or with a little help.
 
-**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[Jesus Is the Good Shepherd”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 4: lambs).
+**^[SING]({"style":{"text":{"color": "#a65726"}}})** ^[“Jesus Is the Good Shepherd”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) (verse 4: lambs).
 \
 Jesus is the Good Shepherd,\
 He loves all the little lambs,\
