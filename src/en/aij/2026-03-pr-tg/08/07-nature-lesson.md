@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** We can follow Jesus and spread His love like waves.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/08/nature-lesson.png)
 
 One of the best things about the beach is playing in the waves. You can dive into the waves or let them knock you over or try to catch a ride on them. No matter how full of energy you are, you always get tired before the waves do. They never stop rolling.
 

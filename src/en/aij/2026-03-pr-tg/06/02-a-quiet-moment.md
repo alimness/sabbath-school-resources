@@ -2,7 +2,7 @@
 title: A Quiet Moment...
 markdownTitle: '^[A Quiet Moment...]({"style": {"text": {"color": "#F4793B"}}})'
 titleBelowCover: true
-cover: cover-qm.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/06/cover-qm.png
 ---
 
 {"style": {"text": {"color": "#58b0e3"}}}

@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** The penguin reminds us that God likes to give good gifts.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/02/nature-lesson.png)
 
 **Did you know that some animals give gifts to each other? Gentoo penguins are one such animal! (Show picture.) I wonder what they can teach us.**
 

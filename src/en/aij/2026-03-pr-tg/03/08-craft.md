@@ -10,11 +10,11 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Week 3 craft template on white cardstock, scissors, glue, bamboo skewer, small foam ball, marker, glitter, star stickers.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/03/3a.png)
 
 ```=Craft Template
 
-![](craft-template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/03/craft-template.png)
 
 ```
 
@@ -23,19 +23,19 @@ Week 3 craft template on white cardstock, scissors, glue, bamboo skewer, small f
 1\. Cut out the shapes then place a bamboo skewer in the center of the circle.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/03/3b.png)
 
 2\. Fold each side of the circle over the skewer, one side at a time, and glue into place.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/03/3c.png)
 
 3\. Glue the semi-circle to the back of the circle, straight edge up. Draw a face on the foam ball and push onto the top of the skewer.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/03/3d.png)
 
 4\. Decorate the angel with stickers and glitter glue and leave it to dry.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3e.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/03/3e.png)

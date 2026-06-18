@@ -14,21 +14,21 @@ Twelve craft sticks, a piece of cardstock 4-1/3 inches by 3-1/2 inches (11 centi
 1\. Glue two sets of two craft sticks together in an “X” shape.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](2a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/02/2a.png)
 
 2\. Fold a piece of cardstock in half and glue eight craft sticks side by side, leaving a small gap down the middle where it can bend in a “V” shape.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](2b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/02/2b.png)
 
 3\. Draw a face on a rock and wrap it in a piece of fabric, using a rubber band around the middle to secure it.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](2c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/02/2c.png)
 
 4\. Once the glue dries, flip the cardstock with the craft sticks over. Glue along the top edges of the “X” craft sticks and hold in place on the peak of the “V” shaped card.
 
 5\. Leave to dry, then flip over the “manger,” placing straw and the “Baby Jesus” rock inside.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](2d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/02/2d.png)

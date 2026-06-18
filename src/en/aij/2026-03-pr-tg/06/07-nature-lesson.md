@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** God’s love can change our hearts.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson-a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/06/nature-lesson-a.png)
 
 Mzee the tortoise walked slowly to the shade. There he sat down and pulled his legs and head inside his shell. Now the Aldabra tortoise didn’t look like a tortoise anymore, but rather a big rock!
 
@@ -18,7 +18,7 @@ Aldabra tortoises are one of the largest tortoises in the world. They also live 
 Mzee the tortoise had a very hard shell on the outside. But he also had a hard heart on the inside. He was 130 years old, and he was grumpy and liked to be on his own. But one day everything changed for Mzee. He met a bouncy, lovable baby hippo named Owen.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson-b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/06/nature-lesson-b.png)
 
 Owen had lost his family in the terrible tsunami of 2004. An earthquake had caused huge waves to crash over many countries, hurting animals and people. The little hippo had been rescued and taken to Haller Nature Park, where Mzee lived.
 

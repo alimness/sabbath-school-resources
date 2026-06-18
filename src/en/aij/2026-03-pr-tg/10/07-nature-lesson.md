@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** Jesus wants to give us food for our bodies and spiritual food for our minds.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/10/nature-lesson.png)
 
 Have you ever been sitting in church when your stomach started to growl? Your siblings might find it funny, but for you it is probably embarrassing. The worst part is that you can’t control the noise. There is no way to make your stomach growl softer. Your only option is to act as if the noise is coming from the person sitting next to you.
 

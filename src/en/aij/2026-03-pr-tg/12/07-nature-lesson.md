@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** Jesus sees our potential.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/12/nature-lesson.png)
 
 Show the children an assortment of seeds. Invite the children to touch and compare the different seeds.
 

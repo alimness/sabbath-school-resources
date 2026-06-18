@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** Guide dogs remind us that God wants to lead and direct us and be our faithful guide.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/04/nature-lesson.png)
 
 Have you ever seen a special dog called a guide dog? These dogs have been specially trained to help people who are blind or sight impaired to live their lives well. Guide dogs serve their owners by helping them walk around obstacles that are in the way and alerting them to uneven paths and upcoming curbs. A guide dog can also help their human to safely avoid dangers up high, like an overhanging tree branch. Guide dogs are also able to safely help their owner on walks through busy crowds. They can even locate and travel on public transport.
 

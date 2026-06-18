@@ -7,7 +7,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Name Bookmark**
 
-![Sample](1c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/002-craft-resources/1c.png)
 
 **Resources/supplies:** Week 1 craft template, scissors, black markers, watercolor paints and water, paintbrushes, hole puncher, laminator, ribbon or string and beads (optional).
 
@@ -29,7 +29,7 @@ black markers, pieces of fabric, rubber bands, straw.
 
 **Flying Angel**
 
-![Sample](3e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/002-craft-resources/3e.png)
 
 **Resources/supplies:** Week 3 craft template printed on white cardstock, scissors, glue, bamboo skewers, small foam balls, markers, glitter, star stickers.
 
@@ -39,7 +39,7 @@ black markers, pieces of fabric, rubber bands, straw.
 
 **Paper Plate Compass**
 
-![Sample](4c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/002-craft-resources/4c.png)
 
 **Resources/supplies:** Week 4 craft template printed on white cardstock, paper plates, markers, split pins.
 
@@ -49,13 +49,13 @@ black markers, pieces of fabric, rubber bands, straw.
 
 Option 1: **Scripture Scroll**
 
-![Sample](51e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/002-craft-resources/51e.png)
 
 **Option 1 Resources/supplies:** Strips of white paper, black tea bags and water, large craft sticks, tape, string.
 
 Option 2: **Daddy’s Helper**
 
-![Sample](52e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/002-craft-resources/52e.png)
 
 **Option 2 Resources/supplies:** Week 5 craft template, colored pencils, scissors, glue.
 
@@ -65,7 +65,7 @@ Option 2: **Daddy’s Helper**
 
 **Jesus’ Baptism**
 
-![Sample](6e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/002-craft-resources/6e.png)
 
 **Resources/supplies:** Week 6 craft template printed on white cardstock, scissors, glue, blue cellophane, markers, fish stickers (optional).
 
@@ -75,7 +75,7 @@ Option 2: **Daddy’s Helper**
 
 **Memory Verse Box**
 
-![Sample](7c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/002-craft-resources/7c.png)
 
 **Resources/supplies:** Plain craft boxes, colored paper, scissors, glue, markers, a variety of stickers, blank memory verse cards.
 
@@ -85,7 +85,7 @@ Option 2: **Daddy’s Helper**
 
 **Fish Miracle**
 
-![Sample](8e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/002-craft-resources/8e.png)
 
 **Resources/supplies:** Week 8 craft template, colored pencils, scissors, split pins.
 
@@ -95,7 +95,7 @@ Option 2: **Daddy’s Helper**
 
 **Grape Juice Miracle**
 
-![Sample](9f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/002-craft-resources/9f.png)
 
 **Resources/supplies:** Week 9 craft templates, paper cups, scissors, glue, markers, blue and purple paper.
 
@@ -105,7 +105,7 @@ Option 2: **Daddy’s Helper**
 
 **Jesus Feeds the Crowds**
 
-![Sample](10c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/002-craft-resources/10c.png)
 
 **Resources/supplies:** Week 10 craft template, colored pencils, scissors, split pins.
 
@@ -115,7 +115,7 @@ Option 2: **Daddy’s Helper**
 
 **Handprint Lily**
 
-![Sample](11f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/002-craft-resources/11f.png)
 
 **Resources/supplies:** Colored paper, pencils, scissors, tape, green and yellow pipe cleaners/chenille sticks.
 
@@ -125,7 +125,7 @@ Option 2: **Daddy’s Helper**
 
 **Zacchaeus in a Tree**
 
-![Sample](12e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/002-craft-resources/12e.png)
 
 **Resources/supplies:** Week 12 craft template, colored pencils, scissors, craft sticks, tape, cardboard rolls, green tissue paper.
 
@@ -135,7 +135,7 @@ Option 2: **Daddy’s Helper**
 
 **Peter’s Mother-in-Law**
 
-![Sample](13d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/002-craft-resources/13d.png)
 
 **Resources/supplies:** Week 13 craft template, colored pencils, scissors, craft knife (adults only).
 
