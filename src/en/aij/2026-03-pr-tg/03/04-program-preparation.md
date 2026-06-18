@@ -38,7 +38,7 @@ Craft Materials
 
 Print **^[week 3 craft template]({"style": {"text": {"color": "#58B0E3"}}})** on **white cardstock** for each child. Source **scissors, glue, bamboo skewers, small foam balls, markers, glitter, star stickers**.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 Source From AIJ Website (www.aliveinjesus.info)
 
 - Music:

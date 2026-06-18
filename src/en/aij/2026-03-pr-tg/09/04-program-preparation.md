@@ -40,7 +40,7 @@ Craft Materials
 
 Print the **^[week 9 craft template]({"style": {"text": {"color": "#58B0E3"}}})** for each child, and source **paper cups, scissors, glue, markers, blue and purple paper**.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 Source From AIJ Website (www.aliveinjesus.info)
 
 - Music:

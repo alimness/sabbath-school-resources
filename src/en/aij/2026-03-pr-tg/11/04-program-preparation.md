@@ -39,7 +39,7 @@ Source **colored paper, pencils, scissors, tape, green and yellow pipe cleaners/
 
 You may wish to watch this [video](https://www.youtube.com/watch?v=EIuVJljMBr4) to view a demonstration.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 Source From AIJ Website (www.aliveinjesus.info)
 
 - Music:

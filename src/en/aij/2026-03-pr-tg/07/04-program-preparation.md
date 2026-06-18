@@ -40,7 +40,7 @@ Craft Materials
 
 Source a **craft box** for each child to decorate, along with **colored paper, scissors, glue, markers, a variety of stickers, blank memory verse cards**.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 Source From AIJ Website (www.aliveinjesus.info)
 
 - Music:

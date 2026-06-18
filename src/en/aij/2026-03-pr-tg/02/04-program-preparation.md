@@ -42,7 +42,7 @@ Craft Materials
 
 Source **craft sticks, cardstock, craft glue, oval-shaped rocks, black markers, pieces of fabric, rubber bands, straw**. Source some **Christmas hymns** to play while children are completing their craft.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 Source From AIJ Website (www.aliveinjesus.info)
 
 - Music:

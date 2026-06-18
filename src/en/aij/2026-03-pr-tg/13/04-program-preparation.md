@@ -32,7 +32,7 @@ Craft Materials
 
 Print a **^[week 13 craft template]({"style": {"text": {"color": "#58B0E3"}}})** for each child. Provide **scissors, colored pencils, craft knife** (adults only). Make a sample.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 Source From AIJ Website (www.aliveinjesus.info)
 
 - Music:
