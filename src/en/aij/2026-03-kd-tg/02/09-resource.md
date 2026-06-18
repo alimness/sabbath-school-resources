@@ -5,6 +5,8 @@ markdownTitle: '^[Animal and Food Matching Cards]({"style": {"text": {"color": "
 
 Print the template from the Alive in Jesus website, www.aliveinjesus.info.
 
-![](animal-and-food-matching-cards-1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/02/animal-and-food-matching-cards-1.png)
 
-![](animal-and-food-matching-cards-2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/02/animal-and-food-matching-cards-2.png)

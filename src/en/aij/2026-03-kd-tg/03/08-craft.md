@@ -10,11 +10,11 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Week 3 craft template, yellow crayon, scissors, star stickers, glitter glue, large craft stick, tape.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/03/3a.png)
 
 ```=Craft Template
 
-![](craft-template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/03/craft-template.png)
 
 ```
 
@@ -23,9 +23,9 @@ Week 3 craft template, yellow crayon, scissors, star stickers, glitter glue, lar
 1\. Use a yellow crayon to color in the star, then cut out. An adult can cut out the heart shape in the middle.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/03/3b.png)
 
 2\. Decorate the star with stickers and glitter glue, then tape a large craft stick to the back.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/03/3c.png)

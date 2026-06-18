@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** God has taught penguins how to protect their babies and find their food, just as He has provided moms and dads or community workers to look after you.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/04/nature-lesson.png)
 
 Mama and Papa Penguin were so happy! They looked down their beaks at the beautiful egg that lay on the sparkling white snow. Inside the egg their new baby chick was growing. Now they had the very special task, given to them by God, to care for their baby.
 

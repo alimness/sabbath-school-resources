@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** God made orangutan mothers to care for their babies and teach them to do amazing things.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/01/nature-lesson.png)
 
 Do you like to swing on the monkey bars? God made a special animal that’s super at swinging. The Orangutan! These red-haired apes live in rainforests on the islands of Borneo and Sumatra.
 

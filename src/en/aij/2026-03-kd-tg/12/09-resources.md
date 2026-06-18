@@ -7,7 +7,7 @@ markdownTitle: '^[Resources]({"style": {"text": {"color": "#58B0E3"}}})'
 
 Print the poster from the Alive in Jesus website, www.aliveinjesus.info.
 
-![](make-it-right-cards.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/12/make-it-right-cards.png)
 
 ```
 
@@ -15,6 +15,6 @@ Print the poster from the Alive in Jesus website, www.aliveinjesus.info.
 
 Print the poster from the Alive in Jesus website, www.aliveinjesus.info.
 
-![](butterfly-life-cycle-poster.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/12/butterfly-life-cycle-poster.png)
 
 ```

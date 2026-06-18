@@ -7,7 +7,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Angel Ornament**
 
-![Sample](1f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/003-quarterly-crafts/1f.png)
 
 **Resources/supplies:** Week 1 craft template, scissors, glue, ribbon/string.
 
@@ -17,7 +17,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Gift Card**
 
-![Sample](2d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/003-quarterly-crafts/2d.png)
 
 **Resources/supplies:** Week 2 craft template, patterned paper, scissors, glue, markers, ribbon. Optional>> stickers.
 
@@ -27,7 +27,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Star Seeker**
 
-![Sample](3c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/003-quarterly-crafts/3c.png)
 
 **Resources/supplies:** Week 3 craft template, yellow crayons, scissors, star stickers, glitter glue, large craft sticks, tape.
 
@@ -37,7 +37,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Angel Protectors**
 
-![Sample](4c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/003-quarterly-crafts/4c.png)
 
 **Resources/supplies:** Week 4 craft template, colored pencils.
 
@@ -47,7 +47,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Growing Person**
 
-![Sample](5e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/003-quarterly-crafts/5e.png)
 
 **Resources/supplies:** Week 5 craft template, colored pencils, scissors, glue.
 
@@ -57,7 +57,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Jesus’ Baptism**
 
-![Sample](6h.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/003-quarterly-crafts/6h.png)
 
 **Resources/supplies:** Week 6 craft template, two shades of blue paper, paper cups, craft sticks, scissors, glue.
 
@@ -67,7 +67,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Memory Verse Heart Pocket**
 
-![Sample](7e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/003-quarterly-crafts/7e.png)
 
 **Resources/supplies:** Week 7 craft template on red paper, scissors, hole punch, string or thin ribbon.
 
@@ -77,7 +77,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **A Net Full of Fish**
 
-![Sample](8c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/003-quarterly-crafts/8c.png)
 
 **Resources/supplies:** Week 8 craft template, colored pencils, scissors, glue.
 
@@ -87,7 +87,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Jesus’ First Miracle**
 
-![Sample](9d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/003-quarterly-crafts/9d.png)
 
 **Resources/supplies:** Week 9 craft template, colored pencils/ markers, scissors, glue.
 
@@ -97,7 +97,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Multiplying Loaves and Fish**
 
-![Sample](10d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/003-quarterly-crafts/10d.png)
 
 **Resources/supplies:** Week 10 craft template, colored pencils/markers, scissors, glue or tape.
 
@@ -107,7 +107,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **House on a Rock**
 
-![Sample](11d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/003-quarterly-crafts/11d.png)
 
 **Resources/supplies:** Week 11 craft template on colored paper, scissors, glue sticks, markers, craft glue, rocks.
 
@@ -117,7 +117,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Butterfly**
 
-![Sample](12c.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/003-quarterly-crafts/12c.png)
 
 **Resources/supplies:** Week 12 craft template, markers, pipe cleaners/chenille sticks, pom poms, tape.
 
@@ -127,7 +127,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Jesus Cares for You Card**
 
-![Sample](13d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/003-quarterly-crafts/13d.png)
 
 **Resources/supplies:** Week 13 craft template, scissors, glue, colored tissue paper, markers.
 

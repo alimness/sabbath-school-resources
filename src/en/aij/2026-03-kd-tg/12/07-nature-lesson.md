@@ -6,7 +6,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/12/nature-lesson.png)
 
 **Show children the butterfly life cycle poster and point to each step as you talk about it.**
 

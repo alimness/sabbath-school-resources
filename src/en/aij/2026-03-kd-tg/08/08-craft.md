@@ -10,11 +10,11 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Week 8 craft template, colored pencils, scissors, glue.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](8a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/08/8a.png)
 
 ```=Craft Template
 
-![](craft-template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/08/craft-template.png)
 
 ```
 
@@ -23,9 +23,9 @@ Week 8 craft template, colored pencils, scissors, glue.
 1\. Color in the craft template and cut out the net of fish.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](8b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/08/8b.png)
 
 2\. Fold the ends of the net rectangle and glue them to the page, making it bulge in the middle like a net full of fish.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](8a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/08/8a.png)

@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** Jesus wants us to follow Him, just as Mario the Goose followed Dominic.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/08/nature-lesson.png)
 
 Mario was a Toulouse Goose. He lived by a big lake in a park in Los Angeles, California, in the United States. One day something special happened. A man named Dominic came to the park to go for a walk. Mario wanted to go too! So Mario started following Dominic. They walked together all the way around the lake. Dominic was surprised, because he hadn’t given Mario any food or done anything to encourage the goose to follow him. Mario had decided to follow him, and that was that.
 
