@@ -13,4 +13,4 @@ Download and print the pictures from the Alive in Jesus website, www.aliveinjesu
 ### Picture of Scythe
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](scythe.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/scythe.png)

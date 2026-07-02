@@ -6,4 +6,4 @@ markdownTitle: '^[Jesus in Manger Coloring Page]({"style": {"text": {"color": "#
 Print the template from the Alive in Jesus website, www.aliveinjesus.info.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](coloring-page.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/coloring-page.png)
