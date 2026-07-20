@@ -148,7 +148,7 @@ let getEnclosureUrl = function (artist, track) {
 }
 
 let processPodcast = async function (audioYml, artist) {
-    let seedXML = await (await fetch(`https://sabbath-school.adventech.io/assets/xml/${artist.podcast?.source}`)).text()
+    let seedXML = await (await fetch(`https://absg.sspmadventist.org/assets/xml/${artist.podcast?.source}`)).text()
 
     const parser = new XMLParser({
         ignoreAttributes: false,
@@ -177,7 +177,7 @@ let processPodcast = async function (audioYml, artist) {
 
     // Filter the diff with tracks
     let tracks = filterExactDuplicates(artist.tracks).filter(track => {
-        return !existingURLs.has(track.src)
+        return !existingURLs.has(getEnclosureUrl(artist, track))
     })
 
     for (let track of tracks) {
@@ -197,6 +197,7 @@ let processPodcast = async function (audioYml, artist) {
                 if (!changes) {
                     changes = true
                 }
+                console.log(`Finding podcast to add to ${audioYml}. ${track.target}`)
                 podcastData.rss?.channel?.item.unshift(newPodcastData)
             }
         }
