@@ -32,6 +32,7 @@ Lesson 13 — Joshua 24
 21\. Stewardship\
 23\. Marriage and the Family\
 25\. The Second Coming of Christ 28. The New Earth
+
 ---
 
 **Beginner Memory Verse**
