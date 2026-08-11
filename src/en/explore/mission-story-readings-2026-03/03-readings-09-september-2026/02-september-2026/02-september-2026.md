@@ -3,7 +3,7 @@ title: Teacher Who Wept
 date: 12/09/2026
 ---
 
-![Maria](image.jpg)
+![Maria](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-03/03-readings-09-september-2026-02-september-2026/image.jpg)
 
 _This week’s mission story is about a project that will benefit from this quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering._
 

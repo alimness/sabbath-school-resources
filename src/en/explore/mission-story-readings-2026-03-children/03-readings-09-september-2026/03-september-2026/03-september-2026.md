@@ -3,7 +3,7 @@ title: Tasty Eggs and New Clothes
 date: 19/09/2026
 ---
 
-![David](image1.jpg)
+![David](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-03-children/03-readings-09-september-2026-03-september-2026/image1.jpg)
 
 The three-year-old children were chatting excitedly in their kindergarten in Romania. The coming weekend would bring a big holiday, and their little minds were filled with thoughts of chocolate eggs and new clothes.
 
@@ -79,7 +79,7 @@ _Children across Romania are learning about Jesus at Seventh-day Adventist kinde
 
 Romania is one of the largest plum producers in the world.
 
-![](image2.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-03-children/03-readings-09-september-2026-03-september-2026/image2.jpg)
 
 ```=Story Tips
 

@@ -3,7 +3,7 @@ title: A Place to Belong
 date: 12/09/2026
 ---
 
-![Luca](image.jpg)
+![Luca](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-03-children/03-readings-09-september-2026-02-september-2026/image.jpg)
 
 Some little children like to ride in big cars. Some little children like to visit big cities.
 

@@ -3,7 +3,7 @@ title: Snowy Night’s Prayer
 date: 05/09/2026
 ---
 
-![Amelie](image1.jpg)
+![Amelie](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-03-children/03-readings-09-september-2026-01-september-2026/image1.jpg)
 
 Winter had arrived in Austria, and white snowflakes fell thick and fast outside the window.
 
@@ -61,7 +61,7 @@ _Thank you for your Thirteenth Sabbath Offering, also known as the Quarterly Mis
 
 Austria is called the birthplace of classical music and was home to Beethoven (pictured), Haydn, Mozart, and Schubert.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-03-children/03-readings-09-september-2026-01-september-2026/image2.png)
 
 ```=Story Tips
 

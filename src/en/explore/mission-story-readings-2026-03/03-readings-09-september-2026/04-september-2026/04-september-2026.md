@@ -3,7 +3,7 @@ title: Walking by Faith Not by Sight
 date: 26/09/2026
 ---
 
-![Clara and Andreea](image1.jpg)
+![Clara and Andreea](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-03/03-readings-09-september-2026-04-september-2026/image1.jpg)
 
 Clara is a lively student, full of bold and creative ideas.
 
@@ -43,9 +43,9 @@ For Clara, it was an answered prayer—a powerful reminder that even a child’s
 
 For Andreea, it was a commitment to follow God, who always has the best in store for our lives. We should follow His plans because, as Andreea says, “God knows better than us.”
 
-![God was moving Andreea’s heart on the other side of the world, as Clara faithfully prayed for a teacher to come to her school in Romania. This is where Andreea became Clara’s teacher and friend.](image2.png)
+![God was moving Andreea’s heart on the other side of the world, as Clara faithfully prayed for a teacher to come to her school in Romania. This is where Andreea became Clara’s teacher and friend.](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-03/03-readings-09-september-2026-04-september-2026/image2.png)
 
-![](image3.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-03/03-readings-09-september-2026-04-september-2026/image3.png)
 
 ---
 

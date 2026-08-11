@@ -3,7 +3,7 @@ title: Very Pleased Grandmother
 date: 26/09/2026
 ---
 
-![Ana, Great-Grandmother Chirca, and Simona](image1.jpg)
+![Ana, Great-Grandmother Chirca, and Simona](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-03-children/03-readings-09-september-2026-04-september-2026/image1.jpg)
 
 This is a story about a great-grandmother and her two great-granddaughters in Romania.
 
@@ -43,7 +43,7 @@ _Other important projects in the Inter-European Division that will benefit from 
 
 Most people wear modern clothing now. However, traditional garb can still be seen at festivals, worn by folk musicians and dancers. Women’s costumes are often heavily embroidered in largely geometric patterns. The embroidery is said to give a glimpse into the region it comes from through the colors and symbols used.
 
-![](image2.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-03-children/03-readings-09-september-2026-04-september-2026/image2.jpg)
 
 ```=Story Tips
 

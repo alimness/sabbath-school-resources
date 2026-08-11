@@ -1,6 +1,6 @@
 ---
 title: Original PDF
 pdf:
-    - src: mqa26q3.pdf
+    - src: https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-03/assets/mqa26q3.pdf
       title: Q3 2026
 ---

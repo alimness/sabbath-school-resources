@@ -3,7 +3,7 @@ title: The Broken Cup
 date: 05/09/2026
 ---
 
-![Dany](image.png)
+![Dany](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-03/03-readings-09-september-2026-01-september-2026/image.png)
 
 _Editor’s note: This week’s mission story is about a Seventh-day Adventist kindergarten called Colorful Hope (Tzventna Nadezhda) in Sofia, Bulgaria, which will receive part of this quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering._
 

@@ -3,7 +3,7 @@ title: Principal to Two Parents
 date: 19/09/2026
 ---
 
-![Camelia](image.jpg)
+![Camelia](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-03/03-readings-09-september-2026-03-september-2026/image.jpg)
 
 _Editor’s note: This week’s mission story is from the Seventh-day Adventist elementary school in Macea, Romania, which will receive part of this quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering._
 
