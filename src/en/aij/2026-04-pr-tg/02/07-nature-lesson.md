@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** A fawn trusts its mother in all things, at all times.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/02/nature-lesson.png)
 
 In the quiet of the forest a newborn fawn takes his first shaky steps. His legs tremble beneath him, and the world feels big and unfamiliar. But beside him stands his mother—watchful, steady, and strong.
 

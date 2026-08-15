@@ -10,11 +10,11 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Week 3 craft template, colored pencils, scissors, glue, craft knife (adults only).
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/03/3a.png)
 
 ```=Craft Template
 
-![](craft-template.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/03/craft-template.png)
 
 ```
 
@@ -27,27 +27,27 @@ Use a craft knife to cut out the flap in the roof.
 1\. Color the craft template and cut out the pieces.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/03/3b.png)
 
 2\. Fold along the vertical lines of the house and glue together to make an open cube.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/03/3c.png)
 
 3\. Make small cuts on two corners of the roof and fold along the lines. Glue the flaps to make a lid for the house.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/03/3d.png)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3e.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/03/3e.png)
 
 4\. Fold the edges of the “blanket” and glue to the underside of the stretcher, then slide the man inside.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3f.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/03/3f.png)
 
 5\. Use your craft to reenact the story!
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](3g.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/03/3g.png)

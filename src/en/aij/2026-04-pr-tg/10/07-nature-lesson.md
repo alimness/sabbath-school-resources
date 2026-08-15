@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** God loves to see us get excited by what He can do.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/10/nature-lesson.png)
 
 Have you ever seen a parrot? There are more than 400 different species of parrots found all over the world, especially in warm places. Here are some examples:
 

@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** God gave Sabbath to us as a gift, not a burden.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/08/nature-lesson.png)
 
 Have you ever tasted a fig? A fig is an edible fruit that grows on a small deciduous tree (a tree that loses its leaves in winter) or large shrub. But did you know that figs are technically not a fruit? They are actually an inside-out flower! Unlike an apple tree, which flowers and then turns into the fruit, a fig tree’s flowers bloom inside the pear-shaped pod. They then grow into the fruit we eat.
 

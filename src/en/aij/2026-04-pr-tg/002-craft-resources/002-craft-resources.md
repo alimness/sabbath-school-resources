@@ -7,7 +7,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **The Big Storm**
 
-![](1e.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/1e.png)
 
 **Resources/supplies:** Week 1 craft template, colored pencils, scissors, glue.
 
@@ -17,7 +17,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **The Nobleman’s Son**
 
-![](2e.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/2e.png)
 
 **Resources/supplies:** Week 2 craft template, colored pencils, scissors, glue, pieces of felt.
 
@@ -27,7 +27,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **A Hole in the Rooftop**
 
-![](3g.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/3g.png)
 
 **Resources/supplies:** Week 3 craft template, colored pencils, scissors, glue.
 
@@ -37,7 +37,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Jesus Saves Peter**
 
-![](4f.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/4f.png)
 
 **Resources/supplies:** Week 4 craft template on cardstock, scissors, glue, craft knife (adults only), craft sticks, tape, sharp pencils, craft split pins.
 
@@ -47,7 +47,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **The Blind Man Sees**
 
-![](5d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/5d.png)
 
 **Resources/supplies:** Week 5 craft template, colored pencils, scissors, glue.
 
@@ -57,7 +57,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Reach Out to Jesus Jack-in-the-box**
 
-![](6i.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/6i.png)
 
 **Resources/supplies:** Week 6 craft template on cardstock, colored paper, black markers, scissors, glue.
 
@@ -67,7 +67,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Jairus’ Daughter Pop-up**
 
-![](7h.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/7h.png)
 
 **Resources/supplies:** Week 7 craft template, scissors, patterned paper, colored pencils, glue.
 
@@ -77,7 +77,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Sabbath Sticks**
 
-![](8e.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/8e.png)
 
 **Resources/supplies:** A jar (or disposable cup), large craft sticks, colored paper, scissors, tape, markers, stickers.
 
@@ -87,7 +87,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Woven Mat**
 
-![](9g.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/9g.png)
 
 **Resources/supplies:** Week 9 craft template on colored paper, other colored pieces of paper, craft knife (adults only), scissors, tape.
 
@@ -97,7 +97,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Blind Bartimaeus**
 
-![](10e.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/10e.png)
 
 **Resources/supplies:** Week 10 craft template, colored pencils, scissors, large craft sticks, tape.
 
@@ -107,7 +107,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Roman Shield**
 
-![](11d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/11d.png)
 
 **Resources/supplies:** Week 11 craft template, pencils, colored pencils/markers, scissors, strip of cardboard, tape.
 
@@ -117,7 +117,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Mosaic Comfort Card**
 
-![](12b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/12b.png)
 
 **Resources/supplies:** Black cardstock, white paper, pieces of colored paper, glue.
 
@@ -127,7 +127,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Lazarus and the Tomb**
 
-![](13i.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/13i.png)
 
 **Resources/supplies:** Week 13 craft template, colored pencils/markers, scissors, glue, black paper, tape.
 

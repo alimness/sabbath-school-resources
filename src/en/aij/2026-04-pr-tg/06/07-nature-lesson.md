@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** Just as the ants persist in taking food back to their nest, Jesus wants us to persist in reaching out to Him.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/06/nature-lesson.png)
 
 The humble ant. We see them everywhere, scurrying about their day, always looking busy, knowing exactly what they are doing and where they are going. Have you ever stopped to watch and wondered, Where are they going? What are they doing?
 

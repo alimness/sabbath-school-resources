@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** Like a sheep who watches and follows its shepherd, we are safe when we keep our eyes on Jesus.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/04/nature-lesson.png)
 
 Have you ever watched a flock of sheep? What did you notice about these woolly animals?
 

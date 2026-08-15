@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** Jesus cares for each baby bird, and He cares even more for us!
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/12/nature-lesson.png)
 
 Have you ever come across a baby bird on the ground, all by itself? It’s small, and its feathers are still very fluffy. You realize it can’t yet fly, so you look around to see if you can find its nest in a nearby bush or tree. For many animals it’s often best not to touch new animals, since the mother will smell your scent and could abandon the baby. But not with baby birds. Birds recognize their offspring by their call, not by their smell.
 
