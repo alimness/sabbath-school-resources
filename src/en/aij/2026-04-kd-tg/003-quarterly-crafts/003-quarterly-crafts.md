@@ -7,7 +7,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Boat in a Storm**
 
-![Sample](1f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/1f.png)
 
 **Resources/supplies:** Plastic bottles with screw-on lid, water, blue food coloring, cooking oil, plastic plates, fish stickers, craft glue.
 
@@ -17,7 +17,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **The Healed Boy**
 
-![Sample](2d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/2d.png)
 
 **Resources/supplies:** Week 2 craft template on cardstock, colored pencils, scissors, craft split pins.
 
@@ -27,7 +27,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Healed in Two Ways**
 
-![Sample](3e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/3e.png)
 
 **Resources/supplies:** Week 3 craft template on cardstock,
 
@@ -39,7 +39,7 @@ pieces of felt or fabric, craft sticks, wooden clothespins, colored pencils, sci
 
 **Walking on Water – Puppet Theater**
 
-![Sample](4g.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/4g.png)
 
 **Resources/supplies:** Week 4 craft template on cardstock, glue, scissors, craft sticks, tape, string/yarn, hole punch.
 
@@ -49,7 +49,7 @@ pieces of felt or fabric, craft sticks, wooden clothespins, colored pencils, sci
 
 **Healing Heart**
 
-![Sample](5f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/5f.png)
 
 **Resources/supplies:** Week 5 craft template, red paper, scissors, Band-Aids, markers, googly eyes (optional), craft glue, heart stickers.
 
@@ -59,7 +59,7 @@ pieces of felt or fabric, craft sticks, wooden clothespins, colored pencils, sci
 
 **A Touch of Faith**
 
-![Sample](6e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/6e.png)
 
 **Resources/supplies:** Week 6 craft template on cardstock, colored pencils, scissors, craft split pins.
 
@@ -69,7 +69,7 @@ pieces of felt or fabric, craft sticks, wooden clothespins, colored pencils, sci
 
 **Little Girl Dolly Peg**
 
-![Sample](7h.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/7h.png)
 
 **Resources/supplies:** Week 7 craft template on cardstock, black markers, clothespins, small pieces of yarn, tape, pieces of fabric, scissors, pieces of ribbon.
 
@@ -79,7 +79,7 @@ pieces of felt or fabric, craft sticks, wooden clothespins, colored pencils, sci
 
 **Helping Hands**
 
-![Sample](8e.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/8e.png)
 
 **Resources/supplies:** Colored paper, pencils, scissors, markers, stickers, hole punch, pipe cleaners/chenille sticks.
 
@@ -89,7 +89,7 @@ pieces of felt or fabric, craft sticks, wooden clothespins, colored pencils, sci
 
 **Walking Finger Puppet**
 
-![Sample](9d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/9d.png)
 
 **Resources/supplies:** Week 9 craft template on cardstock, colored pencils, pieces of felt, scissors.
 
@@ -99,7 +99,7 @@ pieces of felt or fabric, craft sticks, wooden clothespins, colored pencils, sci
 
 **Noisy Lyrebird**
 
-![Sample](10f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/10f.png)
 
 **Resources/supplies:** Week 10 craft template, crayons, scissors, small paper plate, rice, bells (optional), stapler, colored paper, two pipe cleaners/chenille sticks, craft feathers, glue.
 
@@ -109,7 +109,7 @@ pieces of felt or fabric, craft sticks, wooden clothespins, colored pencils, sci
 
 **Roman Helmet**
 
-![Sample](11f.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/11f.png)
 
 **Resources/supplies:** Week 11 craft template, metallic markers, light-grey crayons, scissors, red feathers, tape.
 
@@ -119,7 +119,7 @@ pieces of felt or fabric, craft sticks, wooden clothespins, colored pencils, sci
 
 **Joyful Gerbera – Sympathy Card**
 
-![Sample](12i.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/12i.png)
 
 **Resources/supplies:** Colored sheets of cardstock, green paper, colored paper, scissors, glue stick, craft glue, colored pom poms.
 
@@ -129,7 +129,7 @@ pieces of felt or fabric, craft sticks, wooden clothespins, colored pencils, sci
 
 **Wake Up, Lazarus!**
 
-![Sample](13d.png)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/13d.png)
 
 **Resources/supplies:** Cardboard rolls, gauze or bandages, tape, googly eyes, craft glue.
 

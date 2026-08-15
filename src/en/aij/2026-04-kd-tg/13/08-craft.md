@@ -10,7 +10,7 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Cardboard roll, gauze or bandage, tape, googly eyes, craft glue.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/13/13a.png)
 
 **Preparation Instructions:**
 
@@ -21,14 +21,14 @@ Cut gauze or bandages into strips.
 1\. Wrap a gauze strip around a cardboard roll and tape in place.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/13/13b.png)
 
 2\. Continue wrapping gauze strips around the roll, leaving a small gap toward the top for the eyes.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/13/13c.png)
 
 3\. Glue the googly eyes in the gap to finish making your Lazarus!
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](13d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/13/13d.png)

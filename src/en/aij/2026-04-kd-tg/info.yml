@@ -1,13 +1,18 @@
----
 title: 'Teacher YAQ4: Jesus Can Do Anything'
 markdownTitle: 'Teacher YAQ4: Jesus Can Do Anything'
 subtitle: Year A, Quarter 4
-description: "These 13 lessons unpack the idea that Jesus can do anything. Some of the miracles of Jesus are explored, such as Jesus calming a storm, walking on water, healing the sick and the lonely, raising a little girl and Lazarus from the dead, and restoring sight to Bartimaeus, who was blind."
+description: >-
+  These 13 lessons unpack the idea that Jesus can do anything. Some of the
+  miracles of Jesus are explored, such as Jesus calming a storm, walking on
+  water, healing the sick and the lonely, raising a little girl and Lazarus from
+  the dead, and restoring sight to Bartimaeus, who was blind.
 primaryColor: '#5C7981'
 primaryColorDark: '#40585F'
 credits:
   - name: Principal Contributor
-    value: Janel Tasker, Lanelle Cobbin, Nina Atcheson, Rosanne Peach, Rosie Smith (Crafts)
+    value: >-
+      Janel Tasker, Lanelle Cobbin, Nina Atcheson, Rosanne Peach, Rosie Smith
+      (Crafts)
   - name: Curriculum Manager and Senior Editor
     value: Nina Atcheson
   - name: Editor
@@ -87,3 +92,10 @@ fonts:
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Regular.ttf
     attributes: regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/cover.png

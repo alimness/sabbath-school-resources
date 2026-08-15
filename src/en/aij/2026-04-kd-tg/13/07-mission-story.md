@@ -12,7 +12,8 @@ markdownSubtitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
 
 This is a story about a miracle on a jukung in Indonesia. A jukung is a traditional Indonesian boat. It looks like a long and narrow canoe. On each side are long floats called outriggers. In the back of the jukung is a powerful engine.
 
-![](mission-story.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/13/mission-story.png)
 
 One day Pastor Eduard took a ride on a jukung. It belonged to some medical workers from the government. They were going to an island. Pastor Eduard was so happy to join them so that he could spend a special Sabbath with some families who lived there.
 

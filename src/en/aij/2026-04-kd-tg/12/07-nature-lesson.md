@@ -8,7 +8,8 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 {"style": {"text": {"color": "#F4793B"}}}
 **Focus:** Looking at the gerbera daisy reminds us of how Jesus brings us joy.
 
-![](nature-lesson.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/12/nature-lesson.png)
 
 - **How does it make you feel when you look at this brightly colored flower?**
 
