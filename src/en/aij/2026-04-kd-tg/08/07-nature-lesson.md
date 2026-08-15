@@ -10,7 +10,8 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 
 - **There’s an animal that is known as the king of the jungle. Do you know what it is?** (The lion.)
 
-![](nature-lesson.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/08/nature-lesson.png)
 
 Lions are big cats that live in parts of Africa and India. They live together in groups called prides. They’re the only cats that live together like this. A pride is like a lion family with moms, cubs (lion babies), and a few dads. The mother lion does most of the hunting, and the father lion helps protect the family. He has a big fluffy mane around his head—kind of like a giant furry crown. The little lion cubs love to play and learn how to roar.
 

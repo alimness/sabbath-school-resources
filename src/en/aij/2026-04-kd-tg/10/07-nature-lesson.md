@@ -10,7 +10,8 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 
 Ask: **What kinds of bird sounds have you heard before? Can you show me?**
 
-![](nature-lesson.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/10/nature-lesson.png)
 
 In God’s nature there are lots of special creatures that make sounds. On the leafy forest floors of the southeast coast of Australia you will sometimes hear jumping, running, scratching, and swift movements on the ground. This sound comes from a little bird called a lyrebird. Even though they have wings, they do not often fly, and use their wings only to jump up onto short tree branches if they feel a little scared. Hiding in the leaf litter on the ground are lots of yummy foods for them to eat, such as earthworms, insects, and even centipedes. The lyrebird’s four claws on each strong foot make perfect little rakes to dig into the moist dirt to find them.
 

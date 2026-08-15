@@ -20,7 +20,8 @@ Eight weeks later the caterpillar now looks for a place to rest. It spins a silv
 
 Something amazing and wonderful happens while the caterpillar is inside. Change is happening! As the days become warmer, the luna moth wakes up and comes out of the cocoon. It’s not a fat caterpillar anymore. Little wrinkled wings start to unfold and dry. With a flitter and a flutter, out comes a beautiful green luna moth. God changed it from a fat, wriggly caterpillar into a graceful moth!
 
-![](nature-lesson.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/06/nature-lesson.png)
 
 - **What happened to the caterpillar inside the cocoon?** (It was changing!)
 

@@ -12,7 +12,8 @@ _Note: Invite the children to do the actions in bold along with you._
 
 Show the picture of the **Golden Eagle**.
 
-![](nature-lesson.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/04/nature-lesson.png)
 
 - **What do you notice about this beautiful creature?**
 
