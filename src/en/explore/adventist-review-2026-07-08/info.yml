@@ -15,8 +15,8 @@ credits:
   - name: Management Board based in Seoul, Korea
     value: >-
       Soon Gi Kang, chair; Justin Kim, secretary; Todd R. McFarland; SeongJun
-      Byun; Toshio Shibata; Tae Seung Kim; Ray Wahlen; Greg Scott; Ex-officio: Paul H.
-      Douglas; Erton Köhler; Richard E. McEdward
+      Byun; Toshio Shibata; Tae Seung Kim; Ray Wahlen; Greg Scott; Ex-officio:
+      Paul H. Douglas; Erton Köhler; Richard E. McEdward
   - name: Editor
     value: Justin Kim
   - name: Associate Editors
@@ -45,3 +45,10 @@ credits:
     value: Glen Gohlke
   - name: Distribution
     value: Sharon Tennyson
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-07-08/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-07-08/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-07-08/assets/cover.png
