@@ -1,1 +1,1 @@
-These 13 lessons unpack the idea that Jesus is my God through exploring the stories of Jesus born on earth, His baptism, temptation, calling of the disciples, early miracles, Zacchaeus, and Jesus' trip to Capernaum.
+Share with the children the amazing truth that Jesus is our Rescuer and God. These lessons focus on the joyous start of the gospels with the story of Jesus’ birth, baptism, temptation, calling of disciples, early miracles, and work for God.
