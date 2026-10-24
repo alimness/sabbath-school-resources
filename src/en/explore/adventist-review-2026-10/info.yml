@@ -1,7 +1,7 @@
 title: October 2026
 kind: magazine
 subtitle: Vol. 203, No. 10
-description: 'Assurance in the Judgment'
+description: Assurance in the Judgment
 primaryColor: '#2F3439'
 primaryColorDark: '#22282F'
 author: adventist-review
@@ -48,3 +48,10 @@ credits:
     value: E. Edward Zinke
   - name: Distribution
     value: Sharon Tennyson
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-10/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-10/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-10/assets/cover.png
